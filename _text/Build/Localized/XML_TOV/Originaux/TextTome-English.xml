@@ -10,31 +10,31 @@
     <ItemID>30001</ItemID>
     <ItemType>13</ItemType>
     <Original>English</Original>
-    <Translation>Anglais</Translation>
+    <Translation></Translation>
   </block>
   <block ID="2">
     <ItemID>30002</ItemID>
     <ItemType>13</ItemType>
     <Original>French</Original>
-    <Translation>Français</Translation>
+    <Translation></Translation>
   </block>
   <block ID="3">
     <ItemID>30003</ItemID>
     <ItemType>13</ItemType>
     <Original>Italian</Original>
-    <Translation>Italien</Translation>
+    <Translation></Translation>
   </block>
   <block ID="4">
     <ItemID>30004</ItemID>
     <ItemType>13</ItemType>
     <Original>German</Original>
-    <Translation>Allemand</Translation>
+    <Translation></Translation>
   </block>
   <block ID="5">
     <ItemID>30005</ItemID>
     <ItemType>13</ItemType>
     <Original>Spanish</Original>
-    <Translation>Espagnol</Translation>
+    <Translation></Translation>
   </block>
   <block ID="6">
     <ItemID>30006</ItemID>
@@ -58,7 +58,7 @@
     <ItemID>30100</ItemID>
     <ItemType>13</ItemType>
     <Original>Stoopid Chicken</Original>
-    <Translation>Poulet Débile</Translation>
+    <Translation></Translation>
   </block>
   <block ID="10">
     <ItemID>30101</ItemID>
