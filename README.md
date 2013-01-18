@@ -9,7 +9,7 @@ Traduction Française DeathSpank : Thongs of Virtue (Hothead Games)
 |-----------------------------------:|:--------------------------|
 |              **Forum CanardPC** : | Non Disponible |
 |          **Forum RPGFrance** : | Non Disponible |
-|                 **Avancement** : | [Chez-Smash15195.com | DeathSpank : Thongs of Virtue](http://www.chez-smash15195.com/deathspank/deathspank-thongs-of-vitue/) |
+|                 **Avancement** : | [DeathSpank : Thongs of Virtue](http://www.chez-smash15195.com/deathspank/deathspank-thongs-of-vitue/) |
 |        **Un problème ?** : | https://github.com/Smash15195/Traduction-Francaise-DeathSpank---Thongs-of-Virtue-PC/issues/ |
 
 
