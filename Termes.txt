@@ -16,6 +16,7 @@ Coal Monster = Charb'o'Monstre
 Orque-Post = 
 Dark Forest = Forêt Ténébreuse
 Old-Timey Ants ) Fourmis Jadis
+37.8 Liter Hat = Casque Anti-Soif
 
 Gingerbread Wildman = Sauvage en Pain d'epice
 Vicious Chicken = Poulet Vicieux
@@ -96,6 +97,7 @@ Ore Eating Imp = Diablotin Croc-Minerai
 Beady Eye Monster = Monstre Neunoeuil
 POW Camp = Camp Bang
 Fiery Skeleton Cowboy = Squelette de Cow-Boy Fougueux
+Orque Paratrooper = Paratroupier Orc
 
 
 
