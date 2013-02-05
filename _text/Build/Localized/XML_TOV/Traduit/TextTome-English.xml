@@ -3,7 +3,7 @@
   <block ID="0">
     <ItemID>30000</ItemID>
     <ItemType>13</ItemType>
-    <Original>Orc Storm Trooper Elite</Original>
+    <Original>Orc Storm Trooper Élite</Original>
     <Translation></Translation>
   </block>
   <block ID="1">
@@ -25215,19 +25215,19 @@
   <block ID="4202">
     <ItemID>37697</ItemID>
     <ItemType>13</ItemType>
-    <Original>Tireur Storm Trooper Orc Elite</Original>
+    <Original>Tireur Storm Trooper Orc Élite</Original>
     <Translation></Translation>
   </block>
   <block ID="4203">
     <ItemID>37698</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sentinelle Storm Trooper Orc Elite</Original>
+    <Original>Sentinelle Storm Trooper Orc Élite</Original>
     <Translation></Translation>
   </block>
   <block ID="4204">
     <ItemID>37699</ItemID>
     <ItemType>13</ItemType>
-    <Original>Bazooka Storm Trooper Orc Elite</Original>
+    <Original>Bazooka Storm Trooper Orc Élite</Original>
     <Translation></Translation>
   </block>
   <block ID="4205">
