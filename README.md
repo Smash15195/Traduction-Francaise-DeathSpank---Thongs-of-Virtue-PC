@@ -15,7 +15,7 @@ Traduction Française DeathSpank : Thongs of Virtue (Hothead Games)
 
 ### Note de Version
 ```
-V1 : Peut-être prochainement.
+V1 : TextTome : 100% | DialogTome : 0% | Sortie : Peut-être prochainement.
 ```
 
 ### Windows
