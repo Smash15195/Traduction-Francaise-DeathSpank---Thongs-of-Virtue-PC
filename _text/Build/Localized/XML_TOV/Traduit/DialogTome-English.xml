@@ -6004,7 +6004,7 @@
     <ItemID>13210</ItemID>
     <ItemType>13</ItemType>
     <Original>On se revoit &#224; la célébration de la victoire !</Original>
-    <Translation></Translation>
+    <Translation>On se revoit pour la célébration de la victoire !</Translation>
   </block>
   <block ID="1001">
     <ItemID>13211</ItemID>
@@ -6016,19 +6016,19 @@
     <ItemID>13212</ItemID>
     <ItemType>13</ItemType>
     <Original>The fighting went on all day. Taking that beach took its toll in blood, sweat, and innocence. Inch by inch they pushed forward. Santa's Little Orques gave ground slowly, fighting for the evil jolly man, but their will soon gave out to the defender of justice.</Original>
-    <Translation></Translation>
+    <Translation>Les combat ont durés toute la journée. La prise de la plage se fit dans le sang, dans la sueur et la perte de l'innocence. Centim&#232;tre par cemtim&#232;tre, ils repouss&#232;rent les Petits Orcs du P&#232;re Noël cédant du terrain lentement, luttant au service de ce maléfique homme jovial, mais leur volonté donna c&#232;dera bientôt face au défenseur de la justice.</Translation>
   </block>
   <block ID="1003">
     <ItemID>13213</ItemID>
     <ItemType>13</ItemType>
     <Original>The day's battle was at an end, but the final push to Santa's Lair was still to come.</Original>
-    <Translation></Translation>
+    <Translation>La journée touchait &#224; sa fin, mais l'assaut final vers la Tani&#232;re du P&#232;re Noël était encore &#224; venir.</Translation>
   </block>
   <block ID="1004">
     <ItemID>13214</ItemID>
     <ItemType>13</ItemType>
     <Original>One more corrupt Thong wearer stands before the great vanquisher of evil and dispenser of justice, moments away from death.</Original>
-    <Translation></Translation>
+    <Translation>Un autre porteur de String corrompus se tienait devant le pourfendeur du mal et distributeur de justice &#224; quelques minutes de sa triste fin.</Translation>
   </block>
   <block ID="1005">
     <ItemID>13215</ItemID>
@@ -6040,7 +6040,7 @@
     <ItemID>13216</ItemID>
     <ItemType>13</ItemType>
     <Original>You can't kill me. You don't want to be known as the guy who killed Santa.</Original>
-    <Translation></Translation>
+    <Translation>Vous ne pouvez pas me tuer. Vous ne voulez pas &#234;tre connu comme le gars qui a tué le P&#232;re Noël.</Translation>
   </block>
   <block ID="1007">
     <ItemID>13217</ItemID>
