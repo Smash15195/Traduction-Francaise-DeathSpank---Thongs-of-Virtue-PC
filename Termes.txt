@@ -1,3 +1,5 @@
+Captain Taint = Capitaine Fétide (a changer partout)
+
 Killer Rabbit = Lapinsassin
 Alien Eyeball = Glob-o-culaire Alien
 Big Momma Dragon = Grosse Dondon Dragon
