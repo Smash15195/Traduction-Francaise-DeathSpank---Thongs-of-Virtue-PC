@@ -1,5 +1,6 @@
 Captain Taint = Capitaine Fétide (a changer partout)
-Haunted Crotch = 
+Haunted Crotch = Fourche Hantée (a changer peut-être)
+Flair = Talent ou style (mais a changer certainement aussi) 
 
 Killer Rabbit = Lapinsassin
 Alien Eyeball = Glob-o-culaire Alien
