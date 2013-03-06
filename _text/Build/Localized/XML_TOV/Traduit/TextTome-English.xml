@@ -453,7 +453,7 @@
   <block ID="75">
     <ItemID>30308</ItemID>
     <ItemType>13</ItemType>
-    <Original>Bandito Orc de la Cuvette Bleue</Original>
+    <Original>Bandito Orc du Bassin Bleu</Original>
     <Translation></Translation>
   </block>
   <block ID="76">
@@ -477,7 +477,7 @@
   <block ID="79">
     <ItemID>30312</ItemID>
     <ItemType>13</ItemType>
-    <Original>Chef Bandito Orc de la Cuvette Bleue</Original>
+    <Original>Chef Bandito Orc du Bassin Bleu</Original>
     <Translation></Translation>
   </block>
   <block ID="80">
@@ -501,7 +501,7 @@
   <block ID="83">
     <ItemID>30316</ItemID>
     <ItemType>13</ItemType>
-    <Original>Brigand Bandito Orc de la Cuvette Bleue</Original>
+    <Original>Brigand Bandito Orc du Bassin Bleu</Original>
     <Translation></Translation>
   </block>
   <block ID="84">
@@ -7821,7 +7821,7 @@
   <block ID="1303">
     <ItemID>32280</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le Cocher veut que je tue les [Bandito Orc de la Cuvette Bleue] et que je lui rapporte sa [Diligence].  Ils sont partis vers le [Désert Sableux].</Original>
+    <Original>Le Cocher veut que je tue les [Bandito Orc du Bassin Bleu] et que je lui rapporte sa [Diligence].  Ils sont partis vers le [Désert Sableux].</Original>
     <Translation></Translation>
   </block>
   <block ID="1304">
@@ -7875,7 +7875,7 @@
   <block ID="1312">
     <ItemID>32289</ItemID>
     <ItemType>13</ItemType>
-    <Original>Les [Bandito Orc de la Cuvette Bleue] ont les [Produits Féminins Embarrassant] de la Damoiselle. Je devrais aller chercher leur camp pour les récuperer et les lui ramener. Elle en a un besoin urgent. Il me reste juste assez de d'héro&#239;sme pour le faire.</Original>
+    <Original>Les [Bandito Orc du Bassin Bleu] ont les [Produits Féminins Embarrassant] de la Damoiselle. Je devrais aller chercher leur camp pour les récuperer et les lui ramener. Elle en a un besoin urgent. Il me reste juste assez de d'héro&#239;sme pour le faire.</Original>
     <Translation></Translation>
   </block>
   <block ID="1313">
@@ -7947,7 +7947,7 @@
   <block ID="1324">
     <ItemID>32301</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin de tuer des [Brigand Bandito Orc de la Cuvette Bleue] et rapporter les [Gants de Flingueurs] au Shérif de Strumfuquel. Il y aura peu &#234;tre un peu de paperasse.</Original>
+    <Original>J'ai besoin de tuer des [Brigand Bandito Orc du Bassin Bleu] et rapporter les [Gants de Flingueurs] au Shérif de Strumfuquel. Il y aura peu &#234;tre un peu de paperasse.</Original>
     <Translation></Translation>
   </block>
   <block ID="1325">
@@ -7983,7 +7983,7 @@
   <block ID="1330">
     <ItemID>32307</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin d'attaquer le [Camp des Bandito Orc de la Cuvette Bleue] et récupérer la [Facture de Plusieurs Milliards] pour le banquier dans Strumfuquel.</Original>
+    <Original>J'ai besoin d'attaquer le [Camp des Bandito Orc du Bassin Bleu] et récupérer la [Facture de Plusieurs Milliards] pour le banquier dans Strumfuquel.</Original>
     <Translation></Translation>
   </block>
   <block ID="1331">
@@ -10263,7 +10263,7 @@
   <block ID="1710">
     <ItemID>33374</ItemID>
     <ItemType>13</ItemType>
-    <Original>Tuez les [Bandito Orc de la Cuvette Bleue] pour récupérer la [Diligence]</Original>
+    <Original>Tuez les [Bandito Orc du Bassin Bleu] pour récupérer la [Diligence]</Original>
     <Translation></Translation>
   </block>
   <block ID="1711">
@@ -10353,7 +10353,7 @@
   <block ID="1725">
     <ItemID>33402</ItemID>
     <ItemType>13</ItemType>
-    <Original>Les [Brigand Bandito Orc de la Cuvette Bleue] ont les [Gants de Flingueurs].</Original>
+    <Original>Les [Brigand Bandito Orc du Bassin Bleu] ont les [Gants de Flingueurs].</Original>
     <Translation></Translation>
   </block>
   <block ID="1726">
@@ -10371,13 +10371,13 @@
   <block ID="1728">
     <ItemID>33409</ItemID>
     <ItemType>13</ItemType>
-    <Original>Les [Brigand Bandito Orc de la Cuvette Bleue] peuvent &#234;tre trouvé dans les [Montagnes Sanglantes].</Original>
+    <Original>Les [Brigand Bandito Orc du Bassin Bleu] peuvent &#234;tre trouvé dans les [Montagnes Sanglantes].</Original>
     <Translation></Translation>
   </block>
   <block ID="1729">
     <ItemID>33410</ItemID>
     <ItemType>13</ItemType>
-    <Original>Tuez les [Brigand Bandito Orc de la Cuvette Bleue] pour obtenir la [Facture de Plusieurs Milliards].</Original>
+    <Original>Tuez les [Brigand Bandito Orc du Bassin Bleu] pour obtenir la [Facture de Plusieurs Milliards].</Original>
     <Translation></Translation>
   </block>
   <block ID="1730">
@@ -17085,25 +17085,25 @@
   <block ID="2847">
     <ItemID>35316</ItemID>
     <ItemType>13</ItemType>
-    <Original>Infirmerie du Wortten</Original>
+    <Original>Infirmerie du T.G.I.Wortten</Original>
     <Translation></Translation>
   </block>
   <block ID="2848">
     <ItemID>35317</ItemID>
     <ItemType>13</ItemType>
-    <Original>Cuisine du Wortten</Original>
+    <Original>Cuisine du T.G.I.Wortten</Original>
     <Translation></Translation>
   </block>
   <block ID="2849">
     <ItemID>35318</ItemID>
     <ItemType>13</ItemType>
-    <Original>Bureau du Wortten</Original>
+    <Original>Bureau du T.G.I.Wortten</Original>
     <Translation></Translation>
   </block>
   <block ID="2850">
     <ItemID>35319</ItemID>
     <ItemType>13</ItemType>
-    <Original>Réception Wortten</Original>
+    <Original>Réception du T.G.I.Wortten</Original>
     <Translation></Translation>
   </block>
   <block ID="2851">
