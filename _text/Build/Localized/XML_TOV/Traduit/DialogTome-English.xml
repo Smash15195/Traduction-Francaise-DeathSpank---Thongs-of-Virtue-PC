@@ -13341,265 +13341,265 @@
   <block ID="2223">
     <ItemID>15190</ItemID>
     <ItemType>13</ItemType>
-    <Original>This Oil Derrick is broken.</Original>
+    <Original>Ce derrick est cassé.</Original>
     <Translation></Translation>
   </block>
   <block ID="2224">
     <ItemID>15191</ItemID>
     <ItemType>13</ItemType>
-    <Original>This Radio Tower is already fixed.</Original>
+    <Original>Cette Tour Radio est déj&#224; réparée.</Original>
     <Translation></Translation>
   </block>
   <block ID="2225">
     <ItemID>15192</ItemID>
     <ItemType>13</ItemType>
-    <Original>This Radio Tower is broken.</Original>
+    <Original>Cette Tour Radio est cassée.</Original>
     <Translation></Translation>
   </block>
   <block ID="2226">
     <ItemID>15199</ItemID>
     <ItemType>13</ItemType>
-    <Original>I need to fill this out before I give it to him.</Original>
+    <Original>J'ai besoin de remplir ce formulaire avant de le lui donner.</Original>
     <Translation></Translation>
   </block>
   <block ID="2227">
     <ItemID>15201</ItemID>
     <ItemType>13</ItemType>
-    <Original>She's already seen my dog tags.</Original>
+    <Original>Elle a déj&#224; vu mes plaques d'identification.</Original>
     <Translation></Translation>
   </block>
   <block ID="2228">
     <ItemID>15202</ItemID>
     <ItemType>13</ItemType>
-    <Original>She's encased in some kind of protective shield.</Original>
+    <Original>Elle est encastrée dans une sorte de bouclier protecteur.</Original>
     <Translation></Translation>
   </block>
   <block ID="2229">
     <ItemID>15204</ItemID>
     <ItemType>13</ItemType>
-    <Original>Uh... I'd better not show her that.</Original>
+    <Original>Euh... Je ferais mieux de ne pas lui montrer ça.</Original>
     <Translation></Translation>
   </block>
   <block ID="2230">
     <ItemID>15206</ItemID>
     <ItemType>13</ItemType>
-    <Original>I don't need to show my ID right now.</Original>
+    <Original>Je n'ai pas besoin de montrer ma carte d'identité pour le moment.</Original>
     <Translation></Translation>
   </block>
   <block ID="2231">
     <ItemID>15208</ItemID>
     <ItemType>13</ItemType>
-    <Original>Fire... err... Acid in the hole!</Original>
+    <Original>Ca va pét... heuu... acidifier !</Original>
     <Translation></Translation>
   </block>
   <block ID="2232">
     <ItemID>15209</ItemID>
     <ItemType>13</ItemType>
-    <Original>Fire in the hole!</Original>
+    <Original>Ca va péter !</Original>
     <Translation></Translation>
   </block>
   <block ID="2233">
     <ItemID>15210</ItemID>
     <ItemType>13</ItemType>
-    <Original>Fire in the hole!</Original>
+    <Original>Ca va péter !</Original>
     <Translation></Translation>
   </block>
   <block ID="2234">
     <ItemID>15236</ItemID>
     <ItemType>13</ItemType>
-    <Original>Greetings food vendor.</Original>
+    <Original>Salutations vendeur de denrées alimentaires.</Original>
     <Translation></Translation>
   </block>
   <block ID="2235">
     <ItemID>15237</ItemID>
     <ItemType>13</ItemType>
-    <Original>I'm feeling peckish, let's see what you've got.</Original>
+    <Original>J'ai un petit creux, voyons ce que vous avez.</Original>
     <Translation></Translation>
   </block>
   <block ID="2236">
     <ItemID>15239</ItemID>
     <ItemType>13</ItemType>
-    <Original>Goodbye.</Original>
+    <Original>Au revoir.</Original>
     <Translation></Translation>
   </block>
   <block ID="2237">
     <ItemID>15240</ItemID>
     <ItemType>13</ItemType>
-    <Original>Greetings seller of edible items.</Original>
+    <Original>Salutations vendeur d'articles comestibles.</Original>
     <Translation></Translation>
   </block>
   <block ID="2238">
     <ItemID>15241</ItemID>
     <ItemType>13</ItemType>
-    <Original>I'd like to buy some of this so-called food.</Original>
+    <Original>Je voudrais acheter un peu de cette soi-disante nourriture.</Original>
     <Translation></Translation>
   </block>
   <block ID="2239">
     <ItemID>15243</ItemID>
     <ItemType>13</ItemType>
-    <Original>Goodbye.</Original>
+    <Original>Au revoir.</Original>
     <Translation></Translation>
   </block>
   <block ID="2240">
     <ItemID>15244</ItemID>
     <ItemType>13</ItemType>
-    <Original>Greetings food seller.</Original>
+    <Original>Salutations vendeur de bouffe.</Original>
     <Translation></Translation>
   </block>
   <block ID="2241">
     <ItemID>15245</ItemID>
     <ItemType>13</ItemType>
-    <Original>Let's see some of that food you're famous for, nameless vendor.</Original>
+    <Original>Voyons voir ces aliments pour lesquells vous &#234;tes cél&#232;bre, vendeur anonyme.</Original>
     <Translation></Translation>
   </block>
   <block ID="2242">
     <ItemID>15247</ItemID>
     <ItemType>13</ItemType>
-    <Original>Goodbye.</Original>
+    <Original>Au revoir.</Original>
     <Translation></Translation>
   </block>
   <block ID="2243">
     <ItemID>15248</ItemID>
     <ItemType>13</ItemType>
-    <Original>Greetings alchemist.</Original>
+    <Original>Salutations alchimiste.</Original>
     <Translation></Translation>
   </block>
   <block ID="2244">
     <ItemID>15249</ItemID>
     <ItemType>13</ItemType>
-    <Original>Let's see what's on tap today.</Original>
+    <Original>Montrez-moi ce que vous avez au robinet aujourd'hui.</Original>
     <Translation></Translation>
   </block>
   <block ID="2245">
     <ItemID>15251</ItemID>
     <ItemType>13</ItemType>
-    <Original>Goodbye.</Original>
+    <Original>Au revoir.</Original>
     <Translation></Translation>
   </block>
   <block ID="2246">
     <ItemID>15252</ItemID>
     <ItemType>13</ItemType>
-    <Original>Greetings potion person.</Original>
+    <Original>Salutations préposé aux potions.</Original>
     <Translation></Translation>
   </block>
   <block ID="2247">
     <ItemID>15253</ItemID>
     <ItemType>13</ItemType>
-    <Original>I'm looking to buy some potions.</Original>
+    <Original>Je cherche des potions &#224; acheter.</Original>
     <Translation></Translation>
   </block>
   <block ID="2248">
     <ItemID>15255</ItemID>
     <ItemType>13</ItemType>
-    <Original>Goodbye.</Original>
+    <Original>Au revoir.</Original>
     <Translation></Translation>
   </block>
   <block ID="2249">
     <ItemID>15256</ItemID>
     <ItemType>13</ItemType>
-    <Original>Greetings merchant of elixirs.</Original>
+    <Original>Salutations marchand d'élixirs.</Original>
     <Translation></Translation>
   </block>
   <block ID="2250">
     <ItemID>15257</ItemID>
     <ItemType>13</ItemType>
-    <Original>Let's see what you've got for sale.</Original>
+    <Original>Voyons voir ce que vous avez &#224; vendre.</Original>
     <Translation></Translation>
   </block>
   <block ID="2251">
     <ItemID>15259</ItemID>
     <ItemType>13</ItemType>
-    <Original>Goodbye.</Original>
+    <Original>Au revoir.</Original>
     <Translation></Translation>
   </block>
   <block ID="2252">
     <ItemID>15260</ItemID>
     <ItemType>13</ItemType>
-    <Original>Greetings armorist.</Original>
+    <Original>Salutations armuriste.</Original>
     <Translation></Translation>
   </block>
   <block ID="2253">
     <ItemID>15261</ItemID>
     <ItemType>13</ItemType>
-    <Original>Let's see your weapons selection.</Original>
+    <Original>Voyons voir votre choix d'armes.</Original>
     <Translation></Translation>
   </block>
   <block ID="2254">
     <ItemID>15263</ItemID>
     <ItemType>13</ItemType>
-    <Original>Goodbye.</Original>
+    <Original>Au revoir.</Original>
     <Translation></Translation>
   </block>
   <block ID="2255">
     <ItemID>15264</ItemID>
     <ItemType>13</ItemType>
-    <Original>Greetings weapon seller.</Original>
+    <Original>Salutations vendeur d'armes.</Original>
     <Translation></Translation>
   </block>
   <block ID="2256">
     <ItemID>15265</ItemID>
     <ItemType>13</ItemType>
-    <Original>I'm in the market for new killing or wounding implements.</Original>
+    <Original>Je suis en qu&#234;te d'outils pour tuer ou blesser de mani&#232;re nouvelle.</Original>
     <Translation></Translation>
   </block>
   <block ID="2257">
     <ItemID>15267</ItemID>
     <ItemType>13</ItemType>
-    <Original>Goodbye.</Original>
+    <Original>Au revoir.</Original>
     <Translation></Translation>
   </block>
   <block ID="2258">
     <ItemID>15268</ItemID>
     <ItemType>13</ItemType>
-    <Original>Greetings arms dealer.</Original>
+    <Original>Salutations marchand d'armes.</Original>
     <Translation></Translation>
   </block>
   <block ID="2259">
     <ItemID>15269</ItemID>
     <ItemType>13</ItemType>
-    <Original>Show me your very best weapons.</Original>
+    <Original>Montrez-moi vos meilleures armes.</Original>
     <Translation></Translation>
   </block>
   <block ID="2260">
     <ItemID>15271</ItemID>
     <ItemType>13</ItemType>
-    <Original>Goodbye.</Original>
+    <Original>Au revoir.</Original>
     <Translation></Translation>
   </block>
   <block ID="2261">
     <ItemID>15277</ItemID>
     <ItemType>13</ItemType>
-    <Original>OK.</Original>
+    <Original>D'accord.</Original>
     <Translation></Translation>
   </block>
   <block ID="2262">
     <ItemID>15282</ItemID>
     <ItemType>13</ItemType>
-    <Original>Right.</Original>
+    <Original>Exact.</Original>
     <Translation></Translation>
   </block>
   <block ID="2263">
     <ItemID>15287</ItemID>
     <ItemType>13</ItemType>
-    <Original>Why thank you that's very kind.</Original>
+    <Original>C'est pourquoi je vous en remercie, c'est tr&#232;s gentil.</Original>
     <Translation></Translation>
   </block>
   <block ID="2264">
     <ItemID>15301</ItemID>
     <ItemType>13</ItemType>
-    <Original>I hear and obey my masters.</Original>
+    <Original>J'écoute et obéis &#224; mes maîtres.</Original>
     <Translation></Translation>
   </block>
   <block ID="2265">
     <ItemID>15319</ItemID>
     <ItemType>13</ItemType>
-    <Original>Actually no, I've never used a bidet.</Original>
+    <Original>En fait non, je n'avais jamais utilisé de bidet.</Original>
     <Translation></Translation>
   </block>
   <block ID="2266">
     <ItemID>15323</ItemID>
     <ItemType>13</ItemType>
-    <Original>Thank you for eating my heroic food. You must be tired now.</Original>
+    <Original>Merci d'avoir manger mon héro&#239;que nourriture. Vous devez &#234;tre fatigué.</Original>
     <Translation></Translation>
   </block>
   <block ID="2267">
@@ -13611,103 +13611,103 @@
   <block ID="2268">
     <ItemID>15325</ItemID>
     <ItemType>13</ItemType>
-    <Original>Hands off those lemons.</Original>
+    <Original>Enlevez vos pattes de ces citrons.</Original>
     <Translation></Translation>
   </block>
   <block ID="2269">
     <ItemID>15326</ItemID>
     <ItemType>13</ItemType>
-    <Original>Don't touch those lemons.</Original>
+    <Original>Ne touchez pas &#224; ces citrons.</Original>
     <Translation></Translation>
   </block>
   <block ID="2270">
     <ItemID>15327</ItemID>
     <ItemType>13</ItemType>
-    <Original>Don't even think about touchin' those lemons.</Original>
+    <Original>Ne pensez m&#234;me pas &#224; toucher ces citrons.</Original>
     <Translation></Translation>
   </block>
   <block ID="2271">
     <ItemID>15328</ItemID>
     <ItemType>13</ItemType>
-    <Original>Back up, buster. Don't touch the lemons.</Original>
+    <Original>Reculez, mon petit pote. Ne touchez pas ces citrons.</Original>
     <Translation></Translation>
   </block>
   <block ID="2272">
     <ItemID>15329</ItemID>
     <ItemType>13</ItemType>
-    <Original>Greetings, Banker.</Original>
+    <Original>Salutations, banquier.</Original>
     <Translation></Translation>
   </block>
   <block ID="2273">
     <ItemID>15330</ItemID>
     <ItemType>13</ItemType>
-    <Original>I am DeathSpank.</Original>
+    <Original>Je suis DeathSpank.</Original>
     <Translation></Translation>
   </block>
   <block ID="2274">
     <ItemID>15331</ItemID>
     <ItemType>13</ItemType>
-    <Original>And I am a banker that's in deep deep trouble.</Original>
+    <Original>Et je suis un banquier dans un profond pétrin.</Original>
     <Translation></Translation>
   </block>
   <block ID="2275">
     <ItemID>15332</ItemID>
     <ItemType>13</ItemType>
-    <Original>How deep are we talking?+</Original>
+    <Original>De quelle profondeur parle t-on ?+</Original>
     <Translation></Translation>
   </block>
   <block ID="2276">
     <ItemID>15333</ItemID>
     <ItemType>13</ItemType>
-    <Original> ''Too big too fail'' deep, or just ''local savings and loan'' deep?</Original>
+    <Original>Une "Trop grosse pour couler", ou plutôt une "kervielnesque" ?</Original>
     <Translation></Translation>
   </block>
   <block ID="2277">
     <ItemID>15334</ItemID>
     <ItemType>13</ItemType>
-    <Original>The world-renowned Blue Basin Banditos held up the bank and took all the money.+</Original>
+    <Original>Les Banditos du Bassin Bleu de renommée mondiale sont venus dans la banque et ont pris tout l'argent.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2278">
     <ItemID>15335</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sadly, it all belonged to the wealthiest man around.+</Original>
+    <Original>Malheureusement, tout appartenait &#224; l'homme le plus riche du coin.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2279">
     <ItemID>15336</ItemID>
     <ItemType>13</ItemType>
-    <Original>Derek Oil!+</Original>
+    <Original>Derek Oil !+</Original>
     <Translation></Translation>
   </block>
   <block ID="2280">
     <ItemID>15337</ItemID>
     <ItemType>13</ItemType>
-    <Original>I need to let him know his money has been...+</Original>
+    <Original>J'ai dois lui faire savoir que son argent a été...+</Original>
     <Translation></Translation>
   </block>
   <block ID="2281">
     <ItemID>15338</ItemID>
     <ItemType>13</ItemType>
-    <Original>...temporarily misplaced.</Original>
+    <Original>...temporairement déplacé.</Original>
     <Translation></Translation>
   </block>
   <block ID="2282">
     <ItemID>15339</ItemID>
     <ItemType>13</ItemType>
-    <Original>I'll deliver your message to Derek Oil.</Original>
+    <Original>Je vais transmettre votre message &#224; Derek Oil.</Original>
     <Translation></Translation>
   </block>
   <block ID="2283">
     <ItemID>15340</ItemID>
     <ItemType>13</ItemType>
-    <Original>You sir, are a true hero.+</Original>
+    <Original>Monsieur, vous &#234;tes un véritable héros.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2284">
     <ItemID>15341</ItemID>
     <ItemType>13</ItemType>
-    <Original>He lives in that fancy house west of town.</Original>
+    <Original>Il vit dans cette maison tr&#232;s chic &#224; l'ouest de la ville.</Original>
     <Translation></Translation>
   </block>
   <block ID="2285">
@@ -13719,175 +13719,175 @@
   <block ID="2286">
     <ItemID>15343</ItemID>
     <ItemType>13</ItemType>
-    <Original>The bank needs that stolen money back.+</Original>
+    <Original>La banque a besoin de récupérer l'argent volé.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2287">
     <ItemID>15344</ItemID>
     <ItemType>13</ItemType>
-    <Original>The Blue Basin Banditos headed west, into the Blood Mountains.</Original>
+    <Original>Les Banditos du Bassin Bleu sont &#224; l'ouest, dans les Montagnes Sanglantes.</Original>
     <Translation></Translation>
   </block>
   <block ID="2288">
     <ItemID>15345</ItemID>
     <ItemType>13</ItemType>
-    <Original>Blue Basin Banditos, eh?</Original>
+    <Original>Les Banditos du Bassin Bleu, hein ?</Original>
     <Translation></Translation>
   </block>
   <block ID="2289">
     <ItemID>15346</ItemID>
     <ItemType>13</ItemType>
-    <Original>They're known for being deliciously dangerous.</Original>
+    <Original>Ils sont connus pour &#234;tre délicieusement dangereux.</Original>
     <Translation></Translation>
   </block>
   <block ID="2290">
     <ItemID>15347</ItemID>
     <ItemType>13</ItemType>
-    <Original>Well good thing I'm known for delivering spicy hot justice.+</Original>
+    <Original>Eh bien une chance que je sois reconnu pour délivrer une justice chaude et épicée.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2291">
     <ItemID>15348</ItemID>
     <ItemType>13</ItemType>
-    <Original>Fear not, delicate banker, I shall return the money to you.</Original>
+    <Original>Ne craignez rien, fragile banquier, je reviendrai avec votre argent.</Original>
     <Translation></Translation>
   </block>
   <block ID="2292">
     <ItemID>15349</ItemID>
     <ItemType>13</ItemType>
-    <Original>Be careful.+</Original>
+    <Original>Faites attention.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2293">
     <ItemID>15350</ItemID>
     <ItemType>13</ItemType>
-    <Original>With the money.</Original>
+    <Original>A mon argent.</Original>
     <Translation></Translation>
   </block>
   <block ID="2294">
     <ItemID>15351</ItemID>
     <ItemType>13</ItemType>
-    <Original>I'm still looking for that money.</Original>
+    <Original>Je suis toujours &#224; la recherche de cet argent.</Original>
     <Translation></Translation>
   </block>
   <block ID="2295">
     <ItemID>15352</ItemID>
     <ItemType>13</ItemType>
-    <Original>The bank desperately needs it back.+</Original>
+    <Original>La banque a désespérément besoin de le récupérer.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2296">
     <ItemID>15353</ItemID>
     <ItemType>13</ItemType>
-    <Original>More importantly I need it back!+</Original>
+    <Original>Plus important encore, j'ai besoin qu'il revienne !+</Original>
     <Translation></Translation>
   </block>
   <block ID="2297">
     <ItemID>15354</ItemID>
     <ItemType>13</ItemType>
-    <Original>Derek Oil has a mean streak one metric furlong wide.</Original>
+    <Original>Derek Oil a une strie moyenne sur une furlong métrique de large.</Original>
     <Translation></Translation>
   </block>
   <block ID="2298">
     <ItemID>15355</ItemID>
     <ItemType>13</ItemType>
-    <Original>For my sake you must hurry!</Original>
+    <Original>Dép&#234;chez-vous, faites-le pour moi !</Original>
     <Translation></Translation>
   </block>
   <block ID="2299">
     <ItemID>15356</ItemID>
     <ItemType>13</ItemType>
-    <Original>I found your trillion dollars, worried Banker.</Original>
+    <Original>J'ai trouvé vos billion de dollars, banquier névrosé.</Original>
     <Translation></Translation>
   </block>
   <block ID="2300">
     <ItemID>15357</ItemID>
     <ItemType>13</ItemType>
-    <Original>You saved the bank DeathSpank.+</Original>
+    <Original>Vous avez sauvé la banque DeathSpank.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2301">
     <ItemID>15358</ItemID>
     <ItemType>13</ItemType>
-    <Original>And more importantly you've saved me.+</Original>
+    <Original>Et plus important encore, vous m'avez sauvé.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2302">
     <ItemID>15359</ItemID>
     <ItemType>13</ItemType>
-    <Original>Now I'll just keep this little bill secure right here in my wallet.</Original>
+    <Original>Désormais, je vais pouvoir garder cette facture en sécurité dans mon portefeuille.</Original>
     <Translation></Translation>
   </block>
   <block ID="2303">
     <ItemID>15360</ItemID>
     <ItemType>13</ItemType>
-    <Original>You know, I could use some help with debtors.+</Original>
+    <Original>Vous savez, je pourrais avoir besoin d'aide avec mes débiteurs.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2304">
     <ItemID>15361</ItemID>
     <ItemType>13</ItemType>
-    <Original>The bank needs to foreclose on their properties.+</Original>
+    <Original>La banque doit saisir des propriétés.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2305">
     <ItemID>15362</ItemID>
     <ItemType>13</ItemType>
-    <Original>Take these and post them over the Bank of Strumfuquel signs.</Original>
+    <Original>Prenez-ça et collez-les sur les panneaux bancaire dans Strumfuquel.</Original>
     <Translation></Translation>
   </block>
   <block ID="2306">
     <ItemID>15363</ItemID>
     <ItemType>13</ItemType>
-    <Original>Are they evil, unsavory debtors?</Original>
+    <Original>Sont-ils des débiteurs douteux maléfique ?</Original>
     <Translation></Translation>
   </block>
   <block ID="2307">
     <ItemID>15364</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sure why not? The Bank thanks you in advance, friend.</Original>
+    <Original>Bien s&#251;r, pourquoi pas ? La Banque vous remercie d'avance, mon ami.</Original>
     <Translation></Translation>
   </block>
   <block ID="2308">
     <ItemID>15365</ItemID>
     <ItemType>13</ItemType>
-    <Original>I'm still working on your foreclosure tasks.</Original>
+    <Original>Je travaille toujours sur vos saisies.</Original>
     <Translation></Translation>
   </block>
   <block ID="2309">
     <ItemID>15366</ItemID>
     <ItemType>13</ItemType>
-    <Original>Well, get to it.+</Original>
+    <Original>Eh bien, prenez-les.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2310">
     <ItemID>15367</ItemID>
     <ItemType>13</ItemType>
-    <Original>You wouldn't like the bank when it's angry.</Original>
+    <Original>Vous ne voudriez mettre en col&#232;re la banque.</Original>
     <Translation></Translation>
   </block>
   <block ID="2311">
     <ItemID>15368</ItemID>
     <ItemType>13</ItemType>
-    <Original>I have completed your tasks of foreclosure.</Original>
+    <Original>Je viens de finir vos saisies.</Original>
     <Translation></Translation>
   </block>
   <block ID="2312">
     <ItemID>15369</ItemID>
     <ItemType>13</ItemType>
-    <Original>The bank can breathe easy now that those horrible deadbeats are defeated.+</Original>
+    <Original>La banque peut respirer maintenant que ces horribles et mauvais payeurs sont vaincus.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2313">
     <ItemID>15370</ItemID>
     <ItemType>13</ItemType>
-    <Original>Thanks for your help, Deathspank.</Original>
+    <Original>Merci pour votre aide, DeathSpank.</Original>
     <Translation></Translation>
   </block>
   <block ID="2314">
     <ItemID>15371</ItemID>
     <ItemType>13</ItemType>
-    <Original>Thank you for recovering the money and getting rid of those deadbeats.+</Original>
+    <Original>Merci d'avoir récupérer l'argent et de m'avoir débarrasser de ces mauvais payeurs.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2315">
