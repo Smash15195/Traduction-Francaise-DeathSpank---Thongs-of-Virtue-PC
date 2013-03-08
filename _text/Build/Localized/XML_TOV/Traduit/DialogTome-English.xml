@@ -14445,571 +14445,571 @@
   <block ID="2407">
     <ItemID>15468</ItemID>
     <ItemType>13</ItemType>
-    <Original>Goodbye, Mr. DeathSpank.</Original>
+    <Original>Au revoir, Monsieur DeathSpank.</Original>
     <Translation></Translation>
   </block>
   <block ID="2408">
     <ItemID>15469</ItemID>
     <ItemType>13</ItemType>
-    <Original>Greetings lawman.+</Original>
+    <Original>Salutations représentant de la loi.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2409">
     <ItemID>15470</ItemID>
     <ItemType>13</ItemType>
-    <Original>I am DeathSpank, and I also enforce the law.+</Original>
+    <Original>Je suis DeathSpank, et je fais aussi respecter la loi.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2410">
     <ItemID>15471</ItemID>
     <ItemType>13</ItemType>
-    <Original>High fives all around?</Original>
+    <Original>Top l&#224; !</Original>
     <Translation></Translation>
   </block>
   <block ID="2411">
     <ItemID>15472</ItemID>
     <ItemType>13</ItemType>
-    <Original>Howdy DeathSpank, I'm deputy 'round here.+</Original>
+    <Original>Comment'va DeathSpank, je suis le shérif adjoint du coin.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2412">
     <ItemID>15473</ItemID>
     <ItemType>13</ItemType>
-    <Original>Then a deputy hand greeting will suffice.</Original>
+    <Original>Une simple poignée de main suffira.</Original>
     <Translation></Translation>
   </block>
   <block ID="2413">
     <ItemID>15474</ItemID>
     <ItemType>13</ItemType>
-    <Original>Greetings, secondary lawman.</Original>
+    <Original>Salutations, représentant de la loi secondaire.</Original>
     <Translation></Translation>
   </block>
   <block ID="2414">
     <ItemID>15475</ItemID>
     <ItemType>13</ItemType>
-    <Original>I have a warrant for you from the Sheriff of Strumfuquel.</Original>
+    <Original>J'ai un mandat pour vous du Shérif de Strumfuquel.</Original>
     <Translation></Translation>
   </block>
   <block ID="2415">
     <ItemID>15476</ItemID>
     <ItemType>13</ItemType>
-    <Original>Perfect. I've been stuck here waiting for that.</Original>
+    <Original>Parfait. J'étais coincé ici &#224; l'attendre.</Original>
     <Translation></Translation>
   </block>
   <block ID="2416">
     <ItemID>15477</ItemID>
     <ItemType>13</ItemType>
-    <Original>What I need is a lawman to deliver an Eviction Notice to a group of Monks.+</Original>
+    <Original>Ce dont j'ai besoin est d'un représentant de la loi pour notifier un avis d'expulsion &#224; un groupe de moines.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2417">
     <ItemID>15478</ItemID>
     <ItemType>13</ItemType>
-    <Original>Those no good inner-peace types are late on the rent and need to go.+</Original>
+    <Original>Ces bonshommes de paix intérieure sont en retard pour leur loyer et doivent s'en aller.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2418">
     <ItemID>15479</ItemID>
     <ItemType>13</ItemType>
-    <Original>It's time to enforce the law!+</Original>
+    <Original>Il est temps de faire respecter la loi !+</Original>
     <Translation></Translation>
   </block>
   <block ID="2419">
     <ItemID>15480</ItemID>
     <ItemType>13</ItemType>
-    <Original>Take this eviction notice and post it on the sign in front of their temple building.</Original>
+    <Original>Prenez cet avis d'expulsion et affichez-le sur le panneau en face de leur temple.</Original>
     <Translation></Translation>
   </block>
   <block ID="2420">
     <ItemID>15481</ItemID>
     <ItemType>13</ItemType>
-    <Original>I have delivered the Eviction Notice.</Original>
+    <Original>J'ai affiché l'avis d'expulsion.</Original>
     <Translation></Translation>
   </block>
   <block ID="2421">
     <ItemID>15488</ItemID>
     <ItemType>13</ItemType>
-    <Original>Perfect. No longer will we have to suffer their quiet contemplation.+</Original>
+    <Original>Parfait. Nous n'aurons plus &#224; souffrir du vacarme de leur silencieuse contemplation.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2422">
     <ItemID>15489</ItemID>
     <ItemType>13</ItemType>
-    <Original>You've been a great help, Deathspank.</Original>
+    <Original>Vous avez été d'une grande aide, Deathspank.</Original>
     <Translation></Translation>
   </block>
   <block ID="2423">
     <ItemID>15490</ItemID>
     <ItemType>13</ItemType>
-    <Original>What are you doing way up here all alone?</Original>
+    <Original>Qu'est-ce que vous faites sur ce chemin tout seul ?</Original>
     <Translation></Translation>
   </block>
   <block ID="2424">
     <ItemID>15491</ItemID>
     <ItemType>13</ItemType>
-    <Original>Anything I can help with?</Original>
+    <Original>Il y a quelque chose que je peux faire ?</Original>
     <Translation></Translation>
   </block>
   <block ID="2425">
     <ItemID>15492</ItemID>
     <ItemType>13</ItemType>
-    <Original>What do you need a warrant for anyways?</Original>
+    <Original>Qu'est-ce que vous pouvez bien faire d'un mandat de toute façon ?</Original>
     <Translation></Translation>
   </block>
   <block ID="2426">
     <ItemID>15493</ItemID>
     <ItemType>13</ItemType>
-    <Original>So you need a warrant to conduct your investigation?</Original>
+    <Original>Donc, vous avez besoin d'un mandat pour mener votre enqu&#234;te ?</Original>
     <Translation></Translation>
   </block>
   <block ID="2427">
     <ItemID>15494</ItemID>
     <ItemType>13</ItemType>
-    <Original>What do YOU think is going on here?</Original>
+    <Original>Qu'est-ce que VOUS croyez que je fais ici ?</Original>
     <Translation></Translation>
   </block>
   <block ID="2428">
     <ItemID>15495</ItemID>
     <ItemType>13</ItemType>
-    <Original>Have you been a deputy for a long time?</Original>
+    <Original>Vous &#234;tes shérif adjoint depuis longtemps ?</Original>
     <Translation></Translation>
   </block>
   <block ID="2429">
     <ItemID>15496</ItemID>
     <ItemType>13</ItemType>
-    <Original>What do you know about this factory?</Original>
+    <Original>Qu'est-ce que vous savez sur cette usine ?</Original>
     <Translation></Translation>
   </block>
   <block ID="2430">
     <ItemID>15497</ItemID>
     <ItemType>13</ItemType>
-    <Original>What's your favorite T.G.I.Wortten's dish?</Original>
+    <Original>Quel est votre plat  favori au T.G.I.Wortten ?</Original>
     <Translation></Translation>
   </block>
   <block ID="2431">
     <ItemID>15498</ItemID>
     <ItemType>13</ItemType>
-    <Original>What can you tell me about these robots?</Original>
+    <Original>Que pouvez-vous me dire sur ces robots ?</Original>
     <Translation></Translation>
   </block>
   <block ID="2432">
     <ItemID>15499</ItemID>
     <ItemType>13</ItemType>
-    <Original>Anything new to report?</Original>
+    <Original>Rien de nouveau &#224; signaler ?</Original>
     <Translation></Translation>
   </block>
   <block ID="2433">
     <ItemID>15500</ItemID>
     <ItemType>13</ItemType>
-    <Original>I have to go, deputy.</Original>
+    <Original>Je dois y aller, shérif adjoint.</Original>
     <Translation></Translation>
   </block>
   <block ID="2434">
     <ItemID>15501</ItemID>
     <ItemType>13</ItemType>
-    <Original>I'm waiting for a warrant.+</Original>
+    <Original>J'attends un mandat.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2435">
     <ItemID>15502</ItemID>
     <ItemType>13</ItemType>
-    <Original>The Sheriff back east in Strumfuquel should have it.+</Original>
+    <Original>Le Shérif &#224; Strumfuquel devrait l'avoir.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2436">
     <ItemID>15503</ItemID>
     <ItemType>13</ItemType>
-    <Original>A lawman without paperwork's no kind of lawman at all.</Original>
+    <Original>Un représentant de la loi sans papiers n'est le représentant de rien du tout.</Original>
     <Translation></Translation>
   </block>
   <block ID="2437">
     <ItemID>15504</ItemID>
     <ItemType>13</ItemType>
-    <Original>Well, lots of folks have gone missing lately.+</Original>
+    <Original>Eh bien, beaucoup de gens ont disparu ces derniers temps.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2438">
     <ItemID>15505</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sheriff's got a hunch the factory is connected, so he sent me to investigate.+</Original>
+    <Original>Shérif a le pressentiment d'un lien avec l'usine et il m'a envoyé pour enqu&#234;ter.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2439">
     <ItemID>15506</ItemID>
     <ItemType>13</ItemType>
-    <Original>He stayed back to catch up on paperwork.</Original>
+    <Original>Il est resté &#224; son bureau pour rattraper la paperasse.</Original>
     <Translation></Translation>
   </block>
   <block ID="2440">
     <ItemID>15507</ItemID>
     <ItemType>13</ItemType>
-    <Original>That's right.+</Original>
+    <Original>C'est ça.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2441">
     <ItemID>15508</ItemID>
     <ItemType>13</ItemType>
-    <Original>You can't just run around fighting and killing whatever you like.</Original>
+    <Original>Vous ne pouvez pas courir pour combattre et tuer tout ce que vous voulez.</Original>
     <Translation></Translation>
   </block>
   <block ID="2442">
     <ItemID>15509</ItemID>
     <ItemType>13</ItemType>
-    <Original>You don't say.</Original>
+    <Original>Dites rien.</Original>
     <Translation></Translation>
   </block>
   <block ID="2443">
     <ItemID>15510</ItemID>
     <ItemType>13</ItemType>
-    <Original>I don't think anything funny is going on.+</Original>
+    <Original>Je ne pense pas que quelque chose de marrant se déroule.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2444">
     <ItemID>15511</ItemID>
     <ItemType>13</ItemType>
-    <Original>Although this factory did go up in a hurry, and that Wortten is pretty mysterious.+</Original>
+    <Original>Cette usine a été montée &#224; la hâte, et cette Wortten est plutôt mystérieuse.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2445">
     <ItemID>15512</ItemID>
     <ItemType>13</ItemType>
-    <Original>And when people were getting jobs here, they stopped comin' home.+</Original>
+    <Original>Quand les gens y sont embauchés, ils arr&#234;tent de retourner chez eux.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2446">
     <ItemID>15513</ItemID>
     <ItemType>13</ItemType>
-    <Original>My deputy lawman instincts say it's just a lot of overtime.</Original>
+    <Original>Mes instincts de représentant de la loi adjoints me disent qu'ils font simplement beaucoup d'heures supplémentaires.</Original>
     <Translation></Translation>
   </block>
   <block ID="2447">
     <ItemID>15514</ItemID>
     <ItemType>13</ItemType>
-    <Original>Well, let me see here... the Sheriff hired me back when...+</Original>
+    <Original>Bien, laissez-moi voir... le Shérif va me réembauché quand...+</Original>
     <Translation></Translation>
   </block>
   <block ID="2448">
     <ItemID>15515</ItemID>
     <ItemType>13</ItemType>
-    <Original>...there was...+</Original>
+    <Original>...il y avait...+</Original>
     <Translation></Translation>
   </block>
   <block ID="2449">
     <ItemID>15516</ItemID>
     <ItemType>13</ItemType>
-    <Original>...and carry the four...+</Original>
+    <Original>... et réaliser les quatre ... +</Original>
     <Translation></Translation>
   </block>
   <block ID="2450">
     <ItemID>15517</ItemID>
     <ItemType>13</ItemType>
-    <Original>...six from eight...+</Original>
+    <Original>... six de huit ... +</Original>
     <Translation></Translation>
   </block>
   <block ID="2451">
     <ItemID>15518</ItemID>
     <ItemType>13</ItemType>
-    <Original>...double the niner...+</Original>
+    <Original>... le double de la niner ... +</Original>
     <Translation></Translation>
   </block>
   <block ID="2452">
     <ItemID>15519</ItemID>
     <ItemType>13</ItemType>
-    <Original>Let's say about a week now.</Original>
+    <Original>Disons environ une semaine maintenant.</Original>
     <Translation></Translation>
   </block>
   <block ID="2453">
     <ItemID>15520</ItemID>
     <ItemType>13</ItemType>
-    <Original>Well, it's the official T.G.I.W's food-makin' factory.+</Original>
+    <Original>Eh bien, c'est l'usine TGIW officiel. +</Original>
     <Translation></Translation>
   </block>
   <block ID="2454">
     <ItemID>15521</ItemID>
     <ItemType>13</ItemType>
-    <Original>It's where they make all their delicious food and foodish by-products.+</Original>
+    <Original>C'est l&#224; qu'ils font tout leur délicieuse nourriture et leur plats préparés.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2455">
     <ItemID>15522</ItemID>
     <ItemType>13</ItemType>
-    <Original>I don't know what they put in it, but their food is incredible.+</Original>
+    <Original>Je ne sais pas ce qu'ils mettent dedans, mais leur nourriture est incroyable.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2456">
     <ItemID>15523</ItemID>
     <ItemType>13</ItemType>
-    <Original>Although, one time I did find a retainer in my lasagna.</Original>
+    <Original>M&#234;me si, une fois j'ai trouvé un plombage dans mes lasagnes.</Original>
     <Translation></Translation>
   </block>
   <block ID="2457">
     <ItemID>15524</ItemID>
     <ItemType>13</ItemType>
-    <Original>If I had to choose one, I'd say their shepherd's pie.+</Original>
+    <Original>Si je devais en choisir un, je dirais la tarte de berger.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2458">
     <ItemID>15525</ItemID>
     <ItemType>13</ItemType>
-    <Original>Wortten says it has 20% more shepherd in every bite!</Original>
+    <Original>Wortten dit qu'il y a 20% berger dans chaque bouchée !</Original>
     <Translation></Translation>
   </block>
   <block ID="2459">
     <ItemID>15526</ItemID>
     <ItemType>13</ItemType>
-    <Original>I heard Wortten hired some scientist and his daughter to make them.+</Original>
+    <Original>J'ai entendu dire que Wortten a embauchée un scientifique et sa fille pour les faire.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2460">
     <ItemID>15527</ItemID>
     <ItemType>13</ItemType>
-    <Original>Name of Eisenbein I recollect. Lives somewhere far to the east.</Original>
+    <Original>Ils s'appellent Eisenbein si je me souviens bien. Ils vivent quelque part loin &#224; l'est.</Original>
     <Translation></Translation>
   </block>
   <block ID="2461">
     <ItemID>15528</ItemID>
     <ItemType>13</ItemType>
-    <Original>Nothing to report lawman.</Original>
+    <Original>Rien &#224; signaler représentant de la loi.</Original>
     <Translation></Translation>
   </block>
   <block ID="2462">
     <ItemID>15529</ItemID>
     <ItemType>13</ItemType>
-    <Original>So long, mysterious stranger.</Original>
+    <Original>A la revoyure, mystérieux étranger.</Original>
     <Translation></Translation>
   </block>
   <block ID="2463">
     <ItemID>15530</ItemID>
     <ItemType>13</ItemType>
-    <Original>Greetings again, Derek Oil.</Original>
+    <Original>Nouvelles salutations, Derek Oil.</Original>
     <Translation></Translation>
   </block>
   <block ID="2464">
     <ItemID>15531</ItemID>
     <ItemType>13</ItemType>
-    <Original>Greetings, rustic yet wealthy-looking person.</Original>
+    <Original>Salutations, personne rustique mais néanmoins riche d'apparence.</Original>
     <Translation></Translation>
   </block>
   <block ID="2465">
     <ItemID>15532</ItemID>
     <ItemType>13</ItemType>
-    <Original>I am DeathSpank.</Original>
+    <Original>Je suis DeathSpank.</Original>
     <Translation></Translation>
   </block>
   <block ID="2466">
     <ItemID>15533</ItemID>
     <ItemType>13</ItemType>
-    <Original>Well howdy there, DeathSpank.+</Original>
+    <Original>Alors commen'va, DeathSpank.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2467">
     <ItemID>15534</ItemID>
     <ItemType>13</ItemType>
-    <Original>I'm Derek Oil.</Original>
+    <Original>Je suis Derek Oil.</Original>
     <Translation></Translation>
   </block>
   <block ID="2468">
     <ItemID>15535</ItemID>
     <ItemType>13</ItemType>
-    <Original>I have a message for you from the Banker.</Original>
+    <Original>J'ai un message pour vous de la part du Banquier.</Original>
     <Translation></Translation>
   </block>
   <block ID="2469">
     <ItemID>15536</ItemID>
     <ItemType>13</ItemType>
-    <Original>Oh horse hockey, this is bad.+</Original>
+    <Original>Oh, nom du truie vérolée, c'est pas bon.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2470">
     <ItemID>15537</ItemID>
     <ItemType>13</ItemType>
-    <Original>All my money is gone.+</Original>
+    <Original>Tout mon argent a disparu.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2471">
     <ItemID>15538</ItemID>
     <ItemType>13</ItemType>
-    <Original>Well, that banker better get it back somehow, or I'll see to it he's skinned alive.+</Original>
+    <Original>Eh bien, ce banquier ferait mieux de le récupérer ou je veillerais &#224; ce qu'il soit écorchés vifs.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2472">
     <ItemID>15539</ItemID>
     <ItemType>13</ItemType>
-    <Original>Then I'll allow his skin to regrow.+</Original>
+    <Original>Puis je laisserais sa peau repousser.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2473">
     <ItemID>15540</ItemID>
     <ItemType>13</ItemType>
-    <Original>Then skin him alive again.</Original>
+    <Original>Et je le réécorcherais.</Original>
     <Translation></Translation>
   </block>
   <block ID="2474">
     <ItemID>15541</ItemID>
     <ItemType>13</ItemType>
-    <Original>You have a delightful home here.</Original>
+    <Original>Vous avez une charmante maison.</Original>
     <Translation></Translation>
   </block>
   <block ID="2475">
     <ItemID>15542</ItemID>
     <ItemType>13</ItemType>
-    <Original>Paid for by my incredibly successful oil derrick business.+</Original>
+    <Original>Payée grâce au succ&#232;s incroyable de mon entreprise de derrick pétrolif&#232;re.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2476">
     <ItemID>15543</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sadly though, even the rich have problems.</Original>
+    <Original>Hélas, m&#234;me les riches ont des probl&#232;mes.</Original>
     <Translation></Translation>
   </block>
   <block ID="2477">
     <ItemID>15544</ItemID>
     <ItemType>13</ItemType>
-    <Original>That's not what I usually hear, but go on.</Original>
+    <Original>C'est pas ce que j'ai l'habitude d'entendre, mais continuez.</Original>
     <Translation></Translation>
   </block>
   <block ID="2478">
     <ItemID>15545</ItemID>
     <ItemType>13</ItemType>
-    <Original>Well you see, it's like this: my poor oil derricks need repairing because they keep getting attacked.+</Original>
+    <Original>Eh bien, vous voyez : mes pauvres derricks ont besoin de réparation parce qu'ils viennent d'&#234;tre attaqués.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2479">
     <ItemID>15546</ItemID>
     <ItemType>13</ItemType>
-    <Original>I need someone to get the parts I need.</Original>
+    <Original>J'ai besoin de quelqu'un pour trouver les pi&#232;ces dont j'ai besoin.</Original>
     <Translation></Translation>
   </block>
   <block ID="2480">
     <ItemID>15547</ItemID>
     <ItemType>13</ItemType>
-    <Original>This sounds too dangerous for a man of your wealth, stature and fragility.+</Original>
+    <Original>Cela me paraît trop dangereux pour un homme de votre patrimoine, sa stature et sa fragilité. +</Original>
     <Translation></Translation>
   </block>
   <block ID="2481">
     <ItemID>15548</ItemID>
     <ItemType>13</ItemType>
-    <Original>I'll get your oil derrick parts.</Original>
+    <Original>Je trouverais vos Pi&#232;ces de Rechange pour Derrick.</Original>
     <Translation></Translation>
   </block>
   <block ID="2482">
     <ItemID>15549</ItemID>
     <ItemType>13</ItemType>
-    <Original>Great. You'll have to look for them in the dinosaur graveyard.+</Original>
+    <Original>Génial. Vous devriez les chercher dans le cimeti&#232;re de dinosaures.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2483">
     <ItemID>15550</ItemID>
     <ItemType>13</ItemType>
-    <Original>Although I'm not sure why the dinosaurs keep eating them.</Original>
+    <Original>Bien que je ne sois pas s&#251;r de la raison pour laquelle des dinosaures auraient pu les manger.</Original>
     <Translation></Translation>
   </block>
   <block ID="2484">
     <ItemID>15551</ItemID>
     <ItemType>13</ItemType>
-    <Original>Here are the oil derrick parts.</Original>
+    <Original>Voici vos Pi&#232;ces de Rechange pour Derrick.</Original>
     <Translation></Translation>
   </block>
   <block ID="2485">
     <ItemID>15552</ItemID>
     <ItemType>13</ItemType>
-    <Original>Great work.+</Original>
+    <Original>Beau travail.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2486">
     <ItemID>15553</ItemID>
     <ItemType>13</ItemType>
-    <Original>I'll just clean off the dinosaur bits, and...+</Original>
+    <Original>Je vais juste nettoyer les petits bouts de dinosaures, et...+</Original>
     <Translation></Translation>
   </block>
   <block ID="2487">
     <ItemID>15554</ItemID>
     <ItemType>13</ItemType>
-    <Original>Voila, we've got working parts again.+</Original>
+    <Original>Voila, elles sont comme neuves.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2488">
     <ItemID>15555</ItemID>
     <ItemType>13</ItemType>
-    <Original>Now I need you to take these parts to my oil derricks, and fix each one that's broken.</Original>
+    <Original>Maintenant, j'ai besoin que vous preniez ces pi&#232;ces de rechange et alliez jusqu'&#224; mes derricks pour les réparer.</Original>
     <Translation></Translation>
   </block>
   <block ID="2489">
     <ItemID>15556</ItemID>
     <ItemType>13</ItemType>
-    <Original>I'll repair those oil derricks with heroic ease.</Original>
+    <Original>Je vais réparer vos derricks avec une facilité héro&#239;que.</Original>
     <Translation></Translation>
   </block>
   <block ID="2490">
     <ItemID>15557</ItemID>
     <ItemType>13</ItemType>
-    <Original>Great. And while you're at it, you should kill off them pesky oil monsters out there.+</Original>
+    <Original>Super. Et pendant que vous y &#234;tes, vous devriez tuer ces agaçants  Bibenduile.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2491">
     <ItemID>15558</ItemID>
     <ItemType>13</ItemType>
-    <Original>They're the ones that keep wreckin' my oil derricks.</Original>
+    <Original>Ce sont eux qui saccagent mes derricks.</Original>
     <Translation></Translation>
   </block>
   <block ID="2492">
     <ItemID>15559</ItemID>
     <ItemType>13</ItemType>
-    <Original>Fear not, for I will deliver justice unto these delinquent oil monsters.</Original>
+    <Original>Ne craignez rien, car je ferais tomber la justice sur ces Bibenduiles délinquants.</Original>
     <Translation></Translation>
   </block>
   <block ID="2493">
     <ItemID>15560</ItemID>
     <ItemType>13</ItemType>
-    <Original>And be sure to bring me the oil monster bits that are left over once you've killed them.</Original>
+    <Original>Et n'oubliez pas de m'apporter les bouts de Bibenduile qui colle au sol une fois que vous les avez tués.</Original>
     <Translation></Translation>
   </block>
   <block ID="2494">
     <ItemID>15561</ItemID>
     <ItemType>13</ItemType>
-    <Original>I repaired all of your oil derricks.+</Original>
+    <Original>J'ai réparé tous vos derricks.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2495">
     <ItemID>15562</ItemID>
     <ItemType>13</ItemType>
-    <Original>And...+</Original>
+    <Original>Et...+</Original>
     <Translation></Translation>
   </block>
   <block ID="2496">
     <ItemID>15563</ItemID>
     <ItemType>13</ItemType>
-    <Original>I have the oil monster bits for you.</Original>
+    <Original>J'ai des morceaux de Bibenduile pour vous.</Original>
     <Translation></Translation>
   </block>
   <block ID="2497">
     <ItemID>15564</ItemID>
     <ItemType>13</ItemType>
-    <Original>Well, that's great news.</Original>
+    <Original>Eh bien, ce sont d'excellentes nouvelles.</Original>
     <Translation></Translation>
   </block>
   <block ID="2498">
     <ItemID>15565</ItemID>
     <ItemType>13</ItemType>
-    <Original>Now, just finish repairing my oil derricks.</Original>
+    <Original>Maintenant, finissez de réparer mes derricks.</Original>
     <Translation></Translation>
   </block>
   <block ID="2499">
     <ItemID>15566</ItemID>
     <ItemType>13</ItemType>
-    <Original>Easier done than said.</Original>
+    <Original>C'est plus facile &#224; dire qu'a faire.</Original>
     <Translation></Translation>
   </block>
   <block ID="2500">
     <ItemID>15567</ItemID>
     <ItemType>13</ItemType>
-    <Original>Now just finish killing off those oil monsters, and bring me their bits.</Original>
+    <Original>Maintenant, il suffit de finir de tuer ces Bibenduile, et rapportez-moi leurs bits.</Original>
     <Translation></Translation>
   </block>
   <block ID="2501">
     <ItemID>15568</ItemID>
     <ItemType>13</ItemType>
-    <Original>It'll be my pleasure.</Original>
+    <Original>Tout le plaisir était pour moi.</Original>
     <Translation></Translation>
   </block>
   <block ID="2502">
