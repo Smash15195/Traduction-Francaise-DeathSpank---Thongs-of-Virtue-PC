@@ -16167,301 +16167,301 @@
   <block ID="2694">
     <ItemID>15768</ItemID>
     <ItemType>13</ItemType>
-    <Original>What's that supposed to mean?</Original>
+    <Original>Qu'est-ce que ça veut dire ?</Original>
     <Translation></Translation>
   </block>
   <block ID="2695">
     <ItemID>15769</ItemID>
     <ItemType>13</ItemType>
-    <Original>Hmm, I thought you'd take exception to ''grizzled''.</Original>
+    <Original>Hmm, je pensais que vous seriez indigné par le "grisonnant".</Original>
     <Translation></Translation>
   </block>
   <block ID="2696">
     <ItemID>15770</ItemID>
     <ItemType>13</ItemType>
-    <Original>I'm seeking out the fabled Bacon vein of... El Bacono.+</Original>
+    <Original>Je suis &#224; la recherche de la veine légendaire de Bacon... El Bacono.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2697">
     <ItemID>15771</ItemID>
     <ItemType>13</ItemType>
-    <Original>But there are just so many caves to investigate.</Original>
+    <Original>Mais il y tellement de grottes &#224; sonder.</Original>
     <Translation></Translation>
   </block>
   <block ID="2698">
     <ItemID>15772</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sounds delicious yet heroic!+</Original>
+    <Original>Ça a l'air délicieusement héro&#239;que !+</Original>
     <Translation></Translation>
   </block>
   <block ID="2699">
     <ItemID>15773</ItemID>
     <ItemType>13</ItemType>
-    <Original>Let me investigate for you.</Original>
+    <Original>Permettez-moi de les sonder pour vous.</Original>
     <Translation></Translation>
   </block>
   <block ID="2700">
     <ItemID>15774</ItemID>
     <ItemType>13</ItemType>
-    <Original>Hot diggity dog! I still need samples from...+</Original>
+    <Original>Hot Diggity Dog ! J'ai encore besoin des échantillons de...+</Original>
     <Translation></Translation>
   </block>
   <block ID="2701">
     <ItemID>15775</ItemID>
     <ItemType>13</ItemType>
-    <Original>The Cactus Forest cave...</Original>
+    <Original>La Grotte de la For&#234;t Cactus...</Original>
     <Translation></Translation>
   </block>
   <block ID="2702">
     <ItemID>15776</ItemID>
     <ItemType>13</ItemType>
-    <Original>The Dinosaur Graveyard cave...+</Original>
+    <Original>De la Grotte du Cimeti&#232;re de Dinosaures...+</Original>
     <Translation></Translation>
   </block>
   <block ID="2703">
     <ItemID>15777</ItemID>
     <ItemType>13</ItemType>
-    <Original>The Blood Mountains cave...+</Original>
+    <Original>De la Grotte des Montagnes Sanglantes...+</Original>
     <Translation></Translation>
   </block>
   <block ID="2704">
     <ItemID>15778</ItemID>
     <ItemType>13</ItemType>
-    <Original>And the Sandy Desert cave.+</Original>
+    <Original>Et de la Grotte du Désert Sableux.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2705">
     <ItemID>15779</ItemID>
     <ItemType>13</ItemType>
-    <Original>Oh, and take these blasting caps!+</Original>
+    <Original>Oh, et prenez ces détonateurs !+</Original>
     <Translation></Translation>
   </block>
   <block ID="2706">
     <ItemID>15780</ItemID>
     <ItemType>13</ItemType>
-    <Original>You'll need them to get a rock sample from each cave.</Original>
+    <Original>Vous en aurez besoin pour obtenir un échantillon de roche de chaque grotte.</Original>
     <Translation></Translation>
   </block>
   <block ID="2707">
     <ItemID>15781</ItemID>
     <ItemType>13</ItemType>
-    <Original>Do you have all the rock samples for me yet?</Original>
+    <Original>Vous avez déj&#224; tous les échantillons de roche que j'avais demandé ?</Original>
     <Translation></Translation>
   </block>
   <block ID="2708">
     <ItemID>15782</ItemID>
     <ItemType>13</ItemType>
-    <Original>Not right now.+</Original>
+    <Original>Pas pour le moment.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2709">
     <ItemID>15783</ItemID>
     <ItemType>13</ItemType>
-    <Original>Getting rocks is surprisingly difficult.</Original>
+    <Original>Obtenir ces échantillons de roches est étonnamment difficile.</Original>
     <Translation></Translation>
   </block>
   <block ID="2710">
     <ItemID>15784</ItemID>
     <ItemType>13</ItemType>
-    <Original>I have a rock sample for you.</Original>
+    <Original>J'ai un échantillon de roche pour vous.</Original>
     <Translation></Translation>
   </block>
   <block ID="2711">
     <ItemID>15785</ItemID>
     <ItemType>13</ItemType>
-    <Original>A rock from the.. place...</Original>
+    <Original>Une roche d'une... grotte l&#224;-bas...</Original>
     <Translation></Translation>
   </block>
   <block ID="2712">
     <ItemID>15786</ItemID>
     <ItemType>13</ItemType>
-    <Original>You trying to pull a fast one?+</Original>
+    <Original>Vous essayez de me duper ?+</Original>
     <Translation></Translation>
   </block>
   <block ID="2713">
     <ItemID>15787</ItemID>
     <ItemType>13</ItemType>
-    <Original>This rock isn't from any of the caves I asked you to investigate.</Original>
+    <Original>Cette roche ne vient pas d'une des grottes que je vous ai chargé de sonder.</Original>
     <Translation></Translation>
   </block>
   <block ID="2714">
     <ItemID>15788</ItemID>
     <ItemType>13</ItemType>
-    <Original>Here is a rock from the cave in the Cactus Forest.</Original>
+    <Original>Voil&#224; une roche de la Grotte de la For&#234;t Cactus.</Original>
     <Translation></Translation>
   </block>
   <block ID="2715">
     <ItemID>15789</ItemID>
     <ItemType>13</ItemType>
-    <Original>Thanks. Hmmm, not a hint of Bacon in it.</Original>
+    <Original>Merci. Hmmm, pas une trace de Bacon en elle.</Original>
     <Translation></Translation>
   </block>
   <block ID="2716">
     <ItemID>15790</ItemID>
     <ItemType>13</ItemType>
-    <Original>Here is a rock from the cave in the Dinosaur Graveyard.</Original>
+    <Original>Voici une roche de la Grotte du Cimeti&#232;re de Dinosaures.</Original>
     <Translation></Translation>
   </block>
   <block ID="2717">
     <ItemID>15791</ItemID>
     <ItemType>13</ItemType>
-    <Original>Hand it over.+</Original>
+    <Original>Montrez-moi ça.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2718">
     <ItemID>15792</ItemID>
     <ItemType>13</ItemType>
-    <Original>Nope. No Bacon here.</Original>
+    <Original>Nan. Pas de Bacon non plus.</Original>
     <Translation></Translation>
   </block>
   <block ID="2719">
     <ItemID>15793</ItemID>
     <ItemType>13</ItemType>
-    <Original>Here is a rock from the cave in the Blood Mountains.</Original>
+    <Original>Voil&#224; une roche de la Grotte des Montagnes Sanglantes.</Original>
     <Translation></Translation>
   </block>
   <block ID="2720">
     <ItemID>15794</ItemID>
     <ItemType>13</ItemType>
-    <Original>Bah! No Bacon at all in this rock.</Original>
+    <Original>Rah ! Pas un signe de Bacon dans cette roche.</Original>
     <Translation></Translation>
   </block>
   <block ID="2721">
     <ItemID>15795</ItemID>
     <ItemType>13</ItemType>
-    <Original>Here is a rock from the cave in the Sandy Desert.</Original>
+    <Original>Voici une roche de la Grotte du Désert Sableux.</Original>
     <Translation></Translation>
   </block>
   <block ID="2722">
     <ItemID>15796</ItemID>
     <ItemType>13</ItemType>
-    <Original>Is my quest for El Bacono finally complete?+</Original>
+    <Original>Ma qu&#234;te d'El Bacono serait finalement sur le point d'aboutir ?+</Original>
     <Translation></Translation>
   </block>
   <block ID="2723">
     <ItemID>15797</ItemID>
     <ItemType>13</ItemType>
-    <Original>This looks promising...+</Original>
+    <Original>Ca semble prometteur...+</Original>
     <Translation></Translation>
   </block>
   <block ID="2724">
     <ItemID>15798</ItemID>
     <ItemType>13</ItemType>
-    <Original>...mmm hmmm... yes...+</Original>
+    <Original>...mmm hmmm... oui...+</Original>
     <Translation></Translation>
   </block>
   <block ID="2725">
     <ItemID>15799</ItemID>
     <ItemType>13</ItemType>
-    <Original>Curses! This is Fool's Bacon!</Original>
+    <Original>Malédictions ! This is Fool's Bacon !</Original>
     <Translation></Translation>
   </block>
   <block ID="2726">
     <ItemID>15800</ItemID>
     <ItemType>13</ItemType>
-    <Original>I'm positive the next sample you find will have Bacon for sure.</Original>
+    <Original>J'en suis s&#251;r, le prochain échantillon que vous trouverez aura du Bacon &#224; coup s&#251;r.</Original>
     <Translation></Translation>
   </block>
   <block ID="2727">
     <ItemID>15801</ItemID>
     <ItemType>13</ItemType>
-    <Original>Thanks for all your help, Deathspank.+</Original>
+    <Original>Merci pour toute votre aide, DeathSpank.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2728">
     <ItemID>15802</ItemID>
     <ItemType>13</ItemType>
-    <Original>Looks like the Bacon Vein is just a legend after all.</Original>
+    <Original>On dirait bien que cette veine de Bacon n'est rien qu'une légende, apr&#232;s tout.</Original>
     <Translation></Translation>
   </block>
   <block ID="2729">
     <ItemID>15803</ItemID>
     <ItemType>13</ItemType>
-    <Original>Good day, Widow.</Original>
+    <Original>Bonne journée, Veuve.</Original>
     <Translation></Translation>
   </block>
   <block ID="2730">
     <ItemID>15804</ItemID>
     <ItemType>13</ItemType>
-    <Original>Thank you for all your help.</Original>
+    <Original>Merci pour votre aide.</Original>
     <Translation></Translation>
   </block>
   <block ID="2731">
     <ItemID>15805</ItemID>
     <ItemType>13</ItemType>
-    <Original>Good day rural woman.</Original>
+    <Original>Bonne journée, Femme Champ&#234;tre.</Original>
     <Translation></Translation>
   </block>
   <block ID="2732">
     <ItemID>15806</ItemID>
     <ItemType>13</ItemType>
-    <Original>Darn my husband, darn him to heck!</Original>
+    <Original>Maudit mari, il l'emportera pas au paradis !</Original>
     <Translation></Translation>
   </block>
   <block ID="2733">
     <ItemID>15807</ItemID>
     <ItemType>13</ItemType>
-    <Original>Whoa let's watch the language.</Original>
+    <Original>Ouah surveillez votre language.</Original>
     <Translation></Translation>
   </block>
   <block ID="2734">
     <ItemID>15808</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sorry, but my good-for-nothing husband is missing.+</Original>
+    <Original>Désolé, mais mon bon-&#224;-rien mari a disparu.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2735">
     <ItemID>15809</ItemID>
     <ItemType>13</ItemType>
-    <Original>Escort me to our farm.+</Original>
+    <Original>Accompagnez-moi &#224; notre ferme.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2736">
     <ItemID>15810</ItemID>
     <ItemType>13</ItemType>
-    <Original>And we'll find him, or you'll die trying.</Original>
+    <Original>Et nous le trouverons, ou vous mourrez en essayant.</Original>
     <Translation></Translation>
   </block>
   <block ID="2737">
     <ItemID>15811</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sounds good.</Original>
+    <Original>Ca &#224; l'air bien.</Original>
     <Translation></Translation>
   </block>
   <block ID="2738">
     <ItemID>15812</ItemID>
     <ItemType>13</ItemType>
-    <Original>Well what're you waiting around for?+</Original>
+    <Original>Eh bien qu'est-ce que vous attendez ?+</Original>
     <Translation></Translation>
   </block>
   <block ID="2739">
     <ItemID>15813</ItemID>
     <ItemType>13</ItemType>
-    <Original>Get going!</Original>
+    <Original>Allez-y !</Original>
     <Translation></Translation>
   </block>
   <block ID="2740">
     <ItemID>15814</ItemID>
     <ItemType>13</ItemType>
-    <Original>What's the hold up hero?+</Original>
+    <Original>Qu'est-ce qui vous arrive encore, héros ?+</Original>
     <Translation></Translation>
   </block>
   <block ID="2741">
     <ItemID>15815</ItemID>
     <ItemType>13</ItemType>
-    <Original>We're not at my farm yet.</Original>
+    <Original>Nous ne sommes pas encore &#224; ma ferme.</Original>
     <Translation></Translation>
   </block>
   <block ID="2742">
     <ItemID>15816</ItemID>
     <ItemType>13</ItemType>
-    <Original>Behold your farm.</Original>
+    <Original>Voici votre ferme.</Original>
     <Translation></Translation>
   </block>
   <block ID="2743">
     <ItemID>15817</ItemID>
     <ItemType>13</ItemType>
-    <Original>Took you long enough to get us here!</Original>
+    <Original>Vous avez pris votre temps pour m'amener ici !</Original>
     <Translation></Translation>
   </block>
   <block ID="2744">
@@ -16473,247 +16473,247 @@
   <block ID="2745">
     <ItemID>15819</ItemID>
     <ItemType>13</ItemType>
-    <Original>I don't see my lazy husband anywhere.+</Original>
+    <Original>Je ne vois mon paresseux de mari nulle part.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2746">
     <ItemID>15820</ItemID>
     <ItemType>13</ItemType>
-    <Original>He used to speak fondly of the Blood Mountains.+</Original>
+    <Original>Il avait l'habitude de parler avec tendresse des Montagnes Sanglantes.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2747">
     <ItemID>15821</ItemID>
     <ItemType>13</ItemType>
-    <Original>And the sweet embrace of death.</Original>
+    <Original>Et de la douce étreinte de la mort.</Original>
     <Translation></Translation>
   </block>
   <block ID="2748">
     <ItemID>15822</ItemID>
     <ItemType>13</ItemType>
-    <Original>Don't worry, I'll find your fleeing husband.</Original>
+    <Original>Ne vous inquiétez pas, je vais retrouver ton mari fugueur.</Original>
     <Translation></Translation>
   </block>
   <block ID="2749">
     <ItemID>15823</ItemID>
     <ItemType>13</ItemType>
-    <Original>Well, chop, chop.</Original>
+    <Original>Eh bien, ouste, allez.</Original>
     <Translation></Translation>
   </block>
   <block ID="2750">
     <ItemID>15824</ItemID>
     <ItemType>13</ItemType>
-    <Original>Hello again, annoying female citizen.</Original>
+    <Original>Rebonjour, ennuyeuse citoyenne.</Original>
     <Translation></Translation>
   </block>
   <block ID="2751">
     <ItemID>15825</ItemID>
     <ItemType>13</ItemType>
-    <Original>Have you found my husband yet?</Original>
+    <Original>Vous avez déj&#224; retrouvé mon mari ?</Original>
     <Translation></Translation>
   </block>
   <block ID="2752">
     <ItemID>15826</ItemID>
     <ItemType>13</ItemType>
-    <Original>Not yet.</Original>
+    <Original>Pas encore.</Original>
     <Translation></Translation>
   </block>
   <block ID="2753">
     <ItemID>15827</ItemID>
     <ItemType>13</ItemType>
-    <Original>Then stop talking to me and get looking!</Original>
+    <Original>Alors arr&#234;tez de me parler et retourner le chercher !</Original>
     <Translation></Translation>
   </block>
   <block ID="2754">
     <ItemID>15828</ItemID>
     <ItemType>13</ItemType>
-    <Original>Did you find my husband yet?</Original>
+    <Original>Vous avez enfin trouvé mon mari ?</Original>
     <Translation></Translation>
   </block>
   <block ID="2755">
     <ItemID>15829</ItemID>
     <ItemType>13</ItemType>
-    <Original>I...</Original>
+    <Original>Je...</Original>
     <Translation></Translation>
   </block>
   <block ID="2756">
     <ItemID>15830</ItemID>
     <ItemType>13</ItemType>
-    <Original>You talk too much.+</Original>
+    <Original>Vous parlez beaucoup trop.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2757">
     <ItemID>15831</ItemID>
     <ItemType>13</ItemType>
-    <Original>Go find my husband.</Original>
+    <Original>Allez chercher mon mari.</Original>
     <Translation></Translation>
   </block>
   <block ID="2758">
     <ItemID>15832</ItemID>
     <ItemType>13</ItemType>
-    <Original>I have a keepsake of your husband's.</Original>
+    <Original>J'ai un souvenir de votre mari.</Original>
     <Translation></Translation>
   </block>
   <block ID="2759">
     <ItemID>15833</ItemID>
     <ItemType>13</ItemType>
-    <Original>Oh! He would never part with that unless...+</Original>
+    <Original>Oh ! Il ne se serait jamais séparé de ça sauf si...+</Original>
     <Translation></Translation>
   </block>
   <block ID="2760">
     <ItemID>15834</ItemID>
     <ItemType>13</ItemType>
-    <Original>Is he dead?</Original>
+    <Original>Il est mort ?</Original>
     <Translation></Translation>
   </block>
   <block ID="2761">
     <ItemID>15836</ItemID>
     <ItemType>13</ItemType>
-    <Original>Silence means yes!+</Original>
+    <Original>Ce silence signifie que oui !+</Original>
     <Translation></Translation>
   </block>
   <block ID="2762">
     <ItemID>15837</ItemID>
     <ItemType>13</ItemType>
-    <Original>Yeehaw!+</Original>
+    <Original>Iouhou !+</Original>
     <Translation></Translation>
   </block>
   <block ID="2763">
     <ItemID>15838</ItemID>
     <ItemType>13</ItemType>
-    <Original>I'm finally rid of that good-for-nothing, sloth-loving, pig.+</Original>
+    <Original>Je suis enfin débarrassé de ce bon-&#224;-rien, bande mou de cochon.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2764">
     <ItemID>15839</ItemID>
     <ItemType>13</ItemType>
-    <Original>With him gone, the farm is mine!+</Original>
+    <Original>Lui parti, la ferme est &#224; moi !+</Original>
     <Translation></Translation>
   </block>
   <block ID="2765">
     <ItemID>15840</ItemID>
     <ItemType>13</ItemType>
-    <Original>Hmm, maybe I'll put up drapes.</Original>
+    <Original>Hmm, je vais peut-&#234;tre mettre des rideaux.</Original>
     <Translation></Translation>
   </block>
   <block ID="2766">
     <ItemID>15841</ItemID>
     <ItemType>13</ItemType>
-    <Original>Greetings, official law-keeper.+</Original>
+    <Original>Salutations, gardien officiel de la loi.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2767">
     <ItemID>15842</ItemID>
     <ItemType>13</ItemType>
-    <Original>I am DeathSpank, also an enforcer of justice!</Original>
+    <Original>Je suis DeathSpank, et je fais aussi respecter la justice !</Original>
     <Translation></Translation>
   </block>
   <block ID="2768">
     <ItemID>15843</ItemID>
     <ItemType>13</ItemType>
-    <Original>Well howdy, fellow justice-lover.+</Original>
+    <Original>Eh bien, ça biche ? Ami de la justice.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2769">
     <ItemID>15844</ItemID>
     <ItemType>13</ItemType>
-    <Original>I am the Sheriff of Strumfuquel.</Original>
+    <Original>Je suis le Shérif de Strumfuquel.</Original>
     <Translation></Translation>
   </block>
   <block ID="2770">
     <ItemID>15845</ItemID>
     <ItemType>13</ItemType>
-    <Original>Greetings, Sheriff.</Original>
+    <Original>Salutations, shérif.</Original>
     <Translation></Translation>
   </block>
   <block ID="2771">
     <ItemID>15846</ItemID>
     <ItemType>13</ItemType>
-    <Original>I have a message for you from some guy named ''Stagecoach Driver.''</Original>
+    <Original>J'ai un message pour vous d'un gars nommé "Cocher de la Diligence".</Original>
     <Translation></Translation>
   </block>
   <block ID="2772">
     <ItemID>15847</ItemID>
     <ItemType>13</ItemType>
-    <Original>Looks like those bandito gangs are up to no good again.+</Original>
+    <Original>On dirait que ces gangs de Banditos refont des siennes.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2773">
     <ItemID>15848</ItemID>
     <ItemType>13</ItemType>
-    <Original>Though I guess I don't recall them ever being up to ''good''.</Original>
+    <Original>Bien que je ne rapelle pas qu'ils aient jamais été dans le droit chemin.</Original>
     <Translation></Translation>
   </block>
   <block ID="2774">
     <ItemID>15849</ItemID>
     <ItemType>13</ItemType>
-    <Original>Tell me of your life fellow crime-fighter.</Original>
+    <Original>Parlez-moi de votre compagnon combattant du crime.</Original>
     <Translation></Translation>
   </block>
   <block ID="2775">
     <ItemID>15850</ItemID>
     <ItemType>13</ItemType>
-    <Original>Well, I sent my Deputy way out west for a stakeout, and told him to wait for a warrant before he did anything.+</Original>
+    <Original>Eh bien, j'ai envoyé mon adjoint &#224; l'Ouest pour faire une filature et je lui ai dit d'attendre un mandat avant de faire quoi que ce soit.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2776">
     <ItemID>15851</ItemID>
     <ItemType>13</ItemType>
-    <Original>I have finally defeated that paperwork and now it needs delivering.+</Original>
+    <Original>Je suis finalement venue &#224; bout de cette paperasse et je dois le lui faire parvenir.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2777">
     <ItemID>15852</ItemID>
     <ItemType>13</ItemType>
-    <Original>My battle with paperwork never really ends though...</Original>
+    <Original>Mon combat contre la paperasse ne se termine jamais vraiment bien...</Original>
     <Translation></Translation>
   </block>
   <block ID="2778">
     <ItemID>15853</ItemID>
     <ItemType>13</ItemType>
-    <Original>You can count on me to deliver your warrant.</Original>
+    <Original>Vous pouvez compter sur moi pour livrer votre mandat.</Original>
     <Translation></Translation>
   </block>
   <block ID="2779">
     <ItemID>15854</ItemID>
     <ItemType>13</ItemType>
-    <Original>Well that's mighty nice of you. He'll be around Wortten's factory in the Blood Mountains.</Original>
+    <Original>Bien, c'est tr&#232;s gentil &#224; vous. Il devrait &#234;tre aux alentours de l'Usine Wortten dans les Montagnes Sanglantes.</Original>
     <Translation></Translation>
   </block>
   <block ID="2780">
     <ItemID>15855</ItemID>
     <ItemType>13</ItemType>
-    <Original>Howdy DeathSpank. You know, I've been dealing with these banditos for a long time.+</Original>
+    <Original>Ca biche DeathSpank ? Vous savez, j'ai eu affaire &#224; ces banditos il y a longtemps.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2781">
     <ItemID>15856</ItemID>
     <ItemType>13</ItemType>
-    <Original>They steal from the town with no regard for law-enforcement paperwork.</Original>
+    <Original>Ils pillent la ville sans aucun égard pour l'application des lois et la paperasse.</Original>
     <Translation></Translation>
   </block>
   <block ID="2782">
     <ItemID>15857</ItemID>
     <ItemType>13</ItemType>
-    <Original>I will gladly help you dispense justice, Sheriff.</Original>
+    <Original>Je serai heureux de vous aider &#224; rendre la justice, Shérif.</Original>
     <Translation></Translation>
   </block>
   <block ID="2783">
     <ItemID>15858</ItemID>
     <ItemType>13</ItemType>
-    <Original>The first thing y'all need to recover are the snakeskin boots the White Rock Banditos stole.</Original>
+    <Original>La premi&#232;re chose &#224; faire et de retrouver les Bottes en Peau de Serpent &#224; Sonettes Diamant que les Bandito du Rocher Blanc ont volés.</Original>
     <Translation></Translation>
   </block>
   <block ID="2784">
     <ItemID>15859</ItemID>
     <ItemType>13</ItemType>
-    <Original>You stay here and work on that paperwork.</Original>
+    <Original>Restez ici et travaillez sur votre paperasse.</Original>
     <Translation></Translation>
   </block>
   <block ID="2785">
     <ItemID>15860</ItemID>
     <ItemType>13</ItemType>
-    <Original>Well, bring them to me as soon as you find them.</Original>
+    <Original>Bien, apportez-les-moi d&#232;s que vous les trouverez.</Original>
     <Translation></Translation>
   </block>
   <block ID="2786">
