@@ -21441,247 +21441,247 @@
   <block ID="3573">
     <ItemID>16679</ItemID>
     <ItemType>13</ItemType>
-    <Original>Whoooa. Greetings, talking object!</Original>
+    <Original>Whoooa. Salutations, objet parlant !</Original>
     <Translation></Translation>
   </block>
   <block ID="3574">
     <ItemID>16680</ItemID>
     <ItemType>13</ItemType>
-    <Original>Do you have a problem with me having human-like qualities?</Original>
+    <Original>Vous avez un probl&#232;me avec moi ayant machin au propriétés humaine ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3575">
     <ItemID>16681</ItemID>
     <ItemType>13</ItemType>
-    <Original>Not at all, it's actually quite quaint.+</Original>
+    <Original>Pas du tout, c'est en fait assez pittoresque. +</Original>
     <Translation></Translation>
   </block>
   <block ID="3576">
     <ItemID>16682</ItemID>
     <ItemType>13</ItemType>
-    <Original>Oh. In that case, if you throw a Wishing Coin into me, I'll reward you with something special.</Original>
+    <Original>Oh. Dans ce cas, si vous jetez une pi&#232;ce porte-bonheur en moi, je vous récompenserais avec quelque chose de spécial.</Original>
     <Translation></Translation>
   </block>
   <block ID="3577">
     <ItemID>16683</ItemID>
     <ItemType>13</ItemType>
-    <Original> ''Wishing'' Coins, you say.+</Original>
+    <Original>De la Monnaie "Porte-Bonheur", vous dites.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3578">
     <ItemID>16684</ItemID>
     <ItemType>13</ItemType>
-    <Original>I'll keep an eye out.</Original>
+    <Original>Je vais garder un oeil sur.</Original>
     <Translation></Translation>
   </block>
   <block ID="3579">
     <ItemID>16685</ItemID>
     <ItemType>13</ItemType>
-    <Original>Greetings, Ms. Talking Well.</Original>
+    <Original>Bonjour, Madame la Parlure Châtié.</Original>
     <Translation></Translation>
   </block>
   <block ID="3580">
     <ItemID>16686</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sorry, but I seem to be all out of Wishing Coins at the moment.</Original>
+    <Original>Désolé, mais on dirait qu'il n'y a plus de Monnaie Porte-Bonheur pour le moment.</Original>
     <Translation></Translation>
   </block>
   <block ID="3581">
     <ItemID>16687</ItemID>
     <ItemType>13</ItemType>
-    <Original>Come on, I'm hungry.</Original>
+    <Original>Faites un effort,, j'ai faim.</Original>
     <Translation></Translation>
   </block>
   <block ID="3582">
     <ItemID>16688</ItemID>
     <ItemType>13</ItemType>
-    <Original>I have a Wishing Coin for your eating pleasure.</Original>
+    <Original>J'ai une pi&#232;ce porte-bonheur pour satisfaire votre petit creux.</Original>
     <Translation></Translation>
   </block>
   <block ID="3583">
     <ItemID>16689</ItemID>
     <ItemType>13</ItemType>
-    <Original>Yummy!</Original>
+    <Original>Succulent !</Original>
     <Translation></Translation>
   </block>
   <block ID="3584">
     <ItemID>16690</ItemID>
     <ItemType>13</ItemType>
-    <Original>Oh! That was delicious!</Original>
+    <Original>Oh ! C'était délicieux !</Original>
     <Translation></Translation>
   </block>
   <block ID="3585">
     <ItemID>16691</ItemID>
     <ItemType>13</ItemType>
-    <Original>Come back anytime you have a Wishing Coin.</Original>
+    <Original>Revenez quand vous aurez de la Monnaie Porte-Bonheur.</Original>
     <Translation></Translation>
   </block>
   <block ID="3586">
     <ItemID>16692</ItemID>
     <ItemType>13</ItemType>
-    <Original>Have any more Wishing Coins? No sense in hoarding them.</Original>
+    <Original>Vous avez d'autres pi&#232;ces porte-bonheur ? Ca n'aurait pas de sens que vous les gardiez.</Original>
     <Translation></Translation>
   </block>
   <block ID="3587">
     <ItemID>16706</ItemID>
     <ItemType>13</ItemType>
-    <Original>I already have a sample of this crystal.</Original>
+    <Original>J'ai déj&#224; un échantillon de ce cristal.</Original>
     <Translation></Translation>
   </block>
   <block ID="3588">
     <ItemID>16707</ItemID>
     <ItemType>13</ItemType>
-    <Original>Oooh, pretty.</Original>
+    <Original>Oooh, pas mal de tout.</Original>
     <Translation></Translation>
   </block>
   <block ID="3589">
     <ItemID>16711</ItemID>
     <ItemType>13</ItemType>
-    <Original>I have the treasure!</Original>
+    <Original>J'ai le trésor !</Original>
     <Translation></Translation>
   </block>
   <block ID="3590">
     <ItemID>16712</ItemID>
     <ItemType>13</ItemType>
-    <Original>I have your treasure!</Original>
+    <Original>J'ai votre trésor !</Original>
     <Translation></Translation>
   </block>
   <block ID="3591">
     <ItemID>16713</ItemID>
     <ItemType>13</ItemType>
-    <Original>Greetings, Locksmith.</Original>
+    <Original>Salutations, Serrurier.</Original>
     <Translation></Translation>
   </block>
   <block ID="3592">
     <ItemID>16714</ItemID>
     <ItemType>13</ItemType>
-    <Original>Thank goodness you're here!</Original>
+    <Original>Dieu merci, vous &#234;tes l&#224; !</Original>
     <Translation></Translation>
   </block>
   <block ID="3593">
     <ItemID>16715</ItemID>
     <ItemType>13</ItemType>
-    <Original>Please state the nature of your emergency, citizen.</Original>
+    <Original>Veuillez indiquer la nature de l'urgence, citoyen.</Original>
     <Translation></Translation>
   </block>
   <block ID="3594">
     <ItemID>16716</ItemID>
     <ItemType>13</ItemType>
-    <Original>I left something very important in one of my special treasure chests.+</Original>
+    <Original>J'ai laissé quelque chose de tr&#232;s important dans un de mes coffres spéciaux.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3595">
     <ItemID>16717</ItemID>
     <ItemType>13</ItemType>
-    <Original>It's in the treasure chest north of town.</Original>
+    <Original>C'est dans le coffre au trésor au nord de la ville.</Original>
     <Translation></Translation>
   </block>
   <block ID="3596">
     <ItemID>16718</ItemID>
     <ItemType>13</ItemType>
-    <Original>Say no more citizen, give me the key.</Original>
+    <Original>N'en dites pas plus citoyen, donnez-moi la clé.</Original>
     <Translation></Translation>
   </block>
   <block ID="3597">
     <ItemID>16719</ItemID>
     <ItemType>13</ItemType>
-    <Original>Well the thing is...+</Original>
+    <Original>Eh bien, le truc c'est que...+</Original>
     <Translation></Translation>
   </block>
   <block ID="3598">
     <ItemID>16720</ItemID>
     <ItemType>13</ItemType>
-    <Original>I don't remember what the lock looks like.+</Original>
+    <Original>Je ne me souviens pas &#224; quoi ressemble la serrure.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3599">
     <ItemID>16721</ItemID>
     <ItemType>13</ItemType>
-    <Original>If you describe it to me, I'll be able to forge a key for it.</Original>
+    <Original>Si vous pouviez me la décrire, je serais en mesure de forger une nouvelle clé.</Original>
     <Translation></Translation>
   </block>
   <block ID="3600">
     <ItemID>16722</ItemID>
     <ItemType>13</ItemType>
-    <Original>You'd be amazed how often I have had to do this sort of thing.</Original>
+    <Original>Vous seriez surpris de voir combien de fois j'ai eu &#224; faire ce genre de probl&#232;me.</Original>
     <Translation></Translation>
   </block>
   <block ID="3601">
     <ItemID>16723</ItemID>
     <ItemType>13</ItemType>
-    <Original>I think I know what your special lock looks like.</Original>
+    <Original>Je pense savoir &#224; quoi ressemble votre serrure spéciale.</Original>
     <Translation></Translation>
   </block>
   <block ID="3602">
     <ItemID>16724</ItemID>
     <ItemType>13</ItemType>
-    <Original>Actually, I was thinking of another lock. Your lock looks like this...</Original>
+    <Original>En fait, je pensais &#224; une autre serrure. Votre serrure ressemble &#224;...</Original>
     <Translation></Translation>
   </block>
   <block ID="3603">
     <ItemID>16725</ItemID>
     <ItemType>13</ItemType>
-    <Original>I need you to forge me a new key.</Original>
+    <Original>J'ai besoin que vous forgiez une nouvelle clé.</Original>
     <Translation></Translation>
   </block>
   <block ID="3604">
     <ItemID>16726</ItemID>
     <ItemType>13</ItemType>
-    <Original>Can you tell me about this war?</Original>
+    <Original>Que pouvez-vous me dire &#224; propos de cette guerre ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3605">
     <ItemID>16727</ItemID>
     <ItemType>13</ItemType>
-    <Original>What can you tell me about Compassion?</Original>
+    <Original>Qu'est-ce que vous pouvez me dire sur la Compassion ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3606">
     <ItemID>16728</ItemID>
     <ItemType>13</ItemType>
-    <Original>See you around, locksmith.</Original>
+    <Original>A la revoyure, serrurier.</Original>
     <Translation></Translation>
   </block>
   <block ID="3607">
     <ItemID>16729</ItemID>
     <ItemType>13</ItemType>
-    <Original>It needs to have a...</Original>
+    <Original>Ca a besoin d'un...</Original>
     <Translation></Translation>
   </block>
   <block ID="3608">
     <ItemID>16730</ItemID>
     <ItemType>13</ItemType>
-    <Original>Circle.</Original>
+    <Original>Cercle.</Original>
     <Translation></Translation>
   </block>
   <block ID="3609">
     <ItemID>16731</ItemID>
     <ItemType>13</ItemType>
-    <Original>Triangle.</Original>
+    <Original>Triangle</Original>
     <Translation></Translation>
   </block>
   <block ID="3610">
     <ItemID>16732</ItemID>
     <ItemType>13</ItemType>
-    <Original>Heart.</Original>
+    <Original>Coeur.</Original>
     <Translation></Translation>
   </block>
   <block ID="3611">
     <ItemID>16733</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mushroom.</Original>
+    <Original>Champignon.</Original>
     <Translation></Translation>
   </block>
   <block ID="3612">
     <ItemID>16734</ItemID>
     <ItemType>13</ItemType>
-    <Original>And a...</Original>
+    <Original>Et un...</Original>
     <Translation></Translation>
   </block>
   <block ID="3613">
     <ItemID>16735</ItemID>
     <ItemType>13</ItemType>
-    <Original>Diamond.</Original>
+    <Original>Diamant</Original>
     <Translation></Translation>
   </block>
   <block ID="3614">
@@ -21693,301 +21693,301 @@
   <block ID="3615">
     <ItemID>16737</ItemID>
     <ItemType>13</ItemType>
-    <Original>Cross.</Original>
+    <Original>Croix.</Original>
     <Translation></Translation>
   </block>
   <block ID="3616">
     <ItemID>16738</ItemID>
     <ItemType>13</ItemType>
-    <Original>Straight line.</Original>
+    <Original>Trait droit.</Original>
     <Translation></Translation>
   </block>
   <block ID="3617">
     <ItemID>16739</ItemID>
     <ItemType>13</ItemType>
-    <Original>And a...</Original>
+    <Original>Et un...</Original>
     <Translation></Translation>
   </block>
   <block ID="3618">
     <ItemID>16740</ItemID>
     <ItemType>13</ItemType>
-    <Original>Crescent.</Original>
+    <Original>Croissant.</Original>
     <Translation></Translation>
   </block>
   <block ID="3619">
     <ItemID>16741</ItemID>
     <ItemType>13</ItemType>
-    <Original>Horseshoe.</Original>
+    <Original>Fer &#224; cheval.</Original>
     <Translation></Translation>
   </block>
   <block ID="3620">
     <ItemID>16742</ItemID>
     <ItemType>13</ItemType>
-    <Original>Star.</Original>
+    <Original>Étoile.</Original>
     <Translation></Translation>
   </block>
   <block ID="3621">
     <ItemID>16743</ItemID>
     <ItemType>13</ItemType>
-    <Original>Teardrop.</Original>
+    <Original>Larme.</Original>
     <Translation></Translation>
   </block>
   <block ID="3622">
     <ItemID>16744</ItemID>
     <ItemType>13</ItemType>
-    <Original>This should do the trick.</Original>
+    <Original>Ca devrait faire l'affaire.</Original>
     <Translation></Translation>
   </block>
   <block ID="3623">
     <ItemID>16745</ItemID>
     <ItemType>13</ItemType>
-    <Original>You'll have to give me the key I already gave you first.</Original>
+    <Original>Vous devrez me donner la clé que je vous ai déj&#224; donné.</Original>
     <Translation></Translation>
   </block>
   <block ID="3624">
     <ItemID>16746</ItemID>
     <ItemType>13</ItemType>
-    <Original>I agree it's important to recycle.</Original>
+    <Original>Je suis enti&#232;rement d'accord, c'est important de recycler.</Original>
     <Translation></Translation>
   </block>
   <block ID="3625">
     <ItemID>16747</ItemID>
     <ItemType>13</ItemType>
-    <Original>All right, what does the lock look like?</Original>
+    <Original>Bon, &#224; quoi ressemble cette serrure ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3626">
     <ItemID>16748</ItemID>
     <ItemType>13</ItemType>
-    <Original>I have retrieved your ''important'' grocery list!</Original>
+    <Original>J'ai récupéré votre "importante" liste de course !</Original>
     <Translation></Translation>
   </block>
   <block ID="3627">
     <ItemID>16749</ItemID>
     <ItemType>13</ItemType>
-    <Original>Thank you ever so much!+</Original>
+    <Original>Je vous remercie infiniment !+</Original>
     <Translation></Translation>
   </block>
   <block ID="3628">
     <ItemID>16750</ItemID>
     <ItemType>13</ItemType>
-    <Original>Come back if you have any oddly-shaped locks that need opening!</Original>
+    <Original>Revenez si vous avez n'importe quelle serrure étrange a ouvrir !</Original>
     <Translation></Translation>
   </block>
   <block ID="3629">
     <ItemID>16751</ItemID>
     <ItemType>13</ItemType>
-    <Original>Well I don't remember how it started, but we will be victorious!</Original>
+    <Original>Eh bien, je ne me souviens pas comment ça a commencé, mais nous gagnerons !</Original>
     <Translation></Translation>
   </block>
   <block ID="3630">
     <ItemID>16752</ItemID>
     <ItemType>13</ItemType>
-    <Original>Locksmiths are strangers to compassion, so maybe try up north.</Original>
+    <Original>Les Serruriers sont étrangers &#224; la compassion, essayez peut-&#234;tre au nord.</Original>
     <Translation></Translation>
   </block>
   <block ID="3631">
     <ItemID>16753</ItemID>
     <ItemType>13</ItemType>
-    <Original>Totally Traditional.</Original>
+    <Original>Enti&#232;rement traditionnelle.</Original>
     <Translation></Translation>
   </block>
   <block ID="3632">
     <ItemID>16754</ItemID>
     <ItemType>13</ItemType>
-    <Original>Patty Cake.</Original>
+    <Original>Un Gâteau de Viande.</Original>
     <Translation></Translation>
   </block>
   <block ID="3633">
     <ItemID>16755</ItemID>
     <ItemType>13</ItemType>
-    <Original>Make Heroic Whoopie.</Original>
+    <Original>Faire un Coussin Héro&#239;que</Original>
     <Translation></Translation>
   </block>
   <block ID="3634">
     <ItemID>16756</ItemID>
     <ItemType>13</ItemType>
-    <Original>The Birds and the Bees.</Original>
+    <Original>Les Oiseaux et les Abeilles.</Original>
     <Translation></Translation>
   </block>
   <block ID="3635">
     <ItemID>16757</ItemID>
     <ItemType>13</ItemType>
-    <Original>The Saucy Sasquatch.</Original>
+    <Original>La Sauce Sasquatch.</Original>
     <Translation></Translation>
   </block>
   <block ID="3636">
     <ItemID>16758</ItemID>
     <ItemType>13</ItemType>
-    <Original>The Isosceles Inversion.</Original>
+    <Original>L'inversion Isoc&#232;le.</Original>
     <Translation></Translation>
   </block>
   <block ID="3637">
     <ItemID>16759</ItemID>
     <ItemType>13</ItemType>
-    <Original>The One-Eyed Pirate.</Original>
+    <Original>Le Pirate Borgne.</Original>
     <Translation></Translation>
   </block>
   <block ID="3638">
     <ItemID>16760</ItemID>
     <ItemType>13</ItemType>
-    <Original>Chunky Peanut Butter.</Original>
+    <Original>Le Beurre d'Arachide Croquant.</Original>
     <Translation></Translation>
   </block>
   <block ID="3639">
     <ItemID>16761</ItemID>
     <ItemType>13</ItemType>
-    <Original>Purple Pagoda.</Original>
+    <Original>La Pagode Violette.</Original>
     <Translation></Translation>
   </block>
   <block ID="3640">
     <ItemID>16762</ItemID>
     <ItemType>13</ItemType>
-    <Original>The Twirling Fantastic.</Original>
+    <Original>Le Tournoiement Fantastique.</Original>
     <Translation></Translation>
   </block>
   <block ID="3641">
     <ItemID>16763</ItemID>
     <ItemType>13</ItemType>
-    <Original>Spider Monkey.</Original>
+    <Original>L'Araignée Singe.</Original>
     <Translation></Translation>
   </block>
   <block ID="3642">
     <ItemID>16764</ItemID>
     <ItemType>13</ItemType>
-    <Original>The Skillful Zombie.</Original>
+    <Original>Le Zombie Savant.</Original>
     <Translation></Translation>
   </block>
   <block ID="3643">
     <ItemID>16765</ItemID>
     <ItemType>13</ItemType>
-    <Original>The Plaid Bagpipe.</Original>
+    <Original>La Cornemuse Écossaise.</Original>
     <Translation></Translation>
   </block>
   <block ID="3644">
     <ItemID>16766</ItemID>
     <ItemType>13</ItemType>
-    <Original>The Forbidden Planet Dance Party.</Original>
+    <Original>La Dance Machine Planétaire Interdite.</Original>
     <Translation></Translation>
   </block>
   <block ID="3645">
     <ItemID>16767</ItemID>
     <ItemType>13</ItemType>
-    <Original>You Must Be This High To Ride.</Original>
+    <Original>Vous Devez &#202;tre Grand Pour Monter Haut.</Original>
     <Translation></Translation>
   </block>
   <block ID="3646">
     <ItemID>16768</ItemID>
     <ItemType>13</ItemType>
-    <Original>The John Galt Railway.</Original>
+    <Original>Le Hessensé Elf</Original>
     <Translation></Translation>
   </block>
   <block ID="3647">
     <ItemID>16773</ItemID>
     <ItemType>13</ItemType>
-    <Original>I should go inside the Tar Pit Cave to use this.</Original>
+    <Original>Je devrais aller dans la Caverne Fosse &#224; Goudron pour utiliser ça.</Original>
     <Translation></Translation>
   </block>
   <block ID="3648">
     <ItemID>16774</ItemID>
     <ItemType>13</ItemType>
-    <Original>Let's see... what should I take?+</Original>
+    <Original>Voyons voir... Quest-ce que je dois faire ?+</Original>
     <Translation></Translation>
   </block>
   <block ID="3649">
     <ItemID>16775</ItemID>
     <ItemType>13</ItemType>
-    <Original>Oh! Important-looking orders?+</Original>
+    <Original>Oh ! On dirait des ordres important ?+</Original>
     <Translation></Translation>
   </block>
   <block ID="3650">
     <ItemID>16776</ItemID>
     <ItemType>13</ItemType>
-    <Original>Those will fetch a nice price.</Original>
+    <Original>Il doivent valoir un sacré paquet.</Original>
     <Translation></Translation>
   </block>
   <block ID="3651">
     <ItemID>16777</ItemID>
     <ItemType>13</ItemType>
-    <Original>Some sort of magical barrier is preventing me from touching this.</Original>
+    <Original>Une sorte de barri&#232;re magique m'emp&#234;che de toucher ça.</Original>
     <Translation></Translation>
   </block>
   <block ID="3652">
     <ItemID>16779</ItemID>
     <ItemType>13</ItemType>
-    <Original>I don't have a key to open this Chest.</Original>
+    <Original>Je n'ai pas une clé pour ouvrir ce coffre.</Original>
     <Translation></Translation>
   </block>
   <block ID="3653">
     <ItemID>16783</ItemID>
     <ItemType>13</ItemType>
-    <Original>Because sometimes a soldier's rations are his best friend.+</Original>
+    <Original>Parce que parfois, les rations d'un soldat sont ses meilleures amies.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3654">
     <ItemID>16784</ItemID>
     <ItemType>13</ItemType>
-    <Original>Toot toot!</Original>
+    <Original>Tuut tuut !</Original>
     <Translation></Translation>
   </block>
   <block ID="3655">
     <ItemID>16785</ItemID>
     <ItemType>13</ItemType>
-    <Original>Problem is that we aren't sure where it is and nobody is willing to go out and look.</Original>
+    <Original>Le probl&#232;me est que nous ne savons pas o&#249; il est et personne n'est pr&#234;t &#224; aller chercher.</Original>
     <Translation></Translation>
   </block>
   <block ID="3656">
     <ItemID>16786</ItemID>
     <ItemType>13</ItemType>
-    <Original>Leave it to me, cowardly soldier.</Original>
+    <Original>Laissez-moi faire, peureux soldat.</Original>
     <Translation></Translation>
   </block>
   <block ID="3657">
     <ItemID>16787</ItemID>
     <ItemType>13</ItemType>
-    <Original>Just follow the dirt path and recon the Orque Comm Tower's position.</Original>
+    <Original>Il vous suffit de suivre le chemin de terre et de repérer la position de la Tour de Communication Orc.</Original>
     <Translation></Translation>
   </block>
   <block ID="3658">
     <ItemID>16788</ItemID>
     <ItemType>13</ItemType>
-    <Original>I found the Orque Comm Tower.+</Original>
+    <Original>J'ai trouvé la Tour de Communication Orc.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3659">
     <ItemID>16789</ItemID>
     <ItemType>13</ItemType>
-    <Original>I'm surprised you couldn't see it from here.</Original>
+    <Original>Je suis surpris que vous ne puissiez pas la voir d'ici.</Original>
     <Translation></Translation>
   </block>
   <block ID="3660">
     <ItemID>16790</ItemID>
     <ItemType>13</ItemType>
-    <Original>Nice work, DeathSpank.</Original>
+    <Original>Beau travail, DeathSpank.</Original>
     <Translation></Translation>
   </block>
   <block ID="3661">
     <ItemID>16791</ItemID>
     <ItemType>13</ItemType>
-    <Original>What were you mentioning about that Orque Comm Tower, again?</Original>
+    <Original>Qu'est-ce que vous disiez sur la Tour de Communication Orc, déj&#224; ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3662">
     <ItemID>16792</ItemID>
     <ItemType>13</ItemType>
-    <Original>Money's always good.</Original>
+    <Original>L'argent est toujours bien venu.</Original>
     <Translation></Translation>
   </block>
   <block ID="3663">
     <ItemID>16804</ItemID>
     <ItemType>13</ItemType>
-    <Original>The Lost and Found is a place to find items, not lose them.</Original>
+    <Original>Les Objets Trouvés est un endroit pour retrouver des objets, ne les reperdez pas.</Original>
     <Translation></Translation>
   </block>
   <block ID="3664">
     <ItemID>16820</ItemID>
     <ItemType>13</ItemType>
-    <Original>General Snugglewugglepants will kill me if I leave this lying around.</Original>
+    <Original>Le Général Snugglewugglepants va me tuer si je laisse ça trainer.</Original>
     <Translation></Translation>
   </block>
   <block ID="3665">
