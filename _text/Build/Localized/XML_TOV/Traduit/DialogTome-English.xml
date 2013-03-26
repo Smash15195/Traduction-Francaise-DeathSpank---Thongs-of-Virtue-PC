@@ -22527,13 +22527,13 @@
   <block ID="3754">
     <ItemID>17169</ItemID>
     <ItemType>13</ItemType>
-    <Original>You're not even going to try?</Original>
+    <Original>Vous n'allez m&#234;me pas essayer ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3755">
     <ItemID>17170</ItemID>
     <ItemType>13</ItemType>
-    <Original>Well, I guess that means you're disqualified.</Original>
+    <Original>Eh bien, j'imagine que ça signifie que vous &#234;tes disqualifié.</Original>
     <Translation></Translation>
   </block>
   <block ID="3756">
@@ -22557,97 +22557,97 @@
   <block ID="3759">
     <ItemID>17174</ItemID>
     <ItemType>13</ItemType>
-    <Original>Your dish was presented very well.</Original>
+    <Original>Votre plat est tr&#232;s bien présenté.</Original>
     <Translation></Translation>
   </block>
   <block ID="3760">
     <ItemID>17175</ItemID>
     <ItemType>13</ItemType>
-    <Original>And tasted incredible.</Original>
+    <Original>Et a un go&#251;t incroyable.</Original>
     <Translation></Translation>
   </block>
   <block ID="3761">
     <ItemID>17176</ItemID>
     <ItemType>13</ItemType>
-    <Original>You are an amazing cook.</Original>
+    <Original>Vous &#234;tes un cuisinier incroyable.</Original>
     <Translation></Translation>
   </block>
   <block ID="3762">
     <ItemID>17190</ItemID>
     <ItemType>13</ItemType>
-    <Original>Imagine there's no gravity. It's easy if you fall.</Original>
+    <Original>Imaginez qu'il n'y a pas de gravité. Que tombez ne fait pas mal.</Original>
     <Translation></Translation>
   </block>
   <block ID="3763">
     <ItemID>17198</ItemID>
     <ItemType>13</ItemType>
-    <Original>As long as I'm on this farm, you're not touching those lemons!</Original>
+    <Original>Aussi longtemps que je serais dans cette ferme, vous ne toucherez pas &#224; ces citrons !</Original>
     <Translation></Translation>
   </block>
   <block ID="3764">
     <ItemID>17200</ItemID>
     <ItemType>13</ItemType>
-    <Original>That's way too valuable to grind into cash.</Original>
+    <Original>C'est beaucoup trop précieuse pour le broyer en pépettes sonnantes et trébuchantes.</Original>
     <Translation></Translation>
   </block>
   <block ID="3765">
     <ItemID>17201</ItemID>
     <ItemType>13</ItemType>
-    <Original>I don't want to grind this, it's one of the nicest things I have.</Original>
+    <Original>Je ne veux pas de broyer ça, c'est l'une des plus belles choses que j'ai.</Original>
     <Translation></Translation>
   </block>
   <block ID="3766">
     <ItemID>17205</ItemID>
     <ItemType>13</ItemType>
-    <Original>Greetings brother, welcome.</Original>
+    <Original>Salutations fr&#232;re, bienvenue.</Original>
     <Translation></Translation>
   </block>
   <block ID="3767">
     <ItemID>17206</ItemID>
     <ItemType>13</ItemType>
-    <Original>Hey! You're not allowed in here!</Original>
+    <Original>Hé ! Vous n'&#234;tes pas autorisé &#224; &#234;tre ici !</Original>
     <Translation></Translation>
   </block>
   <block ID="3768">
     <ItemID>17207</ItemID>
     <ItemType>13</ItemType>
-    <Original>You must be here to relieve me.</Original>
+    <Original>Vous devez &#234;tre l&#224; pour me relever</Original>
     <Translation></Translation>
   </block>
   <block ID="3769">
     <ItemID>17208</ItemID>
     <ItemType>13</ItemType>
-    <Original>It's one of those weird-looking locks with three parts again.</Original>
+    <Original>Celle l&#224; est une de ces serrures bizarre en trois parties.</Original>
     <Translation></Translation>
   </block>
   <block ID="3770">
     <ItemID>17209</ItemID>
     <ItemType>13</ItemType>
-    <Original>This is the weirdest-looking lock on a treasure chest I've ever seen.</Original>
+    <Original>C'est la serrure la plus bizarre sur un coffre au trésor que j'ai jamais vu.</Original>
     <Translation></Translation>
   </block>
   <block ID="3771">
     <ItemID>17210</ItemID>
     <ItemType>13</ItemType>
-    <Original>Well, Sugar.</Original>
+    <Original>Eh bien, mon coeur.</Original>
     <Translation></Translation>
   </block>
   <block ID="3772">
     <ItemID>17211</ItemID>
     <ItemType>13</ItemType>
-    <Original>Oops.</Original>
+    <Original>Oups.</Original>
     <Translation></Translation>
   </block>
   <block ID="3773">
     <ItemID>17248</ItemID>
     <ItemType>13</ItemType>
-    <Original>Also skeletons.</Original>
+    <Original>Et aussi les squelettes.</Original>
     <Translation></Translation>
   </block>
   <block ID="3774">
     <ItemID>17249</ItemID>
     <ItemType>13</ItemType>
-    <Original>You can't handle what's inside there.</Original>
+    <Original>Vous ne pouvez pas prendre ce qui est l&#224;-dedans.</Original>
     <Translation></Translation>
   </block>
   <block ID="3775">
@@ -22665,13 +22665,13 @@
   <block ID="3777">
     <ItemID>17254</ItemID>
     <ItemType>13</ItemType>
-    <Original>I'm not touching that.</Original>
+    <Original>Je ne touche pas ça.</Original>
     <Translation></Translation>
   </block>
   <block ID="3778">
     <ItemID>17255</ItemID>
     <ItemType>13</ItemType>
-    <Original>Here is the sacred object.</Original>
+    <Original>Voil&#224; l'objet sacré.</Original>
     <Translation></Translation>
   </block>
   <block ID="3779">
@@ -22683,547 +22683,547 @@
   <block ID="3780">
     <ItemID>17258</ItemID>
     <ItemType>13</ItemType>
-    <Original>I don't want to drop important keys.</Original>
+    <Original>Je ne veux pas lâcher ces importantes clés.</Original>
     <Translation></Translation>
   </block>
   <block ID="3781">
     <ItemID>17260</ItemID>
     <ItemType>13</ItemType>
-    <Original>I don't have a key to open that fine looking treasure chest.</Original>
+    <Original>Je n'ai pas de clé pour ouvrir ce beau coffre au trésor.</Original>
     <Translation></Translation>
   </block>
   <block ID="3782">
     <ItemID>17261</ItemID>
     <ItemType>13</ItemType>
-    <Original>I don't have a key to open that fine looking treasure chest.</Original>
+    <Original>Je n'ai pas de clé pour ouvrir ce beau coffre au trésor.</Original>
     <Translation></Translation>
   </block>
   <block ID="3783">
     <ItemID>17262</ItemID>
     <ItemType>13</ItemType>
-    <Original>I don't have a key to open this blasted treasure chest.</Original>
+    <Original>Je n'ai pas de clé pour ouvrir ce satané coffre au trésor.</Original>
     <Translation></Translation>
   </block>
   <block ID="3784">
     <ItemID>17263</ItemID>
     <ItemType>13</ItemType>
-    <Original>I don't have a key to open that beautiful, gorgeous, glistening treasure chest.</Original>
+    <Original>Je n'ai pas de clé pour ouvrir ce beau, magnifique, coffre au trésor étincelant.</Original>
     <Translation></Translation>
   </block>
   <block ID="3785">
     <ItemID>17264</ItemID>
     <ItemType>13</ItemType>
-    <Original>Why is it you never seem to have a key to open a treasure chest when you need one?</Original>
+    <Original>Pourquoi est-ce qu'il semble que je n'ai  jamais de clé pour ouvrir un coffre au trésor quand j'en ai besoin ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3786">
     <ItemID>17265</ItemID>
     <ItemType>13</ItemType>
-    <Original>I don't want to get rid of this... I feel naked without a weapon.</Original>
+    <Original>Je ne veux pas de me débarrasser de ça... Je me sens tout nu, sans arme.</Original>
     <Translation></Translation>
   </block>
   <block ID="3787">
     <ItemID>17266</ItemID>
     <ItemType>13</ItemType>
-    <Original>I don't want to get rid of this... I feel naked without a weapon.</Original>
+    <Original>Je ne veux pas de me débarrasser de ça... Je me sens tout nu, sans arme.</Original>
     <Translation></Translation>
   </block>
   <block ID="3788">
     <ItemID>17270</ItemID>
     <ItemType>13</ItemType>
-    <Original>The train seems to be waiting for something to happen.</Original>
+    <Original>Le train semble attendre que quelque chose se passe.</Original>
     <Translation></Translation>
   </block>
   <block ID="3789">
     <ItemID>17274</ItemID>
     <ItemType>13</ItemType>
-    <Original>Here's your money, fine-looking lady. Let's do the bologna pony!</Original>
+    <Original>Voici votre argent, dame de belle apparence. Faisons nous une soirée Bunga bunga !</Original>
     <Translation></Translation>
   </block>
   <block ID="3790">
     <ItemID>17275</ItemID>
     <ItemType>13</ItemType>
-    <Original>Here's your money, fine-looking lady. Now let's do the hokey pokey!</Original>
+    <Original>Hocus-pocus, voici votre argent, dame de belle apparence. </Original>
     <Translation></Translation>
   </block>
   <block ID="3791">
     <ItemID>17276</ItemID>
     <ItemType>13</ItemType>
-    <Original>Here's your money, fine-looking lady.</Original>
+    <Original>Voici votre argent, dame de belle apparence.</Original>
     <Translation></Translation>
   </block>
   <block ID="3792">
     <ItemID>17277</ItemID>
     <ItemType>13</ItemType>
-    <Original>I don't want to get rid of this... I feel naked without a weapon.</Original>
+    <Original>Je ne veux pas de me débarrasser de ça... Je me sens tout nu, sans arme.</Original>
     <Translation></Translation>
   </block>
   <block ID="3793">
     <ItemID>17278</ItemID>
     <ItemType>13</ItemType>
-    <Original>I don't want to get rid of this... I feel naked without a weapon.</Original>
+    <Original>Je ne veux pas de me débarrasser de ça... Je me sens tout nu, sans arme.</Original>
     <Translation></Translation>
   </block>
   <block ID="3794">
     <ItemID>17290</ItemID>
     <ItemType>13</ItemType>
-    <Original>Hey, what are you doing here?</Original>
+    <Original>Hé, qu'est-ce que vous faites ici ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3795">
     <ItemID>17291</ItemID>
     <ItemType>13</ItemType>
-    <Original>Hey, you're not allowed down here!</Original>
+    <Original>Hey, vous n'&#234;tes pas autorisé &#224; &#234;tre ici !</Original>
     <Translation></Translation>
   </block>
   <block ID="3796">
     <ItemID>17292</ItemID>
     <ItemType>13</ItemType>
-    <Original>Intruder! Stop!</Original>
+    <Original>Un intrus ! Arr&#234;tez-le !</Original>
     <Translation></Translation>
   </block>
   <block ID="3797">
     <ItemID>17293</ItemID>
     <ItemType>13</ItemType>
-    <Original>I said don't touch that!</Original>
+    <Original>J'ai dit que je ne toucherais pas &#224; ça !</Original>
     <Translation></Translation>
   </block>
   <block ID="3798">
     <ItemID>17294</ItemID>
     <ItemType>13</ItemType>
-    <Original>Keep your hands to yourself!</Original>
+    <Original>Gardez vos mains dans vos poches !</Original>
     <Translation></Translation>
   </block>
   <block ID="3799">
     <ItemID>17295</ItemID>
     <ItemType>13</ItemType>
-    <Original>Uh uh uh uh. What did I say? You can't handle it.</Original>
+    <Original>Uh uh uh uh. Qu'est-ce que j'ai dit ? Vous ne pouvez pas prendre ceci.</Original>
     <Translation></Translation>
   </block>
   <block ID="3800">
     <ItemID>17296</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ooh! I like that one!</Original>
+    <Original>Ooh ! J'adore celui-l&#224; !</Original>
     <Translation></Translation>
   </block>
   <block ID="3801">
     <ItemID>17297</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ooh! Good choice!</Original>
+    <Original>Ooh ! Bon choix !</Original>
     <Translation></Translation>
   </block>
   <block ID="3802">
     <ItemID>17298</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ooh! Haven't done that one in a while!</Original>
+    <Original>Ooh ! N'ont pas fait que l'un de temps en temps!</Original>
     <Translation></Translation>
   </block>
   <block ID="3803">
     <ItemID>17299</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ooh! Nice job!</Original>
+    <Original>Ooh ! Joli travail !</Original>
     <Translation></Translation>
   </block>
   <block ID="3804">
     <ItemID>17303</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ooh...Yummy!</Original>
+    <Original>Ooh... Go&#251;tu !</Original>
     <Translation></Translation>
   </block>
   <block ID="3805">
     <ItemID>17304</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mmm...Yummy!</Original>
+    <Original>Ooh... Vraiment go&#251;tu !</Original>
     <Translation></Translation>
   </block>
   <block ID="3806">
     <ItemID>17305</ItemID>
     <ItemType>13</ItemType>
-    <Original>Yummy!</Original>
+    <Original>C'est bon !</Original>
     <Translation></Translation>
   </block>
   <block ID="3807">
     <ItemID>17306</ItemID>
     <ItemType>13</ItemType>
-    <Original>Yummy!</Original>
+    <Original>C'est bon !</Original>
     <Translation></Translation>
   </block>
   <block ID="3808">
     <ItemID>17307</ItemID>
     <ItemType>13</ItemType>
-    <Original>Oh! That was delicious!</Original>
+    <Original>Oh ! C'était délicieux !</Original>
     <Translation></Translation>
   </block>
   <block ID="3809">
     <ItemID>17308</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mmm... that was fabulous!</Original>
+    <Original>Mmm... c'était fabuleux !</Original>
     <Translation></Translation>
   </block>
   <block ID="3810">
     <ItemID>17309</ItemID>
     <ItemType>13</ItemType>
-    <Original>Oh that was delicious!</Original>
+    <Original>Oh c'était délicieux !</Original>
     <Translation></Translation>
   </block>
   <block ID="3811">
     <ItemID>17310</ItemID>
     <ItemType>13</ItemType>
-    <Original>Oh that was delicious!</Original>
+    <Original>Oh c'était délicieux !</Original>
     <Translation></Translation>
   </block>
   <block ID="3812">
     <ItemID>17312</ItemID>
     <ItemType>13</ItemType>
-    <Original>Don't let evil triumph. Buy this game Citizen.</Original>
+    <Original>Ne laissez pas le mal triompher. Achetez ce jeu, Citoyen.</Original>
     <Translation></Translation>
   </block>
   <block ID="3813">
     <ItemID>17313</ItemID>
     <ItemType>13</ItemType>
-    <Original>Only you can vanquish evil... with your wallet!</Original>
+    <Original>Vous pouvez vaincre le mal... avec votre portefeuille !</Original>
     <Translation></Translation>
   </block>
   <block ID="3814">
     <ItemID>17314</ItemID>
     <ItemType>13</ItemType>
-    <Original>Justice can only be served if you buy this game.</Original>
+    <Original>La justice ne peut &#234;tre servie que si vous achetez ce jeu.</Original>
     <Translation></Translation>
   </block>
   <block ID="3815">
     <ItemID>17315</ItemID>
     <ItemType>13</ItemType>
-    <Original>Be a Hero just like me, Citizen... and buy this game!</Original>
+    <Original>Soyez un héros, tout comme moi, citoyen... et acheter ce jeu !</Original>
     <Translation></Translation>
   </block>
   <block ID="3816">
     <ItemID>17316</ItemID>
     <ItemType>13</ItemType>
-    <Original>Purchase this game with beautifully hand-crafted pixels.</Original>
+    <Original>Acheter ce jeu avec des pixels fait magnifiquement &#224; la main.</Original>
     <Translation></Translation>
   </block>
   <block ID="3817">
     <ItemID>17317</ItemID>
     <ItemType>13</ItemType>
-    <Original>If you only buy one game this year... you're clearly not playing enough games.</Original>
+    <Original>Si vous achetez seulement un jeu cette année... vous ne jouez manifestement pas assez aux jeux vidéo.</Original>
     <Translation></Translation>
   </block>
   <block ID="3818">
     <ItemID>17319</ItemID>
     <ItemType>13</ItemType>
-    <Original>That's way too valuable to grind into cash.</Original>
+    <Original>Vous n'avez clairement pas d'amis alors achetez ce jeu !</Original>
     <Translation></Translation>
   </block>
   <block ID="3819">
     <ItemID>17320</ItemID>
     <ItemType>13</ItemType>
-    <Original>That's way too valuable to grind into cash.</Original>
+    <Original>C'est beaucoup trop précieux pour le broyer contre de l'argent.</Original>
     <Translation></Translation>
   </block>
   <block ID="3820">
     <ItemID>17321</ItemID>
     <ItemType>13</ItemType>
-    <Original>That's way too valuable to grind into cash.</Original>
+    <Original>C'est beaucoup trop précieux pour le broyer contre de l'argent.</Original>
     <Translation></Translation>
   </block>
   <block ID="3821">
     <ItemID>17322</ItemID>
     <ItemType>13</ItemType>
-    <Original>I don't want to grind this, it's one of the nicest things I have.</Original>
+    <Original>Je ne veux pas de broyer ça, c'est une des plus belles choses que j'ai.</Original>
     <Translation></Translation>
   </block>
   <block ID="3822">
     <ItemID>17323</ItemID>
     <ItemType>13</ItemType>
-    <Original>I don't want to grind this, it's one of the nicest things I have.</Original>
+    <Original>Je ne veux pas de broyer ça, c'est une des plus belles choses que j'ai.</Original>
     <Translation></Translation>
   </block>
   <block ID="3823">
     <ItemID>17338</ItemID>
     <ItemType>13</ItemType>
-    <Original>Once again, the red-haired woman mysteriously arrives to remove the corrupt Thong from its wearer.</Original>
+    <Original>Encore une fois, la femme aux cheveux rouge arriva mystérieusement pour retirer le String corrompu de son porteur.</Original>
     <Translation></Translation>
   </block>
   <block ID="3824">
     <ItemID>17339</ItemID>
     <ItemType>13</ItemType>
-    <Original>As another dead Thong wearer lay before our hero, the eloquent red-haired woman shows up to remove the corrupt thong.</Original>
+    <Original>Alors qu'un autre porteur de String gisait mort devant notre héros, l'éloquente femme rousse retira le string corrompu.</Original>
     <Translation></Translation>
   </block>
   <block ID="3825">
     <ItemID>17340</ItemID>
     <ItemType>13</ItemType>
-    <Original>I don't want to get rid of this... I feel naked without a weapon.</Original>
+    <Original>Je ne veux pas de me débarrasser de ça... Je me sens tout nu, sans arme.</Original>
     <Translation></Translation>
   </block>
   <block ID="3826">
     <ItemID>17458</ItemID>
     <ItemType>13</ItemType>
-    <Original>OK. Fine. Whatever.</Original>
+    <Original>OK. Tr&#232;s bien. Peu importe.</Original>
     <Translation></Translation>
   </block>
   <block ID="3827">
     <ItemID>17459</ItemID>
     <ItemType>13</ItemType>
-    <Original>Huh? Yeah, sure. Whatever. Just walk away. It's all good.</Original>
+    <Original>Hein ? Ouais, bien s&#251;r. Ca ne fait rien. Laissez tomber, C'est bon.</Original>
     <Translation></Translation>
   </block>
   <block ID="3828">
     <ItemID>17460</ItemID>
     <ItemType>13</ItemType>
-    <Original>Alright, sure. You don't need any laughs and fun in your life. Go ahead, walk away.</Original>
+    <Original>Ah d'accord, bien s&#251;r. Vous n'avez pas besoin de rires ou de plaisirs dans votre vie. On laisse tomber.</Original>
     <Translation></Translation>
   </block>
   <block ID="3829">
     <ItemID>17461</ItemID>
     <ItemType>13</ItemType>
-    <Original>Fine. Go back to your solitaire.</Original>
+    <Original>Tr&#232;s bien. Retournez &#224; votre solitude.</Original>
     <Translation></Translation>
   </block>
   <block ID="3830">
     <ItemID>17462</ItemID>
     <ItemType>13</ItemType>
-    <Original>Developers have kids, you know... families to feed.</Original>
+    <Original>Les dévelopeurs ont des enfants, vous savez... des familles a charges.</Original>
     <Translation></Translation>
   </block>
   <block ID="3831">
     <ItemID>17463</ItemID>
     <ItemType>13</ItemType>
-    <Original>Come on. It's not THAT expensive.</Original>
+    <Original>Allez. C'est pas SI cher.</Original>
     <Translation></Translation>
   </block>
   <block ID="3832">
     <ItemID>17466</ItemID>
     <ItemType>13</ItemType>
-    <Original>A health potion sure would hit the spot.</Original>
+    <Original>Une potion de santé fera certainement l'affaire.</Original>
     <Translation></Translation>
   </block>
   <block ID="3833">
     <ItemID>17467</ItemID>
     <ItemType>13</ItemType>
-    <Original>Is this the end of DeathSpank?</Original>
+    <Original>Est-ce la fin de DeathSpank ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3834">
     <ItemID>17468</ItemID>
     <ItemType>13</ItemType>
-    <Original>Look out! Pulsing images!</Original>
+    <Original>Attention ! Images pulsative !</Original>
     <Translation></Translation>
   </block>
   <block ID="3835">
     <ItemID>17469</ItemID>
     <ItemType>13</ItemType>
-    <Original>Danger! Danger! Low health!</Original>
+    <Original>Danger ! Danger ! Santé Faible !</Original>
     <Translation></Translation>
   </block>
   <block ID="3836">
     <ItemID>17471</ItemID>
     <ItemType>13</ItemType>
-    <Original>Hero needs food badly!</Original>
+    <Original>Un Héros a besoins de denrées alimentaires !</Original>
     <Translation></Translation>
   </block>
   <block ID="3837">
     <ItemID>17472</ItemID>
     <ItemType>13</ItemType>
-    <Original>It's only a flesh wound.</Original>
+    <Original>C'est seulement une plaie ouverte.</Original>
     <Translation></Translation>
   </block>
   <block ID="3838">
     <ItemID>17473</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ouch!</Original>
+    <Original>A&#239;e !</Original>
     <Translation></Translation>
   </block>
   <block ID="3839">
     <ItemID>17474</ItemID>
     <ItemType>13</ItemType>
-    <Original>Okay, that stings a little.</Original>
+    <Original>D'accord, ça pique un peu.</Original>
     <Translation></Translation>
   </block>
   <block ID="3840">
     <ItemID>17500</ItemID>
     <ItemType>13</ItemType>
-    <Original>Hurry up citizen! Justice awaits!</Original>
+    <Original>Dép&#234;chez-vous citoyen ! La Justice attend !</Original>
     <Translation></Translation>
   </block>
   <block ID="3841">
     <ItemID>17501</ItemID>
     <ItemType>13</ItemType>
-    <Original>Choose heroically, brave friend. Time is short!</Original>
+    <Original>Choisissez héro&#239;quement, mon brave ami. Le temps presse !</Original>
     <Translation></Translation>
   </block>
   <block ID="3842">
     <ItemID>17502</ItemID>
     <ItemType>13</ItemType>
-    <Original>Make a selection... for justice!</Original>
+    <Original>Faites un choix... pour la justice !</Original>
     <Translation></Translation>
   </block>
   <block ID="3843">
     <ItemID>17505</ItemID>
     <ItemType>13</ItemType>
-    <Original>I know this menu screen is pretty darn amazing, but believe me, the game is WAY better.</Original>
+    <Original>Je sais que ce menu est vachement étonnant, mais croyez-moi, le jeu est bien meilleur.</Original>
     <Translation></Translation>
   </block>
   <block ID="3844">
     <ItemID>17506</ItemID>
     <ItemType>13</ItemType>
-    <Original>Let's do the forbidden dance... of justice!</Original>
+    <Original>Faisons la danse interdite de... la justice !</Original>
     <Translation></Translation>
   </block>
   <block ID="3845">
     <ItemID>17507</ItemID>
     <ItemType>13</ItemType>
-    <Original>The adventure begins!</Original>
+    <Original>L'aventure commence !</Original>
     <Translation></Translation>
   </block>
   <block ID="3846">
     <ItemID>17508</ItemID>
     <ItemType>13</ItemType>
-    <Original>Let's do this thing called justice.</Original>
+    <Original>Faisons cette chose qu'on appelle Justice.</Original>
     <Translation></Translation>
   </block>
   <block ID="3847">
     <ItemID>17509</ItemID>
     <ItemType>13</ItemType>
-    <Original>Get ready, it's hero time.</Original>
+    <Original>Soyez pr&#234;t, c'est l'heure du héros.</Original>
     <Translation></Translation>
   </block>
   <block ID="3848">
     <ItemID>17510</ItemID>
     <ItemType>13</ItemType>
-    <Original>Now where was I?</Original>
+    <Original>J'en étais o&#249; ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3849">
     <ItemID>17511</ItemID>
     <ItemType>13</ItemType>
-    <Original>It's good to be back.</Original>
+    <Original>C'est bon d'&#234;tre de retour.</Original>
     <Translation></Translation>
   </block>
   <block ID="3850">
     <ItemID>17512</ItemID>
     <ItemType>13</ItemType>
-    <Original>Let's continue our adventure.</Original>
+    <Original>Continuons notre aventure.</Original>
     <Translation></Translation>
   </block>
   <block ID="3851">
     <ItemID>17513</ItemID>
     <ItemType>13</ItemType>
-    <Original>Behold! The credits!</Original>
+    <Original>Voici ! Les crédits !</Original>
     <Translation></Translation>
   </block>
   <block ID="3852">
     <ItemID>17514</ItemID>
     <ItemType>13</ItemType>
-    <Original>These are the true heroes!</Original>
+    <Original>Ce sont les vrais héros !</Original>
     <Translation></Translation>
   </block>
   <block ID="3853">
     <ItemID>17515</ItemID>
     <ItemType>13</ItemType>
-    <Original>Hard workers, each and every one of them.</Original>
+    <Original>Chacune et chacun d'entre eux sont des travailleurs archarnés.</Original>
     <Translation></Translation>
   </block>
   <block ID="3854">
     <ItemID>17519</ItemID>
     <ItemType>13</ItemType>
-    <Original>These people are alright in MY books.</Original>
+    <Original>Ces gens sont bien dans MES livres.</Original>
     <Translation></Translation>
   </block>
   <block ID="3855">
     <ItemID>17520</ItemID>
     <ItemType>13</ItemType>
-    <Original>All these citizens helped me vanquish evil.</Original>
+    <Original>Tous ces citoyens m'ont aidé &#224; pourfendre le mal.</Original>
     <Translation></Translation>
   </block>
   <block ID="3856">
     <ItemID>17521</ItemID>
     <ItemType>13</ItemType>
-    <Original>I don't know how to use those things together.</Original>
+    <Original>Je ne sais pas comment utiliser ces choses ensemble.</Original>
     <Translation></Translation>
   </block>
   <block ID="3857">
     <ItemID>17522</ItemID>
     <ItemType>13</ItemType>
-    <Original>That's not going to work.</Original>
+    <Original>Ça ne va pas fonctionner.</Original>
     <Translation></Translation>
   </block>
   <block ID="3858">
     <ItemID>17523</ItemID>
     <ItemType>13</ItemType>
-    <Original>I can't combine those two things.</Original>
+    <Original>Je ne peux pas combiner ces deux machins.</Original>
     <Translation></Translation>
   </block>
   <block ID="3859">
     <ItemID>17524</ItemID>
     <ItemType>13</ItemType>
-    <Original>I'm pretty sure I'd get arrested for trying to combine those together.</Original>
+    <Original>Je suis pratiquement s&#251;r d'&#234;tre arr&#234;té pour avoir tenté de les combiner ensemble.</Original>
     <Translation></Translation>
   </block>
   <block ID="3860">
     <ItemID>17525</ItemID>
     <ItemType>13</ItemType>
-    <Original>I can't do that.</Original>
+    <Original>Je ne peux pas faire ça.</Original>
     <Translation></Translation>
   </block>
   <block ID="3861">
     <ItemID>17526</ItemID>
     <ItemType>13</ItemType>
-    <Original>OH YEAH!</Original>
+    <Original>OH OUAIS !</Original>
     <Translation></Translation>
   </block>
   <block ID="3862">
     <ItemID>17527</ItemID>
     <ItemType>13</ItemType>
-    <Original>There's still work that must be done.</Original>
+    <Original>Il y a encore du boulot qui doit &#234;tre fait.</Original>
     <Translation></Translation>
   </block>
   <block ID="3863">
     <ItemID>17535</ItemID>
     <ItemType>13</ItemType>
-    <Original>Somewhere a new and mighty adventure awaits DeathSpank! I hope it was reasonably priced!</Original>
+    <Original>Quelque part une nouvelle et formidable aventure attend DeathSpank ! J'esp&#232;re que le prix était raisonnable !</Original>
     <Translation></Translation>
   </block>
   <block ID="3864">
     <ItemID>17536</ItemID>
     <ItemType>13</ItemType>
-    <Original>Attention brave and/or timid citizens! My justice sense tells me of new, exciting discoveries awaiting DeathSpank!</Original>
+    <Original>Attention, courageux et / ou timides citoyens ! Mon sens de la justice me dit que de nouvelles et passionnantes découvertes attendent DeathSpank !</Original>
     <Translation></Translation>
   </block>
   <block ID="3865">
     <ItemID>17537</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ha ha! New adventures await! Tell your friends, defeat your enemies! Tell your friends of your enemies defeat!</Original>
+    <Original>Ha ha ! De nouvelles aventures attendent ! Dites-le &#224; vos amis, vainquez vos ennemis ! Ou faites le contraire !</Original>
     <Translation></Translation>
   </block>
   <block ID="3866">
     <ItemID>17538</ItemID>
     <ItemType>13</ItemType>
-    <Original>Somewhere a new challenge for DeathSpank has arisen! Seek it out and claim the glorious treasures in your quest for justice!</Original>
+    <Original>Quelque part un nouveau défi pour DeathSpank a surgi ! Recherchez-le et prenez possession de trésors glorieux dans votre qu&#234;te pour la justice !</Original>
     <Translation></Translation>
   </block>
   <block ID="3867">
     <ItemID>17539</ItemID>
     <ItemType>13</ItemType>
-    <Original>Strange treasures have arrived by priority mail! Make use of them in the never-ending battle with evil!</Original>
+    <Original>D'étranges trésors sont arrivés par courrier recommandé ! Utilisez-les dans la bataille sans fin contre le mal !</Original>
     <Translation></Translation>
   </block>
   <block ID="3868">
     <ItemID>17540</ItemID>
     <ItemType>13</ItemType>
-    <Original>Greeting citizen! An exciting extension to my adventure has arrived via digitized pigeon! Money given in the pursuit of justice is money well spent!</Original>
+    <Original>Salutation citoyens ! Une formidable extension de mon aventure est arrivée via pigeon digitalisé ! L'argent donné &#224; la poursuite de la justice est de l'argent bien dépensé !</Original>
     <Translation></Translation>
   </block>
   <block ID="3869">
     <ItemID>17541</ItemID>
     <ItemType>13</ItemType>
-    <Original>Brave adventurer! New adventuring for you to adventure in has been magically deposited inside your adventure.</Original>
+    <Original>Brave aventurier ! Une nouvelle aventure pour vous a été magiquement déposée &#224; l'intérieur de votre aventure.</Original>
     <Translation></Translation>
   </block>
   <block ID="3870">
     <ItemID>17542</ItemID>
     <ItemType>13</ItemType>
-    <Original>What's this? New content! And it's downloadable? Pinch me I must be dreaming, then stop pinching me because it's rude and I have a sword.</Original>
+    <Original>Qu'est-ce que c'est ? Un nouveau contenu ! Et il est téléchargeable ? Pincez-moi je r&#234;ve...  arr&#234;tez de me pincer, parce que ça fait mal et que j'ai une épée.</Original>
     <Translation></Translation>
   </block>
   <block ID="3871">
