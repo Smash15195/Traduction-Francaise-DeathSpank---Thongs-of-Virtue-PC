@@ -5487,7 +5487,7 @@
   <block ID="914">
     <ItemID>31466</ItemID>
     <ItemType>13</ItemType>
-    <Original>Seize Dollars du Capitaine Infecté</Original>
+    <Original>Seize Dollars du Capitaine Fétide</Original>
     <Translation></Translation>
   </block>
   <block ID="915">
@@ -5511,7 +5511,7 @@
   <block ID="918">
     <ItemID>31470</ItemID>
     <ItemType>13</ItemType>
-    <Original>Colis pour le Capitaine Infecté</Original>
+    <Original>Colis pour le Capitaine Fétide</Original>
     <Translation></Translation>
   </block>
   <block ID="919">
@@ -6405,7 +6405,7 @@
   <block ID="1067">
     <ItemID>31701</ItemID>
     <ItemType>13</ItemType>
-    <Original>Capitaine Infecté</Original>
+    <Original>Capitaine Fétide</Original>
     <Translation></Translation>
   </block>
   <block ID="1068">
@@ -7197,13 +7197,13 @@
   <block ID="1199">
     <ItemID>31918</ItemID>
     <ItemType>13</ItemType>
-    <Original>Obtenez un citron pour le Capitaine Infecté</Original>
+    <Original>Obtenez un citron pour le Capitaine Fétide</Original>
     <Translation></Translation>
   </block>
   <block ID="1200">
     <ItemID>31919</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le Capitaine Infecté &#224; Scorbutville dit que j'ai besoin d'un [Citron] pour prévenir le scorbut. Je devrais sans doute en chercher un dans une [Ferme]. Bien s&#251;r, je préf&#232;rerai une tarte au citron meringuée, mais ça ne fait pas tr&#232;s "pirate" et j'ai vraiment besoin d'emprunter son [Bateau Pirate].</Original>
+    <Original>Le Capitaine Fétide &#224; Scorbutville dit que j'ai besoin d'un [Citron] pour prévenir le scorbut. Je devrais sans doute en chercher un dans une [Ferme]. Bien s&#251;r, je préf&#232;rerai une tarte au citron meringuée, mais ça ne fait pas tr&#232;s "pirate" et j'ai vraiment besoin d'emprunter son [Bateau Pirate].</Original>
     <Translation></Translation>
   </block>
   <block ID="1201">
@@ -7215,13 +7215,13 @@
   <block ID="1202">
     <ItemID>31921</ItemID>
     <ItemType>13</ItemType>
-    <Original>Obtenez du Rhum pour le Capitaine Infecté</Original>
+    <Original>Obtenez du Rhum pour le Capitaine Fétide</Original>
     <Translation></Translation>
   </block>
   <block ID="1203">
     <ItemID>31922</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le Capitaine Infecté &#224; Scorbutville dit que j'ai besoin de [Rhum] avant de pouvoir emprunter son [Bateau Pirate] pour explorer le [Pôle Nord]. Je suppose que quun équipage ivre est un équipage heureux. J'ai besoin de trouver un endroit qui vend des essences de la nature distillée. J'ai entendu dire qu'il y en a unt dans la ville de [Strumfuquel].</Original>
+    <Original>Le Capitaine Fétide &#224; Scorbutville dit que j'ai besoin de [Rhum] avant de pouvoir emprunter son [Bateau Pirate] pour explorer le [Pôle Nord]. Je suppose que quun équipage ivre est un équipage heureux. J'ai besoin de trouver un endroit qui vend des essences de la nature distillée. J'ai entendu dire qu'il y en a unt dans la ville de [Strumfuquel].</Original>
     <Translation></Translation>
   </block>
   <block ID="1204">
@@ -7233,7 +7233,7 @@
   <block ID="1205">
     <ItemID>31924</ItemID>
     <ItemType>13</ItemType>
-    <Original>Obtenez les Clés du Bateau pour le Capitaine Infecté</Original>
+    <Original>Obtenez les Clés du Bateau pour le Capitaine Fétide</Original>
     <Translation></Translation>
   </block>
   <block ID="1206">
@@ -9045,13 +9045,13 @@
   <block ID="1507">
     <ItemID>32487</ItemID>
     <ItemType>13</ItemType>
-    <Original>Traquez l'équipage du Capitaine Infecté</Original>
+    <Original>Traquez l'équipage du Capitaine Fétide</Original>
     <Translation></Translation>
   </block>
   <block ID="1508">
     <ItemID>32488</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je dois localiser et tuer les [Matelots Mutins] du Capitaine Infecté pour retrouver les morceaux de sa [Carte au Trésor]. Le Capitaine Infecté a fait beaucoup pour moi au cours des années, y compris ce truc avec cette chose et je lui dois beaucoup. Je serais encore en prison sans lui.</Original>
+    <Original>Je dois localiser et tuer les [Matelots Mutins] du Capitaine Fétide pour retrouver les morceaux de sa [Carte au Trésor]. Le Capitaine Infecté a fait beaucoup pour moi au cours des années, y compris ce truc avec cette chose et je lui dois beaucoup. Je serais encore en prison sans lui.</Original>
     <Translation></Translation>
   </block>
   <block ID="1509">
@@ -9069,7 +9069,7 @@
   <block ID="1511">
     <ItemID>32491</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je dois trouver le trésor du Capitaine Infecté et lui rapporter. Il m'a dit que les [Matelots Mutins] l'ont probablement.</Original>
+    <Original>Je dois trouver le trésor du Capitaine Fétide et lui rapporter. Il m'a dit que les [Matelots Mutins] l'ont probablement.</Original>
     <Translation></Translation>
   </block>
   <block ID="1512">
@@ -9099,13 +9099,13 @@
   <block ID="1516">
     <ItemID>32496</ItemID>
     <ItemType>13</ItemType>
-    <Original>Livrez le Colis pour le Capitaine Infecté</Original>
+    <Original>Livrez le Colis pour le Capitaine Fétide</Original>
     <Translation></Translation>
   </block>
   <block ID="1517">
     <ItemID>32497</ItemID>
     <ItemType>13</ItemType>
-    <Original>Poque LaT&#234;te veut que je livre ce [Colis pour le Capitaine Infecté], qui vit dans le village pirate. Je suis censer suivre le chemin qui passe par une caverne dans la [Jungle]. ëtre un pirate doit &#234;tre tellement cool.</Original>
+    <Original>Poque LaT&#234;te veut que je livre ce [Colis pour le Capitaine Fétide], qui vit dans le village pirate. Je suis censer suivre le chemin qui passe par une caverne dans la [Jungle]. ëtre un pirate doit &#234;tre tellement cool.</Original>
     <Translation></Translation>
   </block>
   <block ID="1518">
@@ -9867,7 +9867,7 @@
   <block ID="1644">
     <ItemID>32962</ItemID>
     <ItemType>13</ItemType>
-    <Original>Parlez au [Capitaine Infecté], et demandez-lui pour emprunter son [Bateau Pirate].</Original>
+    <Original>Parlez au [Capitaine Fétide], et demandez-lui pour emprunter son [Bateau Pirate].</Original>
     <Translation></Translation>
   </block>
   <block ID="1645">
@@ -10173,7 +10173,7 @@
   <block ID="1695">
     <ItemID>33278</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous aurez besoin d'utiliser le Bateau Pirate du Capitaine Infecté, que vous pouvez trouver dans [Scorbutville].</Original>
+    <Original>Vous aurez besoin d'utiliser le Bateau Pirate du Capitaine Fétide, que vous pouvez trouver dans [Scorbutville].</Original>
     <Translation></Translation>
   </block>
   <block ID="1696">
@@ -11259,7 +11259,7 @@
   <block ID="1876">
     <ItemID>33669</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le [Capitaine Infecté] vit dans le village pirate nommé [Scorbutville].</Original>
+    <Original>Le [Capitaine Fétide] vit dans le village pirate nommé [Scorbutville].</Original>
     <Translation></Translation>
   </block>
   <block ID="1877">
@@ -25983,13 +25983,13 @@
   <block ID="4330">
     <ItemID>37855</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le Trésor du Capitaine Infecté...</Original>
+    <Original>Le Trésor du Capitaine Fétide...</Original>
     <Translation></Translation>
   </block>
   <block ID="4331">
     <ItemID>37856</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le Trésor du Capitaine Infecté était si facile &#224; trouver et &#224; prendre que j'ai m&#234;me plus envie de le prendre et je vais m&#234;me laisser cette note négligemment derri&#232;re moi, pour dire &#224; toute la terre, o&#249; il se trouve pour le prendre. "Un X Marque l'Endroit."</Original>
+    <Original>Le Trésor du Capitaine Fétide était si facile &#224; trouver et &#224; prendre que j'ai m&#234;me plus envie de le prendre et je vais m&#234;me laisser cette note négligemment derri&#232;re moi, pour dire &#224; toute la terre, o&#249; il se trouve pour le prendre. "Un X Marque l'Endroit."</Original>
     <Translation></Translation>
   </block>
   <block ID="4332">
