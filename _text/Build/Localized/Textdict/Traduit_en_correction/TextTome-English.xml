@@ -4539,7 +4539,7 @@
   <block ID="756">
     <ItemID>31194</ItemID>
     <ItemType>13</ItemType>
-    <Original>Colis pour le Général Millitaire</Original>
+    <Original>Colis pour le Général Militaire</Original>
     <Translation></Translation>
   </block>
   <block ID="757">
@@ -5031,7 +5031,7 @@
   <block ID="838">
     <ItemID>31390</ItemID>
     <ItemType>13</ItemType>
-    <Original>Yeux de Calamar</Original>
+    <Original>Yeux de Tentacule</Original>
     <Translation></Translation>
   </block>
   <block ID="839">
@@ -7029,7 +7029,7 @@
   <block ID="1171">
     <ItemID>31890</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le [String de la Popote] a corrompu le grand chef qui le porte, je vais avoir besoin de le tuer et rapporter le String &#224; Sandy. Selon la légende, ce grand chef qui vit &#224; l'Ouest. La légende dit aussi que les pyramides ont été construites par des extraterrestres. Ca prouve bien qu'on peut faire lui confiance.</Original>
+    <Original>Le [String de la Popote] a corrompu le grand chef qui le porte, je vais avoir besoin de le tuer et rapporter le String &#224; Sandy. Selon la légende, ce grand chef vit &#224; l'Ouest. Cette légende dit aussi que les pyramides ont été construites par des extraterrestres. Ca prouve bien qu'on peut faire lui confiance.</Original>
     <Translation></Translation>
   </block>
   <block ID="1172">
@@ -7107,7 +7107,7 @@
   <block ID="1184">
     <ItemID>31903</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le P&#232;re Noël a été corrompu par le [String de la Générosité] et c'est au poufendeur du mal qu'il revient de vaincre cet Homme Jovial pour récupérer son string. Son repaire est dans les terres désolées et givrées de la mer. Je saurais enfin sur quelle liste je suis apr&#232;s tout ça.</Original>
+    <Original>Le P&#232;re Noël a été corrompu par le [String de la Générosité] et c'est au poufendeur du mal qu'il revient de vaincre cet Homme Jovial pour récupérer son string. Son repaire est dans les terres désolées et givrées dans l'océan. Je saurais enfin sur quelle liste je suis apr&#232;s tout ça.</Original>
     <Translation></Translation>
   </block>
   <block ID="1185">
@@ -7299,7 +7299,7 @@
   <block ID="1216">
     <ItemID>31941</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je dois prendre ce [Colis pour le Général] pour l'emmener dans une base militaire de quelque part vers le nord. &#202;tre un [Général] semble vraiment héro&#239;que. Je parie qu'il a un nom ronflant tr&#232;s héro&#239;que, un peu comme DeathSpank.</Original>
+    <Original>Je dois prendre ce [Colis pour le Général] et l'emmener dans une base militaire quelque part vers le nord. &#202;tre un [Général] semble vraiment héro&#239;que. Je parie qu'il a un nom ronflant tr&#232;s héro&#239;que, un peu comme DeathSpank.</Original>
     <Translation></Translation>
   </block>
   <block ID="1217">
@@ -7467,7 +7467,7 @@
   <block ID="1244">
     <ItemID>31999</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin de suivre le chemin de terre &#224; l'ouest, de trouver la [Tour de Communication Orc], puis fairesavoir au soldat de l'avant-poste o&#249; il est. Ca semble trop simple pour un héros de mon calibre. Je devrais trouver un nouvel agent.</Original>
+    <Original>J'ai besoin de suivre le chemin de terre &#224; l'ouest, de trouver la [Tour de Communication Orc], puis faire savoir au soldat de l'avant-poste o&#249; elle est. Ca semble trop simple pour un héros de mon calibre. Je devrais trouver un nouvel agent.</Original>
     <Translation></Translation>
   </block>
   <block ID="1245">
@@ -7515,7 +7515,7 @@
   <block ID="1252">
     <ItemID>32007</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin d'aller &#224; l'ouest de la [Tour de Communication Orc] détruite et tuer [Le Colonel Orc] pour obtenir les [Les Plans de Bataille] qu'il poss&#232;de. Au moins, je suis en train de tuer des pignoufs maintenant, péter des trucs c'est pas aussi amusant.</Original>
+    <Original>J'ai besoin d'aller &#224; l'ouest de la [Tour de Communication Orc] détruite et tuer [Le Colonel Orc] pour obtenir [Les Plans de Bataille] qu'il poss&#232;de. Au moins, je suis en train de tuer des pignoufs maintenant, péter des trucs c'est pas aussi amusant.</Original>
     <Translation></Translation>
   </block>
   <block ID="1253">
@@ -8619,7 +8619,7 @@
   <block ID="1436">
     <ItemID>32413</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin d'acheter pour ce soldat effrayé regardant les Docks un [Nouveau Casque] &#224; L'Armurie [Poque LaT&#234;te] dans [Kuckelle Le Beaux]. On me dit que cette ville pittoresque est apr&#232;s &#8203;&#8203;le pont au le nord.</Original>
+    <Original>J'ai besoin d'acheter pour ce soldat effrayé regardant les Docks un [Nouveau Casque] &#224; L'Armurie [Poque LaT&#234;te] dans [Le Beaux Kuckelle]. On me dit que cette ville pittoresque est apr&#232;s le pont au le nord.</Original>
     <Translation></Translation>
   </block>
   <block ID="1437">
@@ -11691,7 +11691,7 @@
   <block ID="1948">
     <ItemID>33838</ItemID>
     <ItemType>13</ItemType>
-    <Original>Appuyez sur la touche [M] pour faire apparaître l'écran Carte.</Original>
+    <Original>Appuyez sur la touche [M] pour faire apparaître l'écran Carte. Si vous voyez pas o&#249; vous &#234;tes, ouvrez mieux les yeux sinon je peux rien faire pour vous.</Original>
     <Translation></Translation>
   </block>
   <block ID="1949">
@@ -11931,19 +11931,19 @@
   <block ID="1988">
     <ItemID>33878</ItemID>
     <ItemType>13</ItemType>
-    <Original>Consommer des Cookies CHANCE, sur l'écran Carnet de Qu&#234;tes, pour débloquer des conseils sur la façon de remplir des qu&#234;tes.</Original>
+    <Original>Consommer des Cookies Chance, sur l'écran Carnet de Qu&#234;tes, pour débloquer des conseils sur la façon de remplir des qu&#234;tes.</Original>
     <Translation></Translation>
   </block>
   <block ID="1989">
     <ItemID>33879</ItemID>
     <ItemType>13</ItemType>
-    <Original>Consommer des Cookies CHANCE, sur l'écran Carnet de Qu&#234;tes, pour débloquer des conseils sur la façon de remplir des qu&#234;tes.</Original>
+    <Original>Consommer des Cookies Chance, sur l'écran Carnet de Qu&#234;tes, pour débloquer des conseils sur la façon de remplir des qu&#234;tes.</Original>
     <Translation></Translation>
   </block>
   <block ID="1990">
     <ItemID>33880</ItemID>
     <ItemType>13</ItemType>
-    <Original>Consommer des Cookies CHANCE, sur l'écran Carnet de Qu&#234;tes, pour débloquer des conseils sur la façon de remplir des qu&#234;tes.</Original>
+    <Original>Consommer des Cookies Chance, sur l'écran Carnet de Qu&#234;tes, pour débloquer des conseils sur la façon de remplir des qu&#234;tes.</Original>
     <Translation></Translation>
   </block>
   <block ID="1991">
@@ -12495,7 +12495,7 @@
   <block ID="2082">
     <ItemID>34035</ItemID>
     <ItemType>13</ItemType>
-    <Original>Étourdie les ennemis avec toute la grace que peux avori une pelle.</Original>
+    <Original>Étourdie les ennemis avec toute la grace que peux avoir une pelle.</Original>
     <Translation></Translation>
   </block>
   <block ID="2083">
@@ -13755,7 +13755,7 @@
   <block ID="2292">
     <ItemID>34557</ItemID>
     <ItemType>13</ItemType>
-    <Original>Utilisez votre carte d'emplyé du Wortten pour entrer.</Original>
+    <Original>Utilisez votre carte d'employé du Wortten pour entrer.</Original>
     <Translation></Translation>
   </block>
   <block ID="2293">
@@ -22431,7 +22431,7 @@
   <block ID="3738">
     <ItemID>36857</ItemID>
     <ItemType>13</ItemType>
-    <Original>Patte Purement Délicieuse Aviaire.</Original>
+    <Original>Patte Aviaire Délicieuse.</Original>
     <Translation></Translation>
   </block>
   <block ID="3739">
@@ -22725,13 +22725,13 @@
   <block ID="3787">
     <ItemID>37050</ItemID>
     <ItemType>13</ItemType>
-    <Original>Toubib Irrégulier Greem</Original>
+    <Original>Toubib Maton Greem</Original>
     <Translation></Translation>
   </block>
   <block ID="3788">
     <ItemID>37051</ItemID>
     <ItemType>13</ItemType>
-    <Original>Soldat Irrégulier Greem</Original>
+    <Original>Soldat Maton Greem</Original>
     <Translation></Translation>
   </block>
   <block ID="3789">
@@ -22791,7 +22791,7 @@
   <block ID="3798">
     <ItemID>37062</ItemID>
     <ItemType>13</ItemType>
-    <Original>Plante Grimpante Suintante des Latrines</Original>
+    <Original>Glaire Suintant des Latrines</Original>
     <Translation></Translation>
   </block>
   <block ID="3799">
@@ -22857,7 +22857,7 @@
   <block ID="3809">
     <ItemID>37073</ItemID>
     <ItemType>13</ItemType>
-    <Original>ID Bidon Orc</Original>
+    <Original>Laissez-passer Bidon Orc</Original>
     <Translation></Translation>
   </block>
   <block ID="3810">
@@ -22869,13 +22869,13 @@
   <block ID="3811">
     <ItemID>37075</ItemID>
     <ItemType>13</ItemType>
-    <Original>Encre de Calamar</Original>
+    <Original>Encre de Tentacule</Original>
     <Translation></Translation>
   </block>
   <block ID="3812">
     <ItemID>37076</ItemID>
     <ItemType>13</ItemType>
-    <Original>Encre récupérée en pressant les reins de Calamar de la Jungle esp&#232;ce aujourd'hui éteinte.</Original>
+    <Original>Encre récupérée en pressant les reins d'un Tentacule de la Jungle esp&#232;ce aujourd'hui éteinte.</Original>
     <Translation></Translation>
   </block>
   <block ID="3813">
@@ -22971,13 +22971,13 @@
   <block ID="3828">
     <ItemID>37093</ItemID>
     <ItemType>13</ItemType>
-    <Original>S'échappez du Camp Bang</Original>
+    <Original>Échappez-vous du Camp Bang</Original>
     <Translation></Translation>
   </block>
   <block ID="3829">
     <ItemID>37094</ItemID>
     <ItemType>13</ItemType>
-    <Original>S'échappez du Camp Bang</Original>
+    <Original>Échappez-vous du Camp Bang</Original>
     <Translation></Translation>
   </block>
   <block ID="3830">
@@ -23109,25 +23109,25 @@
   <block ID="3851">
     <ItemID>37119</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin de trouver quelque chose pour faire [Encre] pour faire ma carte Orc bidon.</Original>
+    <Original>J'ai besoin de trouver quelque chose pour faire office d'[Encre] pour faire mon [laissez-passer] Orc bidon.</Original>
     <Translation></Translation>
   </block>
   <block ID="3852">
     <ItemID>37120</ItemID>
     <ItemType>13</ItemType>
-    <Original>Trouvez un truc pour écrire avec</Original>
+    <Original>Trouvez un truc pour écrire</Original>
     <Translation></Translation>
   </block>
   <block ID="3853">
     <ItemID>37121</ItemID>
     <ItemType>13</ItemType>
-    <Original>Trouvez un truc pour écrire avec</Original>
+    <Original>Trouvez un truc pour écrire</Original>
     <Translation></Translation>
   </block>
   <block ID="3854">
     <ItemID>37122</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je dos trouver un truc pour [Écrire] et faire ma carte Orc bidon.</Original>
+    <Original>Je dois trouver un truc pour [Écrire] et faire mon [laissez-passer] Orc bidon.</Original>
     <Translation></Translation>
   </block>
   <block ID="3855">
@@ -23145,43 +23145,43 @@
   <block ID="3857">
     <ItemID>37125</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je besoin de [Papier] pour faire ma carte Orc  bidon.</Original>
+    <Original>Je besoin de [Papier] pour faire mon [laissez-passer] Orc bidon.</Original>
     <Translation></Translation>
   </block>
   <block ID="3858">
     <ItemID>37126</ItemID>
     <ItemType>13</ItemType>
-    <Original>Apprennez le MdP Secret</Original>
+    <Original>Apprenez le MdP Secret</Original>
     <Translation></Translation>
   </block>
   <block ID="3859">
     <ItemID>37127</ItemID>
     <ItemType>13</ItemType>
-    <Original>Apprennez le MdP Secret</Original>
+    <Original>Apprenez le MdP Secret</Original>
     <Translation></Translation>
   </block>
   <block ID="3860">
     <ItemID>37128</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je dosi apprendre le [MdP Secret] pour convaincre le Garde Orc de me laisser passer la pont.</Original>
+    <Original>Je dois apprendre le [MdP Secret] pour convaincre le Garde Orc de me laisser passer le pont.</Original>
     <Translation></Translation>
   </block>
   <block ID="3861">
     <ItemID>37129</ItemID>
     <ItemType>13</ItemType>
-    <Original>Traverser le pont POW</Original>
+    <Original>Traverser le pont du Camp</Original>
     <Translation></Translation>
   </block>
   <block ID="3862">
     <ItemID>37130</ItemID>
     <ItemType>13</ItemType>
-    <Original>Traverser le pont POW</Original>
+    <Original>Traverser le pont du Camp</Original>
     <Translation></Translation>
   </block>
   <block ID="3863">
     <ItemID>37131</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le prisonniers de guerre opprimés dans le camp disent que je devrais essayer de [Traverser le Pont] et partir de ce camp. La prospérité et la vente de livre sont probablement ce qui m'attend de l'autre côté.</Original>
+    <Original>Les prisonniers de guerre opprimés dans le camp disent que je devrais essayer de [Traverser le Pont] et partir de ce camp. La prospérité et une vie faite de Tweet et de Poke sont probablement ce qui m'attend de l'autre côté.</Original>
     <Translation></Translation>
   </block>
   <block ID="3864">
@@ -23205,7 +23205,7 @@
   <block ID="3867">
     <ItemID>37138</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mettez un [Déguisement Orc], faites une [Carte Bidon Orc] et apprenez le [Mot de Passe Secret] pour passer le pont.</Original>
+    <Original>Mettez un [Déguisement Orc], faites un [Laissez-passer Bidon] et apprenez le [Mot de Passe Secret] pour passer le pont.</Original>
     <Translation></Translation>
   </block>
   <block ID="3868">
@@ -23259,7 +23259,7 @@
   <block ID="3876">
     <ItemID>37147</ItemID>
     <ItemType>13</ItemType>
-    <Original>Recueillez les trois éléments nécessaires pour faire la carte bidon et ensuite utilisez les éléments les uns sur les autres.</Original>
+    <Original>Recueillez les trois éléments nécessaires pour faire le laissez-passer bidon et ensuite utilisez les éléments les uns sur les autres.</Original>
     <Translation></Translation>
   </block>
   <block ID="3877">
@@ -23271,7 +23271,7 @@
   <block ID="3878">
     <ItemID>37149</ItemID>
     <ItemType>13</ItemType>
-    <Original>Une fois la plume trempée dans l'encre, utilisez-la sur le papier &#224; faire une carte bidon.</Original>
+    <Original>Une fois la plume trempée dans l'encre, utilisez-la sur le papier pour faire un laissez-passer bidon.</Original>
     <Translation></Translation>
   </block>
   <block ID="3879">
@@ -23283,13 +23283,13 @@
   <block ID="3880">
     <ItemID>37151</ItemID>
     <ItemType>13</ItemType>
-    <Original>Les Calamar de la Jungle vivent dans la jungle, peut-&#234;tre qu'ils ont de l'encre ?</Original>
+    <Original>Les Tentacules de la Jungle vivent dans la jungle, peut-&#234;tre qu'ils ont de l'encre ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3881">
     <ItemID>37152</ItemID>
     <ItemType>13</ItemType>
-    <Original>Tuez les Calamars de la Jungle pour recueillir leur encre.</Original>
+    <Original>Tuez les Tentacules de la Jungle pour recueillir leur encre.</Original>
     <Translation></Translation>
   </block>
   <block ID="3882">
@@ -23379,25 +23379,25 @@
   <block ID="3896">
     <ItemID>37171</ItemID>
     <ItemType>13</ItemType>
-    <Original>Capturé par Orques, trop blessé pour s'échapper. Fan de pommes de terre. </Original>
+    <Original>Capturé par Orcs... trop blessé pour s'échapper... Fans de pommes de terre...</Original>
     <Translation></Translation>
   </block>
   <block ID="3897">
     <ItemID>37172</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je me sent un peu mieux. Je peux maintenant bouger mon troisi&#232;me de mes neuf orteils. Ce sont les plus importants, ils peuvent me prendre les autres s'ils veulent. Tant que j'ai ces trois l&#224; !</Original>
+    <Original>Je me sens un peu mieux. Je peux maintenant bouger le troisi&#232;me de mes neuf orteils. C'est mes préférés. Ils peuvent me prendre les autres s'ils veulent. Tant que j'ai ces trois l&#224; !</Original>
     <Translation></Translation>
   </block>
   <block ID="3898">
     <ItemID>37173</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ma force est de retour, mes compagnons prisonniers de guerre et moi avons essayé de nous échapper des dizaines de fois, mais c'est fatiguant de passer par les murs et ces horribles Orcs ont verrouillés la porte. C'est tellement évident quand on y pense.</Original>
+    <Original>Ma force est de retour, mes compagnons prisonniers de guerre et moi avons essayé de nous échapper des dizaines de fois, mais c'est fatiguant de passer par les murs et ces horribles Orcs ont verrouillés les portes. C'est tellement évident quand on y pense.</Original>
     <Translation></Translation>
   </block>
   <block ID="3899">
     <ItemID>37174</ItemID>
     <ItemType>13</ItemType>
-    <Original>Maudit soit ces Orcs ! Pendant trop longtemps, j'ai été assis ici a peler leurs pommes de la terre. Mes blessures sont guéries et il est temps de foute le camp d'ici.</Original>
+    <Original>Maudit soit ces Orcs ! Pendant trop longtemps, j'ai été assis ici a peler leurs pommes de la terre. Mes blessures sont guéries et il est temps de foutre le camp d'ici.</Original>
     <Translation></Translation>
   </block>
   <block ID="3900">
@@ -23409,7 +23409,7 @@
   <block ID="3901">
     <ItemID>37176</ItemID>
     <ItemType>13</ItemType>
-    <Original>Porte du Camp de Prisonniers de Guerre</Original>
+    <Original>Porte du Camp des P.d.G</Original>
     <Translation></Translation>
   </block>
   <block ID="3902">
@@ -23433,7 +23433,7 @@
   <block ID="3905">
     <ItemID>37181</ItemID>
     <ItemType>13</ItemType>
-    <Original>Obtenez un élément d'uniforme Orc</Original>
+    <Original>Obtenez une pi&#232;ce d'uniforme Orc</Original>
     <Translation></Translation>
   </block>
   <block ID="3906">
@@ -23523,7 +23523,7 @@
   <block ID="3920">
     <ItemID>37197</ItemID>
     <ItemType>13</ItemType>
-    <Original>B&#234;tetlings de la Jungle </Original>
+    <Original>Petite Bestiole de la Jungle </Original>
     <Translation></Translation>
   </block>
   <block ID="3921">
@@ -23547,7 +23547,7 @@
   <block ID="3924">
     <ItemID>37205</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin de [Bottes] pour completer mon Uniforme Orc.</Original>
+    <Original>J'ai besoin de [Bottes] pour compléter mon Uniforme Orc.</Original>
     <Translation></Translation>
   </block>
   <block ID="3925">
@@ -23601,7 +23601,7 @@
   <block ID="3933">
     <ItemID>37214</ItemID>
     <ItemType>13</ItemType>
-    <Original>Cour P.d.G</Original>
+    <Original>Cour des P.d.G</Original>
     <Translation></Translation>
   </block>
   <block ID="3934">
@@ -23625,7 +23625,7 @@
   <block ID="3937">
     <ItemID>37218</ItemID>
     <ItemType>13</ItemType>
-    <Original>Île d'Interrogatoire</Original>
+    <Original>Île Interrogatoire</Original>
     <Translation></Translation>
   </block>
   <block ID="3938">
@@ -23925,19 +23925,19 @@
   <block ID="3987">
     <ItemID>37357</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sniper Irr&#232;gulier Greem</Original>
+    <Original>Sniper Maton Greem</Original>
     <Translation></Translation>
   </block>
   <block ID="3988">
     <ItemID>37358</ItemID>
     <ItemType>13</ItemType>
-    <Original>Soldat Irr&#232;gulier Greem</Original>
+    <Original>Soldat Maton Greem</Original>
     <Translation></Translation>
   </block>
   <block ID="3989">
     <ItemID>37359</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sniper Irr&#232;gulier Greem</Original>
+    <Original>Sniper Maton Greem</Original>
     <Translation></Translation>
   </block>
   <block ID="3990">
@@ -23949,7 +23949,7 @@
   <block ID="3991">
     <ItemID>37361</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vendeur PdG</Original>
+    <Original>Fournisseur de Liqueur P.d.G</Original>
     <Translation></Translation>
   </block>
   <block ID="3992">
@@ -23979,19 +23979,19 @@
   <block ID="3996">
     <ItemID>37366</ItemID>
     <ItemType>13</ItemType>
-    <Original>Contrefaire une Carte Orc</Original>
+    <Original>Contrefaire un Laissez-passer Orc</Original>
     <Translation></Translation>
   </block>
   <block ID="3997">
     <ItemID>37367</ItemID>
     <ItemType>13</ItemType>
-    <Original>Contrefaire une Carte Orc</Original>
+    <Original>Contrefaire un Laissez-passer Orc</Original>
     <Translation></Translation>
   </block>
   <block ID="3998">
     <ItemID>37368</ItemID>
     <ItemType>13</ItemType>
-    <Original>Carte Orc contrefaites</Original>
+    <Original>Laissez-passer Orc contrefait</Original>
     <Translation></Translation>
   </block>
   <block ID="3999">
@@ -24009,7 +24009,7 @@
   <block ID="4001">
     <ItemID>37372</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je dois me faire une [Carte] bidon pour convaincre le Garde Orc de me laisser passer le pont.</Original>
+    <Original>Je dois me faire un [Laissez-passer] bidon pour convaincre le Garde Orc de me laisser traverser le pont.</Original>
     <Translation></Translation>
   </block>
   <block ID="4002">
@@ -24207,7 +24207,7 @@
   <block ID="4034">
     <ItemID>37408</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ces pompes sont trouée, malodorante et incroyablement confortable.</Original>
+    <Original>Ces pompes sont trouées, malodorantes mais incroyablement confortable.</Original>
     <Translation></Translation>
   </block>
   <block ID="4035">
@@ -24645,13 +24645,13 @@
   <block ID="4107">
     <ItemID>37498</ItemID>
     <ItemType>13</ItemType>
-    <Original>Calamar de la Jungle</Original>
+    <Original>Tentacule de la Jungle</Original>
     <Translation></Translation>
   </block>
   <block ID="4108">
     <ItemID>37499</ItemID>
     <ItemType>13</ItemType>
-    <Original>Calamar de la Jungle</Original>
+    <Original>Tentacule de la Jungle</Original>
     <Translation></Translation>
   </block>
   <block ID="4109">
@@ -25473,7 +25473,7 @@
   <block ID="4245">
     <ItemID>37743</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je devrais parler aux trois [Soldats Prisonniers de Guerre] pour mettre eu point un plan d'évasion.</Original>
+    <Original>Je devrais parler aux trois [Soldats Prisonniers de Guerre] pour mettre au point un plan d'évasion.</Original>
     <Translation></Translation>
   </block>
   <block ID="4246">
@@ -25593,7 +25593,7 @@
   <block ID="4265">
     <ItemID>37767</ItemID>
     <ItemType>13</ItemType>
-    <Original>Cabinet Quai</Original>
+    <Original>Le Quais-binet</Original>
     <Translation></Translation>
   </block>
   <block ID="4266">
@@ -25659,7 +25659,7 @@
   <block ID="4276">
     <ItemID>37780</ItemID>
     <ItemType>13</ItemType>
-    <Original>Pourquoi avez-vous gaspiller un Cookie Chance pourr ça ? Il suffit de parler au [Général de l'Armée].</Original>
+    <Original>Pourquoi avez-vous gaspiller un Cookie Chance pour ça ? Il suffisait de parler au [Général de l'Armée].</Original>
     <Translation></Translation>
   </block>
   <block ID="4277">
@@ -25971,7 +25971,7 @@
   <block ID="4328">
     <ItemID>37853</ItemID>
     <ItemType>13</ItemType>
-    <Original>Pour des documents "saucier"..., Allez a la biblioth&#232;que dans Le Beaux Kuckelle. Ils ont une belle section cuisine.</Original>
+    <Original>Pour des documents "saucier"..., Allez &#224; la biblioth&#232;que dans Le Beaux Kuckelle. Ils ont une belle section cuisine.</Original>
     <Translation></Translation>
   </block>
   <block ID="4329">
@@ -27333,7 +27333,7 @@
   <block ID="4555">
     <ItemID>38088</ItemID>
     <ItemType>13</ItemType>
-    <Original>Station de Premiers Secours</Original>
+    <Original>Caisse de Premiers Secours</Original>
     <Translation></Translation>
   </block>
   <block ID="4556">
