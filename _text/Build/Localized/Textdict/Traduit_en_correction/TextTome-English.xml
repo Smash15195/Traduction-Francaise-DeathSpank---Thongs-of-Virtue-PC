@@ -5415,25 +5415,25 @@
   <block ID="902">
     <ItemID>31454</ItemID>
     <ItemType>13</ItemType>
-    <Original>Tube Cathodique</Original>
+    <Original>Ampoule sous Vide</Original>
     <Translation></Translation>
   </block>
   <block ID="903">
     <ItemID>31455</ItemID>
     <ItemType>13</ItemType>
-    <Original>Il s'agit d'un tube cathodique. Il suffit de le regarder et hop le  vide se fait.</Original>
+    <Original>Il s'agit d'une Ampoule sous Vide. Il suffit de la regarder et hop le  vide se fait.</Original>
     <Translation></Translation>
   </block>
   <block ID="904">
     <ItemID>31456</ItemID>
     <ItemType>13</ItemType>
-    <Original>Tube Cathodique Cassé</Original>
+    <Original>Ampoule sous Vide Cassée</Original>
     <Translation></Translation>
   </block>
   <block ID="905">
     <ItemID>31457</ItemID>
     <ItemType>13</ItemType>
-    <Original>Un triste exemple de tube cathodique, abattu avant son prime.</Original>
+    <Original>Un triste exemple d'ampoule sous vide, morte avant d'avoir pu briller.</Original>
     <Translation></Translation>
   </block>
   <block ID="906">
@@ -6819,7 +6819,7 @@
   <block ID="1136">
     <ItemID>31793</ItemID>
     <ItemType>13</ItemType>
-    <Original>Radio Host</Original>
+    <Original>Animateur Radio</Original>
     <Translation></Translation>
   </block>
   <block ID="1137">
@@ -7143,7 +7143,7 @@
   <block ID="1190">
     <ItemID>31909</ItemID>
     <ItemType>13</ItemType>
-    <Original>Les soldats blessés ont vuent leurs armes volées pendant qu'ils étaient en convalescence au [Sanctuaire] dans la [For&#234;t Ténébreuse]. J'ai besoin de trouver les [Pi&#232;ces d'Armes] disparues et de les rapporter au Général dans Le Beaux Kuckelle si l'invasion du Pôle Nord veut &#234;tre couronnée de succ&#232;s. Le P&#232;re Noël ne verra rien venir.</Original>
+    <Original>Les soldats blessés ont vu leurs armes volées pendant qu'ils étaient en convalescence au [Sanctuaire] dans la [For&#234;t Ténébreuse]. J'ai besoin de trouver les [Pi&#232;ces d'Armes] disparues et de les rapporter au Général dans Le Beaux Kuckelle si l'invasion du Pôle Nord veut &#234;tre couronnée de succ&#232;s. Le P&#232;re Noël ne verra rien venir.</Original>
     <Translation></Translation>
   </block>
   <block ID="1191">
@@ -7179,7 +7179,7 @@
   <block ID="1196">
     <ItemID>31915</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin de trouver un [Bateau] et voguer autour du [Pôle Nord] pour cartographier les défenses de l'île du P&#232;re Noël, de sorte que le Général Le Beaux Kuckelle puisse lancer son invasion et que je puisse tuer le P&#232;re Noël. Ouah, j'avais jamais pensé que je pourrais dire un truc comme ça.</Original>
+    <Original>J'ai besoin de trouver un [Bateau] et voguer autour du [Pôle Nord] pour cartographier les défenses de l'île du P&#232;re Noël, de sorte que le Général dans Le Beaux Kuckelle lance son invasion et que je puisse tuer le P&#232;re Noël. Ouah, j'avais jamais pensé que je pourrais dire un truc comme ça.</Original>
     <Translation></Translation>
   </block>
   <block ID="1197">
@@ -8655,7 +8655,7 @@
   <block ID="1442">
     <ItemID>32419</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je dois livrer le [Histoire Secr&#232;te] au [Radio Host] &#224; Le Beaux Kuckelle.</Original>
+    <Original>Je dois livrer l'[Histoire Secr&#232;te] &#224; l'[Animateur Radio] &#224; Le Beaux Kuckelle.</Original>
     <Translation></Translation>
   </block>
   <block ID="1443">
@@ -8727,7 +8727,7 @@
   <block ID="1454">
     <ItemID>32431</ItemID>
     <ItemType>13</ItemType>
-    <Original>Marching Orders</Original>
+    <Original>Ordre de Marche</Original>
     <Translation></Translation>
   </block>
   <block ID="1455">
@@ -8793,7 +8793,7 @@
   <block ID="1465">
     <ItemID>32445</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le Toubib de Ville &#224; The Town Medic in Le Beaux Kuckelle a besoin du [Matériels Médical] qui se trouve au [Sanctuaire].</Original>
+    <Original>Le Toubib de Ville dans Le Beaux Kuckelle a besoin du [Matériels Médical] qui se trouve au [Sanctuaire].</Original>
     <Translation></Translation>
   </block>
   <block ID="1466">
@@ -8811,7 +8811,7 @@
   <block ID="1468">
     <ItemID>32448</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin de détruire les [Robots Fermier Saccageur] et de rapporter la [T&#234;te de Robot] de leurs chefs &#224; Blizbane le Fermier. Je suis sur que ce qu'il en fera, surement une oeuvre d'art.</Original>
+    <Original>J'ai besoin de détruire les [Robots Fermier Saccageur] et de rapporter la [T&#234;te de Robot] de leurs chefs &#224; Blizbane le Fermier. Je suis sur qu'il en fera surement une oeuvre d'art.</Original>
     <Translation></Translation>
   </block>
   <block ID="1469">
@@ -8883,7 +8883,7 @@
   <block ID="1480">
     <ItemID>32460</ItemID>
     <ItemType>13</ItemType>
-    <Original>Lucy Eisenbein veut que je trouve le [Dr. Eisenbein]. Il était en en train de revenir de l'[Usine Wortten], je devrais remonter sa piste.</Original>
+    <Original>Lucy Eisenbein veut que je trouve le [Dr. Eisenbein]. Il était en train de revenir de l'[Usine Wortten], je devrais remonter sa piste.</Original>
     <Translation></Translation>
   </block>
   <block ID="1481">
@@ -8961,19 +8961,19 @@
   <block ID="1493">
     <ItemID>32473</ItemID>
     <ItemType>13</ItemType>
-    <Original>Tube Cathodique</Original>
+    <Original>Ampoule sous Vide</Original>
     <Translation></Translation>
   </block>
   <block ID="1494">
     <ItemID>32474</ItemID>
     <ItemType>13</ItemType>
-    <Original>Retrouvez 10 Tubes Cathodiques</Original>
+    <Original>Retrouvez 10 Ampoules sous Vide</Original>
     <Translation></Translation>
   </block>
   <block ID="1495">
     <ItemID>32475</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je dois détruire des [Robots] et récuperer des [Tubes Cathodique] pour LeBeaux Kuckelle.</Original>
+    <Original>Je dois détruire des [Robots] et récuperer des [Ampoules sous Vide] pour l'animateur.</Original>
     <Translation></Translation>
   </block>
   <block ID="1496">
@@ -9087,7 +9087,7 @@
   <block ID="1514">
     <ItemID>32494</ItemID>
     <ItemType>13</ItemType>
-    <Original>Poque LaT&#234;te veut que je livre ce [Colis pour Blizbane le Fermier], qui vit au nord de Lebeaux Kuckelle. Ca ne me dérangerait pas d'&#234;tre facteur si les gens n'était pas cacher. Faudrait peut-&#234;tre que j'arr&#234;te de faire ces livraisons, ca leur ferait les pieds.</Original>
+    <Original>Poque LaT&#234;te veut que je livre ce [Colis pour Blizbane le Fermier], qui vit au nord de Lebeaux Kuckelle. Ca ne me dérangerait pas d'&#234;tre facteur si les gens n'était pas cachés. Faudrait peut-&#234;tre que j'arr&#234;te de faire ces livraisons, ca leur ferait les pieds.</Original>
     <Translation></Translation>
   </block>
   <block ID="1515">
@@ -9105,7 +9105,7 @@
   <block ID="1517">
     <ItemID>32497</ItemID>
     <ItemType>13</ItemType>
-    <Original>Poque LaT&#234;te veut que je livre ce [Colis pour le Capitaine Fétide], qui vit dans le village pirate. Je suis censer suivre le chemin qui passe par une caverne dans la [Jungle]. ëtre un pirate doit &#234;tre tellement cool.</Original>
+    <Original>Poque LaT&#234;te veut que je livre ce [Colis pour le Capitaine Fétide], qui vit dans le village pirate. Je suis censer suivre le chemin qui passe par une caverne dans la [Jungle]. &#202;tre un pirate doit &#234;tre tellement cool.</Original>
     <Translation></Translation>
   </block>
   <block ID="1518">
@@ -10905,7 +10905,7 @@
   <block ID="1817">
     <ItemID>33569</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le [Radio Host] est dans la ville de [Le Beaux Kuckelle].</Original>
+    <Original>L'[Animateur Radio] est dans la ville de [Le Beaux Kuckelle].</Original>
     <Translation></Translation>
   </block>
   <block ID="1818">
@@ -11151,7 +11151,7 @@
   <block ID="1858">
     <ItemID>33641</ItemID>
     <ItemType>13</ItemType>
-    <Original>Les [Robots Mark-5] sont une grande source de [Tube Cathodique].</Original>
+    <Original>Les [Robots Mark-5] sont une grande source d'[Ampoule sous Vide].</Original>
     <Translation></Translation>
   </block>
   <block ID="1859">
@@ -11169,19 +11169,19 @@
   <block ID="1861">
     <ItemID>33645</ItemID>
     <ItemType>13</ItemType>
-    <Original>Il y a une [Tour Radio] derri&#232;re la maison de [Blizbane le Fermier].</Original>
+    <Original>Il y a un [Émetteur Radio] derri&#232;re la maison de [Blizbane le Fermier].</Original>
     <Translation></Translation>
   </block>
   <block ID="1862">
     <ItemID>33646</ItemID>
     <ItemType>13</ItemType>
-    <Original>Recherchez les [Tours Radio] au nord-est de Le Beaux Kuckelle dans les champs.</Original>
+    <Original>Recherchez les [Émetteurs Radio] au nord-est de Le Beaux Kuckelle dans les champs.</Original>
     <Translation></Translation>
   </block>
   <block ID="1863">
     <ItemID>33647</ItemID>
     <ItemType>13</ItemType>
-    <Original>Préparez-vous pour le combat avant de tenter de réparer une [Tour Radio].</Original>
+    <Original>Préparez-vous pour le combat avant de tenter de réparer un [Émetteur Radio].</Original>
     <Translation></Translation>
   </block>
   <block ID="1864">
@@ -14049,7 +14049,7 @@
   <block ID="2341">
     <ItemID>34662</ItemID>
     <ItemType>13</ItemType>
-    <Original>Note &#224; moi-m&#234;me. "Le Ville Détruite au nord est supposée crouler sous des tonnes de butins &#224; piller. Bonne nouvelle, je viens d'y arriver".</Original>
+    <Original>Note &#224; moi-m&#234;me. "La Ville Détruite au nord est supposée crouler sous des tonnes de butins &#224; piller. Bonne nouvelle, je viens d'y arriver".</Original>
     <Translation></Translation>
   </block>
   <block ID="2342">
@@ -16377,7 +16377,7 @@
   <block ID="2729">
     <ItemID>35182</ItemID>
     <ItemType>13</ItemType>
-    <Original>Tour Radio</Original>
+    <Original>Émetteur Radio</Original>
     <Translation></Translation>
   </block>
   <block ID="2730">
@@ -18351,13 +18351,13 @@
   <block ID="3058">
     <ItemID>35691</ItemID>
     <ItemType>13</ItemType>
-    <Original>JOIE !</Original>
+    <Original>SOURIEZ !</Original>
     <Translation></Translation>
   </block>
   <block ID="3059">
     <ItemID>35692</ItemID>
     <ItemType>13</ItemType>
-    <Original>Joyeuse Hypoth&#232;que &#224; Strumfuquel</Original>
+    <Original>Heureuse Hypoth&#232;que &#224; Strumfuquel</Original>
     <Translation></Translation>
   </block>
   <block ID="3060">
@@ -20175,19 +20175,19 @@
   <block ID="3362">
     <ItemID>36205</ItemID>
     <ItemType>13</ItemType>
-    <Original>Alterner entre différentes attaques pour les enchaîner. Les chaînes d'attaques font plus de dégâts et une chaîne parfaite x7 va frapper les ennemis de nouveau.</Original>
+    <Original>Alternez entre différentes attaques pour les enchaîner. Les chaînes d'attaques font plus de dégâts et une chaîne parfaite x7 produira une attaque bonus.</Original>
     <Translation></Translation>
   </block>
   <block ID="3363">
     <ItemID>36206</ItemID>
     <ItemType>13</ItemType>
-    <Original>Alterner entre différentes attaques pour les enchaîner. Les chaînes d'attaques font plus de dégâts et une chaîne parfaite x7 va frapper les ennemis de nouveau.</Original>
+    <Original>Alternez entre différentes attaques pour les enchaîner. Les chaînes d'attaques font plus de dégâts et une chaîne parfaite x7 produira une attaque bonus.</Original>
     <Translation></Translation>
   </block>
   <block ID="3364">
     <ItemID>36207</ItemID>
     <ItemType>13</ItemType>
-    <Original>Alterner entre différentes attaques pour les enchaîner. Les chaînes d'attaques font plus de dégâts et une chaîne parfaite x7 va frapper les ennemis de nouveau.</Original>
+    <Original>Alternez entre différentes attaques pour les enchaîner. Les chaînes d'attaques font plus de dégâts et une chaîne parfaite x7 produira une attaque bonus.</Original>
     <Translation></Translation>
   </block>
   <block ID="3365">
