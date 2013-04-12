@@ -2025,7 +2025,7 @@
   <block ID="337">
     <ItemID>12166</ItemID>
     <ItemType>13</ItemType>
-    <Original>Qu'est-ce que ces Strings font de spécial, &#224; part ne pas laisser de lignes de bronzage ?</Original>
+    <Original>Qu'est-ce que ces Strings font de spécial, &#224; part ne pas laisser de traces de bronzage ?</Original>
     <Translation></Translation>
   </block>
   <block ID="338">
@@ -2073,7 +2073,7 @@
   <block ID="345">
     <ItemID>12224</ItemID>
     <ItemType>13</ItemType>
-    <Original>Est-ce c'est comme un truc de mode pour gonzesse ?</Original>
+    <Original>Est-ce que c'est comme un truc de mode pour gonzesse ?</Original>
     <Translation></Translation>
   </block>
   <block ID="346">
@@ -2091,13 +2091,13 @@
   <block ID="348">
     <ItemID>12227</ItemID>
     <ItemType>13</ItemType>
-    <Original>Et n'oublions pas les répercutions sur la mode qu'on de tels sous-v&#234;tements.</Original>
+    <Original>Et n'oublions pas les répercutions sur la mode qu'ont de tels sous-v&#234;tements.</Original>
     <Translation></Translation>
   </block>
   <block ID="349">
     <ItemID>12228</ItemID>
     <ItemType>13</ItemType>
-    <Original>Exact, tout le monde ne doit pouvoir ni devoir porter un String.</Original>
+    <Original>Exact, tout le monde ne devrait pas pouvoir ni devoir porter un String.</Original>
     <Translation></Translation>
   </block>
   <block ID="350">
@@ -2109,7 +2109,7 @@
   <block ID="351">
     <ItemID>12230</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mais ils ne sont contre nature et...+</Original>
+    <Original>Mais ils sont contre nature et...+</Original>
     <Translation></Translation>
   </block>
   <block ID="352">
@@ -2163,7 +2163,7 @@
   <block ID="360">
     <ItemID>12239</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ma théorie sur vous, c'est la combinaison de certitude morale et de fainéantise inexcusable.</Original>
+    <Original>Ma théorie sur vous, c'est qu'une combinaison de certitude morale et de fainéantise inexcusable bloque le phénom&#232;ne.</Original>
     <Translation></Translation>
   </block>
   <block ID="361">
@@ -2229,7 +2229,7 @@
   <block ID="371">
     <ItemID>12250</ItemID>
     <ItemType>13</ItemType>
-    <Original>Eh bien, je vais faire ce qu'il faut faire.</Original>
+    <Original>Eh bien, je ferais ce qu'il faut faire.</Original>
     <Translation></Translation>
   </block>
   <block ID="372">
@@ -2241,13 +2241,13 @@
   <block ID="373">
     <ItemID>12252</ItemID>
     <ItemType>13</ItemType>
-    <Original>Un spectacle de String Marionnette ?</Original>
+    <Original>Un spectacle de Strings Marionnettes ?</Original>
     <Translation></Translation>
   </block>
   <block ID="374">
     <ItemID>12253</ItemID>
     <ItemType>13</ItemType>
-    <Original>Faire une fronde avec une ceinture ?</Original>
+    <Original>En faire des frondes avec une ceinture ?</Original>
     <Translation></Translation>
   </block>
   <block ID="375">
@@ -2307,7 +2307,7 @@
   <block ID="384">
     <ItemID>12263</ItemID>
     <ItemType>13</ItemType>
-    <Original>Et pour la veste de smoking  ?</Original>
+    <Original>Faut une veste de smoking pour entrer ?</Original>
     <Translation></Translation>
   </block>
   <block ID="385">
@@ -2319,7 +2319,7 @@
   <block ID="386">
     <ItemID>12265</ItemID>
     <ItemType>13</ItemType>
-    <Original>Comme la fois ou nous avons renversé le gouvernement en utilisant seulement une spatule et un ouistiti rasé...</Original>
+    <Original>Comme la fois ou nous avons renversé ce gouvernement en utilisant seulement une spatule et un ouistiti rasé...</Original>
     <Translation></Translation>
   </block>
   <block ID="387">
@@ -2343,19 +2343,19 @@
   <block ID="390">
     <ItemID>12269</ItemID>
     <ItemType>13</ItemType>
-    <Original>Un excellent moment, quand m&#234;me.</Original>
+    <Original>C'était un excellent moment, quand m&#234;me.</Original>
     <Translation></Translation>
   </block>
   <block ID="391">
     <ItemID>12270</ItemID>
     <ItemType>13</ItemType>
-    <Original>Qu'est-ce que vous savez sur le String de Popote ?</Original>
+    <Original>Qu'est-ce que vous savez sur le String de Cuisine ?</Original>
     <Translation></Translation>
   </block>
   <block ID="392">
     <ItemID>12271</ItemID>
     <ItemType>13</ItemType>
-    <Original>Qui a le String de Popote ?</Original>
+    <Original>Qui a le String de Cuisine ?</Original>
     <Translation></Translation>
   </block>
   <block ID="393">
@@ -2391,7 +2391,7 @@
   <block ID="398">
     <ItemID>12277</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je devrais y aller maintenant.</Original>
+    <Original>Je devrais y aller.</Original>
     <Translation></Translation>
   </block>
   <block ID="399">
@@ -2463,13 +2463,13 @@
   <block ID="410">
     <ItemID>12289</ItemID>
     <ItemType>13</ItemType>
-    <Original>Exact.</Original>
+    <Original>C'est vrai.</Original>
     <Translation></Translation>
   </block>
   <block ID="411">
     <ItemID>12290</ItemID>
     <ItemType>13</ItemType>
-    <Original>Il a été donné &#224; un puissant guérisseuse, qui voulait mettre fin &#224; la douleur et la mis&#232;re.</Original>
+    <Original>Il a été donné &#224; une puissante guérisseuse, qui voulait mettre fin &#224; la douleur et &#224; la mis&#232;re.</Original>
     <Translation></Translation>
   </block>
   <block ID="412">
@@ -2529,7 +2529,7 @@
   <block ID="421">
     <ItemID>12300</ItemID>
     <ItemType>13</ItemType>
-    <Original>Justement , parce qu'il est moins prévisible ça ne le rend pas moins dangereux.</Original>
+    <Original>Justement... Parce qu'il est moins prévisible ça ne le rend pas moins dangereux.</Original>
     <Translation></Translation>
   </block>
   <block ID="422">
@@ -2565,19 +2565,19 @@
   <block ID="427">
     <ItemID>12306</ItemID>
     <ItemType>13</ItemType>
-    <Original>Traquez-le dans sa tani&#232;re machiavélique sur les Îles Givrée sur l'océan.</Original>
+    <Original>Traquez-le dans sa tani&#232;re machiavélique sur les Îles Givrée dans l'océan.</Original>
     <Translation></Translation>
   </block>
   <block ID="428">
     <ItemID>12307</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ooooh... J'ai la chair de poule.+</Original>
+    <Original>Ooooh... Je commence &#224; avoir la chair de poule.+</Original>
     <Translation></Translation>
   </block>
   <block ID="429">
     <ItemID>12308</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mais il fait un peu frisquet.</Original>
+    <Original>Mais c'est vrai qu'il fait un peu frisquet.</Original>
     <Translation></Translation>
   </block>
   <block ID="430">
@@ -3531,7 +3531,7 @@
   <block ID="588">
     <ItemID>12704</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je crois que plutôt le contraire.</Original>
+    <Original>Je crois que c'est plutôt le contraire.</Original>
     <Translation></Translation>
   </block>
   <block ID="589">
@@ -3561,7 +3561,7 @@
   <block ID="593">
     <ItemID>12709</ItemID>
     <ItemType>13</ItemType>
-    <Original>Une invasion du pôle Nord ? Vous &#234;tes fou ?</Original>
+    <Original>Une invasion du pôle Nord ? Vous &#234;tes timbré ?</Original>
     <Translation></Translation>
   </block>
   <block ID="594">
@@ -3591,7 +3591,7 @@
   <block ID="598">
     <ItemID>12714</ItemID>
     <ItemType>13</ItemType>
-    <Original>Si je suis un soldat honorifique, quand je pourrais voir mes propres plaques d'identification ?</Original>
+    <Original>Si je suis un soldat honorifique, quand je pourrais avoir mes plaques d'identification ?</Original>
     <Translation></Translation>
   </block>
   <block ID="599">
@@ -3609,7 +3609,7 @@
   <block ID="601">
     <ItemID>12717</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le pays est tr&#232;s accueillant, vous trouvez pas ?</Original>
+    <Original>Ce pays est tr&#232;s accueillant, vous trouvez pas ?</Original>
     <Translation></Translation>
   </block>
   <block ID="602">
@@ -3633,7 +3633,7 @@
   <block ID="605">
     <ItemID>12724</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je suis soldat, mais seulement par nécessité.+</Original>
+    <Original>Je suis soldat. J'ai pris du galon en désespoir de cause.+</Original>
     <Translation></Translation>
   </block>
   <block ID="606">
@@ -3645,7 +3645,7 @@
   <block ID="607">
     <ItemID>12726</ItemID>
     <ItemType>13</ItemType>
-    <Original>Est-ce que l'odeur de la guerre que je sens ?</Original>
+    <Original>Est-ce l'odeur de la guerre que je sens ?</Original>
     <Translation></Translation>
   </block>
   <block ID="608">
@@ -3675,7 +3675,7 @@
   <block ID="612">
     <ItemID>12731</ItemID>
     <ItemType>13</ItemType>
-    <Original>Par "il", vous voulez pas dire...</Original>
+    <Original>Par "il", vous ne voulez pas dire...</Original>
     <Translation></Translation>
   </block>
   <block ID="613">
@@ -3705,7 +3705,7 @@
   <block ID="617">
     <ItemID>12736</ItemID>
     <ItemType>13</ItemType>
-    <Original>Celui que vous connaissiez sosu le sobriquet de P&#232;re Noël n'est plus.+</Original>
+    <Original>Celui que vous connaissiez sous le sobriquet de P&#232;re Noël n'existe plus.+</Original>
     <Translation></Translation>
   </block>
   <block ID="618">
@@ -3753,7 +3753,7 @@
   <block ID="625">
     <ItemID>12744</ItemID>
     <ItemType>13</ItemType>
-    <Original>Nous pourrions, mais les forces aériennes ont été détruite par un raid aérien d'ours en peluche.+</Original>
+    <Original>Nous pourrions, mais nos forces aériennes ont été détruites par un raid aérien d'ours en peluche.+</Original>
     <Translation></Translation>
   </block>
   <block ID="626">
@@ -3765,7 +3765,7 @@
   <block ID="627">
     <ItemID>12746</ItemID>
     <ItemType>13</ItemType>
-    <Original>Du feu partout ! Des hurlements ! la destruction !+</Original>
+    <Original>Du feu partout ! Des hurlements ! La destruction partout !+</Original>
     <Translation></Translation>
   </block>
   <block ID="628">
@@ -3993,7 +3993,7 @@
   <block ID="665">
     <ItemID>12784</ItemID>
     <ItemType>13</ItemType>
-    <Original>Les dames du soir et les spiritueux distillés ?</Original>
+    <Original>Des dames du soir et des spiritueux distillés ?</Original>
     <Translation></Translation>
   </block>
   <block ID="666">
@@ -4023,7 +4023,7 @@
   <block ID="670">
     <ItemID>12789</ItemID>
     <ItemType>13</ItemType>
-    <Original>Dirigez-vous vers l'océan et pister les campements ennemis pour les marquer sur cette carte.</Original>
+    <Original>Dirigez-vous vers l'océan et pistez les campements ennemis pour les marquer sur cette carte.</Original>
     <Translation></Translation>
   </block>
   <block ID="671">
@@ -4179,7 +4179,7 @@
   <block ID="696">
     <ItemID>12815</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous le feriez, si nous n'étions pas fraîchement sorti.+</Original>
+    <Original>Vous les auriez, si nous n'avions pas eu cet incident.+</Original>
     <Translation></Translation>
   </block>
   <block ID="697">
@@ -4191,13 +4191,13 @@
   <block ID="698">
     <ItemID>12817</ItemID>
     <ItemType>13</ItemType>
-    <Original>S'il vous arrive d'errer dans le coin et que vous en trouvez une paire, ils sont &#224; vous, soldat.+</Original>
+    <Original>S'il vous arrive d'errer dans le coin et que vous en trouvez une paire, elles sont &#224; vous, soldat.+</Original>
     <Translation></Translation>
   </block>
   <block ID="699">
     <ItemID>12818</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mais je peux vous donner sur ce bouton édition spéciale de collection &#224; la place, si vous le souhaitez.</Original>
+    <Original>Mais je peux vous donner ce pin's collector &#224; la place, si vous le souhaitez.</Original>
     <Translation></Translation>
   </block>
   <block ID="700">
@@ -4239,7 +4239,7 @@
   <block ID="706">
     <ItemID>12839</ItemID>
     <ItemType>13</ItemType>
-    <Original>Dites-lui qu'elle est la bienvenue pour prendre le thé chez moi quant elle le souhaite.</Original>
+    <Original>Dites-lui qu'elle est la bienvenue pour prendre le thé dans mes quartiers quant elle le souhaite.</Original>
     <Translation></Translation>
   </block>
   <block ID="707">
@@ -9099,7 +9099,7 @@
   <block ID="1516">
     <ItemID>14394</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'aimerai voir une sélection des vos armes et armures.</Original>
+    <Original>J'aimerai voir une sélection de vos armes et armures.</Original>
     <Translation></Translation>
   </block>
   <block ID="1517">
@@ -9111,7 +9111,7 @@
   <block ID="1518">
     <ItemID>14397</ItemID>
     <ItemType>13</ItemType>
-    <Original>Pourquoi ne vous battez-vous pas &#224; la guerre ?</Original>
+    <Original>Pourquoi ne vous battez-vous pas au front ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1519">
@@ -9141,19 +9141,19 @@
   <block ID="1523">
     <ItemID>14403</ItemID>
     <ItemType>13</ItemType>
-    <Original>Oui+</Original>
+    <Original>Oui, c'est vrai.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1524">
     <ItemID>14404</ItemID>
     <ItemType>13</ItemType>
-    <Original>Les affaires ont été bonne depuis que la guerre a commencé.+</Original>
+    <Original>Les affaires ont été bonnes depuis que la guerre a commencé.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1525">
     <ItemID>14405</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ca semble faire a une éternité.</Original>
+    <Original>Ca semble faire une éternité.</Original>
     <Translation></Translation>
   </block>
   <block ID="1526">
@@ -9165,7 +9165,7 @@
   <block ID="1527">
     <ItemID>14407</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je ne désire pas mourir.+</Original>
+    <Original>Et je ne désire pas mourir.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1528">
@@ -19077,7 +19077,7 @@
   <block ID="3179">
     <ItemID>16279</ItemID>
     <ItemType>13</ItemType>
-    <Original>Oh, les horreurs de la guerre...</Original>
+    <Original>Mon Dieu, les horreurs de la guerre...</Original>
     <Translation></Translation>
   </block>
   <block ID="3180">
@@ -19089,7 +19089,7 @@
   <block ID="3181">
     <ItemID>16281</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je m'éclate comme jamais !</Original>
+    <Original>Je me suis jamais autant éclaté !</Original>
     <Translation></Translation>
   </block>
   <block ID="3182">
@@ -19101,19 +19101,19 @@
   <block ID="3183">
     <ItemID>16283</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je suis &#224; court de matériels médicales !+</Original>
+    <Original>Je suis &#224; court de matériels médical !+</Original>
     <Translation></Translation>
   </block>
   <block ID="3184">
     <ItemID>16284</ItemID>
     <ItemType>13</ItemType>
-    <Original>Et pendant ce temps, ce sanctuaire au nord est bourré de matériels .+</Original>
+    <Original>Et pendant ce temps, ce sanctuaire au nord est bourré de matériels.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3185">
     <ItemID>16285</ItemID>
     <ItemType>13</ItemType>
-    <Original>Alors, pourquoi ne pas aller chercher ce matériels pour vous ?</Original>
+    <Original>Alors, pourquoi n'irai-je pas chercher ce matériels pour vous ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3186">
@@ -19149,7 +19149,7 @@
   <block ID="3191">
     <ItemID>16291</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je dois encore obtenir votre matériels médicales.</Original>
+    <Original>Je dois encore obtenir votre matériels médical.</Original>
     <Translation></Translation>
   </block>
   <block ID="3192">
@@ -19197,7 +19197,7 @@
   <block ID="3199">
     <ItemID>16299</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je le ferais bien mais je suis &#224; court de matériels médicales pour le moment.</Original>
+    <Original>Je le ferais bien mais je suis &#224; court de matériels médical pour le moment.</Original>
     <Translation></Translation>
   </block>
   <block ID="3200">
@@ -19677,13 +19677,13 @@
   <block ID="3279">
     <ItemID>16382</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai entendu que vous aviez l'intention de passer &#224; travers le blocus Orc.</Original>
+    <Original>J'ai entendu dire que vous aviez l'intention de passer &#224; travers le blocus Orc.</Original>
     <Translation></Translation>
   </block>
   <block ID="3280">
     <ItemID>16383</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mais oui. Ca devrait &#234;tre un jeu d'enfant pour un héros comme moi.</Original>
+    <Original>Oui c'est vrai. Ca devrait &#234;tre un jeu d'enfant pour un héros comme moi.</Original>
     <Translation></Translation>
   </block>
   <block ID="3281">
@@ -19701,13 +19701,13 @@
   <block ID="3283">
     <ItemID>16386</ItemID>
     <ItemType>13</ItemType>
-    <Original>Rien ne rend n'arrange mieux les choses qu'un bazooka.</Original>
+    <Original>Rien n'arrange mieux les choses qu'un bazooka.</Original>
     <Translation></Translation>
   </block>
   <block ID="3284">
     <ItemID>16387</ItemID>
     <ItemType>13</ItemType>
-    <Original>Maintenant je peux le dire &#224; haute voix mais il semble assez étrange de construire un barrage avec des bombes.+</Original>
+    <Original>Maintenant que je peux le dire tout haut, c'est assez étrange de construire un barrage avec des bombes.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3285">
@@ -19725,7 +19725,7 @@
   <block ID="3287">
     <ItemID>16390</ItemID>
     <ItemType>13</ItemType>
-    <Original>En temps voulu, en temps voulu.</Original>
+    <Original>Chaque chose en son temps... chaque chose en son temps.</Original>
     <Translation></Translation>
   </block>
   <block ID="3288">
@@ -20499,7 +20499,7 @@
   <block ID="3416">
     <ItemID>16520</ItemID>
     <ItemType>13</ItemType>
-    <Original>Maintenant, nos services de renseignements disent que des Troupiers Orc prévoient une grande offensive.+</Original>
+    <Original>Maintenant, nos services de renseignements disent que des Troupes Orc prévoient une grande offensive.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3417">
@@ -20547,7 +20547,7 @@
   <block ID="3424">
     <ItemID>16528</ItemID>
     <ItemType>13</ItemType>
-    <Original>Avant que les Troupiers Orcs n'est le temps de réagir J'ai besoin de vous pour apporter ces plans au QG</Original>
+    <Original>Avant que les Troupes Orcs n'est le temps de réagir J'ai besoin de vous pour apporter ces plans au QG.</Original>
     <Translation></Translation>
   </block>
   <block ID="3425">
@@ -20643,7 +20643,7 @@
   <block ID="3440">
     <ItemID>16544</ItemID>
     <ItemType>13</ItemType>
-    <Original>Hum... Cette tenue, j'y crois pas !</Original>
+    <Original>Bord... Cet uniforme, j'y crois pas !</Original>
     <Translation></Translation>
   </block>
   <block ID="3441">
@@ -20661,7 +20661,7 @@
   <block ID="3443">
     <ItemID>16547</ItemID>
     <ItemType>13</ItemType>
-    <Original>Non seulement ma t&#234;te est exposée mais il fait tr&#232;s froid aussi !</Original>
+    <Original>Non seulement ma t&#234;te est exposée mais j'ai tr&#232;s froid aussi !</Original>
     <Translation></Translation>
   </block>
   <block ID="3444">
@@ -20673,7 +20673,7 @@
   <block ID="3445">
     <ItemID>16549</ItemID>
     <ItemType>13</ItemType>
-    <Original>Merci. Je vous conseille d'en prendre un &#224; l'Armurerie de Poque LaTete &#224; Le Beaux Kuckelle.+</Original>
+    <Original>Merci. Je vous conseille d'en trouver un &#224; l'Armurerie de Poque LaTete &#224; Le Beaux Kuckelle.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3446">
@@ -20883,19 +20883,19 @@
   <block ID="3480">
     <ItemID>16585</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mes tours de radio sont toutes en pannes.+</Original>
+    <Original>Mes émetteurs radio sont tous en pannes.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3481">
     <ItemID>16586</ItemID>
     <ItemType>13</ItemType>
-    <Original>Comment je peux couvrir cette grande page d'histoire sans mes tours de radio ?</Original>
+    <Original>Comment je peux couvrir cette grande page d'histoire sans mes émetteurs radio ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3482">
     <ItemID>16587</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je peux réparer ces tours si vous voulez.</Original>
+    <Original>Je peux réparer ces émetteurs si vous voulez.</Original>
     <Translation></Translation>
   </block>
   <block ID="3483">
@@ -20907,7 +20907,7 @@
   <block ID="3484">
     <ItemID>16589</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous devez collecter des tubes cathodique avant que nous puissions commencer les réparations.</Original>
+    <Original>Vous devez collecter des ampoules sous vide avant que nous puissions commencer les réparations.</Original>
     <Translation></Translation>
   </block>
   <block ID="3485">
@@ -20931,19 +20931,19 @@
   <block ID="3488">
     <ItemID>16593</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai les tubes cathodiques que vous vouliez.</Original>
+    <Original>J'ai les ampoules sous vide que vous vouliez.</Original>
     <Translation></Translation>
   </block>
   <block ID="3489">
     <ItemID>16594</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ils sont cassés, mais réparable.+</Original>
+    <Original>Elles sont cassées, mais réparable.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3490">
     <ItemID>16595</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je vais transformer ces tubes cassés en pi&#232;ces de rechange utilisables.+</Original>
+    <Original>Je vais transformer ces ampoules cassées en pi&#232;ces de rechange utilisables.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3491">
@@ -20961,7 +20961,7 @@
   <block ID="3493">
     <ItemID>16598</ItemID>
     <ItemType>13</ItemType>
-    <Original>Alors gardez votre bureau, noble journaliste. Je vais réparer vos tours de radio.</Original>
+    <Original>Alors gardez votre bureau, noble journaliste. Je vais réparer vos émetteurs radio.</Original>
     <Translation></Translation>
   </block>
   <block ID="3494">
@@ -20973,7 +20973,7 @@
   <block ID="3495">
     <ItemID>16600</ItemID>
     <ItemType>13</ItemType>
-    <Original>Partez maintenant et réparez ces tours.</Original>
+    <Original>Partez maintenant et réparez ces émetteurs.</Original>
     <Translation></Translation>
   </block>
   <block ID="3496">
@@ -21045,7 +21045,7 @@
   <block ID="3507">
     <ItemID>16612</ItemID>
     <ItemType>13</ItemType>
-    <Original>Qu'est-ce que ce bleu billy ?+</Original>
+    <Original>C'est quoi cette Belle Bleue ?+</Original>
     <Translation></Translation>
   </block>
   <block ID="3508">
@@ -21099,7 +21099,7 @@
   <block ID="3516">
     <ItemID>16621</ItemID>
     <ItemType>13</ItemType>
-    <Original>Bam ! Trois photos ravageusement incroyable !</Original>
+    <Original>Et Bam ! Trois photos ravageusement incroyable !</Original>
     <Translation></Translation>
   </block>
   <block ID="3517">
@@ -21147,13 +21147,13 @@
   <block ID="3524">
     <ItemID>16629</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai encore besoin de collecter les tubes cathodique dont vous avez besoin.</Original>
+    <Original>J'ai encore besoin de collecter les ampoules dont vous avez besoin.</Original>
     <Translation></Translation>
   </block>
   <block ID="3525">
     <ItemID>16630</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je n'ai pas encore réparé tous vos tours.</Original>
+    <Original>Je n'ai pas encore réparé tous vos émetteurs.</Original>
     <Translation></Translation>
   </block>
   <block ID="3526">
@@ -21207,7 +21207,7 @@
   <block ID="3534">
     <ItemID>16639</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai endendu dire que le Général a un plan secret. Le mieux est de lui en parler.</Original>
+    <Original>J'ai endendu dire que le Général &#224; un plan secret l&#224;-dessus. Le mieux est de lui en parler.</Original>
     <Translation></Translation>
   </block>
   <block ID="3535">
@@ -21561,7 +21561,7 @@
   <block ID="3593">
     <ItemID>16715</ItemID>
     <ItemType>13</ItemType>
-    <Original>Veuillez indiquer la nature de l'urgence, citoyen.</Original>
+    <Original>Veuillez indiquer la nature de votre urgence, citoyen.</Original>
     <Translation></Translation>
   </block>
   <block ID="3594">
@@ -21645,7 +21645,7 @@
   <block ID="3607">
     <ItemID>16729</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ca a besoin d'un...</Original>
+    <Original>Elle est composée d'un...</Original>
     <Translation></Translation>
   </block>
   <block ID="3608">
