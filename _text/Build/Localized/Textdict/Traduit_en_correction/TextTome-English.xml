@@ -327,7 +327,7 @@
   <block ID="54">
     <ItemID>30262</ItemID>
     <ItemType>13</ItemType>
-    <Original>Squelette Collant</Original>
+    <Original>Squelette Luisant</Original>
     <Translation></Translation>
   </block>
   <block ID="55">
@@ -2193,7 +2193,7 @@
   <block ID="365">
     <ItemID>30649</ItemID>
     <ItemType>13</ItemType>
-    <Original>Tanks irait dans la terreur de cette poitrine si elles avaient des jambes.</Original>
+    <Original>Fait de Tank, inspirerait la terreur si elles avaient des jambes.</Original>
     <Translation></Translation>
   </block>
   <block ID="366">
@@ -5469,7 +5469,7 @@
   <block ID="911">
     <ItemID>31463</ItemID>
     <ItemType>13</ItemType>
-    <Original>Une caméra de reporter de guerre... ne peut contenir que 3 photos &#224; la fois.</Original>
+    <Original>Un appareil photo de reporter de guerre... ne peut contenir que 3 photos &#224; la fois.</Original>
     <Translation></Translation>
   </block>
   <block ID="912">
@@ -8703,7 +8703,7 @@
   <block ID="1450">
     <ItemID>32427</ItemID>
     <ItemType>13</ItemType>
-    <Original>Embattlements Go Boom</Original>
+    <Original>Boum Quand Mon Canon fait Boom</Original>
     <Translation></Translation>
   </block>
   <block ID="1451">
@@ -8715,7 +8715,7 @@
   <block ID="1452">
     <ItemID>32429</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je dois détruire quatre [Orque Trooper Embattlements] le long de la rivi&#232;re et retourner voir le Capitaine.</Original>
+    <Original>Je dois détruire quatre [Canons Orc] le long de la rivi&#232;re et retourner voir le Capitaine.</Original>
     <Translation></Translation>
   </block>
   <block ID="1453">
@@ -8979,7 +8979,7 @@
   <block ID="1496">
     <ItemID>32476</ItemID>
     <ItemType>13</ItemType>
-    <Original>Dans les Airs</Original>
+    <Original>Sur les Ondes</Original>
     <Translation></Translation>
   </block>
   <block ID="1497">
@@ -8991,7 +8991,7 @@
   <block ID="1498">
     <ItemID>32478</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je dois réparer les [Émetteurs Radio] avec les [Tubes Cathodiques] pour permettre &#224; l'animateur radio de continuer ses shows sur les ondes.</Original>
+    <Original>Je dois réparer les [Émetteurs Radio] avec les [Ampoules sous Vide] pour permettre &#224; l'animateur radio de continuer ses shows sur les ondes.</Original>
     <Translation></Translation>
   </block>
   <block ID="1499">
@@ -13323,7 +13323,7 @@
   <block ID="2220">
     <ItemID>34455</ItemID>
     <ItemType>13</ItemType>
-    <Original>Nous tirons sur des trucs</Original>
+    <Original>Nous tirons sur tout et n'importe quoi</Original>
     <Translation></Translation>
   </block>
   <block ID="2221">
@@ -13341,7 +13341,7 @@
   <block ID="2223">
     <ItemID>34458</ItemID>
     <ItemType>13</ItemType>
-    <Original>Nous tirons sur des trucs aussi</Original>
+    <Original>Nous tirons sur tout et n'importe quoi aussi</Original>
     <Translation></Translation>
   </block>
   <block ID="2224">
@@ -13359,7 +13359,7 @@
   <block ID="2226">
     <ItemID>34461</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le blacage est notre spécialité</Original>
+    <Original>Le blocage est notre spécialité</Original>
     <Translation></Translation>
   </block>
   <block ID="2227">
@@ -13407,13 +13407,13 @@
   <block ID="2234">
     <ItemID>34469</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mangeur Humano&#239;de de Montagnes</Original>
+    <Original>Mangeur Humano&#239;de des Montagnes</Original>
     <Translation></Translation>
   </block>
   <block ID="2235">
     <ItemID>34470</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ce n'est pas poétique, mais je fuyais quand je suis arrivé avec.</Original>
+    <Original>C'est pas poétique, mais je fuyais quand je l'ai écrit.</Original>
     <Translation></Translation>
   </block>
   <block ID="2236">
@@ -14013,7 +14013,7 @@
   <block ID="2335">
     <ItemID>34644</ItemID>
     <ItemType>13</ItemType>
-    <Original>Carnet de Guerre : "Jour 3. Ma premi&#232;re tâche importante. Je suis si excitée d'&#234;tre dans la jungle a enqu&#234;ter sur les Greems de la Jungle. Cette histoire va faire exploser le microcosme du journalisme d'investigation".</Original>
+    <Original>Carnet de Guerre : "Jour 3. Ma premi&#232;re tâche importante. Je suis si excitée d'&#234;tre dans la jungle &#224; enqu&#234;ter sur les Greems de la Jungle. Cette histoire va faire exploser le microcosme du journalisme d'investigation".</Original>
     <Translation></Translation>
   </block>
   <block ID="2336">
@@ -16365,7 +16365,7 @@
   <block ID="2727">
     <ItemID>35180</ItemID>
     <ItemType>13</ItemType>
-    <Original>Orque Cannon</Original>
+    <Original>Canon Orc</Original>
     <Translation></Translation>
   </block>
   <block ID="2728">
@@ -17985,25 +17985,25 @@
   <block ID="2997">
     <ItemID>35603</ItemID>
     <ItemType>13</ItemType>
-    <Original>Cage de la Jungle</Original>
+    <Original>Cage de Jungle</Original>
     <Translation></Translation>
   </block>
   <block ID="2998">
     <ItemID>35604</ItemID>
     <ItemType>13</ItemType>
-    <Original>Cage de la Jungle</Original>
+    <Original>Cage de Jungle</Original>
     <Translation></Translation>
   </block>
   <block ID="2999">
     <ItemID>35605</ItemID>
     <ItemType>13</ItemType>
-    <Original>Cage de la Jungle</Original>
+    <Original>Cage de Jungle</Original>
     <Translation></Translation>
   </block>
   <block ID="3000">
     <ItemID>35606</ItemID>
     <ItemType>13</ItemType>
-    <Original>Cage de la Jungle</Original>
+    <Original>Cage de Jungle</Original>
     <Translation></Translation>
   </block>
   <block ID="3001">
@@ -24513,7 +24513,7 @@
   <block ID="4085">
     <ItemID>37470</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin de trouver un autre chemin contournant les [éboulement Orc] en passant par les champs de Blizbane afin de poursuivre ma qu&#234;te pour trouver les Strings.</Original>
+    <Original>J'ai besoin de trouver un autre chemin contournant les [éboulement s Orc] en passant par les champs de Blizbane afin de poursuivre ma qu&#234;te pour trouver les Strings.</Original>
     <Translation></Translation>
   </block>
   <block ID="4086">
@@ -28329,7 +28329,7 @@
   <block ID="4721">
     <ItemID>38259</ItemID>
     <ItemType>13</ItemType>
-    <Original>Les Commandants Mort-vivants envahissent cette terre. N'essayez pas de les combattre. Ils sont immunisés contre toutes les armes connues.</Original>
+    <Original>Les Commandants Mort-vivants envahissent cette terre. N'essayez pas de les combattres. Ils sont immunisés contre toutes les armes connues.</Original>
     <Translation></Translation>
   </block>
   <block ID="4722">
