@@ -453,7 +453,7 @@
   <block ID="75">
     <ItemID>11097</ItemID>
     <ItemType>13</ItemType>
-    <Original>Regardez ça, n'est-ce pas mon vieil ami... Le Chercheur en Stringolithe.</Original>
+    <Original>Regardez ça, ne serait-ce pas mon vieil ami... Le Chercheur en Stringolithe.</Original>
     <Translation></Translation>
   </block>
   <block ID="76">
@@ -525,13 +525,13 @@
   <block ID="87">
     <ItemID>11109</ItemID>
     <ItemType>13</ItemType>
-    <Original>Maintenant, j'ai cet instrument qui peut prendre les lectures dont j'ai besoin.+</Original>
+    <Original>J'ai cet instrument qui peut prendre les lectures dont j'ai besoin.+</Original>
     <Translation></Translation>
   </block>
   <block ID="88">
     <ItemID>11110</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mais j'ai besoin de quelqu'un qui peut REELEMENTatteindre les Stringolithes.</Original>
+    <Original>Mais j'ai besoin de quelqu'un qui peut REELEMENT atteindre les Stringolithes.</Original>
     <Translation></Translation>
   </block>
   <block ID="89">
@@ -627,7 +627,7 @@
   <block ID="104">
     <ItemID>11150</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin de celles du Stringolithes de la compassion.+</Original>
+    <Original>J'ai besoin de celles du Stringolithe de la compassion.+</Original>
     <Translation></Translation>
   </block>
   <block ID="105">
@@ -639,7 +639,7 @@
   <block ID="106">
     <ItemID>11152</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin de celles du Stringolithes de Popote.+</Original>
+    <Original>J'ai besoin de celles du Stringolithe de Popote.+</Original>
     <Translation></Translation>
   </block>
   <block ID="107">
@@ -651,7 +651,7 @@
   <block ID="108">
     <ItemID>11154</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin de celles du Stringolithes de Générosité.+</Original>
+    <Original>J'ai besoin de celles du Stringolithe de Générosité.+</Original>
     <Translation></Translation>
   </block>
   <block ID="109">
@@ -663,7 +663,7 @@
   <block ID="110">
     <ItemID>11164</ItemID>
     <ItemType>13</ItemType>
-    <Original>Une idée d'un bon coin o&#249; manger ?+</Original>
+    <Original>Vous cherchez un bon coin o&#249; manger ?+</Original>
     <Translation></Translation>
   </block>
   <block ID="111">
@@ -687,19 +687,19 @@
   <block ID="114">
     <ItemID>11170</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai votre lecture du Stringolithes dans la jungle.</Original>
+    <Original>J'ai votre lecture du Stringolithe dans la jungle.</Original>
     <Translation></Translation>
   </block>
   <block ID="115">
     <ItemID>11171</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai votre lecture du Stringolithes dans la For&#234;t Cactus.</Original>
+    <Original>J'ai votre lecture du Stringolithe dans la For&#234;t Cactus.</Original>
     <Translation></Translation>
   </block>
   <block ID="116">
     <ItemID>11172</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai votre lecture du Stringolithes du Pôle Nord.</Original>
+    <Original>J'ai votre lecture du Stringolithe du Pôle Nord.</Original>
     <Translation></Translation>
   </block>
   <block ID="117">
@@ -6153,7 +6153,7 @@
   <block ID="1025">
     <ItemID>13250</ItemID>
     <ItemType>13</ItemType>
-    <Original>Oh un protagoniste.+</Original>
+    <Original>Oh un joueur !+</Original>
     <Translation></Translation>
   </block>
   <block ID="1026">
@@ -6183,7 +6183,7 @@
   <block ID="1030">
     <ItemID>13257</ItemID>
     <ItemType>13</ItemType>
-    <Original>Les Reines sont incroyablement difficile et répondent uniquement &#224; la bonne fréquence.</Original>
+    <Original>Les Reines sont incroyablement vicieuse et répondent uniquement &#224; la bonne fréquence.</Original>
     <Translation></Translation>
   </block>
   <block ID="1031">
@@ -6207,19 +6207,19 @@
   <block ID="1034">
     <ItemID>13282</ItemID>
     <ItemType>13</ItemType>
-    <Original>Dorénavant, il reste deux Reines Greems, préparez-vous pour récupérer d'autres glandes d'accouplement.</Original>
+    <Original>Dorénavant, il reste deux Reines Greems, préparez-vous a récupérer d'autres glandes d'accouplement.</Original>
     <Translation></Translation>
   </block>
   <block ID="1035">
     <ItemID>13284</ItemID>
     <ItemType>13</ItemType>
-    <Original>Plaines Désertiques.+</Original>
+    <Original>Direction les Plaines Désertiques.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1036">
     <ItemID>13285</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sifflet.</Original>
+    <Original>Le sifflet.</Original>
     <Translation></Translation>
   </block>
   <block ID="1037">
@@ -6585,7 +6585,7 @@
   <block ID="1097">
     <ItemID>13624</ItemID>
     <ItemType>13</ItemType>
-    <Original>Comme quoi ?</Original>
+    <Original>Comme... ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1098">
@@ -6615,7 +6615,7 @@
   <block ID="1102">
     <ItemID>13629</ItemID>
     <ItemType>13</ItemType>
-    <Original>Dermatophobie - La crainte de lésions cutanées.</Original>
+    <Original>Dermatophobie - La crainte des lésions cutanées.</Original>
     <Translation></Translation>
   </block>
   <block ID="1103">
@@ -6663,19 +6663,19 @@
   <block ID="1110">
     <ItemID>13638</ItemID>
     <ItemType>13</ItemType>
-    <Original>S'il vous plaît entrez dans la grotte l&#224;-bas et récupérez un échantillon de cristal pour moi.</Original>
+    <Original>Je vous en prie, entrez dans la grotte l&#224;-derri&#232;re et récupérez un échantillon de cristal pour moi.</Original>
     <Translation></Translation>
   </block>
   <block ID="1111">
     <ItemID>13639</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous avez encore des échantillons de cristaux pour moi ?</Original>
+    <Original>Vous avez des échantillons de cristaux pour moi ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1112">
     <ItemID>13640</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'en cherche toujoJ'en cherche toujours.urs.</Original>
+    <Original>J'en cherche toujours... J'en cherche toujours.</Original>
     <Translation></Translation>
   </block>
   <block ID="1113">
@@ -18453,7 +18453,7 @@
   <block ID="3075">
     <ItemID>16175</ItemID>
     <ItemType>13</ItemType>
-    <Original>C'est un peu g&#234;nant, mais mon bateau est sur &#8203;&#8203;le point de manquer de pétrole.</Original>
+    <Original>C'est un peu g&#234;nant, mais mon bateau est sur le point de manquer de pétrole.</Original>
     <Translation></Translation>
   </block>
   <block ID="3076">
@@ -18465,7 +18465,7 @@
   <block ID="3077">
     <ItemID>16177</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je vais aller vous chercher de l'or noir.</Original>
+    <Original>Je vais aller vous chercher cet or noir qui vous manque.</Original>
     <Translation></Translation>
   </block>
   <block ID="3078">
@@ -18519,7 +18519,7 @@
   <block ID="3086">
     <ItemID>16186</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je suis un peu expert combats mooglinesque, alors laissez-moi faire.</Original>
+    <Original>Je suis un peu expert en combats mooglinesque, alors laissez-moi faire.</Original>
     <Translation></Translation>
   </block>
   <block ID="3087">
@@ -18567,7 +18567,7 @@
   <block ID="3094">
     <ItemID>16194</ItemID>
     <ItemType>13</ItemType>
-    <Original>Alors permettez-moi de mettre mon amour de la destruction pour faire disparaître ces canons.</Original>
+    <Original>Alors permettez-moi d'utiliser mon amour de la destruction pour faire disparaître ces canons.</Original>
     <Translation></Translation>
   </block>
   <block ID="3095">
@@ -18717,13 +18717,13 @@
   <block ID="3119">
     <ItemID>16219</ItemID>
     <ItemType>13</ItemType>
-    <Original>Merci. Ca fait un moment que Poque m'a envoyé ça.</Original>
+    <Original>Merci. Ca fait un moment que Poque devait m'envoyer ça.</Original>
     <Translation></Translation>
   </block>
   <block ID="3120">
     <ItemID>16220</ItemID>
     <ItemType>13</ItemType>
-    <Original>Oh mon Dieu, qu'est-ce que je vais faire ?</Original>
+    <Original>Oh mon Dieu, que vais-je devenir ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3121">
@@ -18735,7 +18735,7 @@
   <block ID="3122">
     <ItemID>16222</ItemID>
     <ItemType>13</ItemType>
-    <Original>C'est une choses désagréables, de forme de blanche ou jaune.</Original>
+    <Original>Une chose bien désagréable, de forme de blanche ou jaune.</Original>
     <Translation></Translation>
   </block>
   <block ID="3123">
@@ -18909,7 +18909,7 @@
   <block ID="3151">
     <ItemID>16251</ItemID>
     <ItemType>13</ItemType>
-    <Original>Excellent ! Apportez-lui ce paquet de fémurs.+</Original>
+    <Original>Excellent ! Apportez-lui ce tas de fémurs.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3152">
@@ -18921,7 +18921,7 @@
   <block ID="3153">
     <ItemID>16253</ItemID>
     <ItemType>13</ItemType>
-    <Original>Rappelez-vous, donnez ce paquet de fémurs &#224; la Sorci&#232;re Démoniaque et elle devrait devenir plus agréable.</Original>
+    <Original>Rappelez-vous, donnez cette ribambelle de fémurs &#224; la Sorci&#232;re Démoniaque et elle devrait devenir plus agréable.</Original>
     <Translation></Translation>
   </block>
   <block ID="3154">
@@ -19053,13 +19053,13 @@
   <block ID="3175">
     <ItemID>16275</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je ne sais pas comment cela a commencé, mais j'ai entendu dire que le Général de l'Armée a grand brassage des plans.</Original>
+    <Original>Je ne sais pas comment cela a commencé, mais j'ai entendu dire que le Général de l'Armée a de grands plans &#224; ce sujet.</Original>
     <Translation></Translation>
   </block>
   <block ID="3176">
     <ItemID>16276</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je demanderais au Toubib de la ville, il pourrait &#234;tre au courant de quelque chose sur la Compassion.</Original>
+    <Original>Je demanderais plutôt au Toubib de la ville, il pourrait &#234;tre au courant de quelque chose sur la Compassion.</Original>
     <Translation></Translation>
   </block>
   <block ID="3177">
@@ -20739,7 +20739,7 @@
   <block ID="3456">
     <ItemID>16561</ItemID>
     <ItemType>13</ItemType>
-    <Original>Nous allons &#234;tre anéanti.</Original>
+    <Original>Nous allons &#234;tre annihilé.</Original>
     <Translation></Translation>
   </block>
   <block ID="3457">
@@ -20751,13 +20751,13 @@
   <block ID="3458">
     <ItemID>16563</ItemID>
     <ItemType>13</ItemType>
-    <Original>Annil...+</Original>
+    <Original>Vous zanni...+</Original>
     <Translation></Translation>
   </block>
   <block ID="3459">
     <ItemID>16564</ItemID>
     <ItemType>13</ItemType>
-    <Original>Qui va vous attaquer ?</Original>
+    <Original>Bon, qui va vous attaquer ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3460">
@@ -20793,7 +20793,7 @@
   <block ID="3465">
     <ItemID>16570</ItemID>
     <ItemType>13</ItemType>
-    <Original> Vous pariez !</Original>
+    <Original>Bien s&#251;r que oui !</Original>
     <Translation></Translation>
   </block>
   <block ID="3466">
@@ -20847,7 +20847,7 @@
   <block ID="3474">
     <ItemID>16579</ItemID>
     <ItemType>13</ItemType>
-    <Original>Merci beaucoup &#224; vous de m'avoir apporté ça !</Original>
+    <Original>Merci beaucoup de m'avoir apporté ça !</Original>
     <Translation></Translation>
   </block>
   <block ID="3475">
@@ -20967,13 +20967,13 @@
   <block ID="3494">
     <ItemID>16599</ItemID>
     <ItemType>13</ItemType>
-    <Original>C'est chic de votre part DeathSpank, mais vous allez avoir besoin en priorité.</Original>
+    <Original>C'est chic de votre part DeathSpank, mais vous allez avoir besoin de ça d'abord.</Original>
     <Translation></Translation>
   </block>
   <block ID="3495">
     <ItemID>16600</ItemID>
     <ItemType>13</ItemType>
-    <Original>Partez maintenant et réparez ces émetteurs.</Original>
+    <Original>Maintenant, partez et réparez ces émetteurs.</Original>
     <Translation></Translation>
   </block>
   <block ID="3496">
@@ -21111,13 +21111,13 @@
   <block ID="3518">
     <ItemID>16623</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ca ne serait pas votre pouce ?+</Original>
+    <Original>Ca ne serait pas votre pouce ça ?+</Original>
     <Translation></Translation>
   </block>
   <block ID="3519">
     <ItemID>16624</ItemID>
     <ItemType>13</ItemType>
-    <Original>Et celle-l&#224; est compl&#232;tement noir.+</Original>
+    <Original>Et celle-l&#224; est compl&#232;tement noire.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3520">
@@ -21177,7 +21177,7 @@
   <block ID="3529">
     <ItemID>16634</ItemID>
     <ItemType>13</ItemType>
-    <Original>Qu'est-ce que vous pouvez me dire sur Générosité ?</Original>
+    <Original>Qu'est-ce que vous pouvez me dire sur la Générosité ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3530">
@@ -21369,7 +21369,7 @@
   <block ID="3561">
     <ItemID>16667</ItemID>
     <ItemType>13</ItemType>
-    <Original>Qu'est-ce que vous pouvez me dire sur Générosité ?</Original>
+    <Original>Qu'est-ce que vous pouvez me dire sur la Générosité ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3562">
@@ -21393,13 +21393,13 @@
   <block ID="3565">
     <ItemID>16671</ItemID>
     <ItemType>13</ItemType>
-    <Original>D'accord.</Original>
+    <Original>D'acccooord.</Original>
     <Translation></Translation>
   </block>
   <block ID="3566">
     <ItemID>16672</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mon ami, le sanctuaire au nord guérit tout soldat blessé ou malade.+</Original>
+    <Original>Mon ami, le sanctuaire au nord guérit tout soldats blessés ou malades.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3567">
@@ -21423,7 +21423,7 @@
   <block ID="3570">
     <ItemID>16676</ItemID>
     <ItemType>13</ItemType>
-    <Original>Coucou. Coucou.</Original>
+    <Original>Ouh-ou. Ouh-ou.</Original>
     <Translation></Translation>
   </block>
   <block ID="3571">
@@ -21771,7 +21771,7 @@
   <block ID="3628">
     <ItemID>16750</ItemID>
     <ItemType>13</ItemType>
-    <Original>Revenez si vous avez n'importe quelle serrure étrange a ouvrir !</Original>
+    <Original>Revenez si vous avez n'importe quelle serrure étrange &#224; ouvrir !</Original>
     <Translation></Translation>
   </block>
   <block ID="3629">
@@ -21891,7 +21891,7 @@
   <block ID="3648">
     <ItemID>16774</ItemID>
     <ItemType>13</ItemType>
-    <Original>Voyons voir... Quest-ce que je dois faire ?+</Original>
+    <Original>Voyons voir... Quest-ce que je dois faire, déj&#224; ?+</Original>
     <Translation></Translation>
   </block>
   <block ID="3649">
@@ -21975,7 +21975,7 @@
   <block ID="3662">
     <ItemID>16792</ItemID>
     <ItemType>13</ItemType>
-    <Original>L'argent est toujours bien venu.</Original>
+    <Original>Un peu d'argent est toujours bien venu.</Original>
     <Translation></Translation>
   </block>
   <block ID="3663">
@@ -22125,13 +22125,13 @@
   <block ID="3687">
     <ItemID>17083</ItemID>
     <ItemType>13</ItemType>
-    <Original>Salutations, compatriotes défenseurs de la justice .</Original>
+    <Original>Salutations, compatriotes défenseurs de la justice.</Original>
     <Translation></Translation>
   </block>
   <block ID="3688">
     <ItemID>17084</ItemID>
     <ItemType>13</ItemType>
-    <Original>Salut, je suis l'assistant personnelle du Général.+</Original>
+    <Original>Salut, je suis l'assistant personnel du Général.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3689">
@@ -22197,7 +22197,7 @@
   <block ID="3699">
     <ItemID>17096</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous aavez o&#249; je pourrais en trouver ?</Original>
+    <Original>Vous savez o&#249; je pourrais en trouver ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3700">
@@ -22233,13 +22233,13 @@
   <block ID="3705">
     <ItemID>17102</ItemID>
     <ItemType>13</ItemType>
-    <Original>Gardez les yeux ouverts &#224; l’aff&#251;t de tout ce qui traine.+</Original>
+    <Original>Gardez les yeux ouverts &#224; l'aff&#251;t de tout ce qui traine.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3706">
     <ItemID>17103</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ou alors tuez ces saletés de robots pour ramasser ce qu'il en reste .</Original>
+    <Original>Ou alors tuez ces saletés de robots pour ramasser ce qu'il en reste.</Original>
     <Translation></Translation>
   </block>
   <block ID="3707">
