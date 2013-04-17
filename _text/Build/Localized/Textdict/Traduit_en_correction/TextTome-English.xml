@@ -1857,7 +1857,7 @@
   <block ID="309">
     <ItemID>30583</ItemID>
     <ItemType>13</ItemType>
-    <Original>Élégant sur &#8203;&#8203;les trois côtés de la Cara&#239;be.</Original>
+    <Original>Élégant sur aux trois points de la Cara&#239;be.</Original>
     <Translation></Translation>
   </block>
   <block ID="310">
@@ -2553,7 +2553,7 @@
   <block ID="425">
     <ItemID>30709</ItemID>
     <ItemType>13</ItemType>
-    <Original>Composée a 20% de glace et 20% d'acier. Il est 100% incroyable.</Original>
+    <Original>Composée &#224; 20% de glace et 20% d'acier. Il est 100% incroyable.</Original>
     <Translation></Translation>
   </block>
   <block ID="426">
@@ -2685,7 +2685,7 @@
   <block ID="447">
     <ItemID>30731</ItemID>
     <ItemType>13</ItemType>
-    <Original>Les dents ont été volés une b&#234;te hideuse de dentiste .</Original>
+    <Original>Les dents ont été volés une b&#234;te hideuse : un dentiste.</Original>
     <Translation></Translation>
   </block>
   <block ID="448">
@@ -4359,7 +4359,7 @@
   <block ID="726">
     <ItemID>31134</ItemID>
     <ItemType>13</ItemType>
-    <Original>Pi&#232;ces du pistolet</Original>
+    <Original>Pi&#232;ces d'Armes</Original>
     <Translation></Translation>
   </block>
   <block ID="727">
@@ -5331,7 +5331,7 @@
   <block ID="888">
     <ItemID>31440</ItemID>
     <ItemType>13</ItemType>
-    <Original>Crâne du Commandant Mort-vivant</Original>
+    <Original>Crâne de Commandant Mort-vivant</Original>
     <Translation></Translation>
   </block>
   <block ID="889">
@@ -5523,7 +5523,7 @@
   <block ID="920">
     <ItemID>31492</ItemID>
     <ItemType>13</ItemType>
-    <Original>Pi&#232;ce Souhait</Original>
+    <Original>Pi&#232;ce Porte-Bonheur</Original>
     <Translation></Translation>
   </block>
   <block ID="921">
@@ -6627,7 +6627,7 @@
   <block ID="1104">
     <ItemID>31756</ItemID>
     <ItemType>13</ItemType>
-    <Original>Well Parlant</Original>
+    <Original>Puit Parlant</Original>
     <Translation></Translation>
   </block>
   <block ID="1105">
@@ -7011,7 +7011,7 @@
   <block ID="1168">
     <ItemID>31884</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin de trouver un moyen d'entrer dans les [Catacombes] dans le [Sanctuaire] pour attraper la [Nonne] maléfique. Je devrais porter une attention particuli&#232;re aux moines pour entrer.. Peut-&#234;tre que je pourrais faire la m&#234;me chose qu'eux tant qu'il ne s'agit pas d'auto-flagellation.</Original>
+    <Original>J'ai besoin de trouver un moyen d'entrer dans les [Catacombes] dans le [Sanctuaire] pour attraper la [Nonne] maléfique. Je dois porter une attention particuli&#232;re aux moines pour entrer. Peut-&#234;tre que je pourrais faire la m&#234;me chose qu'eux, tant qu'il ne s'agit pas d'auto-flagellation.</Original>
     <Translation></Translation>
   </block>
   <block ID="1169">
@@ -7221,7 +7221,7 @@
   <block ID="1203">
     <ItemID>31922</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le Capitaine Fétide &#224; Scorbutville dit que j'ai besoin de [Rhum] avant de pouvoir emprunter son [Bateau Pirate] pour explorer le [Pôle Nord]. Je suppose que quun équipage ivre est un équipage heureux. J'ai besoin de trouver un endroit qui vend des essences de la nature distillée. J'ai entendu dire qu'il y en a unt dans la ville de [Strumfuquel].</Original>
+    <Original>Le Capitaine Fétide &#224; Scorbutville dit que j'ai besoin de [Rhum] avant de pouvoir emprunter son [Bateau Pirate] pour explorer le [Pôle Nord]. Je suppose qu'un équipage ivre est un équipage heureux. J'ai besoin de trouver un endroit qui vend des essences naturelles distillées. J'ai entendu dire qu'il y en a un dans la ville de [Strumfuquel].</Original>
     <Translation></Translation>
   </block>
   <block ID="1204">
@@ -7239,7 +7239,7 @@
   <block ID="1206">
     <ItemID>31925</ItemID>
     <ItemType>13</ItemType>
-    <Original>Apparemment, [Plaid Pete] a volé les clés du [Bateau Pirate]. Je dois payer Plaid Pete dans sa cachette pour voir si je peux le convaincre de me donner les clés etpar convaincre je veux dire le lui fendre le crâne.</Original>
+    <Original>Apparemment, [Plaid Pete] a volé les clés du [Bateau Pirate]. Je dois débusqué Plaid Pete dans sa cachette pour voir si je peux le convaincre de me donner les clés et par convaincre je veux dire lui fendre le crâne.</Original>
     <Translation></Translation>
   </block>
   <block ID="1207">
@@ -8901,7 +8901,7 @@
   <block ID="1483">
     <ItemID>32463</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je dois trouver et scanner un [Robot Mark-7] en utilisant ce [Scanneur de Mark-7). De retour &#224; Le Beaux Kuckelle, Lucy m'a suggéré d'aller &#224; l'ouest de l'[Usine Wortten] pour trouver un [Robot Mark-7]. Attendez, quel genre de robot je cherche déj&#224; ? Ah oui, un [Robot Mark-7].</Original>
+    <Original>Je dois trouver et scanner un [Robot Mark-7] en utilisant ce [Scanneur de Mark-7]. De retour &#224; Le Beaux Kuckelle, Lucy m'a suggéré d'aller &#224; l'ouest de l'[Usine Wortten] pour trouver un [Robot Mark-7]. Attendez, quel genre de robot je cherche déj&#224; ? Ah oui, un [Robot Mark-7].</Original>
     <Translation></Translation>
   </block>
   <block ID="1484">
@@ -9051,7 +9051,7 @@
   <block ID="1508">
     <ItemID>32488</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je dois localiser et tuer les [Matelots Mutins] du Capitaine Fétide pour retrouver les morceaux de sa [Carte au Trésor]. Le Capitaine Infecté a fait beaucoup pour moi au cours des années, y compris ce truc avec cette chose et je lui dois beaucoup. Je serais encore en prison sans lui.</Original>
+    <Original>Je dois localiser et tuer les [Matelots Mutins] du Capitaine Fétide pour retrouver les morceaux de sa [Carte au Trésor]. Le Capitaine Fétide a fait beaucoup pour moi au cours des années, y compris ce truc avec cette chose et je lui dois beaucoup. Je serais encore en prison sans lui.</Original>
     <Translation></Translation>
   </block>
   <block ID="1509">
@@ -9147,7 +9147,7 @@
   <block ID="1524">
     <ItemID>32504</ItemID>
     <ItemType>13</ItemType>
-    <Original>&#202;tre </Original>
+    <Original>Merde et re-merde</Original>
     <Translation></Translation>
   </block>
   <block ID="1525">
@@ -9159,7 +9159,7 @@
   <block ID="1526">
     <ItemID>32506</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je dois trouver des [Déjections d'Ourstilope] et retourner voir la Soci&#232;re Diabolique dans la For&#234;t Ténébreuse. Elle pourra me faire un Fragment Magique pour Blizbane le Fermier. Héros des Opprimés implique de grandes responsabilités.</Original>
+    <Original>Je dois trouver des [Déjections d'Ourstilope] et retourner voir la Sorci&#232;re Diabolique dans la For&#234;t Ténébreuse. Elle pourra me faire un Fragment Magique pour Blizbane le Fermier. Héros des Opprimés implique de grandes responsabilités.</Original>
     <Translation></Translation>
   </block>
   <block ID="1527">
@@ -9447,7 +9447,7 @@
   <block ID="1574">
     <ItemID>32572</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin d'un [Navire] pour me rendre sur l'une des îles et trouver ces [Pi&#232;ces de Perroquet] pour ce pirate opprimés dans Scorbutville. Apparemment, il y a des [Perroquets] sur l[Île Poulet], ce qui est &#224; peu pr&#232;s autant logique que le reste de ce jeu.</Original>
+    <Original>J'ai besoin d'un [Navire] pour me rendre sur l'une des îles et trouver ces [Morceaux de Perroquet] pour ce pirate opprimés dans Scorbutville. Apparemment, il y a des [Perroquets] sur l[Île Poulet], ce qui est &#224; peu pr&#232;s autant logique que le reste de ce jeu.</Original>
     <Translation></Translation>
   </block>
   <block ID="1575">
@@ -9465,7 +9465,7 @@
   <block ID="1577">
     <ItemID>32575</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin d'un [Navire] pour me rendre sur l'une des îles et trouver le [Trésor Pirate Générique] pour ce pirate orphelino-trésorophile dans Scorbutville. Etre un pirate semble &#234;tre beaucoup de travail et beaucoup de déception, pas comme dans les films et les jeux vieux jeux d'aventure.</Original>
+    <Original>J'ai besoin d'un [Navire] pour me rendre sur l'une des îles et trouver le [Trésor Pirate Générique] pour ce pirate orphelino-trésorophile dans Scorbutville. &#202;tre pirate &#224; l'air d'&#234;tre beaucoup de soucis et beaucoup de déceptions, pas comme dans les films et les jeux vieux jeux d'aventure.</Original>
     <Translation></Translation>
   </block>
   <block ID="1578">
@@ -10833,7 +10833,7 @@
   <block ID="1805">
     <ItemID>33543</ItemID>
     <ItemType>13</ItemType>
-    <Original>Il y a plus de [Socles &#224; Drapeaux] &#224; l'escalier du [Sanctuaire], et l'entrée de l'[Usine Wortten].</Original>
+    <Original>Il y a d'autres [Socles &#224; Drapeaux] &#224; l'escalier du [Sanctuaire], et &#224; l'entrée de l'[Usine Wortten].</Original>
     <Translation></Translation>
   </block>
   <block ID="1806">
@@ -11811,19 +11811,19 @@
   <block ID="1968">
     <ItemID>33858</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le niveau d'un ennemi est affiché &#224; côté de leur barre de santé. Le  niveau poss&#232;de un code de couleur, du vert (facile &#224; tuer) au rouge (l'ennemi va vous tuer facilement).</Original>
+    <Original>Le niveau d'un ennemi est affiché &#224; côté de leur barre de santé. Le niveau poss&#232;de un code de couleur, du vert (facile &#224; tuer) au rouge (l'ennemi va vous tuer facilement).</Original>
     <Translation></Translation>
   </block>
   <block ID="1969">
     <ItemID>33859</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le niveau d'un ennemi est affiché &#224; côté de leur barre de santé. Le  niveau poss&#232;de un code de couleur, du vert (facile &#224; tuer) au rouge (l'ennemi va vous tuer facilement).</Original>
+    <Original>Le niveau d'un ennemi est affiché &#224; côté de leur barre de santé. Le niveau poss&#232;de un code de couleur, du vert (facile &#224; tuer) au rouge (l'ennemi va vous tuer facilement).</Original>
     <Translation></Translation>
   </block>
   <block ID="1970">
     <ItemID>33860</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le niveau d'un ennemi est affiché &#224; côté de leur barre de santé. Le  niveau poss&#232;de un code de couleur, du vert (facile &#224; tuer) au rouge (l'ennemi va vous tuer facilement).</Original>
+    <Original>Le niveau d'un ennemi est affiché &#224; côté de leur barre de santé. Le niveau poss&#232;de un code de couleur, du vert (facile &#224; tuer) au rouge (l'ennemi va vous tuer facilement).</Original>
     <Translation></Translation>
   </block>
   <block ID="1971">
@@ -13155,13 +13155,13 @@
   <block ID="2192">
     <ItemID>34392</ItemID>
     <ItemType>13</ItemType>
-    <Original>La maison de Plaid Pete. Fléau des petites cavernes.</Original>
+    <Original>Maison de Plaid Pete. La pire des petites cavernes.</Original>
     <Translation></Translation>
   </block>
   <block ID="2193">
     <ItemID>34393</ItemID>
     <ItemType>13</ItemType>
-    <Original>Panneau Maritime</Original>
+    <Original>Panneau Sans Intér&#234;t</Original>
     <Translation></Translation>
   </block>
   <block ID="2194">
@@ -13233,7 +13233,7 @@
   <block ID="2205">
     <ItemID>34440</ItemID>
     <ItemType>13</ItemType>
-    <Original>Pas vraiment, c'est juste l&#224;.</Original>
+    <Original>Enfin pas vraiment, c'est juste l&#224;.&lt;BRR&gt;Mais si l&#224; o&#249; y'a les escaliers !</Original>
     <Translation></Translation>
   </block>
   <block ID="2206">
@@ -14283,7 +14283,7 @@
   <block ID="2380">
     <ItemID>34743</ItemID>
     <ItemType>13</ItemType>
-    <Original>Page 49 - " Les robots Mark-6 manigance quelque chose. Mon anniversaire est bientôt..."</Original>
+    <Original>Page 49 - " Les robots Mark-6 manigancent quelque chose. Mon anniversaire est bientôt..."</Original>
     <Translation></Translation>
   </block>
   <block ID="2381">
@@ -16425,7 +16425,7 @@
   <block ID="2737">
     <ItemID>35195</ItemID>
     <ItemType>13</ItemType>
-    <Original>Stand de Drapeau</Original>
+    <Original>Socle &#224; Drapeau</Original>
     <Translation></Translation>
   </block>
   <block ID="2738">
@@ -17865,7 +17865,7 @@
   <block ID="2977">
     <ItemID>35564</ItemID>
     <ItemType>13</ItemType>
-    <Original>Caverne de laMontagne Enneigée</Original>
+    <Original>Caverne de la Montagne Enneigée</Original>
     <Translation></Translation>
   </block>
   <block ID="2978">
@@ -18039,7 +18039,7 @@
   <block ID="3006">
     <ItemID>35619</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3007">
@@ -18069,13 +18069,13 @@
   <block ID="3011">
     <ItemID>35624</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3012">
     <ItemID>35626</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3013">
@@ -18099,13 +18099,13 @@
   <block ID="3016">
     <ItemID>35630</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3017">
     <ItemID>35631</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3018">
@@ -18255,31 +18255,31 @@
   <block ID="3042">
     <ItemID>35662</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3043">
     <ItemID>35663</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3044">
     <ItemID>35664</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3045">
     <ItemID>35665</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3046">
     <ItemID>35666</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3047">
@@ -18291,31 +18291,31 @@
   <block ID="3048">
     <ItemID>35669</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3049">
     <ItemID>35670</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3050">
     <ItemID>35671</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3051">
     <ItemID>35672</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3052">
     <ItemID>35673</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3053">
@@ -18327,25 +18327,25 @@
   <block ID="3054">
     <ItemID>35675</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3055">
     <ItemID>35676</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3056">
     <ItemID>35681</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3057">
     <ItemID>35684</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3058">
@@ -18483,7 +18483,7 @@
   <block ID="3080">
     <ItemID>35786</ItemID>
     <ItemType>13</ItemType>
-    <Original>Cabinet Paratin</Original>
+    <Original>Cabinet Édenté</Original>
     <Translation></Translation>
   </block>
   <block ID="3081">
@@ -18675,7 +18675,7 @@
   <block ID="3112">
     <ItemID>35857</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3113">
@@ -21405,7 +21405,7 @@
   <block ID="3567">
     <ItemID>36537</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3568">
@@ -24795,7 +24795,7 @@
   <block ID="4132">
     <ItemID>37626</ItemID>
     <ItemType>13</ItemType>
-    <Original>Pour entrer dans les catacombes et trouver ce qui s'y cache, nettoyez votre esprit et votre coeur et votre âme en br&#251;lant l'interdit.</Original>
+    <Original>Pour entrer dans les catacombes et trouver ce qui s'y cache, nettoyez votre esprit, votre coeur et votre âme en br&#251;lant l'interdit.</Original>
     <Translation></Translation>
   </block>
   <block ID="4133">
