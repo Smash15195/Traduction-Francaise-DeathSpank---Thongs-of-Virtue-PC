@@ -5619,7 +5619,7 @@
   <block ID="936">
     <ItemID>31512</ItemID>
     <ItemType>13</ItemType>
-    <Original>Po&#234;le de Prospection</Original>
+    <Original>Batée de Prospection</Original>
     <Translation></Translation>
   </block>
   <block ID="937">
@@ -8499,13 +8499,13 @@
   <block ID="1416">
     <ItemID>32393</ItemID>
     <ItemType>13</ItemType>
-    <Original>Retrouvez le Po&#234;le de Prospection</Original>
+    <Original>Retrouvez les Batées de Prospection</Original>
     <Translation></Translation>
   </block>
   <block ID="1417">
     <ItemID>32394</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je dois reprendre la [Po&#234;le de Prospection] aux [Moines de la Montagne Sanglante], et retourner voir la gars qui en a besoin dans les Montagnes Sanglantes.</Original>
+    <Original>Je dois reprendre les [Batées de Prospection] aux [Moines de la Montagne Sanglante], et retourner voir la gars qui en a besoin dans les Montagnes Sanglantes.</Original>
     <Translation></Translation>
   </block>
   <block ID="1418">
@@ -8517,7 +8517,7 @@
   <block ID="1419">
     <ItemID>32396</ItemID>
     <ItemType>13</ItemType>
-    <Original>Trouvez la Monnaie Manquante</Original>
+    <Original>Trouvez l'Argent Perdu</Original>
     <Translation></Translation>
   </block>
   <block ID="1420">
@@ -19569,7 +19569,7 @@
   <block ID="3261">
     <ItemID>36056</ItemID>
     <ItemType>13</ItemType>
-    <Original>Un Petir Chizard Muselé</Original>
+    <Original>Un Petit Chizard Muselé</Original>
     <Translation></Translation>
   </block>
   <block ID="3262">
@@ -24399,7 +24399,7 @@
   <block ID="4066">
     <ItemID>37448</ItemID>
     <ItemType>13</ItemType>
-    <Original>Clé Porte OccidentalTrouvée</Original>
+    <Original>Clé Porte Occidental Trouvée</Original>
     <Translation></Translation>
   </block>
   <block ID="4067">
@@ -24795,7 +24795,7 @@
   <block ID="4132">
     <ItemID>37626</ItemID>
     <ItemType>13</ItemType>
-    <Original>Pour entrer dans les catacombes et trouver ce qui s'y cache, nettoyez votre esprit, votre coeur et votre âme en br&#251;lant l'interdit.</Original>
+    <Original>Pour entrer dans les catacombes et trouver ce qui s'y cache. Nettoyez votre esprit, votre coeur et votre âme en br&#251;lant l'interdit.</Original>
     <Translation></Translation>
   </block>
   <block ID="4133">
