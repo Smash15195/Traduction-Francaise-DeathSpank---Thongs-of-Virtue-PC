@@ -9309,13 +9309,13 @@
   <block ID="1551">
     <ItemID>14431</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'aimerais voir Wandelranger Wortten.</Original>
+    <Original>J'aimerais voir Wortten Wandelranger.</Original>
     <Translation></Translation>
   </block>
   <block ID="1552">
     <ItemID>14432</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'aimerais prendre rendez-vous pour voir Wandelranger Wortten.</Original>
+    <Original>J'aimerais prendre rendez-vous pour voir Wortten Wandelranger.</Original>
     <Translation></Translation>
   </block>
   <block ID="1553">
@@ -9339,19 +9339,19 @@
   <block ID="1556">
     <ItemID>14436</ItemID>
     <ItemType>13</ItemType>
-    <Original>Wortten est réelle ? Je pensais ce c'était une imposture, comme ce Colonel.</Original>
+    <Original>Wortten est réelle ? Je pensais que c'était une imposture, comme ce Colonel.</Original>
     <Translation></Translation>
   </block>
   <block ID="1557">
     <ItemID>14437</ItemID>
     <ItemType>13</ItemType>
-    <Original>Dites-moi, y at-il beaucoup d'argent &#224; faire en haillons ?</Original>
+    <Original>Dites-moi, comment elle s'est fait beaucoup d'argent avec des haillons ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1558">
     <ItemID>14438</ItemID>
     <ItemType>13</ItemType>
-    <Original>L'angrédient secret, hein ? J'aimerais bien mettre la main dessus.</Original>
+    <Original>Un ingrédient secret, hein ? J'aimerais bien mettre la main dessus.</Original>
     <Translation></Translation>
   </block>
   <block ID="1559">
@@ -9423,19 +9423,19 @@
   <block ID="1570">
     <ItemID>14450</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mme Wandelranger est actuellement occupé et hors de son bureau.+</Original>
+    <Original>Mme Wandelranger est actuellement occupée et hors de son bureau.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1571">
     <ItemID>14451</ItemID>
     <ItemType>13</ItemType>
-    <Original>Probablement en utilisant son incroyable talent culinaire pour supprimer la faim dans le monde.</Original>
+    <Original>Probablement a utiliser son incroyable talent culinaire pour supprimer la faim dans le monde.</Original>
     <Translation></Translation>
   </block>
   <block ID="1572">
     <ItemID>14452</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous &#234;tes certainement venu au bon endroit.</Original>
+    <Original>Vous &#234;tes venu au bon endroit.</Original>
     <Translation></Translation>
   </block>
   <block ID="1573">
@@ -9447,19 +9447,19 @@
   <block ID="1574">
     <ItemID>14454</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mais vous aurez aussi besoin d'avoir un uniforme T.G.I.W...+</Original>
+    <Original>Vous aurez besoin d'avoir un uniforme T.G.I.W...+</Original>
     <Translation></Translation>
   </block>
   <block ID="1575">
     <ItemID>14455</ItemID>
     <ItemType>13</ItemType>
-    <Original>Réussir le test de dépistage...+</Original>
+    <Original>De réussir le test de dépistage...+</Original>
     <Translation></Translation>
   </block>
   <block ID="1576">
     <ItemID>14456</ItemID>
     <ItemType>13</ItemType>
-    <Original>Et chanter la chanson d'anniversaire officielle de T.G.I.W..</Original>
+    <Original>Et de chanter la chanson d'anniversaire officielle de T.G.I.W..</Original>
     <Translation></Translation>
   </block>
   <block ID="1577">
@@ -9477,7 +9477,7 @@
   <block ID="1579">
     <ItemID>14459</ItemID>
     <ItemType>13</ItemType>
-    <Original>O&#249; puis-je obtenir 6 morceaux de talent ?</Original>
+    <Original>Comment puis-je reconnaitre ces 6 morceaux de talent ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1580">
@@ -9531,7 +9531,7 @@
   <block ID="1588">
     <ItemID>14468</ItemID>
     <ItemType>13</ItemType>
-    <Original>C'est un gilet avec un minimum de 6 pi&#232;ces de style.</Original>
+    <Original>C'est un gilet avec un minimum de 6 pi&#232;ces de talent.</Original>
     <Translation></Translation>
   </block>
   <block ID="1589">
@@ -9549,7 +9549,7 @@
   <block ID="1591">
     <ItemID>14471</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je vois. Et le style ?</Original>
+    <Original>Je vois. Et le talent ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1592">
@@ -9561,7 +9561,7 @@
   <block ID="1593">
     <ItemID>14473</ItemID>
     <ItemType>13</ItemType>
-    <Original>Voyons voir, voil&#224;...+</Original>
+    <Original>Voyons voir...+</Original>
     <Translation></Translation>
   </block>
   <block ID="1594">
@@ -9651,13 +9651,13 @@
   <block ID="1608">
     <ItemID>14488</ItemID>
     <ItemType>13</ItemType>
-    <Original>C'est personnel rien, monsieur. Juste la politique de l'entreprise.</Original>
+    <Original>Ce n'est rien de personnel, monsieur. Juste la politique de l'entreprise.</Original>
     <Translation></Translation>
   </block>
   <block ID="1609">
     <ItemID>14489</ItemID>
     <ItemType>13</ItemType>
-    <Original>Tr&#232;s bien. Je devrais réussir votre test de suspicion et de méfiance.</Original>
+    <Original>Tr&#232;s bien. Je vais réussir votre test de suspicion et de méfiance.</Original>
     <Translation></Translation>
   </block>
   <block ID="1610">
@@ -9681,7 +9681,7 @@
   <block ID="1613">
     <ItemID>14494</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous voulez dire que vous ne le connaissez pas déj&#224; ?</Original>
+    <Original>Vous voulez dire que vous ne la connaissez pas déj&#224; ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1614">
@@ -9699,7 +9699,7 @@
   <block ID="1616">
     <ItemID>14497</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mon anniversaire est uniquement célébré avec mes deux meilleurs amis, Justice et Pourfendre.</Original>
+    <Original>Mon anniversaire est uniquement célébré avec mes deux meilleurs amis, Justice et Pourfendage.</Original>
     <Translation></Translation>
   </block>
   <block ID="1617">
@@ -9873,7 +9873,7 @@
   <block ID="1645">
     <ItemID>14526</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous voulez dire que vous n'avez jamais entendu parler de LA Wandelranger Wortten ?+</Original>
+    <Original>Vous voulez dire que vous n'avez jamais entendu parler de LA Wortten Wandelranger ?+</Original>
     <Translation></Translation>
   </block>
   <block ID="1646">
@@ -9903,7 +9903,7 @@
   <block ID="1650">
     <ItemID>14531</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sautez aux passage o&#249; elle devient riche.</Original>
+    <Original>Sautez au passage o&#249; elle devient riche.</Original>
     <Translation></Translation>
   </block>
   <block ID="1651">
@@ -9951,7 +9951,7 @@
   <block ID="1658">
     <ItemID>14539</ItemID>
     <ItemType>13</ItemType>
-    <Original>Et Terry s'est fait opéré du genou pour une fracture du pied.</Original>
+    <Original>Et Terry s'est fait opérer du genou pour une fracture du pied.</Original>
     <Translation></Translation>
   </block>
   <block ID="1659">
@@ -14475,7 +14475,7 @@
   <block ID="2412">
     <ItemID>15473</ItemID>
     <ItemType>13</ItemType>
-    <Original>Une simple poignée de main suffira.</Original>
+    <Original>Bon une simple poignée de main suffira alors.</Original>
     <Translation></Translation>
   </block>
   <block ID="2413">
@@ -14565,7 +14565,7 @@
   <block ID="2427">
     <ItemID>15494</ItemID>
     <ItemType>13</ItemType>
-    <Original>Qu'est-ce que VOUS croyez que je fais ici ?</Original>
+    <Original>Qu'est-ce que VOUS croyez qu'il se trame dans le coin ?</Original>
     <Translation></Translation>
   </block>
   <block ID="2428">
@@ -14583,7 +14583,7 @@
   <block ID="2430">
     <ItemID>15497</ItemID>
     <ItemType>13</ItemType>
-    <Original>Quel est votre plat  favori au T.G.I.Wortten ?</Original>
+    <Original>Quel est votre plat favori au T.G.I.Wortten ?</Original>
     <Translation></Translation>
   </block>
   <block ID="2431">
@@ -14631,7 +14631,7 @@
   <block ID="2438">
     <ItemID>15505</ItemID>
     <ItemType>13</ItemType>
-    <Original>Shérif a le pressentiment d'un lien avec l'usine et il m'a envoyé pour enqu&#234;ter.+</Original>
+    <Original>Le Shérif a le pressentiment d'un lien avec l'usine et il m'a envoyé pour enqu&#234;ter.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2439">
@@ -14655,7 +14655,7 @@
   <block ID="2442">
     <ItemID>15509</ItemID>
     <ItemType>13</ItemType>
-    <Original>Dites rien.</Original>
+    <Original>M'en parlez pas.</Original>
     <Translation></Translation>
   </block>
   <block ID="2443">
@@ -14685,31 +14685,31 @@
   <block ID="2447">
     <ItemID>15514</ItemID>
     <ItemType>13</ItemType>
-    <Original>Bien, laissez-moi voir... le Shérif va me réembauché quand...+</Original>
+    <Original>Eh Bien, laissez-moi voir... le Shérif m'a réembauché quand...+</Original>
     <Translation></Translation>
   </block>
   <block ID="2448">
     <ItemID>15515</ItemID>
     <ItemType>13</ItemType>
-    <Original>...il y avait...+</Original>
+    <Original>...il ça faisait...+</Original>
     <Translation></Translation>
   </block>
   <block ID="2449">
     <ItemID>15516</ItemID>
     <ItemType>13</ItemType>
-    <Original>... et réaliser les quatre ... +</Original>
+    <Original>... et facilement plus de quatre... +</Original>
     <Translation></Translation>
   </block>
   <block ID="2450">
     <ItemID>15517</ItemID>
     <ItemType>13</ItemType>
-    <Original>... six de huit ... +</Original>
+    <Original>...avec le cinq &#224; sept... +</Original>
     <Translation></Translation>
   </block>
   <block ID="2451">
     <ItemID>15518</ItemID>
     <ItemType>13</ItemType>
-    <Original>... le double de la niner ... +</Original>
+    <Original>...plus l'âge du capitaine... +</Original>
     <Translation></Translation>
   </block>
   <block ID="2452">
@@ -15513,25 +15513,25 @@
   <block ID="2585">
     <ItemID>15659</ItemID>
     <ItemType>13</ItemType>
-    <Original>Hmm... pour passer &#224; travers cette montagne, je dois d'abord penser comme une montagne.+</Original>
+    <Original>Hmm... Pour passer &#224; travers cette montagne, je dois d'abord penser comme une montagne.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2586">
     <ItemID>15660</ItemID>
     <ItemType>13</ItemType>
-    <Original>Nous devons tirer des leçons de cette montagne.+</Original>
+    <Original>Nous devons penser comme cette montagne.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2587">
     <ItemID>15661</ItemID>
     <ItemType>13</ItemType>
-    <Original>Tirer des leçons de cette montagne.+</Original>
+    <Original>Penser comme cette montagne.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2588">
     <ItemID>15662</ItemID>
     <ItemType>13</ItemType>
-    <Original>Tirer des leçons de... AH AH.+</Original>
+    <Original>Penser comme cette... AH AH.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2589">
@@ -15825,13 +15825,13 @@
   <block ID="2637">
     <ItemID>15711</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ca c'est une chose s&#251;re...+</Original>
+    <Original>Ca c'est s&#251;r...+</Original>
     <Translation></Translation>
   </block>
   <block ID="2638">
     <ItemID>15712</ItemID>
     <ItemType>13</ItemType>
-    <Original>... enfin, peut-&#234;tre que c'est une chose s&#251;re, on verra &#224; l'avenir.</Original>
+    <Original>... enfin, peut-&#234;tre que c'est s&#251;r, on verra &#224; l'avenir.</Original>
     <Translation></Translation>
   </block>
   <block ID="2639">
@@ -15981,7 +15981,7 @@
   <block ID="2663">
     <ItemID>15737</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mais je n'étais pas en train... Taisez-vous, écoutez-moi. +</Original>
+    <Original>C'était une image... Taisez-vous et écoutez-moi. +</Original>
     <Translation></Translation>
   </block>
   <block ID="2664">
@@ -17715,7 +17715,7 @@
   <block ID="2952">
     <ItemID>16034</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'y travaille.</Original>
+    <Original>Mais j'y travaille.</Original>
     <Translation></Translation>
   </block>
   <block ID="2953">
@@ -20301,7 +20301,7 @@
   <block ID="3383">
     <ItemID>16487</ItemID>
     <ItemType>13</ItemType>
-    <Original>Il créera surcharge qui détruira les Mark-6 &#224; du Tricore-7.</Original>
+    <Original>Il créera surcharge qui détruira les Mark-6 du Tricore-7.</Original>
     <Translation></Translation>
   </block>
   <block ID="3384">
