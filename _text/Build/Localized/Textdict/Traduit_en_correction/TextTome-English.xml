@@ -7089,7 +7089,7 @@
   <block ID="1181">
     <ItemID>31900</ItemID>
     <ItemType>13</ItemType>
-    <Original>Chanson d'Anniversaire Entendu</Original>
+    <Original>Entendre la Chanson d'Anniversaire</Original>
     <Translation></Translation>
   </block>
   <block ID="1182">
@@ -7923,25 +7923,25 @@
   <block ID="1320">
     <ItemID>32297</ItemID>
     <ItemType>13</ItemType>
-    <Original>Récupérez les 37.8 Liter Hat</Original>
+    <Original>Récupérez le Chapeau Anti-soif</Original>
     <Translation></Translation>
   </block>
   <block ID="1321">
     <ItemID>32298</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le Shérif de Strumfuquel veut que je tue les [Bandito &#224; Cr&#234;te Rouge Orc] et rapporter son [37.8 Liter Hat] &#224; Mr. Piddleford.</Original>
+    <Original>Le Shérif de Strumfuquel veut que je tue les [Banditos Renégats Rouge] et rapporte son [Chapeau Anti-soif] &#224; Mr. Piddleford.</Original>
     <Translation></Translation>
   </block>
   <block ID="1322">
     <ItemID>32299</ItemID>
     <ItemType>13</ItemType>
-    <Original>Gant de Flingueur</Original>
+    <Original>Gants de Flingueur</Original>
     <Translation></Translation>
   </block>
   <block ID="1323">
     <ItemID>32300</ItemID>
     <ItemType>13</ItemType>
-    <Original>Collectez des Gants de Flingueurs</Original>
+    <Original>Récupérez les Gants de Flingueurs</Original>
     <Translation></Translation>
   </block>
   <block ID="1324">
@@ -9057,13 +9057,13 @@
   <block ID="1509">
     <ItemID>32489</ItemID>
     <ItemType>13</ItemType>
-    <Original>Trésor Infecté</Original>
+    <Original>Trésor Fétide</Original>
     <Translation></Translation>
   </block>
   <block ID="1510">
     <ItemID>32490</ItemID>
     <ItemType>13</ItemType>
-    <Original>Trouvez le Trésor Infecté</Original>
+    <Original>Trouvez le Trésor Fétide</Original>
     <Translation></Translation>
   </block>
   <block ID="1511">
@@ -24033,7 +24033,7 @@
   <block ID="4005">
     <ItemID>37377</ItemID>
     <ItemType>13</ItemType>
-    <Original>Stand du Wortten</Original>
+    <Original>Stand Wortten</Original>
     <Translation></Translation>
   </block>
   <block ID="4006">
@@ -25947,7 +25947,7 @@
   <block ID="4324">
     <ItemID>37849</ItemID>
     <ItemType>13</ItemType>
-    <Original>Les b&#234;tes de laJungle...</Original>
+    <Original>Les b&#234;tes de la Jungle...</Original>
     <Translation></Translation>
   </block>
   <block ID="4325">
@@ -25977,7 +25977,7 @@
   <block ID="4329">
     <ItemID>37854</ItemID>
     <ItemType>13</ItemType>
-    <Original>Note Infectée</Original>
+    <Original>Note Fétide</Original>
     <Translation></Translation>
   </block>
   <block ID="4330">
@@ -26007,19 +26007,19 @@
   <block ID="4334">
     <ItemID>37859</ItemID>
     <ItemType>13</ItemType>
-    <Original>Michael Anderson</Original>
+    <Original>Traduction Française</Original>
     <Translation></Translation>
   </block>
   <block ID="4335">
     <ItemID>37860</ItemID>
     <ItemType>13</ItemType>
-    <Original>Nels Anderson</Original>
+    <Original>Smash15195</Original>
     <Translation></Translation>
   </block>
   <block ID="4336">
     <ItemID>37861</ItemID>
     <ItemType>13</ItemType>
-    <Original>Genieve Bertram</Original>
+    <Original>Michael Anderson, Nels Anderson, Genieve Bertram</Original>
     <Translation></Translation>
   </block>
   <block ID="4337">
@@ -27693,7 +27693,7 @@
   <block ID="4615">
     <ItemID>38148</ItemID>
     <ItemType>13</ItemType>
-    <Original>Les Petits Orque du P&#232;re Noël cédaient t du terrain lentement</Original>
+    <Original>Les Petits Orque du P&#232;re Noël cédaient du terrain lentement</Original>
     <Translation></Translation>
   </block>
   <block ID="4616">
@@ -27741,7 +27741,7 @@
   <block ID="4623">
     <ItemID>38156</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je l'ai enterrée au sommet d'une petite colline o&#249; elle pouvait regarder vers ma nouvelle formidablement cool Base Lunaire,</Original>
+    <Original>Je l'ai enterré au sommet d'une petite colline o&#249; elle pouvait regarder vers ma nouvelle for</Original>
     <Translation></Translation>
   </block>
   <block ID="4624">
