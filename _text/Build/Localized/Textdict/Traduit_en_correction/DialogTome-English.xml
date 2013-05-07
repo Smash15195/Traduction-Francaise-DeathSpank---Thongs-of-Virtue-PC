@@ -579,7 +579,7 @@
   <block ID="96">
     <ItemID>11124</ItemID>
     <ItemType>13</ItemType>
-    <Original>O&#249; est le Stringolithes de Popote, déj&#224; ?</Original>
+    <Original>O&#249; est le Stringolithes de Cuisine, déj&#224; ?</Original>
     <Translation></Translation>
   </block>
   <block ID="97">
@@ -591,7 +591,7 @@
   <block ID="98">
     <ItemID>11140</ItemID>
     <ItemType>13</ItemType>
-    <Original>Que pouvez-vous me dire sur le String de Popote ?</Original>
+    <Original>Que pouvez-vous me dire sur le String de Cuisine ?</Original>
     <Translation></Translation>
   </block>
   <block ID="99">
@@ -639,7 +639,7 @@
   <block ID="106">
     <ItemID>11152</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin de celles du Stringolithe de Popote.+</Original>
+    <Original>J'ai besoin de celles du Stringolithe de Cuisine.+</Original>
     <Translation></Translation>
   </block>
   <block ID="107">
@@ -11193,7 +11193,7 @@
   <block ID="1865">
     <ItemID>14749</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ah, vous avez remarqué mon String de Popote.+</Original>
+    <Original>Ah, vous avez remarqué mon String de Cuisine.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1866">
