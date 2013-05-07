@@ -81,7 +81,7 @@
   <block ID="13">
     <ItemID>30124</ItemID>
     <ItemType>13</ItemType>
-    <Original>Holiday Cookie Man</Original>
+    <Original>Nain d'Épices</Original>
     <Translation></Translation>
   </block>
   <block ID="14">
@@ -201,7 +201,7 @@
   <block ID="33">
     <ItemID>30174</ItemID>
     <ItemType>13</ItemType>
-    <Original>Greem de la Jungle</Original>
+    <Original>Vietgreem</Original>
     <Translation></Translation>
   </block>
   <block ID="34">
@@ -243,7 +243,7 @@
   <block ID="40">
     <ItemID>30211</ItemID>
     <ItemType>13</ItemType>
-    <Original>Bibenduile</Original>
+    <Original>Pétro'Glaire</Original>
     <Translation></Translation>
   </block>
   <block ID="41">
@@ -327,7 +327,7 @@
   <block ID="54">
     <ItemID>30262</ItemID>
     <ItemType>13</ItemType>
-    <Original>Squelette Collant</Original>
+    <Original>Squelette Luisant</Original>
     <Translation></Translation>
   </block>
   <block ID="55">
@@ -1857,7 +1857,7 @@
   <block ID="309">
     <ItemID>30583</ItemID>
     <ItemType>13</ItemType>
-    <Original>Élégant sur &#8203;&#8203;les trois côtés de la Cara&#239;be.</Original>
+    <Original>Élégant sur aux trois points de la Cara&#239;be.</Original>
     <Translation></Translation>
   </block>
   <block ID="310">
@@ -2193,7 +2193,7 @@
   <block ID="365">
     <ItemID>30649</ItemID>
     <ItemType>13</ItemType>
-    <Original>Tanks irait dans la terreur de cette poitrine si elles avaient des jambes.</Original>
+    <Original>Fait de Tank, inspirerait la terreur si elles avaient des jambes.</Original>
     <Translation></Translation>
   </block>
   <block ID="366">
@@ -2553,7 +2553,7 @@
   <block ID="425">
     <ItemID>30709</ItemID>
     <ItemType>13</ItemType>
-    <Original>Composée a 20% de glace et 20% d'acier. Il est 100% incroyable.</Original>
+    <Original>Composée &#224; 20% de glace et 20% d'acier. Il est 100% incroyable.</Original>
     <Translation></Translation>
   </block>
   <block ID="426">
@@ -2685,7 +2685,7 @@
   <block ID="447">
     <ItemID>30731</ItemID>
     <ItemType>13</ItemType>
-    <Original>Les dents ont été volés une b&#234;te hideuse de dentiste .</Original>
+    <Original>Les dents ont été volés une b&#234;te hideuse : un dentiste.</Original>
     <Translation></Translation>
   </block>
   <block ID="448">
@@ -3189,7 +3189,7 @@
   <block ID="531">
     <ItemID>30825</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ces bottes tueraient des dragons, si seulement elles pouvaient détenir des armes.</Original>
+    <Original>Ces bottes tueraient des dragons, si seulement elles pouvaient tenir des armes.</Original>
     <Translation></Translation>
   </block>
   <block ID="532">
@@ -4221,7 +4221,7 @@
   <block ID="703">
     <ItemID>31111</ItemID>
     <ItemType>13</ItemType>
-    <Original>Test de dépistage Officiel du Wortten: $1.$2</Original>
+    <Original>Test de dépistage Officiel de Wortten: $1.$2</Original>
     <Translation></Translation>
   </block>
   <block ID="704">
@@ -4233,7 +4233,7 @@
   <block ID="705">
     <ItemID>31113</ItemID>
     <ItemType>13</ItemType>
-    <Original>Test de dépistage Officiel du Wortten: $1.$2</Original>
+    <Original>Test de dépistage Officiel de Wortten: $1.$2</Original>
     <Translation></Translation>
   </block>
   <block ID="706">
@@ -4245,7 +4245,7 @@
   <block ID="707">
     <ItemID>31115</ItemID>
     <ItemType>13</ItemType>
-    <Original>Test de dépistage Officiel du Wortten: $1.$2</Original>
+    <Original>Test de dépistage Officiel de Wortten: $1.$2</Original>
     <Translation></Translation>
   </block>
   <block ID="708">
@@ -4263,13 +4263,13 @@
   <block ID="710">
     <ItemID>31118</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sac Alimentaire du Wortten</Original>
+    <Original>Sac Alimentaire de Wortten</Original>
     <Translation></Translation>
   </block>
   <block ID="711">
     <ItemID>31119</ItemID>
     <ItemType>13</ItemType>
-    <Original>C'est un savoureux sac pour les plats savoureux du Wortten.</Original>
+    <Original>C'est un savoureux sac pour les plats savoureux de Wortten.</Original>
     <Translation></Translation>
   </block>
   <block ID="712">
@@ -4287,7 +4287,7 @@
   <block ID="714">
     <ItemID>31122</ItemID>
     <ItemType>13</ItemType>
-    <Original>Carte d'employé du Wortten</Original>
+    <Original>Carte d'employé de Wortten</Original>
     <Translation></Translation>
   </block>
   <block ID="715">
@@ -4359,7 +4359,7 @@
   <block ID="726">
     <ItemID>31134</ItemID>
     <ItemType>13</ItemType>
-    <Original>Pi&#232;ces du pistolet</Original>
+    <Original>Pi&#232;ces d'Armes</Original>
     <Translation></Translation>
   </block>
   <block ID="727">
@@ -4473,7 +4473,7 @@
   <block ID="745">
     <ItemID>31157</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le coeur d'or de Madame Primp. Il a encore des morceaux de Madame Primp dessus.</Original>
+    <Original>Le coeur d'or de Madame Primp. Il y a encore des morceaux de Madame Primp dessus.</Original>
     <Translation></Translation>
   </block>
   <block ID="746">
@@ -4539,7 +4539,7 @@
   <block ID="756">
     <ItemID>31194</ItemID>
     <ItemType>13</ItemType>
-    <Original>Colis pour le Général Millitaire</Original>
+    <Original>Colis pour le Général Militaire</Original>
     <Translation></Translation>
   </block>
   <block ID="757">
@@ -4659,7 +4659,7 @@
   <block ID="776">
     <ItemID>31278</ItemID>
     <ItemType>13</ItemType>
-    <Original>Lecture du Stringolithe de Popote</Original>
+    <Original>Lecture du Stringolithe de Cuisine</Original>
     <Translation></Translation>
   </block>
   <block ID="777">
@@ -4917,7 +4917,7 @@
   <block ID="819">
     <ItemID>31371</ItemID>
     <ItemType>13</ItemType>
-    <Original>Curieusement mani&#232;re pour mesurer les liquides.</Original>
+    <Original>Curieuse mani&#232;re pour mesurer les liquides.</Original>
     <Translation></Translation>
   </block>
   <block ID="820">
@@ -5031,7 +5031,7 @@
   <block ID="838">
     <ItemID>31390</ItemID>
     <ItemType>13</ItemType>
-    <Original>Yeux de Calamar</Original>
+    <Original>Yeux de Tentacule</Original>
     <Translation></Translation>
   </block>
   <block ID="839">
@@ -5331,7 +5331,7 @@
   <block ID="888">
     <ItemID>31440</ItemID>
     <ItemType>13</ItemType>
-    <Original>Crâne du Commandant Mort-vivant</Original>
+    <Original>Crâne de Commandant Mort-vivant</Original>
     <Translation></Translation>
   </block>
   <block ID="889">
@@ -5415,25 +5415,25 @@
   <block ID="902">
     <ItemID>31454</ItemID>
     <ItemType>13</ItemType>
-    <Original>Tube Cathodique</Original>
+    <Original>Ampoule sous Vide</Original>
     <Translation></Translation>
   </block>
   <block ID="903">
     <ItemID>31455</ItemID>
     <ItemType>13</ItemType>
-    <Original>Il s'agit d'un tube cathodique. Il suffit de le regarder et hop le  vide se fait.</Original>
+    <Original>Il s'agit d'une Ampoule sous Vide. Il suffit de la regarder et hop le  vide se fait.</Original>
     <Translation></Translation>
   </block>
   <block ID="904">
     <ItemID>31456</ItemID>
     <ItemType>13</ItemType>
-    <Original>Tube Cathodique Cassé</Original>
+    <Original>Ampoule sous Vide Cassée</Original>
     <Translation></Translation>
   </block>
   <block ID="905">
     <ItemID>31457</ItemID>
     <ItemType>13</ItemType>
-    <Original>Un triste exemple de tube cathodique, abattu avant son prime.</Original>
+    <Original>Un triste exemple d'ampoule sous vide, morte avant d'avoir pu briller.</Original>
     <Translation></Translation>
   </block>
   <block ID="906">
@@ -5469,7 +5469,7 @@
   <block ID="911">
     <ItemID>31463</ItemID>
     <ItemType>13</ItemType>
-    <Original>Une caméra de reporter de guerre... ne peut contenir que 3 photos &#224; la fois.</Original>
+    <Original>Un appareil photo de reporter de guerre... ne peut contenir que 3 photos &#224; la fois.</Original>
     <Translation></Translation>
   </block>
   <block ID="912">
@@ -5493,7 +5493,7 @@
   <block ID="915">
     <ItemID>31467</ItemID>
     <ItemType>13</ItemType>
-    <Original>Composée d'une facture onze, trois et deux dollar.</Original>
+    <Original>Composée d'une facture de onze, trois et deux dollar.</Original>
     <Translation></Translation>
   </block>
   <block ID="916">
@@ -5523,7 +5523,7 @@
   <block ID="920">
     <ItemID>31492</ItemID>
     <ItemType>13</ItemType>
-    <Original>Pi&#232;ce Souhait</Original>
+    <Original>Pi&#232;ce Porte-Bonheur</Original>
     <Translation></Translation>
   </block>
   <block ID="921">
@@ -5619,7 +5619,7 @@
   <block ID="936">
     <ItemID>31512</ItemID>
     <ItemType>13</ItemType>
-    <Original>Po&#234;le de Prospection</Original>
+    <Original>Batée de Prospection</Original>
     <Translation></Translation>
   </block>
   <block ID="937">
@@ -5985,7 +5985,7 @@
   <block ID="997">
     <ItemID>31611</ItemID>
     <ItemType>13</ItemType>
-    <Original>Une boîte d'explosifs. Pour l'utiliser, placez-l&#224; délicatement sur &#8203;&#8203;le sol, et tirez-lui dessus.</Original>
+    <Original>Une boîte d'explosifs. Pour l'utiliser, placez-l&#224; délicatement sur le sol, et tirez-lui dessus.</Original>
     <Translation></Translation>
   </block>
   <block ID="998">
@@ -5997,7 +5997,7 @@
   <block ID="999">
     <ItemID>31613</ItemID>
     <ItemType>13</ItemType>
-    <Original>Eau de Big Oil.</Original>
+    <Original>Eau de Méga Pétro'Glaire.</Original>
     <Translation></Translation>
   </block>
   <block ID="1000">
@@ -6189,7 +6189,7 @@
   <block ID="1031">
     <ItemID>31645</ItemID>
     <ItemType>13</ItemType>
-    <Original>Un trésor parfaitement  générique uniquement un pirate pourrait en vouloir.</Original>
+    <Original>Un trésor parfaitement nul, seul un pirate pourrait en vouloir.</Original>
     <Translation></Translation>
   </block>
   <block ID="1032">
@@ -6201,7 +6201,7 @@
   <block ID="1033">
     <ItemID>31647</ItemID>
     <ItemType>13</ItemType>
-    <Original>Une clé pour le Coffre au Trésor sur l'île Squelette.</Original>
+    <Original>Clé pour le Coffre au Trésor sur l'île Squelette. Le titre est pas assez clair ?!?</Original>
     <Translation></Translation>
   </block>
   <block ID="1034">
@@ -6453,7 +6453,7 @@
   <block ID="1075">
     <ItemID>31709</ItemID>
     <ItemType>13</ItemType>
-    <Original>Employé du Wortten</Original>
+    <Original>Employé de Wortten</Original>
     <Translation></Translation>
   </block>
   <block ID="1076">
@@ -6627,7 +6627,7 @@
   <block ID="1104">
     <ItemID>31756</ItemID>
     <ItemType>13</ItemType>
-    <Original>Well Parlant</Original>
+    <Original>Puit Parlant</Original>
     <Translation></Translation>
   </block>
   <block ID="1105">
@@ -6819,7 +6819,7 @@
   <block ID="1136">
     <ItemID>31793</ItemID>
     <ItemType>13</ItemType>
-    <Original>Radio Host</Original>
+    <Original>Animateur Radio</Original>
     <Translation></Translation>
   </block>
   <block ID="1137">
@@ -7011,7 +7011,7 @@
   <block ID="1168">
     <ItemID>31884</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin de trouver un moyen d'entrer dans les [Catacombes] dans le [Sanctuaire] pour attraper la [Nonne] maléfique. Je devrais porter une attention particuli&#232;re aux moines pour entrer.. Peut-&#234;tre que je pourrais faire la m&#234;me chose qu'eux tant qu'il ne s'agit pas d'auto-flagellation.</Original>
+    <Original>J'ai besoin de trouver un moyen d'entrer dans les [Catacombes] dans le [Sanctuaire] pour attraper la [Nonne] maléfique. Je dois porter une attention particuli&#232;re aux moines pour entrer. Peut-&#234;tre que je pourrais faire la m&#234;me chose qu'eux, tant qu'il ne s'agit pas d'auto-flagellation.</Original>
     <Translation></Translation>
   </block>
   <block ID="1169">
@@ -7023,73 +7023,73 @@
   <block ID="1170">
     <ItemID>31889</ItemID>
     <ItemType>13</ItemType>
-    <Original>Trouvez le String de la Popote</Original>
+    <Original>Trouvez le String de la Cuisine</Original>
     <Translation></Translation>
   </block>
   <block ID="1171">
     <ItemID>31890</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le [String de la Popote] a corrompu le grand chef qui le porte, je vais avoir besoin de le tuer et rapporter le String &#224; Sandy. Selon la légende, ce grand chef qui vit &#224; l'Ouest. La légende dit aussi que les pyramides ont été construites par des extraterrestres. Ca prouve bien qu'on peut faire lui confiance.</Original>
+    <Original>Le [String de la Cuisine] a corrompu le grand chef qui le porte, je vais avoir besoin de le tuer et rapporter le String &#224; Sandy. Selon la légende, ce grand chef vit &#224; l'Ouest. Cette légende dit aussi que les pyramides ont été construites par des extraterrestres. Ca prouve bien qu'on peut faire lui confiance.</Original>
     <Translation></Translation>
   </block>
   <block ID="1172">
     <ItemID>31891</ItemID>
     <ItemType>13</ItemType>
-    <Original>Uniforme du Wortten</Original>
+    <Original>Uniforme Wortten</Original>
     <Translation></Translation>
   </block>
   <block ID="1173">
     <ItemID>31892</ItemID>
     <ItemType>13</ItemType>
-    <Original>Obtenez un Uniforme du Wortten</Original>
+    <Original>Obtenez un Uniforme Wortten</Original>
     <Translation></Translation>
   </block>
   <block ID="1174">
     <ItemID>31893</ItemID>
     <ItemType>13</ItemType>
-    <Original>Pour devenir un employé et avoir acc&#232;s &#224; Wortten et son [String de la Popote], je dois m'habiller comme un de ces pignoufs et me présenter &#224; la réceptionniste dans l'Usine T.G.I.W. Trouver un [Gilet du Wortten] impliquerait également tuer des possesseurs. Oh ouais, j'ai aussi besoin de six morceaux de Silly Flair. Ca sonne de moins en moins héro&#239;que &#224; chaque seconde qui passe.</Original>
+    <Original>Pour devenir un employé et avoir acc&#232;s &#224; Wortten et son [String de la Cuisine], je dois m'habiller comme un de ces pignoufs et me présenter &#224; la réceptionniste dans l'Usine T.G.I.W. Trouver un [Gilet Wortten] impliquerait également tuer des possesseurs. Oh ouais, j'ai aussi besoin de six morceaux de Tallent. Ca sonne de moins en moins héro&#239;que &#224; chaque seconde qui passe.</Original>
     <Translation></Translation>
   </block>
   <block ID="1175">
     <ItemID>31894</ItemID>
     <ItemType>13</ItemType>
-    <Original>Test de Dépistage du Wortten</Original>
+    <Original>Test de Dépistage de Wortten</Original>
     <Translation></Translation>
   </block>
   <block ID="1176">
     <ItemID>31895</ItemID>
     <ItemType>13</ItemType>
-    <Original>Passez le Test de Dépistage du Wortten</Original>
+    <Original>Passez le Test de Dépistage de Wortten</Original>
     <Translation></Translation>
   </block>
   <block ID="1177">
     <ItemID>31896</ItemID>
     <ItemType>13</ItemType>
-    <Original>Récuperer le [String de la Popote] &#224; Wortten implique le passage d'un test de dépistage pour devenir employé. Rien de plus facile, car, les enfants, les héros ne se drogue pas. La [Machine &#224; Dépistage] est &#224; l'intérieur de l'[Usine T.G.I.W].</Original>
+    <Original>Récuperer le [String de la Cuisine] &#224; Wortten implique le passage d'un test de dépistage pour devenir employé. Rien de plus facile, car, les enfants, les héros ne se drogue pas. La [Machine &#224; Dépistage] est &#224; l'intérieur de l'[Usine T.G.I.W].</Original>
     <Translation></Translation>
   </block>
   <block ID="1178">
     <ItemID>31897</ItemID>
     <ItemType>13</ItemType>
-    <Original>Chanson d'Anniversaire du Wortten</Original>
+    <Original>Chanson d'Anniversaire de Wortten</Original>
     <Translation></Translation>
   </block>
   <block ID="1179">
     <ItemID>31898</ItemID>
     <ItemType>13</ItemType>
-    <Original>Apprenez la Chanson d'Anniversaire du Wortten</Original>
+    <Original>Apprenez la Chanson d'Anniversaire de Wortten</Original>
     <Translation></Translation>
   </block>
   <block ID="1180">
     <ItemID>31899</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le [String de la Popote] portés par Wortten est si proche que je peux le go&#251;ter. J'ai juste besoin d'apprendre la [Chanson d'Anniversaire] de la société et la chanter a la Réceptionniste pour devenir un employé et atteindre Wortten. La seule façon d'apprendre ce chant héro&#239;que des anniversaires est de visiter un [Franchisé de Wortten].</Original>
+    <Original>Le [String de la Cuisine] portés par Wortten est si proche que je peux le go&#251;ter. J'ai juste besoin d'apprendre la [Chanson d'Anniversaire] de la société et la chanter &#224; la Réceptionniste pour devenir un employé et atteindre Wortten. La seule façon d'apprendre ce chant héro&#239;que des anniversaires est de visiter un [Franchisé de Wortten].</Original>
     <Translation></Translation>
   </block>
   <block ID="1181">
     <ItemID>31900</ItemID>
     <ItemType>13</ItemType>
-    <Original>Chanson d'Anniversaire Entendu</Original>
+    <Original>Entendre la Chanson d'Anniversaire</Original>
     <Translation></Translation>
   </block>
   <block ID="1182">
@@ -7107,7 +7107,7 @@
   <block ID="1184">
     <ItemID>31903</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le P&#232;re Noël a été corrompu par le [String de la Générosité] et c'est au poufendeur du mal qu'il revient de vaincre cet Homme Jovial pour récupérer son string. Son repaire est dans les terres désolées et givrées de la mer. Je saurais enfin sur quelle liste je suis apr&#232;s tout ça.</Original>
+    <Original>Le P&#232;re Noël a été corrompu par le [String de la Générosité] et c'est au poufendeur du mal qu'il revient de vaincre cet Homme Jovial pour récupérer son string. Son repaire est dans les terres désolées et givrées dans l'océan. Je saurais enfin sur quelle liste je suis apr&#232;s tout ça.</Original>
     <Translation></Translation>
   </block>
   <block ID="1185">
@@ -7143,7 +7143,7 @@
   <block ID="1190">
     <ItemID>31909</ItemID>
     <ItemType>13</ItemType>
-    <Original>Les soldats blessés ont vuent leurs armes volées pendant qu'ils étaient en convalescence au [Sanctuaire] dans la [For&#234;t Ténébreuse]. J'ai besoin de trouver les [Pi&#232;ces d'Armes] disparues et de les rapporter au Général dans Le Beaux Kuckelle si l'invasion du Pôle Nord veut &#234;tre couronnée de succ&#232;s. Le P&#232;re Noël ne verra rien venir.</Original>
+    <Original>Les soldats blessés ont vu leurs armes volées pendant qu'ils étaient en convalescence au [Sanctuaire] dans la [For&#234;t Ténébreuse]. J'ai besoin de trouver les [Pi&#232;ces d'Armes] disparues et de les rapporter au Général dans Le Beaux Kuckelle si l'invasion du Pôle Nord veut &#234;tre couronnée de succ&#232;s. Le P&#232;re Noël ne verra rien venir.</Original>
     <Translation></Translation>
   </block>
   <block ID="1191">
@@ -7179,7 +7179,7 @@
   <block ID="1196">
     <ItemID>31915</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin de trouver un [Bateau] et voguer autour du [Pôle Nord] pour cartographier les défenses de l'île du P&#232;re Noël, de sorte que le Général Le Beaux Kuckelle puisse lancer son invasion et que je puisse tuer le P&#232;re Noël. Ouah, j'avais jamais pensé que je pourrais dire un truc comme ça.</Original>
+    <Original>J'ai besoin de trouver un [Bateau] et voguer autour du [Pôle Nord] pour cartographier les défenses de l'île du P&#232;re Noël, de sorte que le Général dans Le Beaux Kuckelle lance son invasion et que je puisse tuer le P&#232;re Noël. Ouah, j'avais jamais pensé que je pourrais dire un truc comme ça.</Original>
     <Translation></Translation>
   </block>
   <block ID="1197">
@@ -7221,7 +7221,7 @@
   <block ID="1203">
     <ItemID>31922</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le Capitaine Fétide &#224; Scorbutville dit que j'ai besoin de [Rhum] avant de pouvoir emprunter son [Bateau Pirate] pour explorer le [Pôle Nord]. Je suppose que quun équipage ivre est un équipage heureux. J'ai besoin de trouver un endroit qui vend des essences de la nature distillée. J'ai entendu dire qu'il y en a unt dans la ville de [Strumfuquel].</Original>
+    <Original>Le Capitaine Fétide &#224; Scorbutville dit que j'ai besoin de [Rhum] avant de pouvoir emprunter son [Bateau Pirate] pour explorer le [Pôle Nord]. Je suppose qu'un équipage ivre est un équipage heureux. J'ai besoin de trouver un endroit qui vend des essences naturelles distillées. J'ai entendu dire qu'il y en a un dans la ville de [Strumfuquel].</Original>
     <Translation></Translation>
   </block>
   <block ID="1204">
@@ -7239,7 +7239,7 @@
   <block ID="1206">
     <ItemID>31925</ItemID>
     <ItemType>13</ItemType>
-    <Original>Apparemment, [Plaid Pete] a volé les clés du [Bateau Pirate]. Je dois payer Plaid Pete dans sa cachette pour voir si je peux le convaincre de me donner les clés etpar convaincre je veux dire le lui fendre le crâne.</Original>
+    <Original>Apparemment, [Plaid Pete] a volé les clés du [Bateau Pirate]. Je dois débusqué Plaid Pete dans sa cachette pour voir si je peux le convaincre de me donner les clés et par convaincre je veux dire lui fendre le crâne.</Original>
     <Translation></Translation>
   </block>
   <block ID="1207">
@@ -7257,7 +7257,7 @@
   <block ID="1209">
     <ItemID>31928</ItemID>
     <ItemType>13</ItemType>
-    <Original>Avant que Grimtub Hobblepotty me vende du [Rhum] dans son Haunted Crotch Bar &#224; Strumfuquel, je dois retrouver sa [Licence IV] volée. Des bruits disent qu'elle pourrait &#234;tre caché dans l'[Usine de Wortten] plus loin &#224; l'ouest.</Original>
+    <Original>Avant que Grimtub Hobblepotty me vende du [Rhum] dans son Bar la Fourche Hantée &#224; Strumfuquel, je dois retrouver sa [Licence IV] volée. Des bruits disent qu'elle pourrait &#234;tre caché dans l'[Usine de Wortten] plus loin &#224; l'ouest.</Original>
     <Translation></Translation>
   </block>
   <block ID="1210">
@@ -7299,7 +7299,7 @@
   <block ID="1216">
     <ItemID>31941</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je dois prendre ce [Colis pour le Général] pour l'emmener dans une base militaire de quelque part vers le nord. &#202;tre un [Général] semble vraiment héro&#239;que. Je parie qu'il a un nom ronflant tr&#232;s héro&#239;que, un peu comme DeathSpank.</Original>
+    <Original>Je dois prendre ce [Colis pour le Général] et l'emmener dans une base militaire quelque part vers le nord. &#202;tre un [Général] semble vraiment héro&#239;que. Je parie qu'il a un nom ronflant tr&#232;s héro&#239;que, un peu comme DeathSpank.</Original>
     <Translation></Translation>
   </block>
   <block ID="1217">
@@ -7353,7 +7353,7 @@
   <block ID="1225">
     <ItemID>31950</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sandy m'a dit de la rencontrer dans sa [Base Secr&#232;te]. Je n'ai aucune idée o&#249; elle est, ce qui est logique compte tenu de qu'elle est "secr&#232;te". Le seul indice qu'elle m'a donné était ce mignon [Stringolithe Miniature]. Je n'ai aucune idée de quoi faire avec ça. Aucune. Nadda. Zip. Rien.</Original>
+    <Original>Sandy m'a dit de la rencontrer dans sa [Base Secr&#232;te]. Je n'ai aucune idée d'o&#249; elle est, ce qui est logique compte tenu qu'elle est "secr&#232;te". Le seul indice qu'elle m'a donné était ce mignon [Stringolithe Miniature]. Je n'ai aucune idée de quoi faire avec ça. Aucune. Nadda. Zip. Rien.</Original>
     <Translation></Translation>
   </block>
   <block ID="1226">
@@ -7377,19 +7377,19 @@
   <block ID="1229">
     <ItemID>31960</ItemID>
     <ItemType>13</ItemType>
-    <Original>Stringolithe de Popote</Original>
+    <Original>Stringolithe de Cuisine</Original>
     <Translation></Translation>
   </block>
   <block ID="1230">
     <ItemID>31961</ItemID>
     <ItemType>13</ItemType>
-    <Original>Obtenez une lecture du Stringolithe de Popote</Original>
+    <Original>Obtenez une lecture du Stringolithe de Cuisine</Original>
     <Translation></Translation>
   </block>
   <block ID="1231">
     <ItemID>31962</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je dois aller au [Stringolithe de Popote] dans la [For&#234;t Cactus] et faire une lecture avec l'[Instrument Stringolithe]. J'ai juste besoin de le faire tomber sur le sol pendant quelques secondes, et il se chargera du reste. Si jamais je le perds, je peux en obtenir un nouveau aupr&#232;s du Chercheur en Stringolithe.</Original>
+    <Original>Je dois aller au [Stringolithe de Cuisine] dans la [For&#234;t Cactus] et faire une lecture avec l'[Instrument Stringolithe]. J'ai juste besoin de le faire tomber sur le sol pendant quelques secondes, et il se chargera du reste. Si jamais je le perds, je peux en obtenir un nouveau aupr&#232;s du Chercheur en Stringolithe.</Original>
     <Translation></Translation>
   </block>
   <block ID="1232">
@@ -7467,7 +7467,7 @@
   <block ID="1244">
     <ItemID>31999</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin de suivre le chemin de terre &#224; l'ouest, de trouver la [Tour de Communication Orc], puis fairesavoir au soldat de l'avant-poste o&#249; il est. Ca semble trop simple pour un héros de mon calibre. Je devrais trouver un nouvel agent.</Original>
+    <Original>J'ai besoin de suivre le chemin de terre &#224; l'ouest, de trouver la [Tour de Communication Orc], puis faire savoir au soldat de l'avant-poste o&#249; elle est. Ca semble trop simple pour un héros de mon calibre. Je devrais trouver un nouvel agent.</Original>
     <Translation></Translation>
   </block>
   <block ID="1245">
@@ -7515,7 +7515,7 @@
   <block ID="1252">
     <ItemID>32007</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin d'aller &#224; l'ouest de la [Tour de Communication Orc] détruite et tuer [Le Colonel Orc] pour obtenir les [Les Plans de Bataille] qu'il poss&#232;de. Au moins, je suis en train de tuer des pignoufs maintenant, péter des trucs c'est pas aussi amusant.</Original>
+    <Original>J'ai besoin d'aller &#224; l'ouest de la [Tour de Communication Orc] détruite et tuer [Le Colonel Orc] pour obtenir [Les Plans de Bataille] qu'il poss&#232;de. Au moins, je suis en train de tuer des pignoufs maintenant, péter des trucs c'est pas aussi amusant.</Original>
     <Translation></Translation>
   </block>
   <block ID="1253">
@@ -7923,25 +7923,25 @@
   <block ID="1320">
     <ItemID>32297</ItemID>
     <ItemType>13</ItemType>
-    <Original>Récupérez les 37.8 Liter Hat</Original>
+    <Original>Récupérez le Chapeau Anti-soif</Original>
     <Translation></Translation>
   </block>
   <block ID="1321">
     <ItemID>32298</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le Shérif de Strumfuquel veut que je tue les [Bandito &#224; Cr&#234;te Rouge Orc] et rapporter son [37.8 Liter Hat] &#224; Mr. Piddleford.</Original>
+    <Original>Le Shérif de Strumfuquel veut que je tue les [Banditos Renégats Rouge] et rapporte son [Chapeau Anti-soif] &#224; Mr. Piddleford.</Original>
     <Translation></Translation>
   </block>
   <block ID="1322">
     <ItemID>32299</ItemID>
     <ItemType>13</ItemType>
-    <Original>Gant de Flingueur</Original>
+    <Original>Gants de Flingueur</Original>
     <Translation></Translation>
   </block>
   <block ID="1323">
     <ItemID>32300</ItemID>
     <ItemType>13</ItemType>
-    <Original>Collectez des Gants de Flingueurs</Original>
+    <Original>Récupérez les Gants de Flingueurs</Original>
     <Translation></Translation>
   </block>
   <block ID="1324">
@@ -8001,7 +8001,7 @@
   <block ID="1333">
     <ItemID>32310</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je dois déposer le [Message de Saisie Hypothécaire] pour le Banquier de Strumfuquel sur plusieurs propriétés un peu partout. Saisie Hypothécaire, c'est un bien grand mot, je me demande ce que cela signifie. Ca doit surement &#234;tre une bonne nouvelle ou ils ne me demanderait pas d'aller poser ces panneaux.</Original>
+    <Original>Je dois déposer les [Panneaux de Saisie Hypothécaire] pour le Banquier de Strumfuquel sur plusieurs propriétés un peu partout. Saisie Hypothécaire, c'est un bien grand mot, je me demande ce que cela signifie. Ca doit surement &#234;tre une bonne nouvelle ou ils ne me demanderait pas d'aller poser ces panneaux.</Original>
     <Translation></Translation>
   </block>
   <block ID="1334">
@@ -8349,7 +8349,7 @@
   <block ID="1391">
     <ItemID>32368</ItemID>
     <ItemType>13</ItemType>
-    <Original>je dois réparerles [Derricks de Pétrole] en utilisant ces astucieuses [Pi&#232;ces de Rechange pour Derrick] et aller le dire &#224; Derek Oil quand ce sera fait.</Original>
+    <Original>je dois réparer les [Derricks de Pétrole] en utilisant ces astucieuses [Pi&#232;ces de Rechange pour Derrick] et aller le dire &#224; Derek Oil quand ce sera fait.</Original>
     <Translation></Translation>
   </block>
   <block ID="1392">
@@ -8499,13 +8499,13 @@
   <block ID="1416">
     <ItemID>32393</ItemID>
     <ItemType>13</ItemType>
-    <Original>Retrouvez le Po&#234;le de Prospection</Original>
+    <Original>Retrouvez les Batées de Prospection</Original>
     <Translation></Translation>
   </block>
   <block ID="1417">
     <ItemID>32394</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je dois reprendre la [Po&#234;le de Prospection] aux [Moines de la Montagne Sanglante], et retourner voir la gars qui en a besoin dans les Montagnes Sanglantes.</Original>
+    <Original>Je dois reprendre les [Batées de Prospection] aux [Moines de la Montagne Sanglante], et retourner voir la gars qui en a besoin dans les Montagnes Sanglantes.</Original>
     <Translation></Translation>
   </block>
   <block ID="1418">
@@ -8517,7 +8517,7 @@
   <block ID="1419">
     <ItemID>32396</ItemID>
     <ItemType>13</ItemType>
-    <Original>Trouvez la Monnaie Manquante</Original>
+    <Original>Trouvez l'Argent Perdu</Original>
     <Translation></Translation>
   </block>
   <block ID="1420">
@@ -8619,7 +8619,7 @@
   <block ID="1436">
     <ItemID>32413</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin d'acheter pour ce soldat effrayé regardant les Docks un [Nouveau Casque] &#224; L'Armurie [Poque LaT&#234;te] dans [Kuckelle Le Beaux]. On me dit que cette ville pittoresque est apr&#232;s &#8203;&#8203;le pont au le nord.</Original>
+    <Original>J'ai besoin d'acheter pour ce soldat effrayé regardant les Docks un [Nouveau Casque] &#224; L'Armurie [Poque LaT&#234;te] dans [Le Beaux Kuckelle]. On me dit que cette ville pittoresque est apr&#232;s le pont au le nord.</Original>
     <Translation></Translation>
   </block>
   <block ID="1437">
@@ -8655,7 +8655,7 @@
   <block ID="1442">
     <ItemID>32419</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je dois livrer le [Histoire Secr&#232;te] au [Radio Host] &#224; Le Beaux Kuckelle.</Original>
+    <Original>Je dois livrer l'[Histoire Secr&#232;te] &#224; l'[Animateur Radio] &#224; Le Beaux Kuckelle.</Original>
     <Translation></Translation>
   </block>
   <block ID="1443">
@@ -8703,7 +8703,7 @@
   <block ID="1450">
     <ItemID>32427</ItemID>
     <ItemType>13</ItemType>
-    <Original>Embattlements Go Boom</Original>
+    <Original>Boum Quand Mon Canon fait Boom</Original>
     <Translation></Translation>
   </block>
   <block ID="1451">
@@ -8715,7 +8715,7 @@
   <block ID="1452">
     <ItemID>32429</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je dois détruire quatre [Orque Trooper Embattlements] le long de la rivi&#232;re et retourner voir le Capitaine.</Original>
+    <Original>Je dois détruire quatre [Canons Orc] le long de la rivi&#232;re et retourner voir le Capitaine.</Original>
     <Translation></Translation>
   </block>
   <block ID="1453">
@@ -8727,7 +8727,7 @@
   <block ID="1454">
     <ItemID>32431</ItemID>
     <ItemType>13</ItemType>
-    <Original>Marching Orders</Original>
+    <Original>Ordre de Marche</Original>
     <Translation></Translation>
   </block>
   <block ID="1455">
@@ -8793,7 +8793,7 @@
   <block ID="1465">
     <ItemID>32445</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le Toubib de Ville &#224; The Town Medic in Le Beaux Kuckelle a besoin du [Matériels Médical] qui se trouve au [Sanctuaire].</Original>
+    <Original>Le Toubib de Ville dans Le Beaux Kuckelle a besoin du [Matériels Médical] qui se trouve au [Sanctuaire].</Original>
     <Translation></Translation>
   </block>
   <block ID="1466">
@@ -8811,7 +8811,7 @@
   <block ID="1468">
     <ItemID>32448</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin de détruire les [Robots Fermier Saccageur] et de rapporter la [T&#234;te de Robot] de leurs chefs &#224; Blizbane le Fermier. Je suis sur que ce qu'il en fera, surement une oeuvre d'art.</Original>
+    <Original>J'ai besoin de détruire les [Robots Fermier Saccageur] et de rapporter la [T&#234;te de Robot] de leurs chefs &#224; Blizbane le Fermier. Je suis sur qu'il en fera surement une oeuvre d'art.</Original>
     <Translation></Translation>
   </block>
   <block ID="1469">
@@ -8883,7 +8883,7 @@
   <block ID="1480">
     <ItemID>32460</ItemID>
     <ItemType>13</ItemType>
-    <Original>Lucy Eisenbein veut que je trouve le [Dr. Eisenbein]. Il était en en train de revenir de l'[Usine Wortten], je devrais remonter sa piste.</Original>
+    <Original>Lucy Eisenbein veut que je trouve le [Dr. Eisenbein]. Il était en train de revenir de l'[Usine Wortten], je devrais remonter sa piste.</Original>
     <Translation></Translation>
   </block>
   <block ID="1481">
@@ -8901,7 +8901,7 @@
   <block ID="1483">
     <ItemID>32463</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je dois trouver et scanner un [Robot Mark-7] en utilisant ce [Scanneur de Mark-7). De retour &#224; Le Beaux Kuckelle, Lucy m'a suggéré d'aller &#224; l'ouest de l'[Usine Wortten] pour trouver un [Robot Mark-7]. Attendez, quel genre de robot je cherche déj&#224; ? Ah oui, un [Robot Mark-7].</Original>
+    <Original>Je dois trouver et scanner un [Robot Mark-7] en utilisant ce [Scanneur de Mark-7]. De retour &#224; Le Beaux Kuckelle, Lucy m'a suggéré d'aller &#224; l'ouest de l'[Usine Wortten] pour trouver un [Robot Mark-7]. Attendez, quel genre de robot je cherche déj&#224; ? Ah oui, un [Robot Mark-7].</Original>
     <Translation></Translation>
   </block>
   <block ID="1484">
@@ -8919,7 +8919,7 @@
   <block ID="1486">
     <ItemID>32466</ItemID>
     <ItemType>13</ItemType>
-    <Original>Lucy Eisenbien de Le Beaux Kuckelle a besoin de moi pour détruire le [Tricore-7] en utilisant le [Cristal de Contrôle Mark-6] et de mettre &#224; la feraille les  [Robots Mark-6] qui seraient trop pr&#232;s du [Tricore-7]. Bon sang ! Tous ces chiffres me font mal &#224; la t&#234;te. Je veux juste de tuer plein de trucs.</Original>
+    <Original>Lucy Eisenbien de Le Beaux Kuckelle a besoin de moi pour détruire le [Tricore-7] en utilisant le [Cristal de Contrôle Mark-6] et de mettre &#224; la feraille les  [Robots Mark-6] qui seraient trop pr&#232;s du [Tricore-7]. Bon sang ! Tous ces chiffres me font mal &#224; la t&#234;te. Je veux juste tuer plein de trucs.</Original>
     <Translation></Translation>
   </block>
   <block ID="1487">
@@ -8961,25 +8961,25 @@
   <block ID="1493">
     <ItemID>32473</ItemID>
     <ItemType>13</ItemType>
-    <Original>Tube Cathodique</Original>
+    <Original>Ampoule sous Vide</Original>
     <Translation></Translation>
   </block>
   <block ID="1494">
     <ItemID>32474</ItemID>
     <ItemType>13</ItemType>
-    <Original>Retrouvez 10 Tubes Cathodiques</Original>
+    <Original>Retrouvez 10 Ampoules sous Vide</Original>
     <Translation></Translation>
   </block>
   <block ID="1495">
     <ItemID>32475</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je dois détruire des [Robots] et récuperer des [Tubes Cathodique] pour LeBeaux Kuckelle.</Original>
+    <Original>Je dois détruire des [Robots] et récuperer des [Ampoules sous Vide] pour l'animateur.</Original>
     <Translation></Translation>
   </block>
   <block ID="1496">
     <ItemID>32476</ItemID>
     <ItemType>13</ItemType>
-    <Original>Dans les Airs</Original>
+    <Original>Sur les Ondes</Original>
     <Translation></Translation>
   </block>
   <block ID="1497">
@@ -8991,7 +8991,7 @@
   <block ID="1498">
     <ItemID>32478</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je dois réparer les [Émetteurs Radio] avec les [Tubes Cathodiques] pour permettre &#224; l'animateur radio de continuer ses shows sur les ondes.</Original>
+    <Original>Je dois réparer les [Émetteurs Radio] avec les [Ampoules sous Vide] pour permettre &#224; l'animateur radio de continuer ses shows sur les ondes.</Original>
     <Translation></Translation>
   </block>
   <block ID="1499">
@@ -9051,19 +9051,19 @@
   <block ID="1508">
     <ItemID>32488</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je dois localiser et tuer les [Matelots Mutins] du Capitaine Fétide pour retrouver les morceaux de sa [Carte au Trésor]. Le Capitaine Infecté a fait beaucoup pour moi au cours des années, y compris ce truc avec cette chose et je lui dois beaucoup. Je serais encore en prison sans lui.</Original>
+    <Original>Je dois localiser et tuer les [Matelots Mutins] du Capitaine Fétide pour retrouver les morceaux de sa [Carte au Trésor]. Le Capitaine Fétide a fait beaucoup pour moi au cours des années, y compris ce truc avec cette chose et je lui dois beaucoup. Je serais encore en prison sans lui.</Original>
     <Translation></Translation>
   </block>
   <block ID="1509">
     <ItemID>32489</ItemID>
     <ItemType>13</ItemType>
-    <Original>Trésor Infecté</Original>
+    <Original>Trésor Fétide</Original>
     <Translation></Translation>
   </block>
   <block ID="1510">
     <ItemID>32490</ItemID>
     <ItemType>13</ItemType>
-    <Original>Trouvez le Trésor Infecté</Original>
+    <Original>Trouvez le Trésor Fétide</Original>
     <Translation></Translation>
   </block>
   <block ID="1511">
@@ -9087,7 +9087,7 @@
   <block ID="1514">
     <ItemID>32494</ItemID>
     <ItemType>13</ItemType>
-    <Original>Poque LaT&#234;te veut que je livre ce [Colis pour Blizbane le Fermier], qui vit au nord de Lebeaux Kuckelle. Ca ne me dérangerait pas d'&#234;tre facteur si les gens n'était pas cacher. Faudrait peut-&#234;tre que j'arr&#234;te de faire ces livraisons, ca leur ferait les pieds.</Original>
+    <Original>Poque LaT&#234;te veut que je livre ce [Colis pour Blizbane le Fermier], qui vit au nord de Lebeaux Kuckelle. Ca ne me dérangerait pas d'&#234;tre facteur si les gens n'était pas cachés. Faudrait peut-&#234;tre que j'arr&#234;te de faire ces livraisons, ca leur ferait les pieds.</Original>
     <Translation></Translation>
   </block>
   <block ID="1515">
@@ -9105,7 +9105,7 @@
   <block ID="1517">
     <ItemID>32497</ItemID>
     <ItemType>13</ItemType>
-    <Original>Poque LaT&#234;te veut que je livre ce [Colis pour le Capitaine Fétide], qui vit dans le village pirate. Je suis censer suivre le chemin qui passe par une caverne dans la [Jungle]. ëtre un pirate doit &#234;tre tellement cool.</Original>
+    <Original>Poque LaT&#234;te veut que je livre ce [Colis pour le Capitaine Fétide], qui vit dans le village pirate. Je suis censer suivre le chemin qui passe par une caverne dans la [Jungle]. &#202;tre un pirate doit &#234;tre tellement cool.</Original>
     <Translation></Translation>
   </block>
   <block ID="1518">
@@ -9147,7 +9147,7 @@
   <block ID="1524">
     <ItemID>32504</ItemID>
     <ItemType>13</ItemType>
-    <Original>&#202;tre </Original>
+    <Original>Merde et re-merde</Original>
     <Translation></Translation>
   </block>
   <block ID="1525">
@@ -9159,7 +9159,7 @@
   <block ID="1526">
     <ItemID>32506</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je dois trouver des [Déjections d'Ourstilope] et retourner voir la Soci&#232;re Diabolique dans la For&#234;t Ténébreuse. Elle pourra me faire un Fragment Magique pour Blizbane le Fermier. Héros des Opprimés implique de grandes responsabilités.</Original>
+    <Original>Je dois trouver des [Déjections d'Ourstilope] et retourner voir la Sorci&#232;re Diabolique dans la For&#234;t Ténébreuse. Elle pourra me faire un Fragment Magique pour Blizbane le Fermier. Héros des Opprimés implique de grandes responsabilités.</Original>
     <Translation></Translation>
   </block>
   <block ID="1527">
@@ -9447,7 +9447,7 @@
   <block ID="1574">
     <ItemID>32572</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin d'un [Navire] pour me rendre sur l'une des îles et trouver ces [Pi&#232;ces de Perroquet] pour ce pirate opprimés dans Scorbutville. Apparemment, il y a des [Perroquets] sur l[Île Poulet], ce qui est &#224; peu pr&#232;s autant logique que le reste de ce jeu.</Original>
+    <Original>J'ai besoin d'un [Navire] pour me rendre sur l'une des îles et trouver ces [Morceaux de Perroquet] pour ce pirate opprimés dans Scorbutville. Apparemment, il y a des [Perroquets] sur l[Île Poulet], ce qui est &#224; peu pr&#232;s autant logique que le reste de ce jeu.</Original>
     <Translation></Translation>
   </block>
   <block ID="1575">
@@ -9465,7 +9465,7 @@
   <block ID="1577">
     <ItemID>32575</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin d'un [Navire] pour me rendre sur l'une des îles et trouver le [Trésor Pirate Générique] pour ce pirate orphelino-trésorophile dans Scorbutville. Etre un pirate semble &#234;tre beaucoup de travail et beaucoup de déception, pas comme dans les films et les jeux vieux jeux d'aventure.</Original>
+    <Original>J'ai besoin d'un [Navire] pour me rendre sur l'une des îles et trouver le [Trésor Pirate Générique] pour ce pirate orphelino-trésorophile dans Scorbutville. &#202;tre pirate &#224; l'air d'&#234;tre beaucoup de soucis et beaucoup de déceptions, pas comme dans les films et les jeux vieux jeux d'aventure.</Original>
     <Translation></Translation>
   </block>
   <block ID="1578">
@@ -10011,7 +10011,7 @@
   <block ID="1668">
     <ItemID>33017</ItemID>
     <ItemType>13</ItemType>
-    <Original>Lâchez l'[Instrument Stringolithe] en face du [Stringolithe de Popote] pour commencer &#224; prendre les lectures.</Original>
+    <Original>Lâchez l'[Instrument Stringolithe] en face du [Stringolithe de Cuisine] pour commencer &#224; prendre les lectures.</Original>
     <Translation></Translation>
   </block>
   <block ID="1669">
@@ -10383,19 +10383,19 @@
   <block ID="1730">
     <ItemID>33413</ItemID>
     <ItemType>13</ItemType>
-    <Original>Il y avait un symbole pour le [Général de l'Armée], et l'autre &#224; la [Résidence Eisenbien].</Original>
+    <Original>Il y avait un panneau &#224; coté du [Général de l'Armée], et l'autre &#224; la [Résidence Eisenbien].</Original>
     <Translation></Translation>
   </block>
   <block ID="1731">
     <ItemID>33414</ItemID>
     <ItemType>13</ItemType>
-    <Original>Il y avait aussi d'autres symboles &#224; la maison [Ima Applehole], ainsi que sur celle d'[Hannah Heybenstance].</Original>
+    <Original>Il y a aussi d'autres panneau &#224; la maison d'[Ima Applehole], ainsi que sur celle d'[Hannah Heybenstance].</Original>
     <Translation></Translation>
   </block>
   <block ID="1732">
     <ItemID>33415</ItemID>
     <ItemType>13</ItemType>
-    <Original>Il y a un &#224; la [Ferme Hantée], et un autre dans la ville de [Strumfuquel].</Original>
+    <Original>Il y en a un &#224; la [Ferme Hantée], et un autre dans la ville de [Strumfuquel].</Original>
     <Translation></Translation>
   </block>
   <block ID="1733">
@@ -10695,7 +10695,7 @@
   <block ID="1782">
     <ItemID>33494</ItemID>
     <ItemType>13</ItemType>
-    <Original>Méfiez-vous des [Bibenduiles].</Original>
+    <Original>Méfiez-vous des [Pétro'Glaires].</Original>
     <Translation></Translation>
   </block>
   <block ID="1783">
@@ -10707,7 +10707,7 @@
   <block ID="1784">
     <ItemID>33498</ItemID>
     <ItemType>13</ItemType>
-    <Original>Les [Bibenduiles] vivent l&#224; o&#249; du pétrole peut &#234;tre trouvé.</Original>
+    <Original>Les [Pétro'Glaires] vivent l&#224; o&#249; du pétrole peut &#234;tre trouvé.</Original>
     <Translation></Translation>
   </block>
   <block ID="1785">
@@ -10833,7 +10833,7 @@
   <block ID="1805">
     <ItemID>33543</ItemID>
     <ItemType>13</ItemType>
-    <Original>Il y a plus de [Socles &#224; Drapeaux] &#224; l'escalier du [Sanctuaire], et l'entrée de l'[Usine Wortten].</Original>
+    <Original>Il y a d'autres [Socles &#224; Drapeaux] &#224; l'escalier du [Sanctuaire], et &#224; l'entrée de l'[Usine Wortten].</Original>
     <Translation></Translation>
   </block>
   <block ID="1806">
@@ -10905,7 +10905,7 @@
   <block ID="1817">
     <ItemID>33569</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le [Radio Host] est dans la ville de [Le Beaux Kuckelle].</Original>
+    <Original>L'[Animateur Radio] est dans la ville de [Le Beaux Kuckelle].</Original>
     <Translation></Translation>
   </block>
   <block ID="1818">
@@ -11151,7 +11151,7 @@
   <block ID="1858">
     <ItemID>33641</ItemID>
     <ItemType>13</ItemType>
-    <Original>Les [Robots Mark-5] sont une grande source de [Tube Cathodique].</Original>
+    <Original>Les [Robots Mark-5] sont une grande source d'[Ampoule sous Vide].</Original>
     <Translation></Translation>
   </block>
   <block ID="1859">
@@ -11169,19 +11169,19 @@
   <block ID="1861">
     <ItemID>33645</ItemID>
     <ItemType>13</ItemType>
-    <Original>Il y a une [Tour Radio] derri&#232;re la maison de [Blizbane le Fermier].</Original>
+    <Original>Il y a un [Émetteur Radio] derri&#232;re la maison de [Blizbane le Fermier].</Original>
     <Translation></Translation>
   </block>
   <block ID="1862">
     <ItemID>33646</ItemID>
     <ItemType>13</ItemType>
-    <Original>Recherchez les [Tours Radio] au nord-est de Le Beaux Kuckelle dans les champs.</Original>
+    <Original>Recherchez les [Émetteurs Radio] au nord-est de Le Beaux Kuckelle dans les champs.</Original>
     <Translation></Translation>
   </block>
   <block ID="1863">
     <ItemID>33647</ItemID>
     <ItemType>13</ItemType>
-    <Original>Préparez-vous pour le combat avant de tenter de réparer une [Tour Radio].</Original>
+    <Original>Préparez-vous pour le combat avant de tenter de réparer un [Émetteur Radio].</Original>
     <Translation></Translation>
   </block>
   <block ID="1864">
@@ -11691,7 +11691,7 @@
   <block ID="1948">
     <ItemID>33838</ItemID>
     <ItemType>13</ItemType>
-    <Original>Appuyez sur la touche [M] pour faire apparaître l'écran Carte.</Original>
+    <Original>Appuyez sur la touche [M] pour faire apparaître l'écran Carte. Si vous voyez pas o&#249; vous &#234;tes, ouvrez mieux les yeux sinon je peux rien faire pour vous.</Original>
     <Translation></Translation>
   </block>
   <block ID="1949">
@@ -11811,19 +11811,19 @@
   <block ID="1968">
     <ItemID>33858</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le niveau d'un ennemi est affiché &#224; côté de leur barre de santé. Le  niveau poss&#232;de un code de couleur, du vert (facile &#224; tuer) au rouge (l'ennemi va vous tuer facilement).</Original>
+    <Original>Le niveau d'un ennemi est affiché &#224; côté de leur barre de santé. Le niveau poss&#232;de un code de couleur, du vert (facile &#224; tuer) au rouge (l'ennemi va vous tuer facilement).</Original>
     <Translation></Translation>
   </block>
   <block ID="1969">
     <ItemID>33859</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le niveau d'un ennemi est affiché &#224; côté de leur barre de santé. Le  niveau poss&#232;de un code de couleur, du vert (facile &#224; tuer) au rouge (l'ennemi va vous tuer facilement).</Original>
+    <Original>Le niveau d'un ennemi est affiché &#224; côté de leur barre de santé. Le niveau poss&#232;de un code de couleur, du vert (facile &#224; tuer) au rouge (l'ennemi va vous tuer facilement).</Original>
     <Translation></Translation>
   </block>
   <block ID="1970">
     <ItemID>33860</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le niveau d'un ennemi est affiché &#224; côté de leur barre de santé. Le  niveau poss&#232;de un code de couleur, du vert (facile &#224; tuer) au rouge (l'ennemi va vous tuer facilement).</Original>
+    <Original>Le niveau d'un ennemi est affiché &#224; côté de leur barre de santé. Le niveau poss&#232;de un code de couleur, du vert (facile &#224; tuer) au rouge (l'ennemi va vous tuer facilement).</Original>
     <Translation></Translation>
   </block>
   <block ID="1971">
@@ -11865,7 +11865,7 @@
   <block ID="1977">
     <ItemID>33867</ItemID>
     <ItemType>13</ItemType>
-    <Original>COMMENT LES CABINETS FONCTIONNENT</Original>
+    <Original>FONCTIONNEMENT DES CABINETS </Original>
     <Translation></Translation>
   </block>
   <block ID="1978">
@@ -11931,19 +11931,19 @@
   <block ID="1988">
     <ItemID>33878</ItemID>
     <ItemType>13</ItemType>
-    <Original>Consommer des Cookies CHANCE, sur l'écran Carnet de Qu&#234;tes, pour débloquer des conseils sur la façon de remplir des qu&#234;tes.</Original>
+    <Original>Consommer des Cookies Chance, sur l'écran Carnet de Qu&#234;tes, pour débloquer des conseils sur la façon de remplir des qu&#234;tes.</Original>
     <Translation></Translation>
   </block>
   <block ID="1989">
     <ItemID>33879</ItemID>
     <ItemType>13</ItemType>
-    <Original>Consommer des Cookies CHANCE, sur l'écran Carnet de Qu&#234;tes, pour débloquer des conseils sur la façon de remplir des qu&#234;tes.</Original>
+    <Original>Consommer des Cookies Chance, sur l'écran Carnet de Qu&#234;tes, pour débloquer des conseils sur la façon de remplir des qu&#234;tes.</Original>
     <Translation></Translation>
   </block>
   <block ID="1990">
     <ItemID>33880</ItemID>
     <ItemType>13</ItemType>
-    <Original>Consommer des Cookies CHANCE, sur l'écran Carnet de Qu&#234;tes, pour débloquer des conseils sur la façon de remplir des qu&#234;tes.</Original>
+    <Original>Consommer des Cookies Chance, sur l'écran Carnet de Qu&#234;tes, pour débloquer des conseils sur la façon de remplir des qu&#234;tes.</Original>
     <Translation></Translation>
   </block>
   <block ID="1991">
@@ -12495,7 +12495,7 @@
   <block ID="2082">
     <ItemID>34035</ItemID>
     <ItemType>13</ItemType>
-    <Original>Étourdie les ennemis avec toute la grace que peux avori une pelle.</Original>
+    <Original>Étourdie les ennemis avec toute la grace que peux avoir une pelle.</Original>
     <Translation></Translation>
   </block>
   <block ID="2083">
@@ -12591,7 +12591,7 @@
   <block ID="2098">
     <ItemID>34055</ItemID>
     <ItemType>13</ItemType>
-    <Original>A coller dans la mouille &#224; des ennemis et aider ses amis.</Original>
+    <Original>Pour coller dans la mouille de ses ennemis et aider ses amis.</Original>
     <Translation></Translation>
   </block>
   <block ID="2099">
@@ -13155,13 +13155,13 @@
   <block ID="2192">
     <ItemID>34392</ItemID>
     <ItemType>13</ItemType>
-    <Original>La maison de Plaid Pete. Fléau des petites cavernes.</Original>
+    <Original>Maison de Plaid Pete. La pire des petites cavernes.</Original>
     <Translation></Translation>
   </block>
   <block ID="2193">
     <ItemID>34393</ItemID>
     <ItemType>13</ItemType>
-    <Original>Panneau Maritime</Original>
+    <Original>Panneau Sans Intér&#234;t</Original>
     <Translation></Translation>
   </block>
   <block ID="2194">
@@ -13233,7 +13233,7 @@
   <block ID="2205">
     <ItemID>34440</ItemID>
     <ItemType>13</ItemType>
-    <Original>Pas vraiment, c'est juste l&#224;.</Original>
+    <Original>Enfin pas vraiment, c'est juste l&#224;.&lt;BRR&gt;Mais si l&#224; o&#249; y'a les escaliers !</Original>
     <Translation></Translation>
   </block>
   <block ID="2206">
@@ -13293,7 +13293,7 @@
   <block ID="2215">
     <ItemID>34450</ItemID>
     <ItemType>13</ItemType>
-    <Original>Pancarte du Champ Blizbane</Original>
+    <Original>Pancarte des Champs Blizbane</Original>
     <Translation></Translation>
   </block>
   <block ID="2216">
@@ -13323,7 +13323,7 @@
   <block ID="2220">
     <ItemID>34455</ItemID>
     <ItemType>13</ItemType>
-    <Original>Nous tirons sur des trucs</Original>
+    <Original>Nous tirons sur tout et n'importe quoi</Original>
     <Translation></Translation>
   </block>
   <block ID="2221">
@@ -13341,7 +13341,7 @@
   <block ID="2223">
     <ItemID>34458</ItemID>
     <ItemType>13</ItemType>
-    <Original>Nous tirons sur des trucs aussi</Original>
+    <Original>Nous tirons sur tout et n'importe quoi aussi</Original>
     <Translation></Translation>
   </block>
   <block ID="2224">
@@ -13359,7 +13359,7 @@
   <block ID="2226">
     <ItemID>34461</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le blacage est notre spécialité</Original>
+    <Original>Le blocage est notre spécialité</Original>
     <Translation></Translation>
   </block>
   <block ID="2227">
@@ -13407,13 +13407,13 @@
   <block ID="2234">
     <ItemID>34469</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mangeur Humano&#239;de de Montagnes</Original>
+    <Original>Mangeur Humano&#239;de des Montagnes</Original>
     <Translation></Translation>
   </block>
   <block ID="2235">
     <ItemID>34470</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ce n'est pas poétique, mais je fuyais quand je suis arrivé avec.</Original>
+    <Original>C'est pas poétique, mais je fuyais quand je l'ai écrit.</Original>
     <Translation></Translation>
   </block>
   <block ID="2236">
@@ -13521,7 +13521,7 @@
   <block ID="2253">
     <ItemID>34488</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ne parler &#224; personne</Original>
+    <Original>Ne parlez &#224; personne</Original>
     <Translation></Translation>
   </block>
   <block ID="2254">
@@ -13629,7 +13629,7 @@
   <block ID="2271">
     <ItemID>34527</ItemID>
     <ItemType>13</ItemType>
-    <Original>Passez la ligne et dirigez-vous vers le lit de Madame de Primp.</Original>
+    <Original>Rompez les rangs et dirigez-vous vers le lit de Madame de Primp.</Original>
     <Translation></Translation>
   </block>
   <block ID="2272">
@@ -13755,7 +13755,7 @@
   <block ID="2292">
     <ItemID>34557</ItemID>
     <ItemType>13</ItemType>
-    <Original>Utilisez votre carte d'emplyé du Wortten pour entrer.</Original>
+    <Original>Utilisez votre carte d'employé de Wortten pour entrer.</Original>
     <Translation></Translation>
   </block>
   <block ID="2293">
@@ -14013,7 +14013,7 @@
   <block ID="2335">
     <ItemID>34644</ItemID>
     <ItemType>13</ItemType>
-    <Original>Carnet de Guerre : "Jour 3. Ma premi&#232;re tâche importante. Je suis si excitée d'&#234;tre dans la jungle a enqu&#234;ter sur les Greems de la Jungle. Cette histoire va faire exploser le microcosme du journalisme d'investigation".</Original>
+    <Original>Carnet de Guerre : "Jour 3. Ma premi&#232;re tâche importante. Je suis si excitée d'&#234;tre dans la jungle &#224; enqu&#234;ter sur les Greems de la Jungle. Cette histoire va faire exploser le microcosme du journalisme d'investigation".</Original>
     <Translation></Translation>
   </block>
   <block ID="2336">
@@ -14049,7 +14049,7 @@
   <block ID="2341">
     <ItemID>34662</ItemID>
     <ItemType>13</ItemType>
-    <Original>Note &#224; moi-m&#234;me. "Le Ville Détruite au nord est supposée crouler sous des tonnes de butins &#224; piller. Bonne nouvelle, je viens d'y arriver".</Original>
+    <Original>Note &#224; moi-m&#234;me. "La Ville Détruite au nord est supposée crouler sous des tonnes de butins &#224; piller. Bonne nouvelle, je viens d'y arriver".</Original>
     <Translation></Translation>
   </block>
   <block ID="2342">
@@ -14085,7 +14085,7 @@
   <block ID="2347">
     <ItemID>34668</ItemID>
     <ItemType>13</ItemType>
-    <Original>Note &#224; moi-m&#234;me. "Derri&#232;re la Ferme Hantée se trouve Boot Hill.... O&#249; ma gloire et ma fortune attends... Yeaah !"</Original>
+    <Original>Note &#224; moi-m&#234;me. "Derri&#232;re la Ferme Hantée se trouve Tiag Hill.... O&#249; ma gloire et ma fortune attends... Yeaah !"</Original>
     <Translation></Translation>
   </block>
   <block ID="2348">
@@ -14283,7 +14283,7 @@
   <block ID="2380">
     <ItemID>34743</ItemID>
     <ItemType>13</ItemType>
-    <Original>Page 49 - " Les robots Mark-6 manigance quelque chose. Mon anniversaire est bientôt..."</Original>
+    <Original>Page 49 - " Les robots Mark-6 manigancent quelque chose. Mon anniversaire est bientôt..."</Original>
     <Translation></Translation>
   </block>
   <block ID="2381">
@@ -14319,7 +14319,7 @@
   <block ID="2386">
     <ItemID>34749</ItemID>
     <ItemType>13</ItemType>
-    <Original>A celui qui a oublié sa veste du Wortten hier, je l'ai accroché sur le panneau de li&#232;ge. Tous les boutons semblent &#234;tre tombés.</Original>
+    <Original>A celui qui a oublié sa Veste Wortten hier, je l'ai accroché sur le panneau de li&#232;ge. Tous les boutons semblent &#234;tre tombés.</Original>
     <Translation></Translation>
   </block>
   <block ID="2387">
@@ -15021,7 +15021,7 @@
   <block ID="2503">
     <ItemID>34887</ItemID>
     <ItemType>13</ItemType>
-    <Original>Baril</Original>
+    <Original>Tonneau</Original>
     <Translation></Translation>
   </block>
   <block ID="2504">
@@ -15099,13 +15099,13 @@
   <block ID="2516">
     <ItemID>34918</ItemID>
     <ItemType>13</ItemType>
-    <Original>Qu&#234;tes principale accomplies:$2$1</Original>
+    <Original>Qu&#234;tes principale terminées:$2$1</Original>
     <Translation></Translation>
   </block>
   <block ID="2517">
     <ItemID>34919</ItemID>
     <ItemType>13</ItemType>
-    <Original>Qu&#234;tes secondaires terminées:$2$1</Original>
+    <Original>Qu&#234;tes inutiles terminées:$2$1</Original>
     <Translation></Translation>
   </block>
   <block ID="2518">
@@ -16365,7 +16365,7 @@
   <block ID="2727">
     <ItemID>35180</ItemID>
     <ItemType>13</ItemType>
-    <Original>Orque Cannon</Original>
+    <Original>Canon Orc</Original>
     <Translation></Translation>
   </block>
   <block ID="2728">
@@ -16377,7 +16377,7 @@
   <block ID="2729">
     <ItemID>35182</ItemID>
     <ItemType>13</ItemType>
-    <Original>Tour Radio</Original>
+    <Original>Émetteur Radio</Original>
     <Translation></Translation>
   </block>
   <block ID="2730">
@@ -16425,7 +16425,7 @@
   <block ID="2737">
     <ItemID>35195</ItemID>
     <ItemType>13</ItemType>
-    <Original>Stand de Drapeau</Original>
+    <Original>Socle &#224; Drapeau</Original>
     <Translation></Translation>
   </block>
   <block ID="2738">
@@ -16539,7 +16539,7 @@
   <block ID="2756">
     <ItemID>35214</ItemID>
     <ItemType>13</ItemType>
-    <Original>Boot Hill</Original>
+    <Original>Tiag Hill</Original>
     <Translation></Translation>
   </block>
   <block ID="2757">
@@ -17025,7 +17025,7 @@
   <block ID="2837">
     <ItemID>35306</ItemID>
     <ItemType>13</ItemType>
-    <Original>Stringolithe de la Popote</Original>
+    <Original>Stringolithe de la Cuisine</Original>
     <Translation></Translation>
   </block>
   <block ID="2838">
@@ -17079,7 +17079,7 @@
   <block ID="2846">
     <ItemID>35315</ItemID>
     <ItemType>13</ItemType>
-    <Original>Salle de repos du Wortten</Original>
+    <Original>Salle de repos T.G.I.Wortten</Original>
     <Translation></Translation>
   </block>
   <block ID="2847">
@@ -17607,7 +17607,7 @@
   <block ID="2934">
     <ItemID>35483</ItemID>
     <ItemType>13</ItemType>
-    <Original>Maintenant, vous &#234;tes de Niveau $1 !  - ^[#9B30FF]$2^[#000000]</Original>
+    <Original>Vous &#234;tes de Niveau $1 !  - ^[#9B30FF]$2^[#000000]</Original>
     <Translation></Translation>
   </block>
   <block ID="2935">
@@ -17865,7 +17865,7 @@
   <block ID="2977">
     <ItemID>35564</ItemID>
     <ItemType>13</ItemType>
-    <Original>Caverne de laMontagne Enneigée</Original>
+    <Original>Caverne de la Montagne Enneigée</Original>
     <Translation></Translation>
   </block>
   <block ID="2978">
@@ -17895,7 +17895,7 @@
   <block ID="2982">
     <ItemID>35575</ItemID>
     <ItemType>13</ItemType>
-    <Original>Hotcave</Original>
+    <Original>Grotte Coulisse</Original>
     <Translation></Translation>
   </block>
   <block ID="2983">
@@ -17985,25 +17985,25 @@
   <block ID="2997">
     <ItemID>35603</ItemID>
     <ItemType>13</ItemType>
-    <Original>Cage de la Jungle</Original>
+    <Original>Cage de Jungle</Original>
     <Translation></Translation>
   </block>
   <block ID="2998">
     <ItemID>35604</ItemID>
     <ItemType>13</ItemType>
-    <Original>Cage de la Jungle</Original>
+    <Original>Cage de Jungle</Original>
     <Translation></Translation>
   </block>
   <block ID="2999">
     <ItemID>35605</ItemID>
     <ItemType>13</ItemType>
-    <Original>Cage de la Jungle</Original>
+    <Original>Cage de Jungle</Original>
     <Translation></Translation>
   </block>
   <block ID="3000">
     <ItemID>35606</ItemID>
     <ItemType>13</ItemType>
-    <Original>Cage de la Jungle</Original>
+    <Original>Cage de Jungle</Original>
     <Translation></Translation>
   </block>
   <block ID="3001">
@@ -18039,7 +18039,7 @@
   <block ID="3006">
     <ItemID>35619</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3007">
@@ -18069,13 +18069,13 @@
   <block ID="3011">
     <ItemID>35624</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3012">
     <ItemID>35626</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3013">
@@ -18099,13 +18099,13 @@
   <block ID="3016">
     <ItemID>35630</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3017">
     <ItemID>35631</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3018">
@@ -18201,7 +18201,7 @@
   <block ID="3033">
     <ItemID>35647</ItemID>
     <ItemType>13</ItemType>
-    <Original>Machine &#224; Dépistage</Original>
+    <Original>Machine de Dépistage</Original>
     <Translation></Translation>
   </block>
   <block ID="3034">
@@ -18243,7 +18243,7 @@
   <block ID="3040">
     <ItemID>35654</ItemID>
     <ItemType>13</ItemType>
-    <Original>Autel de Albert</Original>
+    <Original>Autel d'Albert</Original>
     <Translation></Translation>
   </block>
   <block ID="3041">
@@ -18255,31 +18255,31 @@
   <block ID="3042">
     <ItemID>35662</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3043">
     <ItemID>35663</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3044">
     <ItemID>35664</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3045">
     <ItemID>35665</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3046">
     <ItemID>35666</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3047">
@@ -18291,31 +18291,31 @@
   <block ID="3048">
     <ItemID>35669</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3049">
     <ItemID>35670</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3050">
     <ItemID>35671</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3051">
     <ItemID>35672</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3052">
     <ItemID>35673</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3053">
@@ -18327,37 +18327,37 @@
   <block ID="3054">
     <ItemID>35675</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3055">
     <ItemID>35676</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3056">
     <ItemID>35681</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3057">
     <ItemID>35684</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3058">
     <ItemID>35691</ItemID>
     <ItemType>13</ItemType>
-    <Original>JOIE !</Original>
+    <Original>SOURIEZ !</Original>
     <Translation></Translation>
   </block>
   <block ID="3059">
     <ItemID>35692</ItemID>
     <ItemType>13</ItemType>
-    <Original>Joyeuse Hypoth&#232;que &#224; Strumfuquel</Original>
+    <Original>Heureuse Hypoth&#232;que &#224; Strumfuquel</Original>
     <Translation></Translation>
   </block>
   <block ID="3060">
@@ -18483,7 +18483,7 @@
   <block ID="3080">
     <ItemID>35786</ItemID>
     <ItemType>13</ItemType>
-    <Original>Cabinet Paratin</Original>
+    <Original>Cabinet Édenté</Original>
     <Translation></Translation>
   </block>
   <block ID="3081">
@@ -18609,13 +18609,13 @@
   <block ID="3101">
     <ItemID>35832</ItemID>
     <ItemType>13</ItemType>
-    <Original>B&#234;te de la Montagne</Original>
+    <Original>B&#234;te des Montagnes</Original>
     <Translation></Translation>
   </block>
   <block ID="3102">
     <ItemID>35835</ItemID>
     <ItemType>13</ItemType>
-    <Original>Pip de la Montagne</Original>
+    <Original>Pip des Montagnes</Original>
     <Translation></Translation>
   </block>
   <block ID="3103">
@@ -18675,7 +18675,7 @@
   <block ID="3112">
     <ItemID>35857</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3113">
@@ -18801,7 +18801,7 @@
   <block ID="3133">
     <ItemID>35889</ItemID>
     <ItemType>13</ItemType>
-    <Original>Nous sommes actuellement en rupture de</Original>
+    <Original>Nous sommes actuellement en rupture de </Original>
     <Translation></Translation>
   </block>
   <block ID="3134">
@@ -19509,7 +19509,7 @@
   <block ID="3251">
     <ItemID>36046</ItemID>
     <ItemType>13</ItemType>
-    <Original>Les Meilleure Recettes de Chats et Poulets</Original>
+    <Original>Les Meilleures Recettes de Chats et Poulets</Original>
     <Translation></Translation>
   </block>
   <block ID="3252">
@@ -19557,7 +19557,7 @@
   <block ID="3259">
     <ItemID>36054</ItemID>
     <ItemType>13</ItemType>
-    <Original>Beurrer Ses Cochonnes !</Original>
+    <Original>Bien Beurrer Ses Cochonnes !</Original>
     <Translation></Translation>
   </block>
   <block ID="3260">
@@ -19569,7 +19569,7 @@
   <block ID="3261">
     <ItemID>36056</ItemID>
     <ItemType>13</ItemType>
-    <Original>Un Petir Chizard Muselé</Original>
+    <Original>Un Petit Chizard Muselé</Original>
     <Translation></Translation>
   </block>
   <block ID="3262">
@@ -20175,19 +20175,19 @@
   <block ID="3362">
     <ItemID>36205</ItemID>
     <ItemType>13</ItemType>
-    <Original>Alterner entre différentes attaques pour les enchaîner. Les chaînes d'attaques font plus de dégâts et une chaîne parfaite x7 va frapper les ennemis de nouveau.</Original>
+    <Original>Alternez entre différentes attaques pour les enchaîner. Les chaînes d'attaques font plus de dégâts et une chaîne parfaite x7 produira une attaque bonus.</Original>
     <Translation></Translation>
   </block>
   <block ID="3363">
     <ItemID>36206</ItemID>
     <ItemType>13</ItemType>
-    <Original>Alterner entre différentes attaques pour les enchaîner. Les chaînes d'attaques font plus de dégâts et une chaîne parfaite x7 va frapper les ennemis de nouveau.</Original>
+    <Original>Alternez entre différentes attaques pour les enchaîner. Les chaînes d'attaques font plus de dégâts et une chaîne parfaite x7 produira une attaque bonus.</Original>
     <Translation></Translation>
   </block>
   <block ID="3364">
     <ItemID>36207</ItemID>
     <ItemType>13</ItemType>
-    <Original>Alterner entre différentes attaques pour les enchaîner. Les chaînes d'attaques font plus de dégâts et une chaîne parfaite x7 va frapper les ennemis de nouveau.</Original>
+    <Original>Alternez entre différentes attaques pour les enchaîner. Les chaînes d'attaques font plus de dégâts et une chaîne parfaite x7 produira une attaque bonus.</Original>
     <Translation></Translation>
   </block>
   <block ID="3365">
@@ -20487,7 +20487,7 @@
   <block ID="3414">
     <ItemID>36304</ItemID>
     <ItemType>13</ItemType>
-    <Original>Find out what the [Japanese Judges] favorite foods are, and prepare it for them.</Original>
+    <Original>Essayez de trouver la nourriture favorite des [Juges Japonais] et préparez-la leurs.</Original>
     <Translation></Translation>
   </block>
   <block ID="3415">
@@ -20505,55 +20505,55 @@
   <block ID="3417">
     <ItemID>36307</ItemID>
     <ItemType>13</ItemType>
-    <Original>There is a [Newspaper Stand] next to the Haunted Crotch in [Strumfuquel].</Original>
+    <Original>Il y a un [Kiosque &#224; Journaux] &#224; coté de la Fourche Hantée dans [Strumfuquel].</Original>
     <Translation></Translation>
   </block>
   <block ID="3418">
     <ItemID>36311</ItemID>
     <ItemType>13</ItemType>
-    <Original>To mute Santa's [Sonic Mirth] look for protective ear wear.</Original>
+    <Original>Pour faire taire la [Joie] du P&#232;re Noël, une protection est nécessaire.</Original>
     <Translation></Translation>
   </block>
   <block ID="3419">
     <ItemID>36312</ItemID>
     <ItemType>13</ItemType>
-    <Original>Furry ear muffs should be effective against Santa's [Sonic Mirth].</Original>
+    <Original>Des cache-oreilles velues devraient &#234;tre efficaces contre la [Joie] du P&#232;re Noël.</Original>
     <Translation></Translation>
   </block>
   <block ID="3420">
     <ItemID>36313</ItemID>
     <ItemType>13</ItemType>
-    <Original>Kill [Roodolph] the reindeer and wear the [Ear Muffs] that he drops before attacking Santa.</Original>
+    <Original>Tuez [Roodolph] le renne et portez les [Cache-oreilles] qu'il lâchera avant d'attaquer le P&#232;re Noël.</Original>
     <Translation></Translation>
   </block>
   <block ID="3421">
     <ItemID>36314</ItemID>
     <ItemType>13</ItemType>
-    <Original>The three [Levers] that move the sliding bridge are in binary. Google it.</Original>
+    <Original>Les trois [leviers] qui déplacent le pont mobile sont en binaire.</Original>
     <Translation></Translation>
   </block>
   <block ID="3422">
     <ItemID>36315</ItemID>
     <ItemType>13</ItemType>
-    <Original>The only time you can unlock Madame Primp's [Treasure Chest] is when you get her to change into another outfit.</Original>
+    <Original>Le seul moment o&#249; vous pouvez ouvrir le [Coffre] de Madame Primp est quand vous la faites changer de tenue.</Original>
     <Translation></Translation>
   </block>
   <block ID="3423">
     <ItemID>36316</ItemID>
     <ItemType>13</ItemType>
-    <Original>You need to kill Madame Primp for her [Heart of Gold], because it's still lodged in her ribcage.</Original>
+    <Original>Vous devez tuer Madame Primp pour prendre son [Coeur en Or], parce qu'il est logé dans sa cage thoracique.</Original>
     <Translation></Translation>
   </block>
   <block ID="3424">
     <ItemID>36317</ItemID>
     <ItemType>13</ItemType>
-    <Original>If you had some [Dog Tags] to show Madame Primp, she'd fit you in right away.</Original>
+    <Original>Si vous aviez des [Plaques d'Identifications] pour les montrer &#224; Madame Primp, elle pourrait revoir sa position.</Original>
     <Translation></Translation>
   </block>
   <block ID="3425">
     <ItemID>36318</ItemID>
     <ItemType>13</ItemType>
-    <Original>There are [Dog Tags] scattered around the [Jungle], just waiting to be collected.</Original>
+    <Original>Il y a des [Plaques d'Identifications] éparpillées dans la [Jungle], qui ne demandent qu'&#224; &#234;tre collectées.</Original>
     <Translation></Translation>
   </block>
   <block ID="3426">
@@ -21405,13 +21405,13 @@
   <block ID="3567">
     <ItemID>36537</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sortir</Original>
+    <Original>Sortie</Original>
     <Translation></Translation>
   </block>
   <block ID="3568">
     <ItemID>36538</ItemID>
     <ItemType>13</ItemType>
-    <Original>Storage</Original>
+    <Original>Stockage</Original>
     <Translation></Translation>
   </block>
   <block ID="3569">
@@ -22431,7 +22431,7 @@
   <block ID="3738">
     <ItemID>36857</ItemID>
     <ItemType>13</ItemType>
-    <Original>Patte Purement Délicieuse Aviaire.</Original>
+    <Original>Patte Aviaire Délicieuse.</Original>
     <Translation></Translation>
   </block>
   <block ID="3739">
@@ -22725,13 +22725,13 @@
   <block ID="3787">
     <ItemID>37050</ItemID>
     <ItemType>13</ItemType>
-    <Original>Toubib Irrégulier Greem</Original>
+    <Original>Toubib Maton Greem</Original>
     <Translation></Translation>
   </block>
   <block ID="3788">
     <ItemID>37051</ItemID>
     <ItemType>13</ItemType>
-    <Original>Soldat Irrégulier Greem</Original>
+    <Original>Soldat Maton Greem</Original>
     <Translation></Translation>
   </block>
   <block ID="3789">
@@ -22791,7 +22791,7 @@
   <block ID="3798">
     <ItemID>37062</ItemID>
     <ItemType>13</ItemType>
-    <Original>Plante Grimpante Suintante des Latrines</Original>
+    <Original>Glaire Suintant des Latrines</Original>
     <Translation></Translation>
   </block>
   <block ID="3799">
@@ -22857,7 +22857,7 @@
   <block ID="3809">
     <ItemID>37073</ItemID>
     <ItemType>13</ItemType>
-    <Original>ID Bidon Orc</Original>
+    <Original>Laissez-passer Bidon Orc</Original>
     <Translation></Translation>
   </block>
   <block ID="3810">
@@ -22869,13 +22869,13 @@
   <block ID="3811">
     <ItemID>37075</ItemID>
     <ItemType>13</ItemType>
-    <Original>Encre de Calamar</Original>
+    <Original>Encre de Tentacule</Original>
     <Translation></Translation>
   </block>
   <block ID="3812">
     <ItemID>37076</ItemID>
     <ItemType>13</ItemType>
-    <Original>Encre récupérée en pressant les reins de Calamar de la Jungle esp&#232;ce aujourd'hui éteinte.</Original>
+    <Original>Encre récupérée en pressant les reins d'un Tentacule de la Jungle esp&#232;ce aujourd'hui éteinte.</Original>
     <Translation></Translation>
   </block>
   <block ID="3813">
@@ -22971,13 +22971,13 @@
   <block ID="3828">
     <ItemID>37093</ItemID>
     <ItemType>13</ItemType>
-    <Original>S'échappez du Camp Bang</Original>
+    <Original>Échappez-vous du Camp Bang</Original>
     <Translation></Translation>
   </block>
   <block ID="3829">
     <ItemID>37094</ItemID>
     <ItemType>13</ItemType>
-    <Original>S'échappez du Camp Bang</Original>
+    <Original>Échappez-vous du Camp Bang</Original>
     <Translation></Translation>
   </block>
   <block ID="3830">
@@ -23109,25 +23109,25 @@
   <block ID="3851">
     <ItemID>37119</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin de trouver quelque chose pour faire [Encre] pour faire ma carte Orc bidon.</Original>
+    <Original>J'ai besoin de trouver quelque chose pour faire office d'[Encre] pour faire mon [laissez-passer] Orc bidon.</Original>
     <Translation></Translation>
   </block>
   <block ID="3852">
     <ItemID>37120</ItemID>
     <ItemType>13</ItemType>
-    <Original>Trouvez un truc pour écrire avec</Original>
+    <Original>Trouvez un truc pour écrire</Original>
     <Translation></Translation>
   </block>
   <block ID="3853">
     <ItemID>37121</ItemID>
     <ItemType>13</ItemType>
-    <Original>Trouvez un truc pour écrire avec</Original>
+    <Original>Trouvez un truc pour écrire</Original>
     <Translation></Translation>
   </block>
   <block ID="3854">
     <ItemID>37122</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je dos trouver un truc pour [Écrire] et faire ma carte Orc bidon.</Original>
+    <Original>Je dois trouver un truc pour [Écrire] et faire mon [laissez-passer] Orc bidon.</Original>
     <Translation></Translation>
   </block>
   <block ID="3855">
@@ -23145,43 +23145,43 @@
   <block ID="3857">
     <ItemID>37125</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je besoin de [Papier] pour faire ma carte Orc  bidon.</Original>
+    <Original>Je besoin de [Papier] pour faire mon [laissez-passer] Orc bidon.</Original>
     <Translation></Translation>
   </block>
   <block ID="3858">
     <ItemID>37126</ItemID>
     <ItemType>13</ItemType>
-    <Original>Apprennez le MdP Secret</Original>
+    <Original>Apprenez le MdP Secret</Original>
     <Translation></Translation>
   </block>
   <block ID="3859">
     <ItemID>37127</ItemID>
     <ItemType>13</ItemType>
-    <Original>Apprennez le MdP Secret</Original>
+    <Original>Apprenez le MdP Secret</Original>
     <Translation></Translation>
   </block>
   <block ID="3860">
     <ItemID>37128</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je dosi apprendre le [MdP Secret] pour convaincre le Garde Orc de me laisser passer la pont.</Original>
+    <Original>Je dois apprendre le [MdP Secret] pour convaincre le Garde Orc de me laisser passer le pont.</Original>
     <Translation></Translation>
   </block>
   <block ID="3861">
     <ItemID>37129</ItemID>
     <ItemType>13</ItemType>
-    <Original>Traverser le pont POW</Original>
+    <Original>Traverser le pont du Camp</Original>
     <Translation></Translation>
   </block>
   <block ID="3862">
     <ItemID>37130</ItemID>
     <ItemType>13</ItemType>
-    <Original>Traverser le pont POW</Original>
+    <Original>Traverser le pont du Camp</Original>
     <Translation></Translation>
   </block>
   <block ID="3863">
     <ItemID>37131</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le prisonniers de guerre opprimés dans le camp disent que je devrais essayer de [Traverser le Pont] et partir de ce camp. La prospérité et la vente de livre sont probablement ce qui m'attend de l'autre côté.</Original>
+    <Original>Les prisonniers de guerre opprimés dans le camp disent que je devrais essayer de [Traverser le Pont] et partir de ce camp. La prospérité et une vie faite de Tweet et de Poke sont probablement ce qui m'attend de l'autre côté.</Original>
     <Translation></Translation>
   </block>
   <block ID="3864">
@@ -23205,7 +23205,7 @@
   <block ID="3867">
     <ItemID>37138</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mettez un [Déguisement Orc], faites une [Carte Bidon Orc] et apprenez le [Mot de Passe Secret] pour passer le pont.</Original>
+    <Original>Mettez un [Déguisement Orc], faites un [Laissez-passer Bidon] et apprenez le [Mot de Passe Secret] pour passer le pont.</Original>
     <Translation></Translation>
   </block>
   <block ID="3868">
@@ -23259,7 +23259,7 @@
   <block ID="3876">
     <ItemID>37147</ItemID>
     <ItemType>13</ItemType>
-    <Original>Recueillez les trois éléments nécessaires pour faire la carte bidon et ensuite utilisez les éléments les uns sur les autres.</Original>
+    <Original>Recueillez les trois éléments nécessaires pour faire le laissez-passer bidon et ensuite utilisez les éléments les uns sur les autres.</Original>
     <Translation></Translation>
   </block>
   <block ID="3877">
@@ -23271,7 +23271,7 @@
   <block ID="3878">
     <ItemID>37149</ItemID>
     <ItemType>13</ItemType>
-    <Original>Une fois la plume trempée dans l'encre, utilisez-la sur le papier &#224; faire une carte bidon.</Original>
+    <Original>Une fois la plume trempée dans l'encre, utilisez-la sur le papier pour faire un laissez-passer bidon.</Original>
     <Translation></Translation>
   </block>
   <block ID="3879">
@@ -23283,13 +23283,13 @@
   <block ID="3880">
     <ItemID>37151</ItemID>
     <ItemType>13</ItemType>
-    <Original>Les Calamar de la Jungle vivent dans la jungle, peut-&#234;tre qu'ils ont de l'encre ?</Original>
+    <Original>Les Tentacules de la Jungle vivent dans la jungle, peut-&#234;tre qu'ils ont de l'encre ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3881">
     <ItemID>37152</ItemID>
     <ItemType>13</ItemType>
-    <Original>Tuez les Calamars de la Jungle pour recueillir leur encre.</Original>
+    <Original>Tuez les Tentacules de la Jungle pour recueillir leur encre.</Original>
     <Translation></Translation>
   </block>
   <block ID="3882">
@@ -23379,25 +23379,25 @@
   <block ID="3896">
     <ItemID>37171</ItemID>
     <ItemType>13</ItemType>
-    <Original>Capturé par Orques, trop blessé pour s'échapper. Fan de pommes de terre. </Original>
+    <Original>Capturé par Orcs... trop blessé pour s'échapper... Fans de pommes de terre...</Original>
     <Translation></Translation>
   </block>
   <block ID="3897">
     <ItemID>37172</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je me sent un peu mieux. Je peux maintenant bouger mon troisi&#232;me de mes neuf orteils. Ce sont les plus importants, ils peuvent me prendre les autres s'ils veulent. Tant que j'ai ces trois l&#224; !</Original>
+    <Original>Je me sens un peu mieux. Je peux maintenant bouger le troisi&#232;me de mes neuf orteils. C'est mes préférés. Ils peuvent me prendre les autres s'ils veulent. Tant que j'ai ces trois l&#224; !</Original>
     <Translation></Translation>
   </block>
   <block ID="3898">
     <ItemID>37173</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ma force est de retour, mes compagnons prisonniers de guerre et moi avons essayé de nous échapper des dizaines de fois, mais c'est fatiguant de passer par les murs et ces horribles Orcs ont verrouillés la porte. C'est tellement évident quand on y pense.</Original>
+    <Original>Ma force est de retour, mes compagnons prisonniers de guerre et moi avons essayé de nous échapper des dizaines de fois, mais c'est fatiguant de passer par les murs et ces horribles Orcs ont verrouillés les portes. C'est tellement évident quand on y pense.</Original>
     <Translation></Translation>
   </block>
   <block ID="3899">
     <ItemID>37174</ItemID>
     <ItemType>13</ItemType>
-    <Original>Maudit soit ces Orcs ! Pendant trop longtemps, j'ai été assis ici a peler leurs pommes de la terre. Mes blessures sont guéries et il est temps de foute le camp d'ici.</Original>
+    <Original>Maudit soit ces Orcs ! Pendant trop longtemps, j'ai été assis ici a peler leurs pommes de la terre. Mes blessures sont guéries et il est temps de foutre le camp d'ici.</Original>
     <Translation></Translation>
   </block>
   <block ID="3900">
@@ -23409,7 +23409,7 @@
   <block ID="3901">
     <ItemID>37176</ItemID>
     <ItemType>13</ItemType>
-    <Original>Porte du Camp de Prisonniers de Guerre</Original>
+    <Original>Porte du Camp des P.d.G</Original>
     <Translation></Translation>
   </block>
   <block ID="3902">
@@ -23433,7 +23433,7 @@
   <block ID="3905">
     <ItemID>37181</ItemID>
     <ItemType>13</ItemType>
-    <Original>Obtenez un élément d'uniforme Orc</Original>
+    <Original>Obtenez une pi&#232;ce d'uniforme Orc</Original>
     <Translation></Translation>
   </block>
   <block ID="3906">
@@ -23523,7 +23523,7 @@
   <block ID="3920">
     <ItemID>37197</ItemID>
     <ItemType>13</ItemType>
-    <Original>B&#234;tetlings de la Jungle </Original>
+    <Original>Petite Bestiole de la Jungle </Original>
     <Translation></Translation>
   </block>
   <block ID="3921">
@@ -23547,7 +23547,7 @@
   <block ID="3924">
     <ItemID>37205</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin de [Bottes] pour completer mon Uniforme Orc.</Original>
+    <Original>J'ai besoin de [Bottes] pour compléter mon Uniforme Orc.</Original>
     <Translation></Translation>
   </block>
   <block ID="3925">
@@ -23601,7 +23601,7 @@
   <block ID="3933">
     <ItemID>37214</ItemID>
     <ItemType>13</ItemType>
-    <Original>Cour P.d.G</Original>
+    <Original>Cour des P.d.G</Original>
     <Translation></Translation>
   </block>
   <block ID="3934">
@@ -23625,7 +23625,7 @@
   <block ID="3937">
     <ItemID>37218</ItemID>
     <ItemType>13</ItemType>
-    <Original>Île d'Interrogatoire</Original>
+    <Original>Île Interrogatoire</Original>
     <Translation></Translation>
   </block>
   <block ID="3938">
@@ -23925,19 +23925,19 @@
   <block ID="3987">
     <ItemID>37357</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sniper Irr&#232;gulier Greem</Original>
+    <Original>Sniper Maton Greem</Original>
     <Translation></Translation>
   </block>
   <block ID="3988">
     <ItemID>37358</ItemID>
     <ItemType>13</ItemType>
-    <Original>Soldat Irr&#232;gulier Greem</Original>
+    <Original>Soldat Maton Greem</Original>
     <Translation></Translation>
   </block>
   <block ID="3989">
     <ItemID>37359</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sniper Irr&#232;gulier Greem</Original>
+    <Original>Sniper Maton Greem</Original>
     <Translation></Translation>
   </block>
   <block ID="3990">
@@ -23949,7 +23949,7 @@
   <block ID="3991">
     <ItemID>37361</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vendeur PdG</Original>
+    <Original>Fournisseur de Liqueur P.d.G</Original>
     <Translation></Translation>
   </block>
   <block ID="3992">
@@ -23979,19 +23979,19 @@
   <block ID="3996">
     <ItemID>37366</ItemID>
     <ItemType>13</ItemType>
-    <Original>Contrefaire une Carte Orc</Original>
+    <Original>Contrefaire un Laissez-passer Orc</Original>
     <Translation></Translation>
   </block>
   <block ID="3997">
     <ItemID>37367</ItemID>
     <ItemType>13</ItemType>
-    <Original>Contrefaire une Carte Orc</Original>
+    <Original>Contrefaire un Laissez-passer Orc</Original>
     <Translation></Translation>
   </block>
   <block ID="3998">
     <ItemID>37368</ItemID>
     <ItemType>13</ItemType>
-    <Original>Carte Orc contrefaites</Original>
+    <Original>Laissez-passer Orc contrefait</Original>
     <Translation></Translation>
   </block>
   <block ID="3999">
@@ -24009,7 +24009,7 @@
   <block ID="4001">
     <ItemID>37372</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je dois me faire une [Carte] bidon pour convaincre le Garde Orc de me laisser passer le pont.</Original>
+    <Original>Je dois me faire un [Laissez-passer] bidon pour convaincre le Garde Orc de me laisser traverser le pont.</Original>
     <Translation></Translation>
   </block>
   <block ID="4002">
@@ -24033,7 +24033,7 @@
   <block ID="4005">
     <ItemID>37377</ItemID>
     <ItemType>13</ItemType>
-    <Original>Stand du Wortten</Original>
+    <Original>Stand Wortten</Original>
     <Translation></Translation>
   </block>
   <block ID="4006">
@@ -24207,7 +24207,7 @@
   <block ID="4034">
     <ItemID>37408</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ces pompes sont trouée, malodorante et incroyablement confortable.</Original>
+    <Original>Ces pompes sont trouées, malodorantes mais incroyablement confortable.</Original>
     <Translation></Translation>
   </block>
   <block ID="4035">
@@ -24297,7 +24297,7 @@
   <block ID="4049">
     <ItemID>37423</ItemID>
     <ItemType>13</ItemType>
-    <Original>Montre de Poche &#224; Remontage Automatique</Original>
+    <Original>Montre &#224; Remontage Automatique</Original>
     <Translation></Translation>
   </block>
   <block ID="4050">
@@ -24399,7 +24399,7 @@
   <block ID="4066">
     <ItemID>37448</ItemID>
     <ItemType>13</ItemType>
-    <Original>Clé Porte OccidentalTrouvée</Original>
+    <Original>Clé Porte Occidental Trouvée</Original>
     <Translation></Translation>
   </block>
   <block ID="4067">
@@ -24513,7 +24513,7 @@
   <block ID="4085">
     <ItemID>37470</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin de trouver un autre chemin contournant les [éboulement Orc] en passant par les champs de Blizbane afin de poursuivre ma qu&#234;te pour trouver les Strings.</Original>
+    <Original>J'ai besoin de trouver un autre chemin contournant les [éboulement s Orc] en passant par les champs de Blizbane afin de poursuivre ma qu&#234;te pour trouver les Strings.</Original>
     <Translation></Translation>
   </block>
   <block ID="4086">
@@ -24645,13 +24645,13 @@
   <block ID="4107">
     <ItemID>37498</ItemID>
     <ItemType>13</ItemType>
-    <Original>Calamar de la Jungle</Original>
+    <Original>Tentacule de la Jungle</Original>
     <Translation></Translation>
   </block>
   <block ID="4108">
     <ItemID>37499</ItemID>
     <ItemType>13</ItemType>
-    <Original>Calamar de la Jungle</Original>
+    <Original>Tentacule de la Jungle</Original>
     <Translation></Translation>
   </block>
   <block ID="4109">
@@ -24759,19 +24759,19 @@
   <block ID="4126">
     <ItemID>37620</ItemID>
     <ItemType>13</ItemType>
-    <Original>Traversez l'océan et explorer de nouvelles îles, mais n'oubliez pas que vous ne pouvez monter et descendre de votre bateau qu'&#224; un quais dans le monde.</Original>
+    <Original>Traversez l'océan et explorez de nouvelles îles, mais n'oubliez pas que vous ne pouvez monter et descendre de votre bateau qu'&#224; un quais.</Original>
     <Translation></Translation>
   </block>
   <block ID="4127">
     <ItemID>37621</ItemID>
     <ItemType>13</ItemType>
-    <Original>Traversez l'océan et explorer de nouvelles îles, mais n'oubliez pas que vous ne pouvez monter et descendre de votre bateau qu'&#224; un quais dans le monde.</Original>
+    <Original>Traversez l'océan et explorez de nouvelles îles, mais n'oubliez pas que vous ne pouvez monter et descendre de votre bateau qu'&#224; un quais.</Original>
     <Translation></Translation>
   </block>
   <block ID="4128">
     <ItemID>37622</ItemID>
     <ItemType>13</ItemType>
-    <Original>Traversez l'océan et explorer de nouvelles îles, mais n'oubliez pas que vous ne pouvez monter et descendre de votre bateau qu'&#224; un quais dans le monde.</Original>
+    <Original>Traversez l'océan et explorez de nouvelles îles, mais n'oubliez pas que vous ne pouvez monter et descendre de votre bateau qu'&#224; un quais.</Original>
     <Translation></Translation>
   </block>
   <block ID="4129">
@@ -24795,7 +24795,7 @@
   <block ID="4132">
     <ItemID>37626</ItemID>
     <ItemType>13</ItemType>
-    <Original>Pour entrer dans les catacombes et trouver ce qui s'y cache, nettoyez votre esprit et votre coeur et votre âme en br&#251;lant l'interdit.</Original>
+    <Original>Pour entrer dans les catacombes et trouver ce qui s'y cache. Nettoyez votre esprit, votre coeur et votre âme en br&#251;lant l'interdit.</Original>
     <Translation></Translation>
   </block>
   <block ID="4133">
@@ -25371,13 +25371,13 @@
   <block ID="4228">
     <ItemID>37723</ItemID>
     <ItemType>13</ItemType>
-    <Original>Pipcicle</Original>
+    <Original>Pip Gelé</Original>
     <Translation></Translation>
   </block>
   <block ID="4229">
     <ItemID>37724</ItemID>
     <ItemType>13</ItemType>
-    <Original>Green Insulaire</Original>
+    <Original>Greem Insulaire</Original>
     <Translation></Translation>
   </block>
   <block ID="4230">
@@ -25473,7 +25473,7 @@
   <block ID="4245">
     <ItemID>37743</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je devrais parler aux trois [Soldats Prisonniers de Guerre] pour mettre eu point un plan d'évasion.</Original>
+    <Original>Je devrais parler aux trois [Soldats Prisonniers de Guerre] pour mettre au point un plan d'évasion.</Original>
     <Translation></Translation>
   </block>
   <block ID="4246">
@@ -25551,13 +25551,13 @@
   <block ID="4258">
     <ItemID>37759</ItemID>
     <ItemType>13</ItemType>
-    <Original>Cabinet Squelette Insulaire</Original>
+    <Original>Cabinet Île Squelette</Original>
     <Translation></Translation>
   </block>
   <block ID="4259">
     <ItemID>37760</ItemID>
     <ItemType>13</ItemType>
-    <Original>Cabinet Volaille Insulaire</Original>
+    <Original>Cabinet Île Cot'cot</Original>
     <Translation></Translation>
   </block>
   <block ID="4260">
@@ -25593,7 +25593,7 @@
   <block ID="4265">
     <ItemID>37767</ItemID>
     <ItemType>13</ItemType>
-    <Original>Cabinet Quai</Original>
+    <Original>Le Quais-binet</Original>
     <Translation></Translation>
   </block>
   <block ID="4266">
@@ -25659,7 +25659,7 @@
   <block ID="4276">
     <ItemID>37780</ItemID>
     <ItemType>13</ItemType>
-    <Original>Pourquoi avez-vous gaspiller un Cookie Chance pourr ça ? Il suffit de parler au [Général de l'Armée].</Original>
+    <Original>Pourquoi avez-vous gaspiller un Cookie Chance pour ça ? Il suffisait de parler au [Général de l'Armée].</Original>
     <Translation></Translation>
   </block>
   <block ID="4277">
@@ -25947,7 +25947,7 @@
   <block ID="4324">
     <ItemID>37849</ItemID>
     <ItemType>13</ItemType>
-    <Original>Les b&#234;tes de laJungle...</Original>
+    <Original>Les b&#234;tes de la Jungle...</Original>
     <Translation></Translation>
   </block>
   <block ID="4325">
@@ -25971,13 +25971,13 @@
   <block ID="4328">
     <ItemID>37853</ItemID>
     <ItemType>13</ItemType>
-    <Original>Pour des documents "saucier"..., Allez a la biblioth&#232;que dans Le Beaux Kuckelle. Ils ont une belle section cuisine.</Original>
+    <Original>Pour des documents "saucier"..., Allez &#224; la biblioth&#232;que dans Le Beaux Kuckelle. Ils ont une belle section cuisine.</Original>
     <Translation></Translation>
   </block>
   <block ID="4329">
     <ItemID>37854</ItemID>
     <ItemType>13</ItemType>
-    <Original>Note Infectée</Original>
+    <Original>Note Fétide</Original>
     <Translation></Translation>
   </block>
   <block ID="4330">
@@ -26007,25 +26007,25 @@
   <block ID="4334">
     <ItemID>37859</ItemID>
     <ItemType>13</ItemType>
-    <Original>Michael Anderson</Original>
+    <Original>Traduction Française</Original>
     <Translation></Translation>
   </block>
   <block ID="4335">
     <ItemID>37860</ItemID>
     <ItemType>13</ItemType>
-    <Original>Nels Anderson</Original>
+    <Original>Smash15195</Original>
     <Translation></Translation>
   </block>
   <block ID="4336">
     <ItemID>37861</ItemID>
     <ItemType>13</ItemType>
-    <Original>Genieve Bertram</Original>
+    <Original>.</Original>
     <Translation></Translation>
   </block>
   <block ID="4337">
     <ItemID>37862</ItemID>
     <ItemType>13</ItemType>
-    <Original>Phil Bonnici</Original>
+    <Original>Michael Anderson&lt;BRR&gt;Nels Anderson&lt;BRR&gt;Genieve Bertram&lt;BRR&gt;Phil Bonnici</Original>
     <Translation></Translation>
   </block>
   <block ID="4338">
@@ -27333,7 +27333,7 @@
   <block ID="4555">
     <ItemID>38088</ItemID>
     <ItemType>13</ItemType>
-    <Original>Station de Premiers Secours</Original>
+    <Original>Caisse de Premiers Secours</Original>
     <Translation></Translation>
   </block>
   <block ID="4556">
@@ -27375,7 +27375,7 @@
   <block ID="4562">
     <ItemID>38095</ItemID>
     <ItemType>13</ItemType>
-    <Original>Forgée dans les Feux Antique de Bacon,</Original>
+    <Original>Forgeant dans les Feux Antique de Bacon,</Original>
     <Translation></Translation>
   </block>
   <block ID="4563">
@@ -27417,7 +27417,7 @@
   <block ID="4569">
     <ItemID>38102</ItemID>
     <ItemType>13</ItemType>
-    <Original>afin que nous puissions tous en prendre soin.</Original>
+    <Original>afin qu'elle puisse prendre soin de nous tous.</Original>
     <Translation></Translation>
   </block>
   <block ID="4570">
@@ -27441,7 +27441,7 @@
   <block ID="4573">
     <ItemID>38106</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le String de Popote a été donné &#224; un cél&#232;bre Chef médiatique.</Original>
+    <Original>Le String de Cuisine a été donné &#224; un cél&#232;bre Chef médiatique.</Original>
     <Translation></Translation>
   </block>
   <block ID="4574">
@@ -27693,7 +27693,7 @@
   <block ID="4615">
     <ItemID>38148</ItemID>
     <ItemType>13</ItemType>
-    <Original>Les Petits Orque du P&#232;re Noël cédaient t du terrain lentement</Original>
+    <Original>Les Petits Orque du P&#232;re Noël cédaient du terrain lentement</Original>
     <Translation></Translation>
   </block>
   <block ID="4616">
@@ -27741,7 +27741,7 @@
   <block ID="4623">
     <ItemID>38156</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je l'ai enterrée au sommet d'une petite colline o&#249; elle pouvait regarder vers ma nouvelle formidablement cool Base Lunaire,</Original>
+    <Original>Je l'ai enterré au sommet d'une petite colline o&#249; elle pouvait regarder vers ma nouvelle for</Original>
     <Translation></Translation>
   </block>
   <block ID="4624">
@@ -28125,7 +28125,7 @@
   <block ID="4687">
     <ItemID>38225</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je dois aider le[Cochet de la Diligence] et la [Damoiselle] avec leurs probl&#232;mes de Bandito. Ces actes héro&#239;ques devrait convaincre les [Banditos Blancs] de lever leur [Blocus].</Original>
+    <Original>Je dois aider le [Cochet de la Diligence] et la [Damoiselle] avec leurs probl&#232;mes de Bandito. Ces actes héro&#239;ques devraient convaincre les [Banditos Blancs] de lever leur [Blocus].</Original>
     <Translation></Translation>
   </block>
   <block ID="4688">
@@ -28221,13 +28221,13 @@
   <block ID="4703">
     <ItemID>38241</ItemID>
     <ItemType>13</ItemType>
-    <Original>Écriteau Blocus</Original>
+    <Original>Info. Blocus</Original>
     <Translation></Translation>
   </block>
   <block ID="4704">
     <ItemID>38242</ItemID>
     <ItemType>13</ItemType>
-    <Original>Pas de diligences au-del&#224; de ce point. Les Banditos Blancs factureront une redevance de passage sur toutes les diligences qui tenteraient de passer.</Original>
+    <Original>Diligences interdites au-del&#224; de ce point. Les Banditos Blancs factureront une taxe de passage sur toutes diligences qui tenteraient de passer.</Original>
     <Translation></Translation>
   </block>
   <block ID="4705">
@@ -28281,7 +28281,7 @@
   <block ID="4713">
     <ItemID>38251</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le dernier est par une maison détruite dans les [Montagnes Sierra].</Original>
+    <Original>Le dernier est &#224; coté d'une maison détruite dans les [Montagnes Sierra].</Original>
     <Translation></Translation>
   </block>
   <block ID="4714">
@@ -28329,7 +28329,7 @@
   <block ID="4721">
     <ItemID>38259</ItemID>
     <ItemType>13</ItemType>
-    <Original>Les Commandants Mort-vivants envahissent cette terre. N'essayez pas de les combattre. Ils sont immunisés contre toutes les armes connues.</Original>
+    <Original>Les Commandants Mort-vivants envahissent cette terre. N'essayez pas de les combattres. Ils sont immunisés contre toutes les armes connues.</Original>
     <Translation></Translation>
   </block>
   <block ID="4722">
@@ -28527,13 +28527,13 @@
   <block ID="4754">
     <ItemID>38296</ItemID>
     <ItemType>13</ItemType>
-    <Original>Squelette Insulaire</Original>
+    <Original>Île Squelette</Original>
     <Translation></Translation>
   </block>
   <block ID="4755">
     <ItemID>38297</ItemID>
     <ItemType>13</ItemType>
-    <Original>Poulet Insulaire</Original>
+    <Original>Île Cot'cot</Original>
     <Translation></Translation>
   </block>
   <block ID="4756">

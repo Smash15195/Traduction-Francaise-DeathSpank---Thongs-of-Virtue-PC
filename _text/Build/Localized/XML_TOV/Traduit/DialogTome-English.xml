@@ -33,13 +33,13 @@
   <block ID="5">
     <ItemID>10876</ItemID>
     <ItemType>13</ItemType>
-    <Original>Dieu merci, c'est Wortten.+</Original>
+    <Original>Tr&#232;s Gouteuse et Incroyable Wortten</Original>
     <Translation></Translation>
   </block>
   <block ID="6">
     <ItemID>10878</ItemID>
     <ItemType>13</ItemType>
-    <Original>Bienvenue au Drive T.G.I. Wortten !+</Original>
+    <Original>Bienvenue au Stand T.G.I. Wortten !+</Original>
     <Translation></Translation>
   </block>
   <block ID="7">
@@ -57,7 +57,7 @@
   <block ID="9">
     <ItemID>10881</ItemID>
     <ItemType>13</ItemType>
-    <Original>Bienvenue au Drive T.G.I. Wortten !+</Original>
+    <Original>Bienvenue au Stand T.G.I. Wortten !+</Original>
     <Translation></Translation>
   </block>
   <block ID="10">
@@ -69,7 +69,7 @@
   <block ID="11">
     <ItemID>10883</ItemID>
     <ItemType>13</ItemType>
-    <Original>Des doigts de poulet héro&#239;ques, s'il vous plaît.</Original>
+    <Original>Des doigts de poulets héro&#239;ques, s'il vous plaît.</Original>
     <Translation></Translation>
   </block>
   <block ID="12">
@@ -117,7 +117,7 @@
   <block ID="19">
     <ItemID>10892</ItemID>
     <ItemType>13</ItemType>
-    <Original>Comment se passe votre travail scolaire, Tina ?</Original>
+    <Original>Comment se passe votre travail universitaire, Tina ?</Original>
     <Translation></Translation>
   </block>
   <block ID="20">
@@ -129,7 +129,7 @@
   <block ID="21">
     <ItemID>10894</ItemID>
     <ItemType>13</ItemType>
-    <Original>Des pelures de pommes de terre, avec un supplément de fromage  dessus.</Original>
+    <Original>Des pelures de pommes de terre, avec un supplément de fromage dessus.</Original>
     <Translation></Translation>
   </block>
   <block ID="22">
@@ -141,7 +141,7 @@
   <block ID="23">
     <ItemID>10896</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je pourrais peut-&#234;tre vous emprunter la votre quelques temsp ?</Original>
+    <Original>Je pourrais peut-&#234;tre vous emprunter la vôtre quelques temps ?</Original>
     <Translation></Translation>
   </block>
   <block ID="24">
@@ -153,7 +153,7 @@
   <block ID="25">
     <ItemID>10900</ItemID>
     <ItemType>13</ItemType>
-    <Original>Oh,  tant pis.+</Original>
+    <Original>Oh, tant pis.+</Original>
     <Translation></Translation>
   </block>
   <block ID="26">
@@ -453,7 +453,7 @@
   <block ID="75">
     <ItemID>11097</ItemID>
     <ItemType>13</ItemType>
-    <Original>Regardez ça, n'est-ce pas mon vieil ami... Le Chercheur en Stringolithe.</Original>
+    <Original>Regardez ça, ne serait-ce pas mon vieil ami... Le Chercheur en Stringolithe.</Original>
     <Translation></Translation>
   </block>
   <block ID="76">
@@ -483,7 +483,7 @@
   <block ID="80">
     <ItemID>11102</ItemID>
     <ItemType>13</ItemType>
-    <Original>Il n'en reste plus qu'un Stringolithe, mais son emplacement m'a toujours échappé.+</Original>
+    <Original>Il ne reste plus qu'un Stringolithe, mais son emplacement m'a toujours échappé.+</Original>
     <Translation></Translation>
   </block>
   <block ID="81">
@@ -525,13 +525,13 @@
   <block ID="87">
     <ItemID>11109</ItemID>
     <ItemType>13</ItemType>
-    <Original>Maintenant, j'ai cet instrument qui peut prendre les lectures dont j'ai besoin.+</Original>
+    <Original>J'ai cet instrument qui peut prendre les lectures dont j'ai besoin.+</Original>
     <Translation></Translation>
   </block>
   <block ID="88">
     <ItemID>11110</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mais j'ai besoin de quelqu'un qui peut REELEMENTatteindre les Stringolithes.</Original>
+    <Original>Mais j'ai besoin de quelqu'un qui peut REELEMENT atteindre les Stringolithes.</Original>
     <Translation></Translation>
   </block>
   <block ID="89">
@@ -579,7 +579,7 @@
   <block ID="96">
     <ItemID>11124</ItemID>
     <ItemType>13</ItemType>
-    <Original>O&#249; est le Stringolithes de Popote, déj&#224; ?</Original>
+    <Original>O&#249; est le Stringolithes de Cuisine, déj&#224; ?</Original>
     <Translation></Translation>
   </block>
   <block ID="97">
@@ -591,7 +591,7 @@
   <block ID="98">
     <ItemID>11140</ItemID>
     <ItemType>13</ItemType>
-    <Original>Que pouvez-vous me dire sur le String de Popote ?</Original>
+    <Original>Que pouvez-vous me dire sur le String de Cuisine ?</Original>
     <Translation></Translation>
   </block>
   <block ID="99">
@@ -627,7 +627,7 @@
   <block ID="104">
     <ItemID>11150</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin de celles du Stringolithes de la compassion.+</Original>
+    <Original>J'ai besoin de celles du Stringolithe de la compassion.+</Original>
     <Translation></Translation>
   </block>
   <block ID="105">
@@ -639,7 +639,7 @@
   <block ID="106">
     <ItemID>11152</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin de celles du Stringolithes de Popote.+</Original>
+    <Original>J'ai besoin de celles du Stringolithe de Cuisine.+</Original>
     <Translation></Translation>
   </block>
   <block ID="107">
@@ -651,7 +651,7 @@
   <block ID="108">
     <ItemID>11154</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin de celles du Stringolithes de Générosité.+</Original>
+    <Original>J'ai besoin de celles du Stringolithe de Générosité.+</Original>
     <Translation></Translation>
   </block>
   <block ID="109">
@@ -663,7 +663,7 @@
   <block ID="110">
     <ItemID>11164</ItemID>
     <ItemType>13</ItemType>
-    <Original>Une idée d'un bon coin o&#249; manger ?+</Original>
+    <Original>Vous cherchez un bon coin o&#249; manger ?+</Original>
     <Translation></Translation>
   </block>
   <block ID="111">
@@ -687,19 +687,19 @@
   <block ID="114">
     <ItemID>11170</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai votre lecture du Stringolithes dans la jungle.</Original>
+    <Original>J'ai votre lecture du Stringolithe dans la jungle.</Original>
     <Translation></Translation>
   </block>
   <block ID="115">
     <ItemID>11171</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai votre lecture du Stringolithes dans la For&#234;t Cactus.</Original>
+    <Original>J'ai votre lecture du Stringolithe dans la For&#234;t Cactus.</Original>
     <Translation></Translation>
   </block>
   <block ID="116">
     <ItemID>11172</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai votre lecture du Stringolithes du Pôle Nord.</Original>
+    <Original>J'ai votre lecture du Stringolithe du Pôle Nord.</Original>
     <Translation></Translation>
   </block>
   <block ID="117">
@@ -723,7 +723,7 @@
   <block ID="120">
     <ItemID>11176</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai cette chose qui, ont dirait, provient d'un Stringolithe.</Original>
+    <Original>J'ai cette chose qui, on dirait, provient d'un Stringolithe.</Original>
     <Translation></Translation>
   </block>
   <block ID="121">
@@ -837,13 +837,13 @@
   <block ID="139">
     <ItemID>11200</ItemID>
     <ItemType>13</ItemType>
-    <Original>Attendez-moi ici. Ce ne prendra qu'une minute.</Original>
+    <Original>Attendez-moi ici. Ca ne prendra qu'une minute.</Original>
     <Translation></Translation>
   </block>
   <block ID="140">
     <ItemID>11201</ItemID>
     <ItemType>13</ItemType>
-    <Original>Et voila... mon appareil fantastique de téléportation en cours de brevetage !</Original>
+    <Original>Et voila... Un appareil fantastique de téléportation en cours de brevetage !</Original>
     <Translation></Translation>
   </block>
   <block ID="141">
@@ -855,7 +855,7 @@
   <block ID="142">
     <ItemID>11203</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous devriez peut-&#234;tre  tester ce genre de truc sur un animal tout mignon d'abord ?</Original>
+    <Original>Vous devriez peut-&#234;tre tester ce genre de truc sur un animal tout mignon d'abord ?</Original>
     <Translation></Translation>
   </block>
   <block ID="143">
@@ -957,7 +957,7 @@
   <block ID="159">
     <ItemID>11427</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin de vousi pour tuer des Anes de Jungle et de recueillir leurs excréments.+</Original>
+    <Original>J'ai besoin de vous pour tuer des Anes de Jungle et de recueillir leurs excréments.+</Original>
     <Translation></Translation>
   </block>
   <block ID="160">
@@ -987,7 +987,7 @@
   <block ID="164">
     <ItemID>11432</ItemID>
     <ItemType>13</ItemType>
-    <Original>La texture est parfaite, ces excréments de donneront d'excellente récoltes.</Original>
+    <Original>La texture est parfaite, ces excréments donneront d'excellentes récoltes.</Original>
     <Translation></Translation>
   </block>
   <block ID="165">
@@ -1017,7 +1017,7 @@
   <block ID="169">
     <ItemID>11437</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai la bouse de dinosaure vous demandiez.</Original>
+    <Original>J'ai la bouse de dinosaure que vous demandiez.</Original>
     <Translation></Translation>
   </block>
   <block ID="170">
@@ -1041,7 +1041,7 @@
   <block ID="173">
     <ItemID>11442</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'imagine la bouse de Géant Givré comme vous et moi...+</Original>
+    <Original>J'imagine que de la bouse de Géant Givré est tout ce qu'il restera de vous et moi...+</Original>
     <Translation></Translation>
   </block>
   <block ID="174">
@@ -1053,13 +1053,13 @@
   <block ID="175">
     <ItemID>11444</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je avoir votre bouse de Géant Givré malodorante.</Original>
+    <Original>J'ai votre bouse de Géant Givré malodorante.</Original>
     <Translation></Translation>
   </block>
   <block ID="176">
     <ItemID>11445</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ne soyez pas deçu DeathSpank, c'est le combat pour le fumier le plus parfait auquel vous n'aurez jamais gouté.</Original>
+    <Original>Ne faites pas cette t&#234;te DeathSpank, c'est le combat pour le fumier le plus parfait auquel vous n'aurez jamais gouté.</Original>
     <Translation></Translation>
   </block>
   <block ID="177">
@@ -1089,7 +1089,7 @@
   <block ID="181">
     <ItemID>11891</ItemID>
     <ItemType>13</ItemType>
-    <Original>Base lunaire secr&#232;te groovy, Sandy.</Original>
+    <Original>C'est une base lunaire secr&#232;te groovy, Sandy.</Original>
     <Translation></Translation>
   </block>
   <block ID="182">
@@ -1125,7 +1125,7 @@
   <block ID="187">
     <ItemID>11897</ItemID>
     <ItemType>13</ItemType>
-    <Original>Alors, quoi neuf au programme ?</Original>
+    <Original>Alors, c'est quoi la suite du programme ?</Original>
     <Translation></Translation>
   </block>
   <block ID="188">
@@ -1155,7 +1155,7 @@
   <block ID="192">
     <ItemID>11903</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous &#234;tes aussi fou que tous les autres. Vous devez &#234;tre arr&#234;té !</Original>
+    <Original>Vous &#234;tes aussi folle que tous les autres. Vous devez &#234;tre arr&#234;tée !</Original>
     <Translation></Translation>
   </block>
   <block ID="193">
@@ -1203,7 +1203,7 @@
   <block ID="200">
     <ItemID>11911</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ou du moins toute la partie ma vie que je me souviens.+</Original>
+    <Original>Ou du moins toute la partie ma vie dont je me souviens.+</Original>
     <Translation></Translation>
   </block>
   <block ID="201">
@@ -1227,7 +1227,7 @@
   <block ID="204">
     <ItemID>11915</ItemID>
     <ItemType>13</ItemType>
-    <Original>Un objet que j'ai utilisé pour vous manipuler en m'aider &#224; atteindre mon objectif. +</Original>
+    <Original>Un objet que j'ai utilisé pour vous manipuler et atteindre mon objectif. +</Original>
     <Translation></Translation>
   </block>
   <block ID="205">
@@ -1239,7 +1239,7 @@
   <block ID="206">
     <ItemID>11917</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je l'ai eu pour deux dollars &#224; un vide grenier.</Original>
+    <Original>Je les ai eus pour deux dollars &#224; un vide grenier.</Original>
     <Translation></Translation>
   </block>
   <block ID="207">
@@ -1251,13 +1251,13 @@
   <block ID="208">
     <ItemID>11919</ItemID>
     <ItemType>13</ItemType>
-    <Original>Il ne m'en reste plus qu'un String &#224; obtenir.</Original>
+    <Original>Il ne me reste plus qu'un String &#224; obtenir.</Original>
     <Translation></Translation>
   </block>
   <block ID="209">
     <ItemID>11920</ItemID>
     <ItemType>13</ItemType>
-    <Original>Tr&#232;s bien !</Original>
+    <Original>Ah tr&#232;s bien !</Original>
     <Translation></Translation>
   </block>
   <block ID="210">
@@ -1383,7 +1383,7 @@
   <block ID="230">
     <ItemID>11942</ItemID>
     <ItemType>13</ItemType>
-    <Original>En détournant les boucliers des déflecteurs arri&#232;re ?</Original>
+    <Original>En détournant les boucliers des déflecteurs arri&#232;res ?</Original>
     <Translation></Translation>
   </block>
   <block ID="231">
@@ -1443,7 +1443,7 @@
   <block ID="240">
     <ItemID>11952</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mon String est parfait l&#224; o&#249; il est, merci bien.</Original>
+    <Original>Mon String est bien l&#224; o&#249; il est, merci bien.</Original>
     <Translation></Translation>
   </block>
   <block ID="241">
@@ -1485,7 +1485,7 @@
   <block ID="247">
     <ItemID>11959</ItemID>
     <ItemType>13</ItemType>
-    <Original>Bien. J'imagine que vous pouvez avoir le String.</Original>
+    <Original>Bon. J'imagine que vous pouvez avoir c e String.</Original>
     <Translation></Translation>
   </block>
   <block ID="248">
@@ -1515,25 +1515,25 @@
   <block ID="252">
     <ItemID>11964</ItemID>
     <ItemType>13</ItemType>
-    <Original>A cessé d'&#234;tre ?</Original>
+    <Original>Je dois trépasser ?</Original>
     <Translation></Translation>
   </block>
   <block ID="253">
     <ItemID>11965</ItemID>
     <ItemType>13</ItemType>
-    <Original>Privé de vie ?</Original>
+    <Original>&#202;tre privé de vie ?</Original>
     <Translation></Translation>
   </block>
   <block ID="254">
     <ItemID>11966</ItemID>
     <ItemType>13</ItemType>
-    <Original>La nostalgie des fjords ?</Original>
+    <Original>J'ai la nostalgie des fjords ?</Original>
     <Translation></Translation>
   </block>
   <block ID="255">
     <ItemID>11967</ItemID>
     <ItemType>13</ItemType>
-    <Original>Faire tomber le rideau et rejoindre le choeur invisible ?</Original>
+    <Original>Faire tomber le rideau et rejoindre l'autre invisible ?</Original>
     <Translation></Translation>
   </block>
   <block ID="256">
@@ -1587,7 +1587,7 @@
   <block ID="264">
     <ItemID>11978</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous verrez qu'il n'y a pas d'autre moyen.</Original>
+    <Original>Vous verrez qu'il n'y a pas d'autre solution.</Original>
     <Translation></Translation>
   </block>
   <block ID="265">
@@ -1839,7 +1839,7 @@
   <block ID="306">
     <ItemID>12021</ItemID>
     <ItemType>13</ItemType>
-    <Original>Eh bien, nous allons voir &#224; ça,  now won't we ?</Original>
+    <Original>Eh bien, nous allons voir &#224; ça...  En garde !</Original>
     <Translation></Translation>
   </block>
   <block ID="307">
@@ -1875,13 +1875,13 @@
   <block ID="312">
     <ItemID>12128</ItemID>
     <ItemType>13</ItemType>
-    <Original>Celui-l&#224; est un pour le Général au nord.+</Original>
+    <Original>Celui-l&#224; est pour le Général au nord.+</Original>
     <Translation></Translation>
   </block>
   <block ID="313">
     <ItemID>12129</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ne perdez pas trop de temps pour lui donner, il devient un peu grincheux.+</Original>
+    <Original>Ne perdez pas trop de temps pour lui donner, il devient un peu grincheux avec le temps.+</Original>
     <Translation></Translation>
   </block>
   <block ID="314">
@@ -1941,13 +1941,13 @@
   <block ID="323">
     <ItemID>12141</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je un autre colis a livrer, c'est ça ?</Original>
+    <Original>Je dois livrer un autre colis, c'est ça ?</Original>
     <Translation></Translation>
   </block>
   <block ID="324">
     <ItemID>12142</ItemID>
     <ItemType>13</ItemType>
-    <Original>Eh bien, J'ALLAIS vous demander de resserrer mon plastron, mais maintenant que vous le dites, j'ai quelque chose qui doit &#234;tre livrer.+</Original>
+    <Original>Eh bien, J'ALLAIS vous demander de resserrer mon plastron, mais maintenant que vous le dites, j'ai quelque chose qui doit &#234;tre livré.+</Original>
     <Translation></Translation>
   </block>
   <block ID="325">
@@ -1965,19 +1965,19 @@
   <block ID="327">
     <ItemID>12146</ItemID>
     <ItemType>13</ItemType>
-    <Original>Knock 'em dead, kiddo.</Original>
+    <Original>A charge de revanche.</Original>
     <Translation></Translation>
   </block>
   <block ID="328">
     <ItemID>12147</ItemID>
     <ItemType>13</ItemType>
-    <Original>Génial, c'est le dernier des Strings.</Original>
+    <Original>Génial, c'est le dernier String.</Original>
     <Translation></Translation>
   </block>
   <block ID="329">
     <ItemID>12148</ItemID>
     <ItemType>13</ItemType>
-    <Original>Enfin ! Tout est a nouveau en ordre dans le monde, grâce aux efforts héro&#239;ques de DeathSpank !</Original>
+    <Original>Enfin ! Tout est &#224; nouveau en ordre dans le monde, grâce aux efforts héro&#239;ques de DeathSpank !</Original>
     <Translation></Translation>
   </block>
   <block ID="330">
@@ -2025,7 +2025,7 @@
   <block ID="337">
     <ItemID>12166</ItemID>
     <ItemType>13</ItemType>
-    <Original>Qu'est-ce que ces Strings font de spécial, &#224; part ne pas laisser de lignes de bronzage ?</Original>
+    <Original>Qu'est-ce que ces Strings font de spécial, &#224; part ne pas laisser de traces de bronzage ?</Original>
     <Translation></Translation>
   </block>
   <block ID="338">
@@ -2073,7 +2073,7 @@
   <block ID="345">
     <ItemID>12224</ItemID>
     <ItemType>13</ItemType>
-    <Original>Est-ce c'est comme un truc de mode pour gonzesse ?</Original>
+    <Original>Est-ce que c'est comme un truc de mode pour gonzesse ?</Original>
     <Translation></Translation>
   </block>
   <block ID="346">
@@ -2091,13 +2091,13 @@
   <block ID="348">
     <ItemID>12227</ItemID>
     <ItemType>13</ItemType>
-    <Original>Et n'oublions pas les répercutions sur la mode qu'on de tels sous-v&#234;tements.</Original>
+    <Original>Et n'oublions pas les répercutions sur la mode qu'ont de tels sous-v&#234;tements.</Original>
     <Translation></Translation>
   </block>
   <block ID="349">
     <ItemID>12228</ItemID>
     <ItemType>13</ItemType>
-    <Original>Exact, tout le monde ne doit pouvoir ni devoir porter un String.</Original>
+    <Original>Exact, tout le monde ne devrait pas pouvoir ni devoir porter un String.</Original>
     <Translation></Translation>
   </block>
   <block ID="350">
@@ -2109,7 +2109,7 @@
   <block ID="351">
     <ItemID>12230</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mais ils ne sont contre nature et...+</Original>
+    <Original>Mais ils sont contre nature et...+</Original>
     <Translation></Translation>
   </block>
   <block ID="352">
@@ -2163,7 +2163,7 @@
   <block ID="360">
     <ItemID>12239</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ma théorie sur vous, c'est la combinaison de certitude morale et de fainéantise inexcusable.</Original>
+    <Original>Ma théorie sur vous, c'est qu'une combinaison de certitude morale et de fainéantise inexcusable bloque le phénom&#232;ne.</Original>
     <Translation></Translation>
   </block>
   <block ID="361">
@@ -2229,7 +2229,7 @@
   <block ID="371">
     <ItemID>12250</ItemID>
     <ItemType>13</ItemType>
-    <Original>Eh bien, je vais faire ce qu'il faut faire.</Original>
+    <Original>Eh bien, je ferais ce qu'il faut faire.</Original>
     <Translation></Translation>
   </block>
   <block ID="372">
@@ -2241,13 +2241,13 @@
   <block ID="373">
     <ItemID>12252</ItemID>
     <ItemType>13</ItemType>
-    <Original>Un spectacle de String Marionnette ?</Original>
+    <Original>Un spectacle de Strings Marionnettes ?</Original>
     <Translation></Translation>
   </block>
   <block ID="374">
     <ItemID>12253</ItemID>
     <ItemType>13</ItemType>
-    <Original>Faire une fronde avec une ceinture ?</Original>
+    <Original>En faire des frondes avec une ceinture ?</Original>
     <Translation></Translation>
   </block>
   <block ID="375">
@@ -2307,7 +2307,7 @@
   <block ID="384">
     <ItemID>12263</ItemID>
     <ItemType>13</ItemType>
-    <Original>Et pour la veste de smoking  ?</Original>
+    <Original>Faut une veste de smoking pour entrer ?</Original>
     <Translation></Translation>
   </block>
   <block ID="385">
@@ -2319,7 +2319,7 @@
   <block ID="386">
     <ItemID>12265</ItemID>
     <ItemType>13</ItemType>
-    <Original>Comme la fois ou nous avons renversé le gouvernement en utilisant seulement une spatule et un ouistiti rasé...</Original>
+    <Original>Comme la fois ou nous avons renversé ce gouvernement en utilisant seulement une spatule et un ouistiti rasé...</Original>
     <Translation></Translation>
   </block>
   <block ID="387">
@@ -2343,19 +2343,19 @@
   <block ID="390">
     <ItemID>12269</ItemID>
     <ItemType>13</ItemType>
-    <Original>Un excellent moment, quand m&#234;me.</Original>
+    <Original>C'était un excellent moment, quand m&#234;me.</Original>
     <Translation></Translation>
   </block>
   <block ID="391">
     <ItemID>12270</ItemID>
     <ItemType>13</ItemType>
-    <Original>Qu'est-ce que vous savez sur le String de Popote ?</Original>
+    <Original>Qu'est-ce que vous savez sur le String de Cuisine ?</Original>
     <Translation></Translation>
   </block>
   <block ID="392">
     <ItemID>12271</ItemID>
     <ItemType>13</ItemType>
-    <Original>Qui a le String de Popote ?</Original>
+    <Original>Qui a le String de Cuisine ?</Original>
     <Translation></Translation>
   </block>
   <block ID="393">
@@ -2391,7 +2391,7 @@
   <block ID="398">
     <ItemID>12277</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je devrais y aller maintenant.</Original>
+    <Original>Je devrais y aller.</Original>
     <Translation></Translation>
   </block>
   <block ID="399">
@@ -2463,13 +2463,13 @@
   <block ID="410">
     <ItemID>12289</ItemID>
     <ItemType>13</ItemType>
-    <Original>Exact.</Original>
+    <Original>C'est vrai.</Original>
     <Translation></Translation>
   </block>
   <block ID="411">
     <ItemID>12290</ItemID>
     <ItemType>13</ItemType>
-    <Original>Il a été donné &#224; un puissant guérisseuse, qui voulait mettre fin &#224; la douleur et la mis&#232;re.</Original>
+    <Original>Il a été donné &#224; une puissante guérisseuse, qui voulait mettre fin &#224; la douleur et &#224; la mis&#232;re.</Original>
     <Translation></Translation>
   </block>
   <block ID="412">
@@ -2529,7 +2529,7 @@
   <block ID="421">
     <ItemID>12300</ItemID>
     <ItemType>13</ItemType>
-    <Original>Justement , parce qu'il est moins prévisible ça ne le rend pas moins dangereux.</Original>
+    <Original>Justement... Parce qu'il est moins prévisible ça ne le rend pas moins dangereux.</Original>
     <Translation></Translation>
   </block>
   <block ID="422">
@@ -2565,19 +2565,19 @@
   <block ID="427">
     <ItemID>12306</ItemID>
     <ItemType>13</ItemType>
-    <Original>Traquez-le dans sa tani&#232;re machiavélique sur les Îles Givrée sur l'océan.</Original>
+    <Original>Traquez-le dans sa tani&#232;re machiavélique sur les Îles Givrée dans l'océan.</Original>
     <Translation></Translation>
   </block>
   <block ID="428">
     <ItemID>12307</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ooooh... J'ai la chair de poule.+</Original>
+    <Original>Ooooh... Je commence &#224; avoir la chair de poule.+</Original>
     <Translation></Translation>
   </block>
   <block ID="429">
     <ItemID>12308</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mais il fait un peu frisquet.</Original>
+    <Original>Mais c'est vrai qu'il fait un peu frisquet.</Original>
     <Translation></Translation>
   </block>
   <block ID="430">
@@ -2637,25 +2637,25 @@
   <block ID="439">
     <ItemID>12442</ItemID>
     <ItemType>13</ItemType>
-    <Original>Salutations, Amoureux des Oiseaux.</Original>
+    <Original>Salutations, les tourtereaux.</Original>
     <Translation></Translation>
   </block>
   <block ID="440">
     <ItemID>12443</ItemID>
     <ItemType>13</ItemType>
-    <Original>Hrmph. Le seul oiseau que je vois est un perroquet.</Original>
+    <Original>Hmph. Le seul piaf que je vois est un perroquet.</Original>
     <Translation></Translation>
   </block>
   <block ID="441">
     <ItemID>12444</ItemID>
     <ItemType>13</ItemType>
-    <Original>Qu'est-ce c'est supposé dire ?</Original>
+    <Original>Qu'est-ce c'est supposé vouloir dire ?</Original>
     <Translation></Translation>
   </block>
   <block ID="442">
     <ItemID>12445</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mais tout ce que j'entends c'est "faitla vaisselle, fait la vaisselle, fait la vaisselle".</Original>
+    <Original>Mais tout ce que j'entends c'est "fait la vaisselle, fait la vaisselle, fait la vaisselle".</Original>
     <Translation></Translation>
   </block>
   <block ID="443">
@@ -2673,13 +2673,13 @@
   <block ID="445">
     <ItemID>12448</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ima, ne supporte plus les négligences de Strunken.</Original>
+    <Original>Ima, ne supporte plus vos négligences Strunken.</Original>
     <Translation></Translation>
   </block>
   <block ID="446">
     <ItemID>12449</ItemID>
     <ItemType>13</ItemType>
-    <Original>Comment pouvez-vous la supporter avec son harc&#232;lement incessantes, Strunken ?</Original>
+    <Original>Comment pouvez-vous la supporter avec son harc&#232;lement incessant, Strunken ?</Original>
     <Translation></Translation>
   </block>
   <block ID="447">
@@ -2703,7 +2703,7 @@
   <block ID="450">
     <ItemID>12453</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ima, Strunken est autonome. Vous ne pouvez pas changer sa nature.</Original>
+    <Original>Ima, Strunken est comme ça. Vous ne pouvez pas changer sa nature.</Original>
     <Translation></Translation>
   </block>
   <block ID="451">
@@ -2799,7 +2799,7 @@
   <block ID="466">
     <ItemID>12475</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous voulez en gentleman ?</Original>
+    <Original>Tu veux dire faire de toi un gentleman ?</Original>
     <Translation></Translation>
   </block>
   <block ID="467">
@@ -2811,7 +2811,7 @@
   <block ID="468">
     <ItemID>12477</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je veux que vous arr&#234;tiez de frictionner du fumier dans vos cheveux !</Original>
+    <Original>Je veux juste que tu arr&#234;tes de frictionner du fumier dans tes cheveux !</Original>
     <Translation></Translation>
   </block>
   <block ID="469">
@@ -2865,7 +2865,7 @@
   <block ID="477">
     <ItemID>12486</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous m'entendez, mais m'avez-vous écoutez ?</Original>
+    <Original>Vous m'entendez, mais m'avez-vous écouté ?</Original>
     <Translation></Translation>
   </block>
   <block ID="478">
@@ -2877,13 +2877,13 @@
   <block ID="479">
     <ItemID>12488</ItemID>
     <ItemType>13</ItemType>
-    <Original>Tr&#232;s bien. Je suis un plouc inculte qui aime les plus les fruits que j'aime ma propre femme !</Original>
+    <Original>Tr&#232;s bien. Je suis un plouc inculte qui aime plus les fruits que j'aime ma propre femme !</Original>
     <Translation></Translation>
   </block>
   <block ID="480">
     <ItemID>12489</ItemID>
     <ItemType>13</ItemType>
-    <Original>Bon alors, je suis une sorci&#232;re égo&#239;ste qui n'arrive pas a &#234;tre heureuse sans avoir quelqu'un a commander !</Original>
+    <Original>Bon alors, je suis une sorci&#232;re égo&#239;ste qui n'arrive pas a &#234;tre heureuse sans avoir quelqu'un &#224; commander !</Original>
     <Translation></Translation>
   </block>
   <block ID="481">
@@ -2913,13 +2913,13 @@
   <block ID="485">
     <ItemID>12494</ItemID>
     <ItemType>13</ItemType>
-    <Original>En fait, je n'arrive jamais vraiment &#224; faire pipi DANS les toilettes ! J'aime en vaporiser partout !</Original>
+    <Original>Et moi, j'arrive jamais &#224; faire pipi DANS les toilettes ! J'aime en vaporiser partout !</Original>
     <Translation></Translation>
   </block>
   <block ID="486">
     <ItemID>12495</ItemID>
     <ItemType>13</ItemType>
-    <Original>Euh, tr&#232;s bon exercice. Faistes en sorte de ne plus jamais recommencer.</Original>
+    <Original>Euh, tr&#232;s bon exercice. Essayez de ne pas recommencer.</Original>
     <Translation></Translation>
   </block>
   <block ID="487">
@@ -2931,7 +2931,7 @@
   <block ID="488">
     <ItemID>12497</ItemID>
     <ItemType>13</ItemType>
-    <Original>S'il vous plaît pensez &#224; l'effet qu'a votre chamaillage sur votre enfant.</Original>
+    <Original>Je vous en prie, pensez &#224; l'effet qu'&#224; votre chamaillage sur votre enfant.</Original>
     <Translation></Translation>
   </block>
   <block ID="489">
@@ -2943,7 +2943,7 @@
   <block ID="490">
     <ItemID>12499</ItemID>
     <ItemType>13</ItemType>
-    <Original>Il étudie pour devenir un avocat en divorce !</Original>
+    <Original>Il étudie pour devenir avocat en divorce !</Original>
     <Translation></Translation>
   </block>
   <block ID="491">
@@ -2979,19 +2979,19 @@
   <block ID="496">
     <ItemID>12505</ItemID>
     <ItemType>13</ItemType>
-    <Original>Rien d'un bon avocat pourrait pas récupérer.</Original>
+    <Original>Rien qu'un bon avocat ne pourrait résoudre.</Original>
     <Translation></Translation>
   </block>
   <block ID="497">
     <ItemID>12506</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'avais mes doigts croisés, de toute façon.</Original>
+    <Original>J'avais mes doigts croisés, quand je l'ai dit de toute façon.</Original>
     <Translation></Translation>
   </block>
   <block ID="498">
     <ItemID>12507</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous pouvez toujours faire ce boulot. Vous le devez !</Original>
+    <Original>Vous pouvez toujours faire ce boulot. Vous devez le faire !</Original>
     <Translation></Translation>
   </block>
   <block ID="499">
@@ -3027,7 +3027,7 @@
   <block ID="504">
     <ItemID>12513</ItemID>
     <ItemType>13</ItemType>
-    <Original>Parfois, il est bon pour les gens mariés d'avoir des moments seul... +</Original>
+    <Original>Parfois, c'est bon pour les gens mariés d'avoir des petits moments seul... +</Original>
     <Translation></Translation>
   </block>
   <block ID="505">
@@ -3039,13 +3039,13 @@
   <block ID="506">
     <ItemID>12515</ItemID>
     <ItemType>13</ItemType>
-    <Original>C'est vrai ! Elle est vraiment tr&#232;s bon.</Original>
+    <Original>C'est vrai ! Elle est vraiment tr&#232;s bonne.</Original>
     <Translation></Translation>
   </block>
   <block ID="507">
     <ItemID>12516</ItemID>
     <ItemType>13</ItemType>
-    <Original>C'est vrai qu'elle me commander beaucoup.+</Original>
+    <Original>C'est vrai qu'elle me commande beaucoup.+</Original>
     <Translation></Translation>
   </block>
   <block ID="508">
@@ -3057,13 +3057,13 @@
   <block ID="509">
     <ItemID>12518</ItemID>
     <ItemType>13</ItemType>
-    <Original>Une fois, il a failli &#224; la Poste sans pantalon.</Original>
+    <Original>Une fois, il a failli aller &#224; la Poste sans pantalon.</Original>
     <Translation></Translation>
   </block>
   <block ID="510">
     <ItemID>12519</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ha ha ! C'est une bonne chose que tu l'ais pris, chérie.</Original>
+    <Original>Ha ha ! Une bonne chose que tu me l'ais dit, chérie.</Original>
     <Translation></Translation>
   </block>
   <block ID="511">
@@ -3087,13 +3087,13 @@
   <block ID="514">
     <ItemID>12523</ItemID>
     <ItemType>13</ItemType>
-    <Original>En fait, j'ai raté mon gros nounours adorable.</Original>
+    <Original>En fait, j'ai perdu mon gros nounours adorable.</Original>
     <Translation></Translation>
   </block>
   <block ID="515">
     <ItemID>12524</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous avez mon adorable petit chiot ?</Original>
+    <Original>Tu as mon adorable petit chiot ?</Original>
     <Translation></Translation>
   </block>
   <block ID="516">
@@ -3129,7 +3129,7 @@
   <block ID="521">
     <ItemID>12530</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ma m&#232;re disait toujours que les bons arguments font de bons mariages.</Original>
+    <Original>Ma m&#232;re disait toujours que de bonnes disputes font de bons mariages.</Original>
     <Translation></Translation>
   </block>
   <block ID="522">
@@ -3297,13 +3297,13 @@
   <block ID="549">
     <ItemID>12579</ItemID>
     <ItemType>13</ItemType>
-    <Original>l'Orphelin Collant ?</Original>
+    <Original>L'orpheline collante ?</Original>
     <Translation></Translation>
   </block>
   <block ID="550">
     <ItemID>12582</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je suis fier que tu ais trouvé un boulot lucratif.</Original>
+    <Original>Je suis fier que tu ais trouvée un boulot lucratif.</Original>
     <Translation></Translation>
   </block>
   <block ID="551">
@@ -3315,13 +3315,13 @@
   <block ID="552">
     <ItemID>12584</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je suis rempli de fierté adoptée.+</Original>
+    <Original>Je suis rempli de fierté adoptive.+</Original>
     <Translation></Translation>
   </block>
   <block ID="553">
     <ItemID>12585</ItemID>
     <ItemType>13</ItemType>
-    <Original>Garde &#224; l'esprit que la fierté adoptée est égale &#224; 70% d'une fierté normale.</Original>
+    <Original>Garde &#224; l'esprit que la fierté adoptive est égale &#224; 70% d'une fierté normale.</Original>
     <Translation></Translation>
   </block>
   <block ID="554">
@@ -3531,7 +3531,7 @@
   <block ID="588">
     <ItemID>12704</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je crois que plutôt le contraire.</Original>
+    <Original>Je crois que c'est plutôt le contraire.</Original>
     <Translation></Translation>
   </block>
   <block ID="589">
@@ -3561,7 +3561,7 @@
   <block ID="593">
     <ItemID>12709</ItemID>
     <ItemType>13</ItemType>
-    <Original>Une invasion du pôle Nord ? Vous &#234;tes fou ?</Original>
+    <Original>Une invasion du pôle Nord ? Vous &#234;tes timbré ?</Original>
     <Translation></Translation>
   </block>
   <block ID="594">
@@ -3591,7 +3591,7 @@
   <block ID="598">
     <ItemID>12714</ItemID>
     <ItemType>13</ItemType>
-    <Original>Si je suis un soldat honorifique, quand je pourrais voir mes propres plaques d'identification ?</Original>
+    <Original>Si je suis un soldat honorifique, quand je pourrais avoir mes plaques d'identification ?</Original>
     <Translation></Translation>
   </block>
   <block ID="599">
@@ -3609,7 +3609,7 @@
   <block ID="601">
     <ItemID>12717</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le pays est tr&#232;s accueillant, vous trouvez pas ?</Original>
+    <Original>Ce pays est tr&#232;s accueillant, vous trouvez pas ?</Original>
     <Translation></Translation>
   </block>
   <block ID="602">
@@ -3633,7 +3633,7 @@
   <block ID="605">
     <ItemID>12724</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je suis soldat, mais seulement par nécessité.+</Original>
+    <Original>Je suis soldat. J'ai pris du galon en désespoir de cause.+</Original>
     <Translation></Translation>
   </block>
   <block ID="606">
@@ -3645,7 +3645,7 @@
   <block ID="607">
     <ItemID>12726</ItemID>
     <ItemType>13</ItemType>
-    <Original>Est-ce que l'odeur de la guerre que je sens ?</Original>
+    <Original>Est-ce l'odeur de la guerre que je sens ?</Original>
     <Translation></Translation>
   </block>
   <block ID="608">
@@ -3675,7 +3675,7 @@
   <block ID="612">
     <ItemID>12731</ItemID>
     <ItemType>13</ItemType>
-    <Original>Par "il", vous voulez pas dire...</Original>
+    <Original>Par "il", vous ne voulez pas dire...</Original>
     <Translation></Translation>
   </block>
   <block ID="613">
@@ -3705,7 +3705,7 @@
   <block ID="617">
     <ItemID>12736</ItemID>
     <ItemType>13</ItemType>
-    <Original>Celui que vous connaissiez sosu le sobriquet de P&#232;re Noël n'est plus.+</Original>
+    <Original>Celui que vous connaissiez sous le sobriquet de P&#232;re Noël n'existe plus.+</Original>
     <Translation></Translation>
   </block>
   <block ID="618">
@@ -3753,7 +3753,7 @@
   <block ID="625">
     <ItemID>12744</ItemID>
     <ItemType>13</ItemType>
-    <Original>Nous pourrions, mais les forces aériennes ont été détruite par un raid aérien d'ours en peluche.+</Original>
+    <Original>Nous pourrions, mais nos forces aériennes ont été détruites par un raid aérien d'ours en peluche.+</Original>
     <Translation></Translation>
   </block>
   <block ID="626">
@@ -3765,7 +3765,7 @@
   <block ID="627">
     <ItemID>12746</ItemID>
     <ItemType>13</ItemType>
-    <Original>Du feu partout ! Des hurlements ! la destruction !+</Original>
+    <Original>Du feu partout ! Des hurlements ! La destruction partout !+</Original>
     <Translation></Translation>
   </block>
   <block ID="628">
@@ -3795,7 +3795,7 @@
   <block ID="632">
     <ItemID>12751</ItemID>
     <ItemType>13</ItemType>
-    <Original>Voil&#224; l'esprit, soldat.+</Original>
+    <Original>J'aime cet état d'esprit, soldat.+</Original>
     <Translation></Translation>
   </block>
   <block ID="633">
@@ -3879,7 +3879,7 @@
   <block ID="646">
     <ItemID>12765</ItemID>
     <ItemType>13</ItemType>
-    <Original>L'oeil fuyants !+</Original>
+    <Original>L'oeil fuyant !+</Original>
     <Translation></Translation>
   </block>
   <block ID="647">
@@ -3993,7 +3993,7 @@
   <block ID="665">
     <ItemID>12784</ItemID>
     <ItemType>13</ItemType>
-    <Original>Les dames du soir et les spiritueux distillés ?</Original>
+    <Original>Des dames du soir et des spiritueux distillés ?</Original>
     <Translation></Translation>
   </block>
   <block ID="666">
@@ -4023,7 +4023,7 @@
   <block ID="670">
     <ItemID>12789</ItemID>
     <ItemType>13</ItemType>
-    <Original>Dirigez-vous vers l'océan et pister les campements ennemis pour les marquer sur cette carte.</Original>
+    <Original>Dirigez-vous vers l'océan et pistez les campements ennemis pour les marquer sur cette carte.</Original>
     <Translation></Translation>
   </block>
   <block ID="671">
@@ -4101,7 +4101,7 @@
   <block ID="683">
     <ItemID>12802</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je vais la faire fondre et faire des médailles pour les hommes.</Original>
+    <Original>Je vais le faire fondre et faire des médailles pour les hommes.</Original>
     <Translation></Translation>
   </block>
   <block ID="684">
@@ -4131,7 +4131,7 @@
   <block ID="688">
     <ItemID>12807</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous vous &#234;tes procuré tout le matériels que j'ai demandés.+</Original>
+    <Original>Vous vous &#234;tes procuré tout le matériels que j'ai demandé.+</Original>
     <Translation></Translation>
   </block>
   <block ID="689">
@@ -4149,7 +4149,7 @@
   <block ID="691">
     <ItemID>12810</ItemID>
     <ItemType>13</ItemType>
-    <Original>Qu'est-ce que vous voulez dire ?</Original>
+    <Original>Qu'est-ce que vous en dites ?</Original>
     <Translation></Translation>
   </block>
   <block ID="692">
@@ -4179,7 +4179,7 @@
   <block ID="696">
     <ItemID>12815</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous le feriez, si nous n'étions pas fraîchement sorti.+</Original>
+    <Original>Vous les auriez, si nous n'avions pas eu cet incident.+</Original>
     <Translation></Translation>
   </block>
   <block ID="697">
@@ -4191,13 +4191,13 @@
   <block ID="698">
     <ItemID>12817</ItemID>
     <ItemType>13</ItemType>
-    <Original>S'il vous arrive d'errer dans le coin et que vous en trouvez une paire, ils sont &#224; vous, soldat.+</Original>
+    <Original>S'il vous arrive d'errer dans le coin et que vous en trouvez une paire, elles sont &#224; vous, soldat.+</Original>
     <Translation></Translation>
   </block>
   <block ID="699">
     <ItemID>12818</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mais je peux vous donner sur ce bouton édition spéciale de collection &#224; la place, si vous le souhaitez.</Original>
+    <Original>Mais je peux vous donner ce pin's collector &#224; la place, si vous le souhaitez.</Original>
     <Translation></Translation>
   </block>
   <block ID="700">
@@ -4239,13 +4239,13 @@
   <block ID="706">
     <ItemID>12839</ItemID>
     <ItemType>13</ItemType>
-    <Original>Dites-lui qu'elle est la bienvenue pour prendre le thé chez moi quant elle le souhaite.</Original>
+    <Original>Dites-lui qu'elle est la bienvenue pour prendre le thé dans mes quartiers quant elle le souhaite.</Original>
     <Translation></Translation>
   </block>
   <block ID="707">
     <ItemID>12842</ItemID>
     <ItemType>13</ItemType>
-    <Original>Halte ! Ne bougez plus ! Vous n'&#234;tes pas autorisé a passer...+</Original>
+    <Original>Halte ! Ne bougez plus ! Vous n'&#234;tes pas autorisé &#224; passer...+</Original>
     <Translation></Translation>
   </block>
   <block ID="708">
@@ -4347,7 +4347,7 @@
   <block ID="724">
     <ItemID>12859</ItemID>
     <ItemType>13</ItemType>
-    <Original>Dites ... qu'est-ce qu'il y a de l'autre côté de cette rivi&#232;re ?</Original>
+    <Original>Dites... qu'est-ce qu'il y a de l'autre côté de cette rivi&#232;re ?</Original>
     <Translation></Translation>
   </block>
   <block ID="725">
@@ -4443,13 +4443,13 @@
   <block ID="740">
     <ItemID>12877</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mais je cherche encore l'approbation , pour mon amour-propre en berne.</Original>
+    <Original>Mais je cherche encore l'approbation, pour mon amour-propre en berne.</Original>
     <Translation></Translation>
   </block>
   <block ID="741">
     <ItemID>12878</ItemID>
     <ItemType>13</ItemType>
-    <Original>Des promesses non tenues et des r&#234;ves vides et autres charabia.</Original>
+    <Original>Des promesses non tenues et des r&#234;ves brisés et d'autres balivernes.</Original>
     <Translation></Translation>
   </block>
   <block ID="742">
@@ -4461,7 +4461,7 @@
   <block ID="743">
     <ItemID>12880</ItemID>
     <ItemType>13</ItemType>
-    <Original>En fait, je n'en ai aucune idée. Je n'ai jamais pris la peine de regarder.</Original>
+    <Original>En fait, je n'en ai aucune idée. Je n'ai jamais pris la peine d'aller voir.</Original>
     <Translation></Translation>
   </block>
   <block ID="744">
@@ -4479,7 +4479,7 @@
   <block ID="746">
     <ItemID>12883</ItemID>
     <ItemType>13</ItemType>
-    <Original>Des farfadets, n'importe quoi ! On dirait des gnomes ?+</Original>
+    <Original>C'est des farfadets, bon sang ! On dirait pas des gnomes ?+</Original>
     <Translation></Translation>
   </block>
   <block ID="747">
@@ -4557,7 +4557,7 @@
   <block ID="759">
     <ItemID>12896</ItemID>
     <ItemType>13</ItemType>
-    <Original>...dans le m&#234;me sens sur deux voies parall&#232;les, elles font la course.</Original>
+    <Original>...dans le m&#234;me sens sur deux voies parall&#232;les, ils font la course.</Original>
     <Translation></Translation>
   </block>
   <block ID="760">
@@ -4587,7 +4587,7 @@
   <block ID="764">
     <ItemID>12901</ItemID>
     <ItemType>13</ItemType>
-    <Original>Au m&#234;me moment, l'autre s'effondre. Quelle distance les sépares apr&#232;s une heure écoulée ?&lt;BRR&gt;One on time, the other collapsed. How far apart after an hour elapsed?</Original>
+    <Original>Au m&#234;me moment, l'autre s'effondre. Quelle est la distance qui les sépares apr&#232;s une heure ?</Original>
     <Translation></Translation>
   </block>
   <block ID="765">
@@ -4755,7 +4755,7 @@
   <block ID="792">
     <ItemID>12930</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ca, vous ne le saurez pas, mais au point o&#249; nous en sommes...+</Original>
+    <Original>Celle-l&#224;, vous ne la saurez pas, mais au point o&#249; nous en sommes...+</Original>
     <Translation></Translation>
   </block>
   <block ID="793">
@@ -4785,7 +4785,7 @@
   <block ID="797">
     <ItemID>12935</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous me le direz apr&#232;s que je vous ai noyer dedans !</Original>
+    <Original>Vous me le direz apr&#232;s que je vous aurai noyé dedans !</Original>
     <Translation></Translation>
   </block>
   <block ID="798">
@@ -4797,7 +4797,7 @@
   <block ID="799">
     <ItemID>12937</ItemID>
     <ItemType>13</ItemType>
-    <Original>Si vous connaissez la réponse, me dle dire vous devez.</Original>
+    <Original>Si vous connaissez la réponse, me le dire vous devez.</Original>
     <Translation></Translation>
   </block>
   <block ID="800">
@@ -5427,7 +5427,7 @@
   <block ID="904">
     <ItemID>13042</ItemID>
     <ItemType>13</ItemType>
-    <Original>Salutations &#224; nouveau, bibliothécaire coincé.</Original>
+    <Original>Nouvelles salutations, bibliothécaire coincée.</Original>
     <Translation></Translation>
   </block>
   <block ID="905">
@@ -5493,19 +5493,19 @@
   <block ID="915">
     <ItemID>13053</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous avez fait quoi des livres cochons ? Vous les avez br&#251;lés ?</Original>
+    <Original>Vous avez fait quoi des livres cochons, alors ? Vous les avez br&#251;lés ?</Original>
     <Translation></Translation>
   </block>
   <block ID="916">
     <ItemID>13054</ItemID>
     <ItemType>13</ItemType>
-    <Original>Waouh. C'est insensé ?</Original>
+    <Original>Waouh. C'est vraiment dingue !</Original>
     <Translation></Translation>
   </block>
   <block ID="917">
     <ItemID>13055</ItemID>
     <ItemType>13</ItemType>
-    <Original>Hum ... vous me faites un peu peur.</Original>
+    <Original>Hum... vous me faites un peu peur.</Original>
     <Translation></Translation>
   </block>
   <block ID="918">
@@ -5553,13 +5553,13 @@
   <block ID="925">
     <ItemID>13063</ItemID>
     <ItemType>13</ItemType>
-    <Original>Est-ce que ma carte du Club Charal marche ?+</Original>
+    <Original>Est-ce que ma carte du Club des Mangeurs de Steak fonctionne ?+</Original>
     <Translation></Translation>
   </block>
   <block ID="926">
     <ItemID>13064</ItemID>
     <ItemType>13</ItemType>
-    <Original>Hé ! Plus encore un steak et je reçois une moitié de côtes de porc gratuite.</Original>
+    <Original>Hé ! Plus qu'un steak et je reçois une moitié de côtes de porc gratuite.</Original>
     <Translation></Translation>
   </block>
   <block ID="927">
@@ -5589,7 +5589,7 @@
   <block ID="931">
     <ItemID>13069</ItemID>
     <ItemType>13</ItemType>
-    <Original>Peu importe. Quel est votre nom ?</Original>
+    <Original>Peu importe. Quel est votre nom déj&#224; ?</Original>
     <Translation></Translation>
   </block>
   <block ID="932">
@@ -5619,7 +5619,7 @@
   <block ID="936">
     <ItemID>13075</ItemID>
     <ItemType>13</ItemType>
-    <Original>C'est la plus stupide nom que j'ai jamais entendu.</Original>
+    <Original>C'est le plus stupide nom que j'ai jamais entendu.</Original>
     <Translation></Translation>
   </block>
   <block ID="937">
@@ -5649,7 +5649,7 @@
   <block ID="941">
     <ItemID>13080</ItemID>
     <ItemType>13</ItemType>
-    <Original>A la veille de celui Steve.</Original>
+    <Original>La veille de celui de Steve.</Original>
     <Translation></Translation>
   </block>
   <block ID="942">
@@ -6105,7 +6105,7 @@
   <block ID="1017">
     <ItemID>13227</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je l'ai enterrée au sommet d'une petite colline o&#249; elle pouvait regarder vers ma nouvelle formidablement cool Base Lunaire, et ainsi rester un rappel constant de pourquoi je dois continuer &#224; &#234;tre un Défenseur de la Justice, un Pourfendeur du Mal et un Héros pour les Opprimés.</Original>
+    <Original>Je l'ai enterré au sommet d'une petite colline o&#249; elle pouvait regarder vers ma nouvelle formidablement cool Base Lunaire, et ainsi rester un rappel constant de pourquoi je dois continuer &#224; &#234;tre un Défenseur de la Justice, un Pourfendeur du Mal et un Héros pour les Opprimés.</Original>
     <Translation></Translation>
   </block>
   <block ID="1018">
@@ -6153,7 +6153,7 @@
   <block ID="1025">
     <ItemID>13250</ItemID>
     <ItemType>13</ItemType>
-    <Original>Oh un protagoniste.+</Original>
+    <Original>Oh un joueur !+</Original>
     <Translation></Translation>
   </block>
   <block ID="1026">
@@ -6183,7 +6183,7 @@
   <block ID="1030">
     <ItemID>13257</ItemID>
     <ItemType>13</ItemType>
-    <Original>Les Reines sont incroyablement difficile et répondent uniquement &#224; la bonne fréquence.</Original>
+    <Original>Les Reines sont incroyablement vicieuse et répondent uniquement &#224; la bonne fréquence.</Original>
     <Translation></Translation>
   </block>
   <block ID="1031">
@@ -6207,19 +6207,19 @@
   <block ID="1034">
     <ItemID>13282</ItemID>
     <ItemType>13</ItemType>
-    <Original>Dorénavant, il reste deux Reines Greems, préparez-vous pour récupérer d'autres glandes d'accouplement.</Original>
+    <Original>Dorénavant, il reste deux Reines Greems, préparez-vous a récupérer d'autres glandes d'accouplement.</Original>
     <Translation></Translation>
   </block>
   <block ID="1035">
     <ItemID>13284</ItemID>
     <ItemType>13</ItemType>
-    <Original>Plaines Désertiques.+</Original>
+    <Original>Direction les Plaines Désertiques.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1036">
     <ItemID>13285</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sifflet.</Original>
+    <Original>Le sifflet.</Original>
     <Translation></Translation>
   </block>
   <block ID="1037">
@@ -6255,7 +6255,7 @@
   <block ID="1042">
     <ItemID>13293</ItemID>
     <ItemType>13</ItemType>
-    <Original>La derni&#232;re Reine Greem est sur l'Île &#8203;&#8203;Greem.</Original>
+    <Original>La derni&#232;re Reine Greem est sur l'Île Greem.</Original>
     <Translation></Translation>
   </block>
   <block ID="1043">
@@ -6393,7 +6393,7 @@
   <block ID="1065">
     <ItemID>13564</ItemID>
     <ItemType>13</ItemType>
-    <Original>Bien s&#251;r, je lui donnerai votre magazine, RichC abin.</Original>
+    <Original>Bien s&#251;r ! Je lui donnerai votre magazine, Rich Cabin.</Original>
     <Translation></Translation>
   </block>
   <block ID="1066">
@@ -6441,7 +6441,7 @@
   <block ID="1073">
     <ItemID>13572</ItemID>
     <ItemType>13</ItemType>
-    <Original>Eh bien, j'ai justement un exemplaire de celui-l&#224;.+</Original>
+    <Original>Tr&#232;s bien, j'ai justement un exemplaire de ce nouveau magazine.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1074">
@@ -6453,7 +6453,7 @@
   <block ID="1075">
     <ItemID>13575</ItemID>
     <ItemType>13</ItemType>
-    <Original>Pas mal... mais ce torchon va laisser personne sur la couverture.+</Original>
+    <Original>Pas mal... mais ce torchon ne marquera personne par sa couverture.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1076">
@@ -6489,7 +6489,7 @@
   <block ID="1081">
     <ItemID>13592</ItemID>
     <ItemType>13</ItemType>
-    <Original>Alors vous voulez que j'am&#232;ne votre magazine a quelqu'un ?</Original>
+    <Original>Alors vous voulez que j'am&#232;ne votre magazine &#224; quelqu'un ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1082">
@@ -6507,7 +6507,7 @@
   <block ID="1084">
     <ItemID>13597</ItemID>
     <ItemType>13</ItemType>
-    <Original>Que pouvez-vous me dire sur la Ccompassion ?</Original>
+    <Original>Que pouvez-vous me dire sur la Compassion ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1085">
@@ -6585,7 +6585,7 @@
   <block ID="1097">
     <ItemID>13624</ItemID>
     <ItemType>13</ItemType>
-    <Original>Comme quoi ?</Original>
+    <Original>Comme... ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1098">
@@ -6615,7 +6615,7 @@
   <block ID="1102">
     <ItemID>13629</ItemID>
     <ItemType>13</ItemType>
-    <Original>Dermatophobie - La crainte de lésions cutanées.</Original>
+    <Original>Dermatophobie - La crainte des lésions cutanées.</Original>
     <Translation></Translation>
   </block>
   <block ID="1103">
@@ -6663,19 +6663,19 @@
   <block ID="1110">
     <ItemID>13638</ItemID>
     <ItemType>13</ItemType>
-    <Original>S'il vous plaît entrez dans la grotte l&#224;-bas et récupérez un échantillon de cristal pour moi.</Original>
+    <Original>Je vous en prie, entrez dans la grotte l&#224;-derri&#232;re et récupérez un échantillon de cristal pour moi.</Original>
     <Translation></Translation>
   </block>
   <block ID="1111">
     <ItemID>13639</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous avez encore des échantillons de cristaux pour moi ?</Original>
+    <Original>Vous avez des échantillons de cristaux pour moi ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1112">
     <ItemID>13640</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'en cherche toujoJ'en cherche toujours.urs.</Original>
+    <Original>J'en cherche toujours... J'en cherche toujours.</Original>
     <Translation></Translation>
   </block>
   <block ID="1113">
@@ -6981,7 +6981,7 @@
   <block ID="1163">
     <ItemID>14032</ItemID>
     <ItemType>13</ItemType>
-    <Original>Avons-nous fais nos classes de Pilates ensemble ?</Original>
+    <Original>Avons-nous fais nos classes de Pirates ensemble ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1164">
@@ -6993,7 +6993,7 @@
   <block ID="1165">
     <ItemID>14034</ItemID>
     <ItemType>13</ItemType>
-    <Original>Exact  !+</Original>
+    <Original>Oui exact  !+</Original>
     <Translation></Translation>
   </block>
   <block ID="1166">
@@ -7047,7 +7047,7 @@
   <block ID="1174">
     <ItemID>14043</ItemID>
     <ItemType>13</ItemType>
-    <Original>Comment va votre vieux raffiot ?</Original>
+    <Original>Comment va votre vieux bateau ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1175">
@@ -7107,7 +7107,7 @@
   <block ID="1184">
     <ItemID>14053</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous n'auriez pas un butin intéressant a revendre, non ?</Original>
+    <Original>Vous n'auriez pas un butin intéressant &#224; revendre, non ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1185">
@@ -7125,7 +7125,7 @@
   <block ID="1187">
     <ItemID>14056</ItemID>
     <ItemType>13</ItemType>
-    <Original>Cela vous dérangerait d'honorer un voilier ?</Original>
+    <Original>Cela vous dérangerait de m'honorer d'une chanson pirate ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1188">
@@ -7155,7 +7155,7 @@
   <block ID="1192">
     <ItemID>14061</ItemID>
     <ItemType>13</ItemType>
-    <Original>Donner au Scorbut Raider le respect qu'il mérite !+</Original>
+    <Original>Donner au Fendeur Scorbut le respect qu'il mérite !+</Original>
     <Translation></Translation>
   </block>
   <block ID="1193">
@@ -7269,7 +7269,7 @@
   <block ID="1211">
     <ItemID>14080</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ou l'accent de ces boissons de fantaisie avec les mignons parapluies.</Original>
+    <Original>Ou corser ces boissons fantaisie avec ces mignons parapluies.</Original>
     <Translation></Translation>
   </block>
   <block ID="1212">
@@ -7353,13 +7353,13 @@
   <block ID="1225">
     <ItemID>14095</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ahrr, apportez-moi simplement le reste et elle est &#224; toi.</Original>
+    <Original>Ahrr, apportez-moi le reste et il est &#224; vous.</Original>
     <Translation></Translation>
   </block>
   <block ID="1226">
     <ItemID>14096</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ahrr ! On dirait bien que vous n'&#234;tes pr&#234;t &#224; mettre les voiles.</Original>
+    <Original>Ahrr ! On dirait bien que vous &#234;tes pr&#234;t &#224; mettre les voiles.</Original>
     <Translation></Translation>
   </block>
   <block ID="1227">
@@ -7395,19 +7395,19 @@
   <block ID="1232">
     <ItemID>14102</ItemID>
     <ItemType>13</ItemType>
-    <Original>Piller les Villages !+</Original>
+    <Original>Le pillage de villages !+</Original>
     <Translation></Translation>
   </block>
   <block ID="1233">
     <ItemID>14103</ItemID>
     <ItemType>13</ItemType>
-    <Original>Enlever les Donzelles !+</Original>
+    <Original>La séquestration de Donzelles !+</Original>
     <Translation></Translation>
   </block>
   <block ID="1234">
     <ItemID>14104</ItemID>
     <ItemType>13</ItemType>
-    <Original>Télécharger illégalement des MP3 !+</Original>
+    <Original>Le téléchargement illégalement de MP3 !+</Original>
     <Translation></Translation>
   </block>
   <block ID="1235">
@@ -7425,7 +7425,7 @@
   <block ID="1237">
     <ItemID>14107</ItemID>
     <ItemType>13</ItemType>
-    <Original>Tout était fun et amusant jusqu'&#224;  ce que l'équipage se mutine et me laisse sur une île.</Original>
+    <Original>Tout était fun et amusant jusqu'&#224; ce que l'équipage se mutine et me laisse sur une île.</Original>
     <Translation></Translation>
   </block>
   <block ID="1238">
@@ -7461,7 +7461,7 @@
   <block ID="1243">
     <ItemID>14113</ItemID>
     <ItemType>13</ItemType>
-    <Original>Non, mais l&#224; n'est pas la question.</Original>
+    <Original>Eh bien si, mais l&#224; n'est pas la question.</Original>
     <Translation></Translation>
   </block>
   <block ID="1244">
@@ -7473,7 +7473,7 @@
   <block ID="1245">
     <ItemID>14115</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mais je lui avais faire le pacte de l'auriculaire de ne pas me trahir.</Original>
+    <Original>Mais je lui avais fait faire le pacte de l'auriculaire, de ne pas me trahir.</Original>
     <Translation></Translation>
   </block>
   <block ID="1246">
@@ -7491,7 +7491,7 @@
   <block ID="1248">
     <ItemID>14118</ItemID>
     <ItemType>13</ItemType>
-    <Original>Hélas, tout ce qu'il me reste est sur &#8203;&#8203;ce bouton de collection d'une édition spéciale.</Original>
+    <Original>Hélas, tout ce qu'il me reste est ce bouton de collection d'une édition spéciale.</Original>
     <Translation></Translation>
   </block>
   <block ID="1249">
@@ -7515,7 +7515,7 @@
   <block ID="1252">
     <ItemID>14122</ItemID>
     <ItemType>13</ItemType>
-    <Original>Cette saloperie s'est fait matraqué par des chandeliers.</Original>
+    <Original>Cette saloperie s'est fait tuer par des chandeliers.</Original>
     <Translation></Translation>
   </block>
   <block ID="1253">
@@ -7539,19 +7539,19 @@
   <block ID="1256">
     <ItemID>14126</ItemID>
     <ItemType>13</ItemType>
-    <Original>Elle est TR&#200;S convaincante.</Original>
+    <Original>Elle était TR&#200;S convaincante.</Original>
     <Translation></Translation>
   </block>
   <block ID="1257">
     <ItemID>14127</ItemID>
     <ItemType>13</ItemType>
-    <Original>C'est un flibustier mélangé avec un peu de corsaire.</Original>
+    <Original>C'est du flibustier mélangé avec un peu de corsaire.</Original>
     <Translation></Translation>
   </block>
   <block ID="1258">
     <ItemID>14128</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je ne pense pas. Vous &#234;tes  s&#251;r ?</Original>
+    <Original>J'ai pas l'impression. Vous &#234;tes s&#251;r ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1259">
@@ -7563,7 +7563,7 @@
   <block ID="1260">
     <ItemID>14130</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ne me dites pas équipage, d'accord ? Ils ne comprendraient pas.</Original>
+    <Original>Mais ne dites rien &#224; l'équipage, d'accord ? Ils ne comprendraient pas.</Original>
     <Translation></Translation>
   </block>
   <block ID="1261">
@@ -7575,7 +7575,7 @@
   <block ID="1262">
     <ItemID>14132</ItemID>
     <ItemType>13</ItemType>
-    <Original>Hélas, mon équipage m'a volé la carte au trésor.+</Original>
+    <Original>Hélas, mon équipage m'a volé ma carte au trésor.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1263">
@@ -7587,7 +7587,7 @@
   <block ID="1264">
     <ItemID>14134</ItemID>
     <ItemType>13</ItemType>
-    <Original>S'&#234;tes fin pr&#234;t pour traquer ces bâtards de mutins et récupérer ma carte ?</Original>
+    <Original>Vous z'&#234;tes pr&#234;t a traquer ces bâtards de mutins et récupérer ma carte ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1265">
@@ -7623,7 +7623,7 @@
   <block ID="1270">
     <ItemID>14140</ItemID>
     <ItemType>13</ItemType>
-    <Original>Avec cette carte rafistolée je peux enfin  me trouver un nouveau trésor.</Original>
+    <Original>Avec cette carte rafistolée je peux enfin me trouver un nouveau trésor.</Original>
     <Translation></Translation>
   </block>
   <block ID="1271">
@@ -7635,7 +7635,7 @@
   <block ID="1272">
     <ItemID>14142</ItemID>
     <ItemType>13</ItemType>
-    <Original>C'est intéressant... mais pascompl&#232;tement inattendu.+</Original>
+    <Original>C'est intéressant... mais pas compl&#232;tement inattendu.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1273">
@@ -7659,25 +7659,25 @@
   <block ID="1276">
     <ItemID>14147</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ahrr, que ce serait une bonne DeathSpank pirate'n.</Original>
+    <Original>Ahrr, que ce serait une bonne nouvelle DeathSpank.</Original>
     <Translation></Translation>
   </block>
   <block ID="1277">
     <ItemID>14148</ItemID>
     <ItemType>13</ItemType>
-    <Original>Maintenant, laissez-moi les compter. Aller partez !</Original>
+    <Original>Maintenant, laissez-moi. Aller partez !</Original>
     <Translation></Translation>
   </block>
   <block ID="1278">
     <ItemID>14149</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mon équipage ont volés chacun un morceau de la carte.+</Original>
+    <Original>Les menbres de mon équipage ont volé chacun un morceau de la carte.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1279">
     <ItemID>14150</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous allez devoir traquer chaque membre de l'équipage et reprendre ce qui est &#224; moi.</Original>
+    <Original>Vous allez devoir traquer chacun d'eux et reprendre ce qui est &#224; moi.</Original>
     <Translation></Translation>
   </block>
   <block ID="1280">
@@ -7761,7 +7761,7 @@
   <block ID="1293">
     <ItemID>14166</ItemID>
     <ItemType>13</ItemType>
-    <Original>Donc vous pensez que tout le monde est juste trop occupé &#224; travailler au Wortten ?</Original>
+    <Original>Donc vous pensez que tout le monde est juste trop occupé &#224; travailler chez Wortten ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1294">
@@ -7815,7 +7815,7 @@
   <block ID="1302">
     <ItemID>14179</ItemID>
     <ItemType>13</ItemType>
-    <Original>Un groupe de ses robots sont entrés et ont pris ma licence, et il l'ont caché quelque part au fin fond de l'Usine Wortten.+</Original>
+    <Original>Un groupe de ses robots sont entrés et ont pris ma licence, et ils l'ont cachés quelque part au fin fond de l'Usine Wortten.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1303">
@@ -7911,7 +7911,7 @@
   <block ID="1318">
     <ItemID>14195</ItemID>
     <ItemType>13</ItemType>
-    <Original>Puis les choses ont commencé a mal tourner. Je... Je n'aime pas en parler.</Original>
+    <Original>Puis les choses ont commencé &#224; mal tourner. Je... Je n'aime pas en parler.</Original>
     <Translation></Translation>
   </block>
   <block ID="1319">
@@ -7923,7 +7923,7 @@
   <block ID="1320">
     <ItemID>14197</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous voyez, le Bacon commencé &#224; affecter les gens. Les transformant en quelque sorte.+</Original>
+    <Original>Vous voyez, le Bacon a commencé &#224; affecter les gens. Les transformant en quelque sorte.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1321">
@@ -7971,7 +7971,7 @@
   <block ID="1328">
     <ItemID>14205</ItemID>
     <ItemType>13</ItemType>
-    <Original>Donc, si vous savez ce qui est bon pour vous, vous ne pourrez plus en amener.</Original>
+    <Original>Donc, m&#234;me si vous aimez ça, vous ne pouvez plus en amener.</Original>
     <Translation></Translation>
   </block>
   <block ID="1329">
@@ -8367,7 +8367,7 @@
   <block ID="1394">
     <ItemID>14271</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'imagine.</Original>
+    <Original>Ce serait logique.</Original>
     <Translation></Translation>
   </block>
   <block ID="1395">
@@ -8397,7 +8397,7 @@
   <block ID="1399">
     <ItemID>14276</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous plaignez pas.</Original>
+    <Original>Vous vous plaignez de quoi ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1400">
@@ -8427,13 +8427,13 @@
   <block ID="1404">
     <ItemID>14281</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je ne pense pas qu'il y ai de meilleur travail &#224; faire.+</Original>
+    <Original>Je ne pense pas qu'il y ai de meilleur travail.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1405">
     <ItemID>14282</ItemID>
     <ItemType>13</ItemType>
-    <Original>De l'argent facile. De la bonne compagnie. Le chois des horaires. Et une bonne couverture dentaire.+</Original>
+    <Original>De l'argent facile. De la bonne compagnie. Le choix des horaires. Et une bonne couverture dentaire.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1406">
@@ -8475,7 +8475,7 @@
   <block ID="1412">
     <ItemID>14289</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je voulais dire de la variété non-déviante.</Original>
+    <Original>Je voulais dire d'une variété non-déviante.</Original>
     <Translation></Translation>
   </block>
   <block ID="1413">
@@ -8547,7 +8547,7 @@
   <block ID="1424">
     <ItemID>14301</ItemID>
     <ItemType>13</ItemType>
-    <Original>I... euh... hum... Vous &#234;tes en état d'arrestation !</Original>
+    <Original>Je... euh... hum... Vous &#234;tes en état d'arrestation !</Original>
     <Translation></Translation>
   </block>
   <block ID="1425">
@@ -8655,7 +8655,7 @@
   <block ID="1442">
     <ItemID>14319</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je suis M&#232;re Mary Josephine Teresa ...</Original>
+    <Original>Je suis M&#232;re Mary Josephine Teresa...</Original>
     <Translation></Translation>
   </block>
   <block ID="1443">
@@ -8763,7 +8763,7 @@
   <block ID="1460">
     <ItemID>14338</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous voulez dire sauf ceux que vous tuer, non ?</Original>
+    <Original>Vous voulez dire sauf ceux que vous tuez, non ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1461">
@@ -8805,7 +8805,7 @@
   <block ID="1467">
     <ItemID>14345</ItemID>
     <ItemType>13</ItemType>
-    <Original>Quand nous sommes pr&#234;ts, nous capturons les Strings par la force !</Original>
+    <Original>Quand nous serons pr&#234;ts, nous capturons les Strings par la force !</Original>
     <Translation></Translation>
   </block>
   <block ID="1468">
@@ -8907,7 +8907,7 @@
   <block ID="1484">
     <ItemID>14362</ItemID>
     <ItemType>13</ItemType>
-    <Original>Pour l'amour de tout ce qui est saint, quelle partie de "il perturbe l'équilibre du pH" ne vous comprenez pas !</Original>
+    <Original>Pour l'amour de tout ce qui est saint, quelle partie de "ça perturbe l'équilibre de son pH" vous ne vous comprenez pas !</Original>
     <Translation></Translation>
   </block>
   <block ID="1485">
@@ -8919,7 +8919,7 @@
   <block ID="1486">
     <ItemID>14364</ItemID>
     <ItemType>13</ItemType>
-    <Original>Excusez-nous, ô Miséricordieux.+</Original>
+    <Original>Excusez-nous, ô Miséricordieuse.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1487">
@@ -8943,7 +8943,7 @@
   <block ID="1490">
     <ItemID>14368</ItemID>
     <ItemType>13</ItemType>
-    <Original>Salutations marin bancal.</Original>
+    <Original>Salutations marin vacillant.</Original>
     <Translation></Translation>
   </block>
   <block ID="1491">
@@ -8955,7 +8955,7 @@
   <block ID="1492">
     <ItemID>14370</ItemID>
     <ItemType>13</ItemType>
-    <Original>Nous en reparlerons plus tard quand c'est plot-significant..</Original>
+    <Original>Nous en reparlerons plus tard quand ce sera moins dégobillo-signifiant.</Original>
     <Translation></Translation>
   </block>
   <block ID="1493">
@@ -8985,7 +8985,7 @@
   <block ID="1497">
     <ItemID>14375</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ahh, eh bien, vous ne pouvez &#234;tre havin 'eux! +</Original>
+    <Original>Ahh, eh bien, vous &#234;tes avec'eux !+</Original>
     <Translation></Translation>
   </block>
   <block ID="1498">
@@ -8997,7 +8997,7 @@
   <block ID="1499">
     <ItemID>14377</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je les donnerai jamais a aucun de vous quat'.</Original>
+    <Original>Je les donnerai jamais &#224; aucun de vous quat'.</Original>
     <Translation></Translation>
   </block>
   <block ID="1500">
@@ -9021,7 +9021,7 @@
   <block ID="1503">
     <ItemID>14381</ItemID>
     <ItemType>13</ItemType>
-    <Original>Remettez-moi les clés, vous n'&#234;tes pas en état &#8203;&#8203;de naviguer.</Original>
+    <Original>Remettez-moi les clés, vous n'&#234;tes pas en état de naviguer.</Original>
     <Translation></Translation>
   </block>
   <block ID="1504">
@@ -9039,7 +9039,7 @@
   <block ID="1506">
     <ItemID>14384</ItemID>
     <ItemType>13</ItemType>
-    <Original>Attaqué par un voyou de mutins trouble.</Original>
+    <Original>Un voyou de mutin flou veut me mettre sur le nez.</Original>
     <Translation></Translation>
   </block>
   <block ID="1507">
@@ -9099,7 +9099,7 @@
   <block ID="1516">
     <ItemID>14394</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'aimerai voir une sélection des vos armes et armures.</Original>
+    <Original>J'aimerai voir une sélection de vos armes et armures.</Original>
     <Translation></Translation>
   </block>
   <block ID="1517">
@@ -9111,7 +9111,7 @@
   <block ID="1518">
     <ItemID>14397</ItemID>
     <ItemType>13</ItemType>
-    <Original>Pourquoi ne vous battez-vous pas &#224; la guerre ?</Original>
+    <Original>Pourquoi ne vous battez-vous pas au front ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1519">
@@ -9141,19 +9141,19 @@
   <block ID="1523">
     <ItemID>14403</ItemID>
     <ItemType>13</ItemType>
-    <Original>Oui+</Original>
+    <Original>Oui, c'est vrai.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1524">
     <ItemID>14404</ItemID>
     <ItemType>13</ItemType>
-    <Original>Les affaires ont été bonne depuis que la guerre a commencé.+</Original>
+    <Original>Les affaires ont été bonnes depuis que la guerre a commencé.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1525">
     <ItemID>14405</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ca semble faire a une éternité.</Original>
+    <Original>Ca semble faire une éternité.</Original>
     <Translation></Translation>
   </block>
   <block ID="1526">
@@ -9165,7 +9165,7 @@
   <block ID="1527">
     <ItemID>14407</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je ne désire pas mourir.+</Original>
+    <Original>Et je ne désire pas mourir.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1528">
@@ -9297,7 +9297,7 @@
   <block ID="1549">
     <ItemID>14429</ItemID>
     <ItemType>13</ItemType>
-    <Original>Salutations, préposé  administratif.</Original>
+    <Original>Salutations, préposée  administratif.</Original>
     <Translation></Translation>
   </block>
   <block ID="1550">
@@ -9309,13 +9309,13 @@
   <block ID="1551">
     <ItemID>14431</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'aimerais voir Wandelranger Wortten.</Original>
+    <Original>J'aimerais voir Wortten Wandelranger.</Original>
     <Translation></Translation>
   </block>
   <block ID="1552">
     <ItemID>14432</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'aimerais prendre rendez-vous pour voir Wandelranger Wortten.</Original>
+    <Original>J'aimerais prendre rendez-vous pour voir Wortten Wandelranger.</Original>
     <Translation></Translation>
   </block>
   <block ID="1553">
@@ -9339,19 +9339,19 @@
   <block ID="1556">
     <ItemID>14436</ItemID>
     <ItemType>13</ItemType>
-    <Original>Wortten est réelle ? Je pensais ce c'était une imposture, comme ce Colonel.</Original>
+    <Original>Wortten est réelle ? Je pensais que c'était une imposture, comme ce Colonel.</Original>
     <Translation></Translation>
   </block>
   <block ID="1557">
     <ItemID>14437</ItemID>
     <ItemType>13</ItemType>
-    <Original>Dites-moi, y at-il beaucoup d'argent &#224; faire en haillons ?</Original>
+    <Original>Dites-moi, comment elle s'est fait beaucoup d'argent avec des haillons ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1558">
     <ItemID>14438</ItemID>
     <ItemType>13</ItemType>
-    <Original>L'angrédient secret, hein ? J'aimerais bien mettre la main dessus.</Original>
+    <Original>Un ingrédient secret, hein ? J'aimerais bien mettre la main dessus.</Original>
     <Translation></Translation>
   </block>
   <block ID="1559">
@@ -9423,19 +9423,19 @@
   <block ID="1570">
     <ItemID>14450</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mme Wandelranger est actuellement occupé et hors de son bureau.+</Original>
+    <Original>Mme Wandelranger est actuellement occupée et hors de son bureau.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1571">
     <ItemID>14451</ItemID>
     <ItemType>13</ItemType>
-    <Original>Probablement en utilisant son incroyable talent culinaire pour supprimer la faim dans le monde.</Original>
+    <Original>Probablement a utiliser son incroyable talent culinaire pour supprimer la faim dans le monde.</Original>
     <Translation></Translation>
   </block>
   <block ID="1572">
     <ItemID>14452</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous &#234;tes certainement venu au bon endroit.</Original>
+    <Original>Vous &#234;tes venu au bon endroit.</Original>
     <Translation></Translation>
   </block>
   <block ID="1573">
@@ -9447,19 +9447,19 @@
   <block ID="1574">
     <ItemID>14454</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mais vous aurez aussi besoin d'avoir un uniforme T.G.I.W...+</Original>
+    <Original>Vous aurez besoin d'avoir un uniforme T.G.I.W...+</Original>
     <Translation></Translation>
   </block>
   <block ID="1575">
     <ItemID>14455</ItemID>
     <ItemType>13</ItemType>
-    <Original>Réussir le test de dépistage...+</Original>
+    <Original>De réussir le test de dépistage...+</Original>
     <Translation></Translation>
   </block>
   <block ID="1576">
     <ItemID>14456</ItemID>
     <ItemType>13</ItemType>
-    <Original>Et chanter la chanson d'anniversaire officielle de T.G.I.W..</Original>
+    <Original>Et de chanter la chanson d'anniversaire officielle de T.G.I.W..</Original>
     <Translation></Translation>
   </block>
   <block ID="1577">
@@ -9477,7 +9477,7 @@
   <block ID="1579">
     <ItemID>14459</ItemID>
     <ItemType>13</ItemType>
-    <Original>O&#249; puis-je obtenir 6 morceaux de talent ?</Original>
+    <Original>Comment puis-je reconnaitre ces 6 morceaux de talent ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1580">
@@ -9531,7 +9531,7 @@
   <block ID="1588">
     <ItemID>14468</ItemID>
     <ItemType>13</ItemType>
-    <Original>C'est un gilet avec un minimum de 6 pi&#232;ces de style.</Original>
+    <Original>C'est un gilet avec un minimum de 6 pi&#232;ces de talent.</Original>
     <Translation></Translation>
   </block>
   <block ID="1589">
@@ -9549,7 +9549,7 @@
   <block ID="1591">
     <ItemID>14471</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je vois. Et le style ?</Original>
+    <Original>Je vois. Et le talent ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1592">
@@ -9561,7 +9561,7 @@
   <block ID="1593">
     <ItemID>14473</ItemID>
     <ItemType>13</ItemType>
-    <Original>Voyons voir, voil&#224;...+</Original>
+    <Original>Voyons voir...+</Original>
     <Translation></Translation>
   </block>
   <block ID="1594">
@@ -9585,13 +9585,13 @@
   <block ID="1597">
     <ItemID>14477</ItemID>
     <ItemType>13</ItemType>
-    <Original>Bien, vous avez la partie droite du gilet, au moins...+</Original>
+    <Original>Et bien, vous avez la partie droite du gilet, au moins...+</Original>
     <Translation></Translation>
   </block>
   <block ID="1598">
     <ItemID>14478</ItemID>
     <ItemType>13</ItemType>
-    <Original>...et votre utilisation flamboyante du style est tr&#232;s agréablement expressif.</Original>
+    <Original>...et votre utilisation flamboyante des bouts de talents est tr&#232;s agréablement expressif.</Original>
     <Translation></Translation>
   </block>
   <block ID="1599">
@@ -9651,13 +9651,13 @@
   <block ID="1608">
     <ItemID>14488</ItemID>
     <ItemType>13</ItemType>
-    <Original>C'est personnel rien, monsieur. Juste la politique de l'entreprise.</Original>
+    <Original>Ce n'est rien de personnel, monsieur. Juste la politique de l'entreprise.</Original>
     <Translation></Translation>
   </block>
   <block ID="1609">
     <ItemID>14489</ItemID>
     <ItemType>13</ItemType>
-    <Original>Tr&#232;s bien. Je devrais réussir votre test de suspicion et de méfiance.</Original>
+    <Original>Tr&#232;s bien. Je vais réussir votre test de suspicion et de méfiance.</Original>
     <Translation></Translation>
   </block>
   <block ID="1610">
@@ -9675,13 +9675,13 @@
   <block ID="1612">
     <ItemID>14493</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sale, peut-&#234;tre. Mais hippie ? Pas dans cette vie, ma soeur.</Original>
+    <Original>Sale, peut-&#234;tre. Mais hippie ? Pas dans cette vie, soeurette.</Original>
     <Translation></Translation>
   </block>
   <block ID="1613">
     <ItemID>14494</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous voulez dire que vous ne le connaissez pas déj&#224; ?</Original>
+    <Original>Vous voulez dire que vous ne la connaissez pas déj&#224; ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1614">
@@ -9699,7 +9699,7 @@
   <block ID="1616">
     <ItemID>14497</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mon anniversaire est uniquement célébré avec mes deux meilleurs amis, Justice et Pourfendre.</Original>
+    <Original>Mon anniversaire est uniquement célébré avec mes deux meilleurs amis, Justice et Pourfendage.</Original>
     <Translation></Translation>
   </block>
   <block ID="1617">
@@ -9747,13 +9747,13 @@
   <block ID="1624">
     <ItemID>14505</ItemID>
     <ItemType>13</ItemType>
-    <Original>Une autre année a passée, espérons que ce n'est pas la derni&#232;re,</Original>
+    <Original>Une autre année s'est écoulée, espérons que ce n'est pas la derni&#232;re,</Original>
     <Translation></Translation>
   </block>
   <block ID="1625">
     <ItemID>14506</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous &#234;tes meilleur chaque année, et c'est trop-de-la-balle,</Original>
+    <Original>Vous &#234;tes plus gros chaque année, et c'est peu de le dire,+</Original>
     <Translation></Translation>
   </block>
   <block ID="1626">
@@ -9837,7 +9837,7 @@
   <block ID="1639">
     <ItemID>14520</ItemID>
     <ItemType>13</ItemType>
-    <Original>Pas assez bon pour T.G.I.W. Je suis désolé.</Original>
+    <Original>C'est pas assez bon pour T.G.I.W. Je suis désolé.</Original>
     <Translation></Translation>
   </block>
   <block ID="1640">
@@ -9873,7 +9873,7 @@
   <block ID="1645">
     <ItemID>14526</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous voulez dire que vous n'avez jamais entendu parler de LA Wandelranger Wortten ?+</Original>
+    <Original>Vous voulez dire que vous n'avez jamais entendu parler de LA Wortten Wandelranger ?+</Original>
     <Translation></Translation>
   </block>
   <block ID="1646">
@@ -9903,7 +9903,7 @@
   <block ID="1650">
     <ItemID>14531</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sautez aux passage o&#249; elle devient riche.</Original>
+    <Original>Sautez au passage o&#249; elle devient riche.</Original>
     <Translation></Translation>
   </block>
   <block ID="1651">
@@ -9951,7 +9951,7 @@
   <block ID="1658">
     <ItemID>14539</ItemID>
     <ItemType>13</ItemType>
-    <Original>Et Terry s'est fait opéré du genou pour une fracture du pied.</Original>
+    <Original>Et Terry s'est fait opérer du genou pour une fracture du pied.</Original>
     <Translation></Translation>
   </block>
   <block ID="1659">
@@ -9993,7 +9993,7 @@
   <block ID="1665">
     <ItemID>14546</ItemID>
     <ItemType>13</ItemType>
-    <Original>On dirait que vous avez tout ce qu'il faut pour devinir un employé de TGIW .+</Original>
+    <Original>On dirait que vous avez tout ce qu'il faut pour devinir un employé de T.G.I.W.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1666">
@@ -10017,7 +10017,7 @@
   <block ID="1669">
     <ItemID>14550</ItemID>
     <ItemType>13</ItemType>
-    <Original>Nous avons besoin de plus de nourriture... et nous ne pouvons le faire qu'avec vous !</Original>
+    <Original>Nous avons besoin de faire plus de nourriture... et nous ne pouvons la faire sans avec vous !</Original>
     <Translation></Translation>
   </block>
   <block ID="1670">
@@ -10047,7 +10047,7 @@
   <block ID="1674">
     <ItemID>14555</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je vous demande maintenant, a quel point mon nez est parfait ?</Original>
+    <Original>Je vous demande maintenant, &#224; quel point mon nez est-il parfait ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1675">
@@ -10353,7 +10353,7 @@
   <block ID="1725">
     <ItemID>14606</ItemID>
     <ItemType>13</ItemType>
-    <Original>Prouvez votre valeur ou je vous ferai voir.</Original>
+    <Original>Prouvez votre valeur ou je vous verrez.</Original>
     <Translation></Translation>
   </block>
   <block ID="1726">
@@ -10533,7 +10533,7 @@
   <block ID="1755">
     <ItemID>14636</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ce qui fait fleurir les fleurs et chanter les oiseaux.</Original>
+    <Original>Celle qui fait fleurir les fleurs et chanter les oiseaux.</Original>
     <Translation></Translation>
   </block>
   <block ID="1756">
@@ -10545,7 +10545,7 @@
   <block ID="1757">
     <ItemID>14638</ItemID>
     <ItemType>13</ItemType>
-    <Original>Bien évidemment, c'est le son de sucre tombant sur le sirop de ma&#239;s.</Original>
+    <Original>Bien évidemment, c'est le son du sucre tombant sur le sirop de ma&#239;s.</Original>
     <Translation></Translation>
   </block>
   <block ID="1758">
@@ -10593,7 +10593,7 @@
   <block ID="1765">
     <ItemID>14646</ItemID>
     <ItemType>13</ItemType>
-    <Original>Des statues plus grande que vous ne l'avez jamais été ma ch&#232;re.</Original>
+    <Original>J'ai vu statues plus grande que vous ne l'avez jamais été ma ch&#232;re.</Original>
     <Translation></Translation>
   </block>
   <block ID="1766">
@@ -10713,7 +10713,7 @@
   <block ID="1785">
     <ItemID>14667</ItemID>
     <ItemType>13</ItemType>
-    <Original>Me dites pas, je l'ai sur le bout de la langue.</Original>
+    <Original>Me-me-me dites rien, je l'ai sur le bout de la langue.</Original>
     <Translation></Translation>
   </block>
   <block ID="1786">
@@ -10929,7 +10929,7 @@
   <block ID="1821">
     <ItemID>14705</ItemID>
     <ItemType>13</ItemType>
-    <Original>Jalapeno Poppers sont les gens !</Original>
+    <Original>Les Jalapeno Poppers sont des gens !</Original>
     <Translation></Translation>
   </block>
   <block ID="1822">
@@ -10947,7 +10947,7 @@
   <block ID="1824">
     <ItemID>14708</ItemID>
     <ItemType>13</ItemType>
-    <Original>Donc, vous avez voulu nourrir les gens ?</Original>
+    <Original>Donc, vous avez voulu nourrir ces gens ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1825">
@@ -10971,7 +10971,7 @@
   <block ID="1828">
     <ItemID>14712</ItemID>
     <ItemType>13</ItemType>
-    <Original>Pourquoi cette bestiole est l&#224; ?</Original>
+    <Original>Pourquoi ces guignols sont l&#224; ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1829">
@@ -10989,13 +10989,13 @@
   <block ID="1831">
     <ItemID>14715</ItemID>
     <ItemType>13</ItemType>
-    <Original>Que diriez-vous d'une autre slogan ?</Original>
+    <Original>Dîtes-moi un autre slogan ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1832">
     <ItemID>14716</ItemID>
     <ItemType>13</ItemType>
-    <Original>D'accord, voil&#224; autre un slogan.</Original>
+    <Original>D'accord, encore un autre.</Original>
     <Translation></Translation>
   </block>
   <block ID="1833">
@@ -11019,7 +11019,7 @@
   <block ID="1836">
     <ItemID>14720</ItemID>
     <ItemType>13</ItemType>
-    <Original>...ou comme "J'aimerai faire rôtir vos abattis et vous servir avec des brocoli".</Original>
+    <Original>...ou comme "J'aimerai faire rôtir vos abattis et vous servir avec des brocolis".</Original>
     <Translation></Translation>
   </block>
   <block ID="1837">
@@ -11121,7 +11121,7 @@
   <block ID="1853">
     <ItemID>14737</ItemID>
     <ItemType>13</ItemType>
-    <Original>Oh, voyons, c'est évident maintenant ?+</Original>
+    <Original>Oh, voyons, c'est évident maintenant, non ?+</Original>
     <Translation></Translation>
   </block>
   <block ID="1854">
@@ -11133,7 +11133,7 @@
   <block ID="1855">
     <ItemID>14739</ItemID>
     <ItemType>13</ItemType>
-    <Original>Moi parlant de délicieuse personnes...+</Original>
+    <Original>Moi parlant de délicieuses personnes...+</Original>
     <Translation></Translation>
   </block>
   <block ID="1856">
@@ -11151,7 +11151,7 @@
   <block ID="1858">
     <ItemID>14742</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je ne vois pas ou vous voulez en venir.</Original>
+    <Original>Je ne vois pas o&#249; vous voulez en venir.</Original>
     <Translation></Translation>
   </block>
   <block ID="1859">
@@ -11163,19 +11163,19 @@
   <block ID="1860">
     <ItemID>14744</ItemID>
     <ItemType>13</ItemType>
-    <Original>En fait, le Jalapeno Poppers n'est que du fromage frit avec arômes artificiels.</Original>
+    <Original>En fait, le Jalapeno Poppers n'est que du fromage frit avec des arômes artificiels.</Original>
     <Translation></Translation>
   </block>
   <block ID="1861">
     <ItemID>14745</ItemID>
     <ItemType>13</ItemType>
-    <Original>De l'arôme artificiel ! Vous me dégoutez !</Original>
+    <Original>Des arômes artificiels ! Vous me dégoutez !</Original>
     <Translation></Translation>
   </block>
   <block ID="1862">
     <ItemID>14746</ItemID>
     <ItemType>13</ItemType>
-    <Original>C'est pas ce que je viens de dire ?</Original>
+    <Original>C'est pas ce que je dis depuis tout &#224; l'heure ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1863">
@@ -11187,13 +11187,13 @@
   <block ID="1864">
     <ItemID>14748</ItemID>
     <ItemType>13</ItemType>
-    <Original>Avant que je ne vous désosse, je dois vérifier si botre b&#234;tise n'est pas contagieuse.</Original>
+    <Original>Avant que je ne vous désosse, je dois vérifier si votre b&#234;tise n'est pas contagieuse.</Original>
     <Translation></Translation>
   </block>
   <block ID="1865">
     <ItemID>14749</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ah, vous avez remarqué mon String de Popote.+</Original>
+    <Original>Ah, vous avez remarqué mon String de Cuisine.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1866">
@@ -11205,25 +11205,25 @@
   <block ID="1867">
     <ItemID>14751</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je voulais nourrir le monde, que personne ne souffrent plus de la faim.</Original>
+    <Original>Je voulais nourrir le monde, que personnes ne souffrent plus de la faim.</Original>
     <Translation></Translation>
   </block>
   <block ID="1868">
     <ItemID>14752</ItemID>
     <ItemType>13</ItemType>
-    <Original>Pas uniquement mon peuple... Tous les peuples.+</Original>
+    <Original>Pas uniquement ces gens... Tous les gens.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1869">
     <ItemID>14753</ItemID>
     <ItemType>13</ItemType>
-    <Original>Quand j'ai mis ce String, tout a changé. Tout prenez place.+</Original>
+    <Original>Quand j'ai mis ce String, tout a changé. Tout a pris place.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1870">
     <ItemID>14754</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je trouvai mon ingrédient spécial, il me restait plus qu'a mettre fin &#224; la famine.</Original>
+    <Original>J'y ai trouvé mon ingrédient spécial, il me restait plus qu'a mettre fin &#224; la famine.</Original>
     <Translation></Translation>
   </block>
   <block ID="1871">
@@ -11235,7 +11235,7 @@
   <block ID="1872">
     <ItemID>14756</ItemID>
     <ItemType>13</ItemType>
-    <Original>Certains mangent et d'autres meurent. L'un dans l'autren les deux n'ont plus faim !+</Original>
+    <Original>Certains mangent et d'autres meurent. L'un dans l'autre les deux n'ont plus faim !+</Original>
     <Translation></Translation>
   </block>
   <block ID="1873">
@@ -11253,7 +11253,7 @@
   <block ID="1875">
     <ItemID>14759</ItemID>
     <ItemType>13</ItemType>
-    <Original>Et je sais que je dois les tous tuer afin de prendre possession de leurs Strings.+</Original>
+    <Original>Et je sais que je dois tous les tuer afin de prendre possession de leurs Strings.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1876">
@@ -11313,7 +11313,7 @@
   <block ID="1885">
     <ItemID>14769</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ils vont tout simplement déguster nos plats &#224; la fin et déterminer qui est le gagnant.+</Original>
+    <Original>Ils vont tout simplement déguster nos plats et &#224; la fin, déterminer qui est le gagnant.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1886">
@@ -11421,7 +11421,7 @@
   <block ID="1903">
     <ItemID>14787</ItemID>
     <ItemType>13</ItemType>
-    <Original>Dites &#224; votre sous-chef les ingrédients &#224; ajouter.+</Original>
+    <Original>Dites &#224; votre sous-chef les ingrédients &#224; utiliser.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1904">
@@ -11463,7 +11463,7 @@
   <block ID="1910">
     <ItemID>14794</ItemID>
     <ItemType>13</ItemType>
-    <Original>Et les clés de salle de bains sont suspendus aux crochets &#224; gauche de l'entrée principale...+</Original>
+    <Original>Et les clés de la salle de bains sont suspendus aux crochets &#224; gauche de l'entrée principale...+</Original>
     <Translation></Translation>
   </block>
   <block ID="1911">
@@ -11475,7 +11475,7 @@
   <block ID="1912">
     <ItemID>14796</ItemID>
     <ItemType>13</ItemType>
-    <Original>Maintenant, pour la derni&#232;re partie de votre orientation, venez ici avec moi, je vais vous donner une leçon de d'attendrissement de la viande.+</Original>
+    <Original>Maintenant, pour la derni&#232;re partie de votre orientation, entrez ici avec moi, je vais vous donner une leçon d'attendrissement de la viande.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1913">
@@ -11487,7 +11487,7 @@
   <block ID="1914">
     <ItemID>14805</ItemID>
     <ItemType>13</ItemType>
-    <Original>Salutations, rondouillard rubicond des F&#234;tes .</Original>
+    <Original>Salutations, rondouillard rubicond des F&#234;tes.</Original>
     <Translation></Translation>
   </block>
   <block ID="1915">
@@ -11535,7 +11535,7 @@
   <block ID="1922">
     <ItemID>14813</ItemID>
     <ItemType>13</ItemType>
-    <Original>Alors, quelle est, dans ce donjon sans issue de toute façon ?</Original>
+    <Original>Alors qu'est-ce qu'on trouve dans ce donjon sans issue ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1923">
@@ -11637,7 +11637,7 @@
   <block ID="1939">
     <ItemID>14830</ItemID>
     <ItemType>13</ItemType>
-    <Original>Personne ne fait la liste des Gentils ! Personne !</Original>
+    <Original>Personne ne peut &#234;tre sur la liste des Gentils ! Personne !</Original>
     <Translation></Translation>
   </block>
   <block ID="1940">
@@ -11673,19 +11673,19 @@
   <block ID="1945">
     <ItemID>14836</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je n'arrive pas &#224; vous dire &#224; qeul point je suis déçu.</Original>
+    <Original>Je n'arrive pas &#224; vous dire &#224; quel point je suis déçu.</Original>
     <Translation></Translation>
   </block>
   <block ID="1946">
     <ItemID>14837</ItemID>
     <ItemType>13</ItemType>
-    <Original>...mais je ne peux les jeter dans Le Donjon Sans Issue !</Original>
+    <Original>...mais je ne peux le jeter dans Le Donjon Sans Issue !</Original>
     <Translation></Translation>
   </block>
   <block ID="1947">
     <ItemID>14838</ItemID>
     <ItemType>13</ItemType>
-    <Original>N'est ce pas évident ?</Original>
+    <Original>N'est-ce pas évident ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1948">
@@ -11721,7 +11721,7 @@
   <block ID="1953">
     <ItemID>14844</ItemID>
     <ItemType>13</ItemType>
-    <Original>Oui, ça je le comprends bien, mais y a t-il une sortie ?</Original>
+    <Original>Oui, ça je le comprends bien, mais o&#249; est la sortie ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1954">
@@ -11781,7 +11781,7 @@
   <block ID="1963">
     <ItemID>14856</ItemID>
     <ItemType>13</ItemType>
-    <Original>Qu'est-ce que vous racontez ?</Original>
+    <Original>De quoi vous parlez ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1964">
@@ -11793,7 +11793,7 @@
   <block ID="1965">
     <ItemID>14858</ItemID>
     <ItemType>13</ItemType>
-    <Original>You've really put on the pounds.</Original>
+    <Original>Vous avez pris une sacrée surcharge pondérale.</Original>
     <Translation></Translation>
   </block>
   <block ID="1966">
@@ -11841,7 +11841,7 @@
   <block ID="1973">
     <ItemID>14866</ItemID>
     <ItemType>13</ItemType>
-    <Original>Il n'est plus aimé autant que ce qu'il l''était.+</Original>
+    <Original>Il n'est plus aimé autant que ce qu'il était.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1974">
@@ -11853,7 +11853,7 @@
   <block ID="1975">
     <ItemID>14868</ItemID>
     <ItemType>13</ItemType>
-    <Original>Les enfants attendaient toute l'année pour lui.+</Original>
+    <Original>Les enfants l'attendaient toute l'année.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1976">
@@ -11895,7 +11895,7 @@
   <block ID="1982">
     <ItemID>14875</ItemID>
     <ItemType>13</ItemType>
-    <Original>La saint Steve ?</Original>
+    <Original>La Saint Steve ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1983">
@@ -11937,7 +11937,7 @@
   <block ID="1989">
     <ItemID>14882</ItemID>
     <ItemType>13</ItemType>
-    <Original>C'est la guerre dehors ! Je vais montrer au monde le véritable esprit de Noël !</Original>
+    <Original>C'est la guerre &#224; l'extérieur ! Je vais montrer au monde le véritable esprit de Noël !</Original>
     <Translation></Translation>
   </block>
   <block ID="1990">
@@ -11979,7 +11979,7 @@
   <block ID="1996">
     <ItemID>14889</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sa puissance m'aide va m'aider &#224; restaurer le véritable esprit Noël.+</Original>
+    <Original>Sa puissance va m'aider &#224; restaurer le véritable esprit Noël.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1997">
@@ -12051,7 +12051,7 @@
   <block ID="2008">
     <ItemID>14901</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je connais la position de tout String... sauf un.</Original>
+    <Original>Je connais la position de tout les Strings... sauf un.</Original>
     <Translation></Translation>
   </block>
   <block ID="2009">
@@ -12231,13 +12231,13 @@
   <block ID="2038">
     <ItemID>14931</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mais le rennes c'est le top.</Original>
+    <Original>Mais le renne c'est le top.</Original>
     <Translation></Translation>
   </block>
   <block ID="2039">
     <ItemID>14932</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ne me mentez pas !+</Original>
+    <Original>Ne mentez pas !+</Original>
     <Translation></Translation>
   </block>
   <block ID="2040">
@@ -12477,7 +12477,7 @@
   <block ID="2079">
     <ItemID>14972</ItemID>
     <ItemType>13</ItemType>
-    <Original>Bien, je vais demander encore un fois.</Original>
+    <Original>Bien, je vais demander encore une fois.</Original>
     <Translation></Translation>
   </block>
   <block ID="2080">
@@ -12543,7 +12543,7 @@
   <block ID="2090">
     <ItemID>14983</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je suis désolé, mais elle est over-booker pour les cinq prochaines années.</Original>
+    <Original>Je suis désolé, mais elle est over-bookée pour les cinq prochaines années.</Original>
     <Translation></Translation>
   </block>
   <block ID="2091">
@@ -12639,7 +12639,7 @@
   <block ID="2106">
     <ItemID>14999</ItemID>
     <ItemType>13</ItemType>
-    <Original>Considérant qu'en effet, c'est une journée tr&#232;s chaude et tout toutim.</Original>
+    <Original>Considérant qu'en effet, c'est une journée tr&#232;s chaude et tout le toutim.</Original>
     <Translation></Translation>
   </block>
   <block ID="2107">
@@ -12747,7 +12747,7 @@
   <block ID="2124">
     <ItemID>15017</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous commencez &#224; &#202;TRE quelque peu agressif.</Original>
+    <Original>Vous commencez &#224; &#202;TRE quelque peu irritant.</Original>
     <Translation></Translation>
   </block>
   <block ID="2125">
@@ -12765,19 +12765,19 @@
   <block ID="2127">
     <ItemID>15020</ItemID>
     <ItemType>13</ItemType>
-    <Original>Pas du tout !</Original>
+    <Original>Il en est hors de question !</Original>
     <Translation></Translation>
   </block>
   <block ID="2128">
     <ItemID>15021</ItemID>
     <ItemType>13</ItemType>
-    <Original>Tout le monde saura ce que nous fait, si nous nous promenons ici tout humide de trempage.</Original>
+    <Original>Tout le monde saura ce que nous avons fait, si nous nous promenons ici tout humide.</Original>
     <Translation></Translation>
   </block>
   <block ID="2129">
     <ItemID>15022</ItemID>
     <ItemType>13</ItemType>
-    <Original>Elles mettent une éternité &#224; sécher, vous voyez.</Original>
+    <Original>Nos aubes mettent une éternité &#224; sécher, vous voyez.</Original>
     <Translation></Translation>
   </block>
   <block ID="2130">
@@ -12795,7 +12795,7 @@
   <block ID="2132">
     <ItemID>15025</ItemID>
     <ItemType>13</ItemType>
-    <Original>Lucy était une déesse tellement généreuse qu'elle donnait tout ce qu'elle possédait &#224; toute personne qui lui demandé...+</Original>
+    <Original>Lucy était une déesse tellement généreuse qu'elle donnait tout ce qu'elle possédait &#224; toute personne qui lui demandait...+</Original>
     <Translation></Translation>
   </block>
   <block ID="2133">
@@ -12819,7 +12819,7 @@
   <block ID="2136">
     <ItemID>15029</ItemID>
     <ItemType>13</ItemType>
-    <Original>... et les gens des autres villages ont commencés &#224; se rendre &#224; chez elle pour demander des trucs.+</Original>
+    <Original>... et les gens des autres villages ont commencés &#224; se rendre chez elle pour demander des trucs.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2137">
@@ -12909,7 +12909,7 @@
   <block ID="2151">
     <ItemID>15044</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ils faisaient froid, alors ils lui ont fait aprt de leur souhait de déplacer plus pr&#232;s la Terre du soleil.+</Original>
+    <Original>Ils faisaient froid, alors ils lui ont fait part de leur souhait de déplacer plus pr&#232;s la Terre du soleil.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2152">
@@ -12921,7 +12921,7 @@
   <block ID="2153">
     <ItemID>15046</ItemID>
     <ItemType>13</ItemType>
-    <Original>Comme il fallait s'y attendre, la Terre était plus lourde que tout ce qu'Albert avait pu soulevé auparavant...+</Original>
+    <Original>Comme il fallait s'y attendre, la Terre était plus lourde que tout ce qu'Albert avait pu soulever auparavant...+</Original>
     <Translation></Translation>
   </block>
   <block ID="2154">
@@ -12951,7 +12951,7 @@
   <block ID="2158">
     <ItemID>15051</ItemID>
     <ItemType>13</ItemType>
-    <Original>Walter a toujours su exactement ce qui allait arriver pour chaque homme, femme et enfant...+</Original>
+    <Original>Walter a toujours su exactement ce qui allait arriver pour chaques hommes, femmes et enfants...+</Original>
     <Translation></Translation>
   </block>
   <block ID="2159">
@@ -13029,7 +13029,7 @@
   <block ID="2171">
     <ItemID>15064</ItemID>
     <ItemType>13</ItemType>
-    <Original>Susan avait la plus douce et le plus belle voix de toute la création.+</Original>
+    <Original>Susan avait la plus douce et la plus belle voix de toute la création.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2172">
@@ -13119,7 +13119,7 @@
   <block ID="2186">
     <ItemID>15079</ItemID>
     <ItemType>13</ItemType>
-    <Original>... et chaque homme et femme sur Terre se délectait dans son charme magnétique.+</Original>
+    <Original>... et chaques hommes et femmes sur Terre se délectaient de son charme magnétique.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2187">
@@ -13371,7 +13371,7 @@
   <block ID="2228">
     <ItemID>15202</ItemID>
     <ItemType>13</ItemType>
-    <Original>Elle est encastrée dans une sorte de bouclier protecteur.</Original>
+    <Original>Elle est dans une sorte de bouclier protecteur.</Original>
     <Translation></Translation>
   </block>
   <block ID="2229">
@@ -13449,7 +13449,7 @@
   <block ID="2241">
     <ItemID>15245</ItemID>
     <ItemType>13</ItemType>
-    <Original>Voyons voir ces aliments pour lesquells vous &#234;tes cél&#232;bre, vendeur anonyme.</Original>
+    <Original>Voyons voir ces aliments pour lesquels vous &#234;tes cél&#232;bre, vendeur anonyme.</Original>
     <Translation></Translation>
   </block>
   <block ID="2242">
@@ -13785,7 +13785,7 @@
   <block ID="2297">
     <ItemID>15354</ItemID>
     <ItemType>13</ItemType>
-    <Original>Derek Oil a une strie moyenne sur une furlong métrique de large.</Original>
+    <Original>Derek Oil a une scie d'une furlong de large.</Original>
     <Translation></Translation>
   </block>
   <block ID="2298">
@@ -13797,7 +13797,7 @@
   <block ID="2299">
     <ItemID>15356</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai trouvé vos billion de dollars, banquier névrosé.</Original>
+    <Original>J'ai trouvé vos milliards de dollars, banquier névrosé.</Original>
     <Translation></Translation>
   </block>
   <block ID="2300">
@@ -13971,7 +13971,7 @@
   <block ID="2328">
     <ItemID>15385</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous &#234;tes s&#251;r de ne pas vouloir retourner aupr&#232;s de votre femme?+</Original>
+    <Original>Vous &#234;tes s&#251;r de ne pas vouloir retourner aupr&#232;s de votre femme ?+</Original>
     <Translation></Translation>
   </block>
   <block ID="2329">
@@ -14181,7 +14181,7 @@
   <block ID="2363">
     <ItemID>15421</ItemID>
     <ItemType>13</ItemType>
-    <Original>Oh, le conducteur encore besoin d'aide.+</Original>
+    <Original>Oh, le conducteur a encore besoin d'aide.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2364">
@@ -14223,7 +14223,7 @@
   <block ID="2370">
     <ItemID>15428</ItemID>
     <ItemType>13</ItemType>
-    <Original>Écoutez, le gang des Banditos Renégat Rouge a pris mes précieux bijoux.</Original>
+    <Original>Écoutez, le gang des Banditos Renégats Rouges a pris mes précieux bijoux.</Original>
     <Translation></Translation>
   </block>
   <block ID="2371">
@@ -14235,19 +14235,19 @@
   <block ID="2372">
     <ItemID>15430</ItemID>
     <ItemType>13</ItemType>
-    <Original>C'est pourquoi, je ferais n'importe quoi pour retrouver mes bijoux.</Original>
+    <Original>Je ferais n'importe quoi pour retrouver mes bijoux.</Original>
     <Translation></Translation>
   </block>
   <block ID="2373">
     <ItemID>15431</ItemID>
     <ItemType>13</ItemType>
-    <Original>Quelque chose ?</Original>
+    <Original>N'importe quoi ?</Original>
     <Translation></Translation>
   </block>
   <block ID="2374">
     <ItemID>15432</ItemID>
     <ItemType>13</ItemType>
-    <Original>Non, pas vraiment.</Original>
+    <Original>Non, j'ai mes limites.</Original>
     <Translation></Translation>
   </block>
   <block ID="2375">
@@ -14307,13 +14307,13 @@
   <block ID="2384">
     <ItemID>15442</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai l'habitude d'attendre le film.</Original>
+    <Original>J'ai plutôt l'habitude d'attendre les films.</Original>
     <Translation></Translation>
   </block>
   <block ID="2385">
     <ItemID>15443</ItemID>
     <ItemType>13</ItemType>
-    <Original>La bande des Banditos du Bassin Bleu ont prisquelque chose que je DOIS récupéré tr&#232;s vite.</Original>
+    <Original>La bande des Banditos du Bassin Bleu ont pris quelque chose que je DOIS récupéré tr&#232;s vite.</Original>
     <Translation></Translation>
   </block>
   <block ID="2386">
@@ -14343,7 +14343,7 @@
   <block ID="2390">
     <ItemID>15448</ItemID>
     <ItemType>13</ItemType>
-    <Original>Il suffit de ne pas laisser l'un des autres héros en savoir plus sur ce sujet.</Original>
+    <Original>N'en dîtes pas plus. Faudrait pas qu'un héros en sache trop sur ce sujet.</Original>
     <Translation></Translation>
   </block>
   <block ID="2391">
@@ -14367,7 +14367,7 @@
   <block ID="2394">
     <ItemID>15452</ItemID>
     <ItemType>13</ItemType>
-    <Original>Eh bien, j'aimerai vous dire+</Original>
+    <Original>Eh bien, j'aimerais vous dire+</Original>
     <Translation></Translation>
   </block>
   <block ID="2395">
@@ -14475,7 +14475,7 @@
   <block ID="2412">
     <ItemID>15473</ItemID>
     <ItemType>13</ItemType>
-    <Original>Une simple poignée de main suffira.</Original>
+    <Original>Bon une simple poignée de main suffira alors.</Original>
     <Translation></Translation>
   </block>
   <block ID="2413">
@@ -14565,7 +14565,7 @@
   <block ID="2427">
     <ItemID>15494</ItemID>
     <ItemType>13</ItemType>
-    <Original>Qu'est-ce que VOUS croyez que je fais ici ?</Original>
+    <Original>Qu'est-ce que VOUS croyez qu'il se trame dans le coin ?</Original>
     <Translation></Translation>
   </block>
   <block ID="2428">
@@ -14583,7 +14583,7 @@
   <block ID="2430">
     <ItemID>15497</ItemID>
     <ItemType>13</ItemType>
-    <Original>Quel est votre plat  favori au T.G.I.Wortten ?</Original>
+    <Original>Quel est votre plat favori au T.G.I.Wortten ?</Original>
     <Translation></Translation>
   </block>
   <block ID="2431">
@@ -14631,7 +14631,7 @@
   <block ID="2438">
     <ItemID>15505</ItemID>
     <ItemType>13</ItemType>
-    <Original>Shérif a le pressentiment d'un lien avec l'usine et il m'a envoyé pour enqu&#234;ter.+</Original>
+    <Original>Le Shérif a le pressentiment d'un lien avec l'usine et il m'a envoyé pour enqu&#234;ter.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2439">
@@ -14655,7 +14655,7 @@
   <block ID="2442">
     <ItemID>15509</ItemID>
     <ItemType>13</ItemType>
-    <Original>Dites rien.</Original>
+    <Original>M'en parlez pas.</Original>
     <Translation></Translation>
   </block>
   <block ID="2443">
@@ -14685,31 +14685,31 @@
   <block ID="2447">
     <ItemID>15514</ItemID>
     <ItemType>13</ItemType>
-    <Original>Bien, laissez-moi voir... le Shérif va me réembauché quand...+</Original>
+    <Original>Eh Bien, laissez-moi voir... le Shérif m'a réembauché quand...+</Original>
     <Translation></Translation>
   </block>
   <block ID="2448">
     <ItemID>15515</ItemID>
     <ItemType>13</ItemType>
-    <Original>...il y avait...+</Original>
+    <Original>...il ça faisait...+</Original>
     <Translation></Translation>
   </block>
   <block ID="2449">
     <ItemID>15516</ItemID>
     <ItemType>13</ItemType>
-    <Original>... et réaliser les quatre ... +</Original>
+    <Original>... et facilement plus de quatre... +</Original>
     <Translation></Translation>
   </block>
   <block ID="2450">
     <ItemID>15517</ItemID>
     <ItemType>13</ItemType>
-    <Original>... six de huit ... +</Original>
+    <Original>...avec le cinq &#224; sept... +</Original>
     <Translation></Translation>
   </block>
   <block ID="2451">
     <ItemID>15518</ItemID>
     <ItemType>13</ItemType>
-    <Original>... le double de la niner ... +</Original>
+    <Original>...plus l'âge du capitaine... +</Original>
     <Translation></Translation>
   </block>
   <block ID="2452">
@@ -14787,7 +14787,7 @@
   <block ID="2464">
     <ItemID>15531</ItemID>
     <ItemType>13</ItemType>
-    <Original>Salutations, personne rustique mais néanmoins riche d'apparence.</Original>
+    <Original>Salutations, personne riche mais néanmoins rustique d'apparence.</Original>
     <Translation></Translation>
   </block>
   <block ID="2465">
@@ -14853,7 +14853,7 @@
   <block ID="2475">
     <ItemID>15542</ItemID>
     <ItemType>13</ItemType>
-    <Original>Payée grâce au succ&#232;s incroyable de mon entreprise de derrick pétrolif&#232;re.+</Original>
+    <Original>Payée grâce au succ&#232;s incroyable de mon entreprise de derricks pétrolif&#232;res.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2476">
@@ -14883,7 +14883,7 @@
   <block ID="2480">
     <ItemID>15547</ItemID>
     <ItemType>13</ItemType>
-    <Original>Cela me paraît trop dangereux pour un homme de votre patrimoine, sa stature et sa fragilité. +</Original>
+    <Original>Cela me paraît trop dangereux pour un homme de votre richesse, stature et fragilité. +</Original>
     <Translation></Translation>
   </block>
   <block ID="2481">
@@ -14943,7 +14943,7 @@
   <block ID="2490">
     <ItemID>15557</ItemID>
     <ItemType>13</ItemType>
-    <Original>Super. Et pendant que vous y &#234;tes, vous devriez tuer ces agaçants  Bibenduile.+</Original>
+    <Original>Super. Et pendant que vous y &#234;tes, vous devriez tuer ces agaçants  Pétro'Glaires.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2491">
@@ -14955,13 +14955,13 @@
   <block ID="2492">
     <ItemID>15559</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ne craignez rien, car je ferais tomber la justice sur ces Bibenduiles délinquants.</Original>
+    <Original>Ne craignez rien, car je ferais tomber la justice sur ces Pétro'Glaires délinquants.</Original>
     <Translation></Translation>
   </block>
   <block ID="2493">
     <ItemID>15560</ItemID>
     <ItemType>13</ItemType>
-    <Original>Et n'oubliez pas de m'apporter les bouts de Bibenduile qui colle au sol une fois que vous les avez tués.</Original>
+    <Original>Et n'oubliez pas de m'apporter les bouts de Pétro'Glaires qui colle au sol une fois que vous les avez tués.</Original>
     <Translation></Translation>
   </block>
   <block ID="2494">
@@ -14979,7 +14979,7 @@
   <block ID="2496">
     <ItemID>15563</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai des morceaux de Bibenduile pour vous.</Original>
+    <Original>J'ai des morceaux de Pétro'Glaires pour vous.</Original>
     <Translation></Translation>
   </block>
   <block ID="2497">
@@ -14997,13 +14997,13 @@
   <block ID="2499">
     <ItemID>15566</ItemID>
     <ItemType>13</ItemType>
-    <Original>C'est plus facile &#224; dire qu'a faire.</Original>
+    <Original>C'est plus facile &#224; dire qu'&#224; faire.</Original>
     <Translation></Translation>
   </block>
   <block ID="2500">
     <ItemID>15567</ItemID>
     <ItemType>13</ItemType>
-    <Original>Maintenant, il suffit de finir de tuer ces Bibenduile, et rapportez-moi leurs bits.</Original>
+    <Original>Maintenant, il suffit de finir de tuer ces Pétro'Glaires, et rapportez-moi leurs bits.</Original>
     <Translation></Translation>
   </block>
   <block ID="2501">
@@ -15021,13 +15021,13 @@
   <block ID="2503">
     <ItemID>15570</ItemID>
     <ItemType>13</ItemType>
-    <Original>Désormais, nous devons nous assurer que ces Bibenduile ne reviennent plus.+</Original>
+    <Original>Désormais, nous devons nous assurer que ces Pétro'Glaires ne reviennent plus.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2504">
     <ItemID>15571</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai donc besoin que vous tuiez la Grosse Dondon Bibenduile et que vous me rapportiez sa t&#234;te.</Original>
+    <Original>J'ai donc besoin que vous tuiez la Grosse Dondon Pétro'Glaires et que vous me rapportiez sa t&#234;te.</Original>
     <Translation></Translation>
   </block>
   <block ID="2505">
@@ -15051,7 +15051,7 @@
   <block ID="2508">
     <ItemID>15575</ItemID>
     <ItemType>13</ItemType>
-    <Original>Et quand la Grosse Dondon Bibenduile se montrera...</Original>
+    <Original>Et quand la Grosse Dondon Pétro'Glaire se montrera...</Original>
     <Translation></Translation>
   </block>
   <block ID="2509">
@@ -15063,7 +15063,7 @@
   <block ID="2510">
     <ItemID>15577</ItemID>
     <ItemType>13</ItemType>
-    <Original>Voici la t&#234;te de la Grosse Dondon Bibenduile.</Original>
+    <Original>Voici la t&#234;te de la Grosse Dondon Pétro'Glaire.</Original>
     <Translation></Translation>
   </block>
   <block ID="2511">
@@ -15117,7 +15117,7 @@
   <block ID="2519">
     <ItemID>15586</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai un autre magazine pour vous de cabine Rich.</Original>
+    <Original>J'ai un autre magazine pour vous de Rich Cabin.</Original>
     <Translation></Translation>
   </block>
   <block ID="2520">
@@ -15141,7 +15141,7 @@
   <block ID="2523">
     <ItemID>15590</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai encore un autre magazine pour vous de cabine Rich.</Original>
+    <Original>J'ai encore un autre magazine pour vous de Rich Cabin.</Original>
     <Translation></Translation>
   </block>
   <block ID="2524">
@@ -15171,13 +15171,13 @@
   <block ID="2528">
     <ItemID>15595</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mon garçon, nous les riches reçevons beaucoup d'abonnements de revues.+</Original>
+    <Original>Mon garçon, nous les riches reçevons beaucoup d'abonnements &#224; diverses revues.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2529">
     <ItemID>15596</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mais il est temps d'en finir une bonne fois pour toutes.+</Original>
+    <Original>Mais il est temps d'en finir une bonne fois pour toute.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2530">
@@ -15207,7 +15207,7 @@
   <block ID="2534">
     <ItemID>15602</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je n'ai pas tué les Bibenduiles pour leurs morceaux pour le moment.</Original>
+    <Original>Je n'ai pas tué les Pétro'Glaires pour leurs morceaux pour le moment.</Original>
     <Translation></Translation>
   </block>
   <block ID="2535">
@@ -15327,7 +15327,7 @@
   <block ID="2554">
     <ItemID>15628</ItemID>
     <ItemType>13</ItemType>
-    <Original>Maintenant, la seule façon de sortir de cette situation est de prendre  SOIGNEUSEMENT cette nitroglycérine dans ma cabine et l'emmener jusqu'&#224; l'éboulement.</Original>
+    <Original>Maintenant, la seule façon de sortir de cette situation est de prendre  SOIGNEUSEMENT cette nitroglycérine et l'emmener jusqu'&#224; l'éboulement.</Original>
     <Translation></Translation>
   </block>
   <block ID="2555">
@@ -15435,7 +15435,7 @@
   <block ID="2572">
     <ItemID>15646</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous pourriez transporter cet acide tr&#232;s corrosif dans ma cabine jusqu'a notre probl&#232;me.</Original>
+    <Original>Vous pourriez transporter cet acide tr&#232;s corrosif de mon poste jusqu'a notre probl&#232;me.</Original>
     <Translation></Translation>
   </block>
   <block ID="2573">
@@ -15447,7 +15447,7 @@
   <block ID="2574">
     <ItemID>15648</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mais faites vite. Si vous tenez &#224; ce trop long, vous mourez plus rapidement qu'il ne faut pour le dire.</Original>
+    <Original>Mais faites vite. Si vous la tenez trop longtemps, vous mourez plus vite qu'il ne faut pour le dire.</Original>
     <Translation></Translation>
   </block>
   <block ID="2575">
@@ -15513,25 +15513,25 @@
   <block ID="2585">
     <ItemID>15659</ItemID>
     <ItemType>13</ItemType>
-    <Original>Hmm... pour passer &#224; travers cette montagne, je dois d'abord penser comme une montagne.+</Original>
+    <Original>Hmm... Pour passer &#224; travers cette montagne, je dois d'abord penser comme une montagne.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2586">
     <ItemID>15660</ItemID>
     <ItemType>13</ItemType>
-    <Original>Nous devons tirer des leçons de cette montagne.+</Original>
+    <Original>Nous devons penser comme cette montagne.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2587">
     <ItemID>15661</ItemID>
     <ItemType>13</ItemType>
-    <Original>Tirer des leçons de cette montagne.+</Original>
+    <Original>Penser comme cette montagne.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2588">
     <ItemID>15662</ItemID>
     <ItemType>13</ItemType>
-    <Original>Tirer des leçons de... AH AH.+</Original>
+    <Original>Penser comme cette... AH AH.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2589">
@@ -15657,7 +15657,7 @@
   <block ID="2609">
     <ItemID>15683</ItemID>
     <ItemType>13</ItemType>
-    <Original>On dirait que vous pourriez avoir besion d'un ami héro&#239;que.</Original>
+    <Original>On dirait que vous pourriez avoir bien besoin d'un ami héro&#239;que.</Original>
     <Translation></Translation>
   </block>
   <block ID="2610">
@@ -15669,13 +15669,13 @@
   <block ID="2611">
     <ItemID>15685</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous voyez, pendant que je dormais ces moines ont volé mes Po&#234;les de Prospection !+</Original>
+    <Original>Vous voyez, pendant que je dormais ces moines ont volé mes Batées de Prospection !+</Original>
     <Translation></Translation>
   </block>
   <block ID="2612">
     <ItemID>15686</ItemID>
     <ItemType>13</ItemType>
-    <Original>Comment suis-je censé faire de la prospection pour le Bacon sans un ensemble complet de po&#234;le de prospection ?</Original>
+    <Original>Comment suis-je censé faire de la prospection pour le Bacon sans un ensemble complet de Batées de prospection ?</Original>
     <Translation></Translation>
   </block>
   <block ID="2613">
@@ -15693,7 +15693,7 @@
   <block ID="2615">
     <ItemID>15689</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ma qu&#234;te de vos po&#234;le est en cours.</Original>
+    <Original>Ma qu&#234;te de vos batées est en cours.</Original>
     <Translation></Translation>
   </block>
   <block ID="2616">
@@ -15711,7 +15711,7 @@
   <block ID="2618">
     <ItemID>15692</ItemID>
     <ItemType>13</ItemType>
-    <Original>Voici vos po&#234;les, elles sont toutes saines et sauves.</Original>
+    <Original>Voici vos batées, elles sont toutes saines et sauves.</Original>
     <Translation></Translation>
   </block>
   <block ID="2619">
@@ -15729,7 +15729,7 @@
   <block ID="2621">
     <ItemID>15695</ItemID>
     <ItemType>13</ItemType>
-    <Original>Salutations, contrefacteur de la fronti&#232;re.</Original>
+    <Original>Salutations, PNJ paumé des fronti&#232;res.</Original>
     <Translation></Translation>
   </block>
   <block ID="2622">
@@ -15825,13 +15825,13 @@
   <block ID="2637">
     <ItemID>15711</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ca c'est une chose s&#251;re...+</Original>
+    <Original>Ca c'est s&#251;r...+</Original>
     <Translation></Translation>
   </block>
   <block ID="2638">
     <ItemID>15712</ItemID>
     <ItemType>13</ItemType>
-    <Original>... enfin, peut-&#234;tre que c'est une chose s&#251;re, on verra &#224; l'avenir.</Original>
+    <Original>... enfin, peut-&#234;tre que c'est s&#251;r, on verra &#224; l'avenir.</Original>
     <Translation></Translation>
   </block>
   <block ID="2639">
@@ -15867,7 +15867,7 @@
   <block ID="2644">
     <ItemID>15718</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai erré dans ce désert depuis depuis mon plus greem âge.+</Original>
+    <Original>J'ai erré dans ce désert depuis mon plus greem âge.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2645">
@@ -15885,7 +15885,7 @@
   <block ID="2647">
     <ItemID>15721</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ces vies sont aussi excellentes pour &#234;tre risquées.</Original>
+    <Original>Toutes vies sont excellentes pour &#234;tre risquées.</Original>
     <Translation></Translation>
   </block>
   <block ID="2648">
@@ -15903,13 +15903,13 @@
   <block ID="2650">
     <ItemID>15724</ItemID>
     <ItemType>13</ItemType>
-    <Original>Oui et recueillez leurs Doigts Rosâtre comme signe de leur allégeance de sang pour moi.</Original>
+    <Original>Oui et recueillez leurs Doigts Rosâtre comme signe de leur allégeance de sang envers moi.</Original>
     <Translation></Translation>
   </block>
   <block ID="2651">
     <ItemID>15725</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je suis toujours en train "d'enrôler"  les Goules des Sables.</Original>
+    <Original>Je suis toujours en train "d'enrôler" vos Goules des Sables.</Original>
     <Translation></Translation>
   </block>
   <block ID="2652">
@@ -15981,7 +15981,7 @@
   <block ID="2663">
     <ItemID>15737</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mais je n'étais pas en train... Taisez-vous, écoutez-moi. +</Original>
+    <Original>C'était une image... Taisez-vous et écoutez-moi. +</Original>
     <Translation></Translation>
   </block>
   <block ID="2664">
@@ -16077,7 +16077,7 @@
   <block ID="2679">
     <ItemID>15753</ItemID>
     <ItemType>13</ItemType>
-    <Original>Pouvez-vous prendre ces drapeaux et les mettre dans les sôcle que j'ai déj&#224; mis en place ?</Original>
+    <Original>Pouvez-vous prendre ces drapeaux et les mettre dans les socles que j'ai déj&#224; mis en place ?</Original>
     <Translation></Translation>
   </block>
   <block ID="2680">
@@ -16131,7 +16131,7 @@
   <block ID="2688">
     <ItemID>15762</ItemID>
     <ItemType>13</ItemType>
-    <Original>Salutations &#224; nouveau, Prospecteur.</Original>
+    <Original>Nouvelles salutations, Prospecteur.</Original>
     <Translation></Translation>
   </block>
   <block ID="2689">
@@ -16185,7 +16185,7 @@
   <block ID="2697">
     <ItemID>15771</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mais il y tellement de grottes &#224; sonder.</Original>
+    <Original>Mais il y trop de grottes &#224; sonder.</Original>
     <Translation></Translation>
   </block>
   <block ID="2698">
@@ -16203,7 +16203,7 @@
   <block ID="2700">
     <ItemID>15774</ItemID>
     <ItemType>13</ItemType>
-    <Original>Hot Diggity Dog ! J'ai encore besoin des échantillons de...+</Original>
+    <Original>HIPIPIPHOURRA ! J'ai encore besoin des échantillons de...+</Original>
     <Translation></Translation>
   </block>
   <block ID="2701">
@@ -16335,7 +16335,7 @@
   <block ID="2722">
     <ItemID>15796</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ma qu&#234;te d'El Bacono serait finalement sur le point d'aboutir ?+</Original>
+    <Original>Ma qu&#234;te d'El Bacono serait-elle finalement sur le point d'aboutir ?+</Original>
     <Translation></Translation>
   </block>
   <block ID="2723">
@@ -16353,7 +16353,7 @@
   <block ID="2725">
     <ItemID>15799</ItemID>
     <ItemType>13</ItemType>
-    <Original>Malédictions ! This is Fool's Bacon !</Original>
+    <Original>Nom d'une roubignole ! Pas une trace de Bacon !</Original>
     <Translation></Translation>
   </block>
   <block ID="2726">
@@ -16407,7 +16407,7 @@
   <block ID="2734">
     <ItemID>15808</ItemID>
     <ItemType>13</ItemType>
-    <Original>Désolé, mais mon bon-&#224;-rien mari a disparu.+</Original>
+    <Original>Désolé, mais mon bon-&#224;-rien de mari a disparu.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2735">
@@ -16419,13 +16419,13 @@
   <block ID="2736">
     <ItemID>15810</ItemID>
     <ItemType>13</ItemType>
-    <Original>Et nous le trouverons, ou vous mourrez en essayant.</Original>
+    <Original>Nous le trouverons l&#224;-bas ou vous mourrez en essayant de le retrouver.</Original>
     <Translation></Translation>
   </block>
   <block ID="2737">
     <ItemID>15811</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ca &#224; l'air bien.</Original>
+    <Original>Ca &#224; l'air réglo.</Original>
     <Translation></Translation>
   </block>
   <block ID="2738">
@@ -16491,7 +16491,7 @@
   <block ID="2748">
     <ItemID>15822</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ne vous inquiétez pas, je vais retrouver ton mari fugueur.</Original>
+    <Original>Ne vous inquiétez pas, je vais retrouver votre mari fugueur.</Original>
     <Translation></Translation>
   </block>
   <block ID="2749">
@@ -16659,7 +16659,7 @@
   <block ID="2776">
     <ItemID>15851</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je suis finalement venue &#224; bout de cette paperasse et je dois le lui faire parvenir.+</Original>
+    <Original>Je suis finalement venu &#224; bout de cette paperasse et je dois le lui faire parvenir.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2777">
@@ -16719,7 +16719,7 @@
   <block ID="2786">
     <ItemID>15861</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai les bottes portées tant recherchées !</Original>
+    <Original>J'ai les bottes tant recherchées !</Original>
     <Translation></Translation>
   </block>
   <block ID="2787">
@@ -16803,7 +16803,7 @@
   <block ID="2800">
     <ItemID>15875</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le dernier et plus grand gang sont les Banditos du Bassin Bleu et ils ont volés mes Gant de Flingueur.+</Original>
+    <Original>Le dernier et plus grand gang sont les Banditos du Bassin Bleu et ils ont volés mes Gants de Flingueur.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2801">
@@ -16815,7 +16815,7 @@
   <block ID="2802">
     <ItemID>15877</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je vais retrouver vos Gant de Flingueur, Shérif.</Original>
+    <Original>Je vais retrouver vos Gants de Flingueur, Shérif.</Original>
     <Translation></Translation>
   </block>
   <block ID="2803">
@@ -16833,13 +16833,13 @@
   <block ID="2805">
     <ItemID>15880</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai vos Gant de Flingueur.</Original>
+    <Original>J'ai vos Gants de Flingueur.</Original>
     <Translation></Translation>
   </block>
   <block ID="2806">
     <ItemID>15881</ItemID>
     <ItemType>13</ItemType>
-    <Original>Maintenant, j'ai toutes la confiance dont j'ai besoin pour délivrer la  marque d'une justice ordonnée.+</Original>
+    <Original>Maintenant, j'ai toutes la confiance dont j'ai besoin pour délivrer la marque d'une justice ordonnée.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2807">
@@ -16899,7 +16899,7 @@
   <block ID="2816">
     <ItemID>15891</ItemID>
     <ItemType>13</ItemType>
-    <Original>Alors, pourquoi avoir un travail &#224; l''usine serait une mauvaise chose ?</Original>
+    <Original>Alors, pourquoi avoir un travail &#224; l'usine serait une mauvaise chose ?</Original>
     <Translation></Translation>
   </block>
   <block ID="2817">
@@ -16947,7 +16947,7 @@
   <block ID="2824">
     <ItemID>15899</ItemID>
     <ItemType>13</ItemType>
-    <Original>La paperasse était vite faites et remise dans les délais.+</Original>
+    <Original>La paperasse était vite faite et remise dans les délais.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2825">
@@ -16971,13 +16971,13 @@
   <block ID="2828">
     <ItemID>15903</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ils ont offert des salaires incroyables et un paquet fantastique d'avantages.</Original>
+    <Original>Ils ont offert des salaires incroyables et un paquet fantastique d'avantage.</Original>
     <Translation></Translation>
   </block>
   <block ID="2829">
     <ItemID>15904</ItemID>
     <ItemType>13</ItemType>
-    <Original>Si bien que les gens ont été tellement pris par leur travail, qu'ils n'avaient plus le temps de rentrer chez eux.+</Original>
+    <Original>Et bien les gens ont été tellement pris par leur travail, qu'ils n'avaient plus le temps de rentrer chez eux.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2830">
@@ -17007,7 +17007,7 @@
   <block ID="2834">
     <ItemID>15909</ItemID>
     <ItemType>13</ItemType>
-    <Original>Faites attention, vous entendez !</Original>
+    <Original>Faites attention, compris  !</Original>
     <Translation></Translation>
   </block>
   <block ID="2835">
@@ -17043,7 +17043,7 @@
   <block ID="2840">
     <ItemID>15915</ItemID>
     <ItemType>13</ItemType>
-    <Original>Livrez votre message que je veux, victime conducteur de diligences.</Original>
+    <Original>Je livrerais votre message si je veux, conducteur de diligences.</Original>
     <Translation></Translation>
   </block>
   <block ID="2841">
@@ -17127,7 +17127,7 @@
   <block ID="2854">
     <ItemID>15929</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous voulez un six coup &#224; crosse de nacre ?</Original>
+    <Original>Vous voulez dire un six coups &#224; crosse de nacre ?</Original>
     <Translation></Translation>
   </block>
   <block ID="2855">
@@ -17169,7 +17169,7 @@
   <block ID="2861">
     <ItemID>15936</ItemID>
     <ItemType>13</ItemType>
-    <Original>Bon, j'esp&#232;re que vous l'avez tué avant de la prendre.+</Original>
+    <Original>Bien, j'esp&#232;re que vous l'avez tué avant de la prendre.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2862">
@@ -17217,7 +17217,7 @@
   <block ID="2869">
     <ItemID>15944</ItemID>
     <ItemType>13</ItemType>
-    <Original>De disgracieux et vilipandesque Banditos Renegat Rouge ont volés mes roues !</Original>
+    <Original>De disgracieux et vilipandesques Banditos Renégats Rouges ont volés mes roues !</Original>
     <Translation></Translation>
   </block>
   <block ID="2870">
@@ -17247,7 +17247,7 @@
   <block ID="2874">
     <ItemID>15949</ItemID>
     <ItemType>13</ItemType>
-    <Original>C'est inacceptable !</Original>
+    <Original>C'est tout &#224; fait inacceptable !</Original>
     <Translation></Translation>
   </block>
   <block ID="2875">
@@ -17313,13 +17313,13 @@
   <block ID="2885">
     <ItemID>15960</ItemID>
     <ItemType>13</ItemType>
-    <Original>O&#249; est passé votre diligence ?</Original>
+    <Original>Hum... O&#249; est passé votre diligence ?</Original>
     <Translation></Translation>
   </block>
   <block ID="2886">
     <ItemID>15961</ItemID>
     <ItemType>13</ItemType>
-    <Original>Un groupe de Banditos du Bassin Bleu sont sorti de nulle part et l'ont volés !</Original>
+    <Original>Un groupe de Banditos du Bassin Bleu sont sortis de nulle part et l'ont volés !</Original>
     <Translation></Translation>
   </block>
   <block ID="2887">
@@ -17349,7 +17349,7 @@
   <block ID="2891">
     <ItemID>15966</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai votre diligence.</Original>
+    <Original>J'ai votre diligence juste ici.</Original>
     <Translation></Translation>
   </block>
   <block ID="2892">
@@ -17433,7 +17433,7 @@
   <block ID="2905">
     <ItemID>15980</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je n'ai pas encore trouver votre diligence.</Original>
+    <Original>Je n'ai pas encore trouvé votre diligence.</Original>
     <Translation></Translation>
   </block>
   <block ID="2906">
@@ -17517,7 +17517,7 @@
   <block ID="2919">
     <ItemID>15996</ItemID>
     <ItemType>13</ItemType>
-    <Original>Non, non ! Je veux dire... Je ne pourrais jamais vous demander un chose comme ça.</Original>
+    <Original>Non, non ! Je veux dire... Je m'en voudrais de vous demander un service pareil.</Original>
     <Translation></Translation>
   </block>
   <block ID="2920">
@@ -17529,7 +17529,7 @@
   <block ID="2921">
     <ItemID>15998</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin de vous pour tuer la Reine Ver des Sables et rapporter avec sa coquille en trophée !+</Original>
+    <Original>J'ai besoin de vous pour tuer la Reine Ver des Sables et rapporter sa coquille en trophée !+</Original>
     <Translation></Translation>
   </block>
   <block ID="2922">
@@ -17589,7 +17589,7 @@
   <block ID="2931">
     <ItemID>16011</ItemID>
     <ItemType>13</ItemType>
-    <Original>Bien, apportez-moi sa fili&#232;re lorsque vous aurez terminé.</Original>
+    <Original>Pas bien grosse... Apportez-moi sa fili&#232;re lorsque vous en aurez terminé avec elle.</Original>
     <Translation></Translation>
   </block>
   <block ID="2932">
@@ -17697,13 +17697,13 @@
   <block ID="2949">
     <ItemID>16031</ItemID>
     <ItemType>13</ItemType>
-    <Original>Bien s&#251;r, je serais heureux de trucider Seigneur Ourstilope pour vous.</Original>
+    <Original>Bien s&#251;r, je serais heureux de trucider du Seigneur Ourstilope pour vous.</Original>
     <Translation></Translation>
   </block>
   <block ID="2950">
     <ItemID>16032</ItemID>
     <ItemType>13</ItemType>
-    <Original>Super ! Apr&#232;s l'avoir tuer, jetez le reste de la carcasse, je crains qu'elle soit dangereuse.</Original>
+    <Original>Super ! Apr&#232;s l'avoir tué, jetez le reste de la carcasse, je crains qu'elle soit dangereuse.</Original>
     <Translation></Translation>
   </block>
   <block ID="2951">
@@ -17715,7 +17715,7 @@
   <block ID="2952">
     <ItemID>16034</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'y travaille.</Original>
+    <Original>Mais j'y travaille.</Original>
     <Translation></Translation>
   </block>
   <block ID="2953">
@@ -17769,13 +17769,13 @@
   <block ID="2961">
     <ItemID>16044</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'allais dire "riches en cholestérol" ! J'adore leur Flagelle.</Original>
+    <Original>J'allais dire "riches en cholestérol" ! J'adore les Flagelles.</Original>
     <Translation></Translation>
   </block>
   <block ID="2962">
     <ItemID>16045</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ensuite, je vais tuer ce monstre tentacule et vous apporter sa Flagelle.</Original>
+    <Original>Je vais tuer ce monstre tentacule et vous apporter sa Flagelle.</Original>
     <Translation></Translation>
   </block>
   <block ID="2963">
@@ -17871,7 +17871,7 @@
   <block ID="2978">
     <ItemID>16061</ItemID>
     <ItemType>13</ItemType>
-    <Original>Allez combattre des Navets Hideux suicidaire ou ce que vos voulez !+</Original>
+    <Original>Allez combattre des Navets Hideux suicidaire ou ce que vous voulez !+</Original>
     <Translation></Translation>
   </block>
   <block ID="2979">
@@ -17967,7 +17967,7 @@
   <block ID="2994">
     <ItemID>16077</ItemID>
     <ItemType>13</ItemType>
-    <Original>Et ce machin sans aucun doute une idole.+</Original>
+    <Original>Et ce machin et sans aucun doute une idole.+</Original>
     <Translation></Translation>
   </block>
   <block ID="2995">
@@ -18063,7 +18063,7 @@
   <block ID="3010">
     <ItemID>16094</ItemID>
     <ItemType>13</ItemType>
-    <Original>Un gars isolée au milieu d'un désert de sable ?</Original>
+    <Original>A un gars isolée au milieu d'un désert de sable ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3011">
@@ -18165,13 +18165,13 @@
   <block ID="3027">
     <ItemID>16112</ItemID>
     <ItemType>13</ItemType>
-    <Original>C'est inévitable j'imagine. Vous voyez, j'ai utilisé des câbles "pourrave".+</Original>
+    <Original>C'est inévitable j'imagine. Vous voyez, j'ai utilisé des câbles "premier prix".+</Original>
     <Translation></Translation>
   </block>
   <block ID="3028">
     <ItemID>16113</ItemID>
     <ItemType>13</ItemType>
-    <Original>C'est beaucoup moins cher que les câbles "de haut vol", vous voyez.+</Original>
+    <Original>C'est beaucoup moins cher que les câbles "Top moumoute", vous voyez.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3029">
@@ -18243,13 +18243,13 @@
   <block ID="3040">
     <ItemID>16125</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je lui livrerais moi-m&#234;me, mais j'ai besoin de reformater cette carte perforée pour ouvrir la premi&#232;re porte.</Original>
+    <Original>Je lui livrerais moi-m&#234;me, mais j'ai besoin de reformater cette carte perforée pour ouvrir la porte.</Original>
     <Translation></Translation>
   </block>
   <block ID="3041">
     <ItemID>16126</ItemID>
     <ItemType>13</ItemType>
-    <Original>Consid&#232;rez les plans comme déj&#224; livrés, il me reste juste &#224; la faire.</Original>
+    <Original>Consid&#232;rez les plans comme déj&#224; livrés, il me reste juste &#224; le faire.</Original>
     <Translation></Translation>
   </block>
   <block ID="3042">
@@ -18273,7 +18273,7 @@
   <block ID="3045">
     <ItemID>16130</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mais je crois que des fourmis l'ont volé et l'ont emmené dans cette caverne.+</Original>
+    <Original>Mais je crois que des fourmis l'ont volées et l'ont emmenées dans cette caverne.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3046">
@@ -18291,7 +18291,7 @@
   <block ID="3048">
     <ItemID>16145</ItemID>
     <ItemType>13</ItemType>
-    <Original>Nous sommes des moines pacifistes, qui ne se battrons jamais contre vous.</Original>
+    <Original>Nous sommes des moines pacifistes, qui ne nous battrons jamais contre vous.</Original>
     <Translation></Translation>
   </block>
   <block ID="3049">
@@ -18453,7 +18453,7 @@
   <block ID="3075">
     <ItemID>16175</ItemID>
     <ItemType>13</ItemType>
-    <Original>C'est un peu g&#234;nant, mais mon bateau est sur &#8203;&#8203;le point de manquer de pétrole.</Original>
+    <Original>C'est un peu g&#234;nant, mais mon bateau est sur le point de manquer de pétrole.</Original>
     <Translation></Translation>
   </block>
   <block ID="3076">
@@ -18465,7 +18465,7 @@
   <block ID="3077">
     <ItemID>16177</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je vais aller vous chercher de l'or noir.</Original>
+    <Original>Je vais aller vous chercher cet or noir qui vous manque.</Original>
     <Translation></Translation>
   </block>
   <block ID="3078">
@@ -18519,7 +18519,7 @@
   <block ID="3086">
     <ItemID>16186</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je suis un peu expert combats mooglinesque, alors laissez-moi faire.</Original>
+    <Original>Je suis un peu expert en combats mooglinesque, alors laissez-moi faire.</Original>
     <Translation></Translation>
   </block>
   <block ID="3087">
@@ -18567,7 +18567,7 @@
   <block ID="3094">
     <ItemID>16194</ItemID>
     <ItemType>13</ItemType>
-    <Original>Alors permettez-moi de mettre mon amour de la destruction pour faire disparaître ces canons.</Original>
+    <Original>Alors permettez-moi d'utiliser mon amour de la destruction pour faire disparaître ces canons.</Original>
     <Translation></Translation>
   </block>
   <block ID="3095">
@@ -18591,7 +18591,7 @@
   <block ID="3098">
     <ItemID>16198</ItemID>
     <ItemType>13</ItemType>
-    <Original>Les canons Orc sont rien de plus que la ferraille désormais.</Original>
+    <Original>Les canons Orc ne sont rien de plus que la ferraille désormais.</Original>
     <Translation></Translation>
   </block>
   <block ID="3099">
@@ -18615,7 +18615,7 @@
   <block ID="3102">
     <ItemID>16202</ItemID>
     <ItemType>13</ItemType>
-    <Original>Maintenant, si vous voulez bien m'excuser, j'ai un bateau a préparer.</Original>
+    <Original>Maintenant, si vous voulez bien m'excuser, j'ai un bateau &#224; préparer.</Original>
     <Translation></Translation>
   </block>
   <block ID="3103">
@@ -18717,13 +18717,13 @@
   <block ID="3119">
     <ItemID>16219</ItemID>
     <ItemType>13</ItemType>
-    <Original>Merci. Ca fait un moment que Poque m'a envoyé ça.</Original>
+    <Original>Merci. Ca fait un moment que Poque devait m'envoyer ça.</Original>
     <Translation></Translation>
   </block>
   <block ID="3120">
     <ItemID>16220</ItemID>
     <ItemType>13</ItemType>
-    <Original>Oh mon Dieu, qu'est-ce que je vais faire ?</Original>
+    <Original>Oh mon Dieu, que vais-je devenir ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3121">
@@ -18735,7 +18735,7 @@
   <block ID="3122">
     <ItemID>16222</ItemID>
     <ItemType>13</ItemType>
-    <Original>C'est une choses désagréables, de forme de blanche ou jaune.</Original>
+    <Original>Une chose bien désagréable, de forme de blanche ou jaune.</Original>
     <Translation></Translation>
   </block>
   <block ID="3123">
@@ -18909,7 +18909,7 @@
   <block ID="3151">
     <ItemID>16251</ItemID>
     <ItemType>13</ItemType>
-    <Original>Excellent ! Apportez-lui ce paquet de fémurs.+</Original>
+    <Original>Excellent ! Apportez-lui ce tas de fémurs.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3152">
@@ -18921,7 +18921,7 @@
   <block ID="3153">
     <ItemID>16253</ItemID>
     <ItemType>13</ItemType>
-    <Original>Rappelez-vous, donnez ce paquet de fémurs &#224; la Sorci&#232;re Démoniaque et elle devrait devenir plus agréable.</Original>
+    <Original>Rappelez-vous, donnez cette ribambelle de fémurs &#224; la Sorci&#232;re Démoniaque et elle devrait devenir plus agréable.</Original>
     <Translation></Translation>
   </block>
   <block ID="3154">
@@ -18975,7 +18975,7 @@
   <block ID="3162">
     <ItemID>16262</ItemID>
     <ItemType>13</ItemType>
-    <Original>C'est la seule chose qui peut séparer les crânes des Commandants de morts-vivants de leur corps.</Original>
+    <Original>C'est la seule chose qui peut séparer les crânes des Commandants morts-vivants de leur corps.</Original>
     <Translation></Translation>
   </block>
   <block ID="3163">
@@ -18987,7 +18987,7 @@
   <block ID="3164">
     <ItemID>16264</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ca les fera réfléchir &#224; deux fois avant d'utiliser mes cultures comme  champ de bataille.+</Original>
+    <Original>Ca les fera réfléchir &#224; deux fois avant d'utiliser mes cultures comme champ de bataille.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3165">
@@ -19053,13 +19053,13 @@
   <block ID="3175">
     <ItemID>16275</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je ne sais pas comment cela a commencé, mais j'ai entendu dire que le Général de l'Armée a grand brassage des plans.</Original>
+    <Original>Je ne sais pas comment cela a commencé, mais j'ai entendu dire que le Général de l'Armée a de grands plans &#224; ce sujet.</Original>
     <Translation></Translation>
   </block>
   <block ID="3176">
     <ItemID>16276</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je demanderais au Toubib de la ville, il pourrait &#234;tre au courant de quelque chose sur la Compassion.</Original>
+    <Original>Je demanderais plutôt au Toubib de la ville, il pourrait &#234;tre au courant de quelque chose sur la Compassion.</Original>
     <Translation></Translation>
   </block>
   <block ID="3177">
@@ -19077,7 +19077,7 @@
   <block ID="3179">
     <ItemID>16279</ItemID>
     <ItemType>13</ItemType>
-    <Original>Oh, les horreurs de la guerre...</Original>
+    <Original>Mon Dieu, les horreurs de la guerre...</Original>
     <Translation></Translation>
   </block>
   <block ID="3180">
@@ -19089,7 +19089,7 @@
   <block ID="3181">
     <ItemID>16281</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je m'éclate comme jamais !</Original>
+    <Original>Je me suis jamais autant éclaté !</Original>
     <Translation></Translation>
   </block>
   <block ID="3182">
@@ -19101,19 +19101,19 @@
   <block ID="3183">
     <ItemID>16283</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je suis &#224; court de matériels médicales !+</Original>
+    <Original>Je suis &#224; court de matériels médical !+</Original>
     <Translation></Translation>
   </block>
   <block ID="3184">
     <ItemID>16284</ItemID>
     <ItemType>13</ItemType>
-    <Original>Et pendant ce temps, ce sanctuaire au nord est bourré de matériels .+</Original>
+    <Original>Et pendant ce temps, ce sanctuaire au nord est bourré de matériels.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3185">
     <ItemID>16285</ItemID>
     <ItemType>13</ItemType>
-    <Original>Alors, pourquoi ne pas aller chercher ce matériels pour vous ?</Original>
+    <Original>Alors, pourquoi n'irai-je pas chercher ce matériels pour vous ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3186">
@@ -19149,7 +19149,7 @@
   <block ID="3191">
     <ItemID>16291</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je dois encore obtenir votre matériels médicales.</Original>
+    <Original>Je dois encore obtenir votre matériels médical.</Original>
     <Translation></Translation>
   </block>
   <block ID="3192">
@@ -19197,13 +19197,13 @@
   <block ID="3199">
     <ItemID>16299</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je le ferais bien mais je suis &#224; court de matériels médicales pour le moment.</Original>
+    <Original>Je le ferais bien mais je suis &#224; court de matériels médical pour le moment.</Original>
     <Translation></Translation>
   </block>
   <block ID="3200">
     <ItemID>16301</ItemID>
     <ItemType>13</ItemType>
-    <Original>Eh bien, puisque la plainte... Je ne suis plus autorisé &#224; administrer un soin "directement".</Original>
+    <Original>Eh bien, depuis la plainte... Je ne suis plus autorisé &#224; administrer un soin "directement".</Original>
     <Translation></Translation>
   </block>
   <block ID="3201">
@@ -19245,7 +19245,7 @@
   <block ID="3207">
     <ItemID>16308</ItemID>
     <ItemType>13</ItemType>
-    <Original>Salut, je suis le Conducteur de la loco .</Original>
+    <Original>Salut, je suis le Conducteur de la loco.</Original>
     <Translation></Translation>
   </block>
   <block ID="3208">
@@ -19419,7 +19419,7 @@
   <block ID="3236">
     <ItemID>16338</ItemID>
     <ItemType>13</ItemType>
-    <Original>Fascinant.</Original>
+    <Original>Ouah, fascinant...</Original>
     <Translation></Translation>
   </block>
   <block ID="3237">
@@ -19449,7 +19449,7 @@
   <block ID="3241">
     <ItemID>16343</ItemID>
     <ItemType>13</ItemType>
-    <Original>Seulement si vous aimez un million de tonnes de la technologie moderne!</Original>
+    <Original>Seulement si vous aimez les trucs d'un million de tonnes de technologie moderne!</Original>
     <Translation></Translation>
   </block>
   <block ID="3242">
@@ -19485,7 +19485,7 @@
   <block ID="3247">
     <ItemID>16349</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mais dites-moi, vous n'etes pas un pirate, alors je peux peut-&#234;tre vous parler de mon... probl&#232;me.</Original>
+    <Original>Mais dites-moi, vous n'&#234;tes pas un pirate, alors je peux peut-&#234;tre vous parler de mon... probl&#232;me.</Original>
     <Translation></Translation>
   </block>
   <block ID="3248">
@@ -19539,7 +19539,7 @@
   <block ID="3256">
     <ItemID>16358</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai entendu des bruits sur la présence d'un perroquet sur &#8203;&#8203;l'Île Poulet, essayez de le dénicher.</Original>
+    <Original>J'ai entendu des bruits sur la présence d'un perroquet sur l'Île Poulet, essayez de le dénicher.</Original>
     <Translation></Translation>
   </block>
   <block ID="3257">
@@ -19593,7 +19593,7 @@
   <block ID="3265">
     <ItemID>16367</ItemID>
     <ItemType>13</ItemType>
-    <Original>Yarr, je me sens nu.</Original>
+    <Original>Yarr, je me sens tout nu.</Original>
     <Translation></Translation>
   </block>
   <block ID="3266">
@@ -19605,7 +19605,7 @@
   <block ID="3267">
     <ItemID>16369</ItemID>
     <ItemType>13</ItemType>
-    <Original>Yarr, tous les autres pirates ont leur trésors.+</Original>
+    <Original>Yarr, tous les autres pirates ont leurs trésors.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3268">
@@ -19647,7 +19647,7 @@
   <block ID="3274">
     <ItemID>16376</ItemID>
     <ItemType>13</ItemType>
-    <Original>C'est assez ennuyeux dans la mesure o&#249; trésors aller, mais vous voil&#224;.</Original>
+    <Original>C'est assez ennuyeux dans la mesure o&#249; ce trésors est nul, mais le voil&#224;.</Original>
     <Translation></Translation>
   </block>
   <block ID="3275">
@@ -19677,13 +19677,13 @@
   <block ID="3279">
     <ItemID>16382</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai entendu que vous aviez l'intention de passer &#224; travers le blocus Orc.</Original>
+    <Original>J'ai entendu dire que vous aviez l'intention de passer &#224; travers le blocus Orc.</Original>
     <Translation></Translation>
   </block>
   <block ID="3280">
     <ItemID>16383</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mais oui. Ca devrait &#234;tre un jeu d'enfant pour un héros comme moi.</Original>
+    <Original>Oui c'est vrai. Ca devrait &#234;tre un jeu d'enfant pour un héros comme moi.</Original>
     <Translation></Translation>
   </block>
   <block ID="3281">
@@ -19701,13 +19701,13 @@
   <block ID="3283">
     <ItemID>16386</ItemID>
     <ItemType>13</ItemType>
-    <Original>Rien ne rend n'arrange mieux les choses qu'un bazooka.</Original>
+    <Original>Rien n'arrange mieux les choses qu'un bazooka.</Original>
     <Translation></Translation>
   </block>
   <block ID="3284">
     <ItemID>16387</ItemID>
     <ItemType>13</ItemType>
-    <Original>Maintenant je peux le dire &#224; haute voix mais il semble assez étrange de construire un barrage avec des bombes.+</Original>
+    <Original>Maintenant que je peux le dire tout haut, c'est assez étrange de construire un barrage avec des bombes.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3285">
@@ -19725,7 +19725,7 @@
   <block ID="3287">
     <ItemID>16390</ItemID>
     <ItemType>13</ItemType>
-    <Original>En temps voulu, en temps voulu.</Original>
+    <Original>Chaque chose en son temps... chaque chose en son temps.</Original>
     <Translation></Translation>
   </block>
   <block ID="3288">
@@ -19821,7 +19821,7 @@
   <block ID="3303">
     <ItemID>16406</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ensuite, vous pourrez parler.</Original>
+    <Original>Maintenant, vous pouvez parler.</Original>
     <Translation></Translation>
   </block>
   <block ID="3304">
@@ -19845,7 +19845,7 @@
   <block ID="3307">
     <ItemID>16410</ItemID>
     <ItemType>13</ItemType>
-    <Original>N'ayez pas peur, sorci&#232;re.+</Original>
+    <Original>N'ayez crainte, sorci&#232;re.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3308">
@@ -19881,13 +19881,13 @@
   <block ID="3313">
     <ItemID>16416</ItemID>
     <ItemType>13</ItemType>
-    <Original>Croyez-moi, vous ne voudriez pas essayer d'ouvrir ce tombeau sans lui.+</Original>
+    <Original>Croyez-moi, vous ne voudriez pas essayer d'ouvrir ce tombeau sans.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3314">
     <ItemID>16417</ItemID>
     <ItemType>13</ItemType>
-    <Original>Bon, allez, trouvez-moi ces choses.</Original>
+    <Original>Bon, allez, trouvez-moi ces trucs.</Original>
     <Translation></Translation>
   </block>
   <block ID="3315">
@@ -20001,7 +20001,7 @@
   <block ID="3333">
     <ItemID>16436</ItemID>
     <ItemType>13</ItemType>
-    <Original>Pourquoi Alien Vert Amical...+</Original>
+    <Original>Mais c'est mon Alien Vert Amical...+</Original>
     <Translation></Translation>
   </block>
   <block ID="3334">
@@ -20025,7 +20025,7 @@
   <block ID="3337">
     <ItemID>16440</ItemID>
     <ItemType>13</ItemType>
-    <Original>De notre &#8203;&#8203;actuelle immobilisation, Responsable les Aliens Rouges sont.+</Original>
+    <Original>De notre actuelle immobilisation, responsable les Aliens Rouges sont.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3338">
@@ -20049,13 +20049,13 @@
   <block ID="3341">
     <ItemID>16444</ItemID>
     <ItemType>13</ItemType>
-    <Original>PERSONNE ne vole les petits potes extra-terrestre verts de DeathSpank.</Original>
+    <Original>PERSONNE ne vole les petits potes extra-terrestre vert de DeathSpank.</Original>
     <Translation></Translation>
   </block>
   <block ID="3342">
     <ItemID>16445</ItemID>
     <ItemType>13</ItemType>
-    <Original>Attendez ici cher ami, c'est l'heure de la justice interstellaire !</Original>
+    <Original>Attendez ici cher ami, c'est l'heure d'une justice interstellaire !</Original>
     <Translation></Translation>
   </block>
   <block ID="3343">
@@ -20073,7 +20073,7 @@
   <block ID="3345">
     <ItemID>16448</ItemID>
     <ItemType>13</ItemType>
-    <Original>Rester stationnaire nous resterons. La victoire inévitable nous attendons, DeathSpank.</Original>
+    <Original>Rester stationnaire nous resterons. Votre victoire inévitable nous attendons, DeathSpank.</Original>
     <Translation></Translation>
   </block>
   <block ID="3346">
@@ -20223,7 +20223,7 @@
   <block ID="3370">
     <ItemID>16474</ItemID>
     <ItemType>13</ItemType>
-    <Original>Voici le scanneur que vous aurez &#224; utiliser.</Original>
+    <Original>Voici le scanneur que vous devrez utiliser.</Original>
     <Translation></Translation>
   </block>
   <block ID="3371">
@@ -20301,7 +20301,7 @@
   <block ID="3383">
     <ItemID>16487</ItemID>
     <ItemType>13</ItemType>
-    <Original>Il créera surcharge qui détruira les Mark-6 &#224; du Tricore-7.</Original>
+    <Original>Il créera surcharge qui détruira les Mark-6 du Tricore-7.</Original>
     <Translation></Translation>
   </block>
   <block ID="3384">
@@ -20499,7 +20499,7 @@
   <block ID="3416">
     <ItemID>16520</ItemID>
     <ItemType>13</ItemType>
-    <Original>Maintenant, nos services de renseignements disent que des Troupiers Orc prévoient une grande offensive.+</Original>
+    <Original>Maintenant, nos services de renseignements disent que des Troupes Orc prévoient une grande offensive.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3417">
@@ -20547,7 +20547,7 @@
   <block ID="3424">
     <ItemID>16528</ItemID>
     <ItemType>13</ItemType>
-    <Original>Avant que les Troupiers Orcs n'est le temps de réagir J'ai besoin de vous pour apporter ces plans au QG</Original>
+    <Original>Avant que les Troupes Orcs n'est le temps de réagir J'ai besoin de vous pour apporter ces plans au QG.</Original>
     <Translation></Translation>
   </block>
   <block ID="3425">
@@ -20643,7 +20643,7 @@
   <block ID="3440">
     <ItemID>16544</ItemID>
     <ItemType>13</ItemType>
-    <Original>Hum... Cette tenue, j'y crois pas !</Original>
+    <Original>Bord... Cet uniforme, j'y crois pas !</Original>
     <Translation></Translation>
   </block>
   <block ID="3441">
@@ -20661,7 +20661,7 @@
   <block ID="3443">
     <ItemID>16547</ItemID>
     <ItemType>13</ItemType>
-    <Original>Non seulement ma t&#234;te est exposée mais il fait tr&#232;s froid aussi !</Original>
+    <Original>Non seulement ma t&#234;te est exposée mais j'ai tr&#232;s froid aussi !</Original>
     <Translation></Translation>
   </block>
   <block ID="3444">
@@ -20673,7 +20673,7 @@
   <block ID="3445">
     <ItemID>16549</ItemID>
     <ItemType>13</ItemType>
-    <Original>Merci. Je vous conseille d'en prendre un &#224; l'Armurerie de Poque LaTete &#224; Le Beaux Kuckelle.+</Original>
+    <Original>Merci. Je vous conseille d'en trouver un &#224; l'Armurerie de Poque LaTete &#224; Le Beaux Kuckelle.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3446">
@@ -20739,7 +20739,7 @@
   <block ID="3456">
     <ItemID>16561</ItemID>
     <ItemType>13</ItemType>
-    <Original>Nous allons &#234;tre anéanti.</Original>
+    <Original>Nous allons &#234;tre annihilé.</Original>
     <Translation></Translation>
   </block>
   <block ID="3457">
@@ -20751,13 +20751,13 @@
   <block ID="3458">
     <ItemID>16563</ItemID>
     <ItemType>13</ItemType>
-    <Original>Annil...+</Original>
+    <Original>Vous zanni...+</Original>
     <Translation></Translation>
   </block>
   <block ID="3459">
     <ItemID>16564</ItemID>
     <ItemType>13</ItemType>
-    <Original>Qui va vous attaquer ?</Original>
+    <Original>Bon, qui va vous attaquer ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3460">
@@ -20793,7 +20793,7 @@
   <block ID="3465">
     <ItemID>16570</ItemID>
     <ItemType>13</ItemType>
-    <Original> Vous pariez !</Original>
+    <Original>Bien s&#251;r que oui !</Original>
     <Translation></Translation>
   </block>
   <block ID="3466">
@@ -20817,13 +20817,13 @@
   <block ID="3469">
     <ItemID>16574</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ouah... Je n'arrive pas &#224; croire que vous venez d'équarrir ce qu'il y avait autour.+</Original>
+    <Original>Ouah... Je n'arrive pas &#224; croire que vous venez d'équarrir ce qu'il y avait autourde cette dent.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3470">
     <ItemID>16575</ItemID>
     <ItemType>13</ItemType>
-    <Original>Maintenant, si vous voulez bien m'excuser, je dois retourner &#224; la position debout ici et sporadiquement &#224; tirer sur rien.</Original>
+    <Original>Maintenant, si vous voulez bien m'excuser, je dois retourner &#224; ma position statique debout et sporadiquement tirer sur rien.</Original>
     <Translation></Translation>
   </block>
   <block ID="3471">
@@ -20847,7 +20847,7 @@
   <block ID="3474">
     <ItemID>16579</ItemID>
     <ItemType>13</ItemType>
-    <Original>Merci beaucoup &#224; vous de m'avoir apporté ça !</Original>
+    <Original>Merci beaucoup de m'avoir apporté ça !</Original>
     <Translation></Translation>
   </block>
   <block ID="3475">
@@ -20883,19 +20883,19 @@
   <block ID="3480">
     <ItemID>16585</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mes tours de radio sont toutes en pannes.+</Original>
+    <Original>Mes émetteurs radio sont tous en pannes.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3481">
     <ItemID>16586</ItemID>
     <ItemType>13</ItemType>
-    <Original>Comment je peux couvrir cette grande page d'histoire sans mes tours de radio ?</Original>
+    <Original>Comment je peux couvrir cette grande page d'histoire sans mes émetteurs radio ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3482">
     <ItemID>16587</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je peux réparer ces tours si vous voulez.</Original>
+    <Original>Je peux réparer ces émetteurs si vous voulez.</Original>
     <Translation></Translation>
   </block>
   <block ID="3483">
@@ -20907,7 +20907,7 @@
   <block ID="3484">
     <ItemID>16589</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous devez collecter des tubes cathodique avant que nous puissions commencer les réparations.</Original>
+    <Original>Vous devez collecter des ampoules sous vide avant que nous puissions commencer les réparations.</Original>
     <Translation></Translation>
   </block>
   <block ID="3485">
@@ -20931,19 +20931,19 @@
   <block ID="3488">
     <ItemID>16593</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai les tubes cathodiques que vous vouliez.</Original>
+    <Original>J'ai les ampoules sous vide que vous vouliez.</Original>
     <Translation></Translation>
   </block>
   <block ID="3489">
     <ItemID>16594</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ils sont cassés, mais réparable.+</Original>
+    <Original>Elles sont cassées, mais réparable.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3490">
     <ItemID>16595</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je vais transformer ces tubes cassés en pi&#232;ces de rechange utilisables.+</Original>
+    <Original>Je vais transformer ces ampoules cassées en pi&#232;ces de rechange utilisables.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3491">
@@ -20961,19 +20961,19 @@
   <block ID="3493">
     <ItemID>16598</ItemID>
     <ItemType>13</ItemType>
-    <Original>Alors gardez votre bureau, noble journaliste. Je vais réparer vos tours de radio.</Original>
+    <Original>Alors gardez votre bureau, noble journaliste. Je vais réparer vos émetteurs radio.</Original>
     <Translation></Translation>
   </block>
   <block ID="3494">
     <ItemID>16599</ItemID>
     <ItemType>13</ItemType>
-    <Original>C'est chic de votre part DeathSpank, mais vous allez avoir besoin en priorité.</Original>
+    <Original>C'est chic de votre part DeathSpank, mais vous allez avoir besoin de ça d'abord.</Original>
     <Translation></Translation>
   </block>
   <block ID="3495">
     <ItemID>16600</ItemID>
     <ItemType>13</ItemType>
-    <Original>Partez maintenant et réparez ces tours.</Original>
+    <Original>Maintenant, partez et réparez ces émetteurs.</Original>
     <Translation></Translation>
   </block>
   <block ID="3496">
@@ -21045,7 +21045,7 @@
   <block ID="3507">
     <ItemID>16612</ItemID>
     <ItemType>13</ItemType>
-    <Original>Qu'est-ce que ce bleu billy ?+</Original>
+    <Original>C'est quoi cette Belle Bleue ?+</Original>
     <Translation></Translation>
   </block>
   <block ID="3508">
@@ -21099,7 +21099,7 @@
   <block ID="3516">
     <ItemID>16621</ItemID>
     <ItemType>13</ItemType>
-    <Original>Bam ! Trois photos ravageusement incroyable !</Original>
+    <Original>Et Bam ! Trois photos ravageusement incroyable !</Original>
     <Translation></Translation>
   </block>
   <block ID="3517">
@@ -21111,13 +21111,13 @@
   <block ID="3518">
     <ItemID>16623</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ca ne serait pas votre pouce ?+</Original>
+    <Original>Ca ne serait pas votre pouce ça ?+</Original>
     <Translation></Translation>
   </block>
   <block ID="3519">
     <ItemID>16624</ItemID>
     <ItemType>13</ItemType>
-    <Original>Et celle-l&#224; est compl&#232;tement noir.+</Original>
+    <Original>Et celle-l&#224; est compl&#232;tement noire.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3520">
@@ -21147,13 +21147,13 @@
   <block ID="3524">
     <ItemID>16629</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai encore besoin de collecter les tubes cathodique dont vous avez besoin.</Original>
+    <Original>J'ai encore besoin de collecter les ampoules dont vous avez besoin.</Original>
     <Translation></Translation>
   </block>
   <block ID="3525">
     <ItemID>16630</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je n'ai pas encore réparé tous vos tours.</Original>
+    <Original>Je n'ai pas encore réparé tous vos émetteurs.</Original>
     <Translation></Translation>
   </block>
   <block ID="3526">
@@ -21177,7 +21177,7 @@
   <block ID="3529">
     <ItemID>16634</ItemID>
     <ItemType>13</ItemType>
-    <Original>Qu'est-ce que vous pouvez me dire sur Générosité ?</Original>
+    <Original>Qu'est-ce que vous pouvez me dire sur la Générosité ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3530">
@@ -21207,7 +21207,7 @@
   <block ID="3534">
     <ItemID>16639</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai endendu dire que le Général a un plan secret. Le mieux est de lui en parler.</Original>
+    <Original>J'ai endendu dire que le Général &#224; un plan secret l&#224;-dessus. Le mieux est de lui en parler.</Original>
     <Translation></Translation>
   </block>
   <block ID="3535">
@@ -21369,7 +21369,7 @@
   <block ID="3561">
     <ItemID>16667</ItemID>
     <ItemType>13</ItemType>
-    <Original>Qu'est-ce que vous pouvez me dire sur Générosité ?</Original>
+    <Original>Qu'est-ce que vous pouvez me dire sur la Générosité ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3562">
@@ -21393,13 +21393,13 @@
   <block ID="3565">
     <ItemID>16671</ItemID>
     <ItemType>13</ItemType>
-    <Original>D'accord.</Original>
+    <Original>D'acccooord.</Original>
     <Translation></Translation>
   </block>
   <block ID="3566">
     <ItemID>16672</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mon ami, le sanctuaire au nord guérit tout soldat blessé ou malade.+</Original>
+    <Original>Mon ami, le sanctuaire au nord guérit tout soldats blessés ou malades.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3567">
@@ -21423,7 +21423,7 @@
   <block ID="3570">
     <ItemID>16676</ItemID>
     <ItemType>13</ItemType>
-    <Original>Coucou. Coucou.</Original>
+    <Original>Ouh-ou. Ouh-ou.</Original>
     <Translation></Translation>
   </block>
   <block ID="3571">
@@ -21447,7 +21447,7 @@
   <block ID="3574">
     <ItemID>16680</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous avez un probl&#232;me avec moi ayant machin au propriétés humaine ?</Original>
+    <Original>Vous avez un probl&#232;me avec moi ou avec tout les machins aux propriétés humaine ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3575">
@@ -21471,13 +21471,13 @@
   <block ID="3578">
     <ItemID>16684</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je vais garder un oeil sur.</Original>
+    <Original>Je vais garder un oeil ouvert.</Original>
     <Translation></Translation>
   </block>
   <block ID="3579">
     <ItemID>16685</ItemID>
     <ItemType>13</ItemType>
-    <Original>Bonjour, Madame la Parlure Châtié.</Original>
+    <Original>Bonjour, Madame Puit Parlant.</Original>
     <Translation></Translation>
   </block>
   <block ID="3580">
@@ -21489,7 +21489,7 @@
   <block ID="3581">
     <ItemID>16687</ItemID>
     <ItemType>13</ItemType>
-    <Original>Faites un effort,, j'ai faim.</Original>
+    <Original>Faites un effort, j'ai faim.</Original>
     <Translation></Translation>
   </block>
   <block ID="3582">
@@ -21561,7 +21561,7 @@
   <block ID="3593">
     <ItemID>16715</ItemID>
     <ItemType>13</ItemType>
-    <Original>Veuillez indiquer la nature de l'urgence, citoyen.</Original>
+    <Original>Veuillez indiquer la nature de votre urgence, citoyen.</Original>
     <Translation></Translation>
   </block>
   <block ID="3594">
@@ -21645,7 +21645,7 @@
   <block ID="3607">
     <ItemID>16729</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ca a besoin d'un...</Original>
+    <Original>Elle est composée d'un...</Original>
     <Translation></Translation>
   </block>
   <block ID="3608">
@@ -21771,7 +21771,7 @@
   <block ID="3628">
     <ItemID>16750</ItemID>
     <ItemType>13</ItemType>
-    <Original>Revenez si vous avez n'importe quelle serrure étrange a ouvrir !</Original>
+    <Original>Revenez si vous avez n'importe quelle serrure étrange &#224; ouvrir !</Original>
     <Translation></Translation>
   </block>
   <block ID="3629">
@@ -21891,7 +21891,7 @@
   <block ID="3648">
     <ItemID>16774</ItemID>
     <ItemType>13</ItemType>
-    <Original>Voyons voir... Quest-ce que je dois faire ?+</Original>
+    <Original>Voyons voir... Quest-ce que je dois faire, déj&#224; ?+</Original>
     <Translation></Translation>
   </block>
   <block ID="3649">
@@ -21927,13 +21927,13 @@
   <block ID="3654">
     <ItemID>16784</ItemID>
     <ItemType>13</ItemType>
-    <Original>Tuut tuut !</Original>
+    <Original>Tuut tuut ! Chou chou !</Original>
     <Translation></Translation>
   </block>
   <block ID="3655">
     <ItemID>16785</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le probl&#232;me est que nous ne savons pas o&#249; il est et personne n'est pr&#234;t &#224; aller chercher.</Original>
+    <Original>Le probl&#232;me est que nous ne savons pas o&#249; elle est et personne n'est pr&#234;t &#224; aller la chercher.</Original>
     <Translation></Translation>
   </block>
   <block ID="3656">
@@ -21975,7 +21975,7 @@
   <block ID="3662">
     <ItemID>16792</ItemID>
     <ItemType>13</ItemType>
-    <Original>L'argent est toujours bien venu.</Original>
+    <Original>Un peu d'argent est toujours bien venu.</Original>
     <Translation></Translation>
   </block>
   <block ID="3663">
@@ -22125,13 +22125,13 @@
   <block ID="3687">
     <ItemID>17083</ItemID>
     <ItemType>13</ItemType>
-    <Original>Salutations, compatriotes défenseurs de la justice .</Original>
+    <Original>Salutations, compatriotes défenseurs de la justice.</Original>
     <Translation></Translation>
   </block>
   <block ID="3688">
     <ItemID>17084</ItemID>
     <ItemType>13</ItemType>
-    <Original>Salut, je suis l'assistant personnelle du Général.+</Original>
+    <Original>Salut, je suis l'assistant personnel du Général.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3689">
@@ -22197,7 +22197,7 @@
   <block ID="3699">
     <ItemID>17096</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous aavez o&#249; je pourrais en trouver ?</Original>
+    <Original>Vous savez o&#249; je pourrais en trouver ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3700">
@@ -22233,13 +22233,13 @@
   <block ID="3705">
     <ItemID>17102</ItemID>
     <ItemType>13</ItemType>
-    <Original>Gardez les yeux ouverts &#224; l’aff&#251;t de tout ce qui traine.+</Original>
+    <Original>Gardez les yeux ouverts &#224; l'aff&#251;t de tout ce qui traine.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3706">
     <ItemID>17103</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ou alors tuez ces saletés de robots pour ramasser ce qu'il en reste .</Original>
+    <Original>Ou alors tuez ces saletés de robots pour ramasser ce qu'il en reste.</Original>
     <Translation></Translation>
   </block>
   <block ID="3707">
@@ -22287,7 +22287,7 @@
   <block ID="3714">
     <ItemID>17128</ItemID>
     <ItemType>13</ItemType>
-    <Original>Pourquoi on en aurait besoin ?</Original>
+    <Original>Pourquoi en avez-vous besoin ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3715">
@@ -22629,7 +22629,7 @@
   <block ID="3771">
     <ItemID>17210</ItemID>
     <ItemType>13</ItemType>
-    <Original>Eh bien, mon coeur.</Original>
+    <Original>Je suis pr&#234;te, mon mignon.</Original>
     <Translation></Translation>
   </block>
   <block ID="3772">
@@ -22803,7 +22803,7 @@
   <block ID="3800">
     <ItemID>17296</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ooh ! J'adore celui-l&#224; !</Original>
+    <Original>Ooh ! J'adore celle-l&#224; !</Original>
     <Translation></Translation>
   </block>
   <block ID="3801">
@@ -22821,7 +22821,7 @@
   <block ID="3803">
     <ItemID>17299</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ooh ! Joli travail !</Original>
+    <Original>Ooh ! Tr&#232;s bon go&#251;t !</Original>
     <Translation></Translation>
   </block>
   <block ID="3804">
@@ -23331,7 +23331,7 @@
   <block ID="3888">
     <ItemID>17654</ItemID>
     <ItemType>13</ItemType>
-    <Original>Aucun Orc ne traite DeathSpank d'hirsute !</Original>
+    <Original>Aucun Orc ne traite DeathSpank de débraillé !</Original>
     <Translation></Translation>
   </block>
   <block ID="3889">
@@ -23355,7 +23355,7 @@
   <block ID="3892">
     <ItemID>17658</ItemID>
     <ItemType>13</ItemType>
-    <Original>Dites-moi.</Original>
+    <Original>Raconte moi un truc.</Original>
     <Translation></Translation>
   </block>
   <block ID="3893">
@@ -23379,19 +23379,19 @@
   <block ID="3896">
     <ItemID>17662</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je ne peux pas y aller, j'ai trop mangé de gnome.+</Original>
+    <Original>J'y arrive pas, j'ai trop mangé de gnome.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3897">
     <ItemID>17663</ItemID>
     <ItemType>13</ItemType>
-    <Original>Dites quelque chose pour m'aider &#224; me détendre.</Original>
+    <Original>Raconte moi un truc pour m'aider &#224; me détendre.</Original>
     <Translation></Translation>
   </block>
   <block ID="3898">
     <ItemID>17664</ItemID>
     <ItemType>13</ItemType>
-    <Original>Eh bien, notre mot de passe est assez relaxant.</Original>
+    <Original>Eh bien, notre mot de passe est plutôt relaxant.</Original>
     <Translation></Translation>
   </block>
   <block ID="3899">
@@ -23403,7 +23403,7 @@
   <block ID="3900">
     <ItemID>17669</ItemID>
     <ItemType>13</ItemType>
-    <Original>Blast it though! Fixing these tubes eats into valuable newsman time.+</Original>
+    <Original>Et voil&#224; ! Réparez ces ampoules n'est rien pour un jounaliste.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3901">
@@ -23475,7 +23475,7 @@
   <block ID="3912">
     <ItemID>17681</ItemID>
     <ItemType>13</ItemType>
-    <Original>Il y a des description réaliste de violence et / ou &#224; des situations d'adultes?</Original>
+    <Original>Il y a des descriptions réaliste de violence et / ou &#224; des situations d'adultes?</Original>
     <Translation></Translation>
   </block>
   <block ID="3913">
@@ -23529,7 +23529,7 @@
   <block ID="3921">
     <ItemID>17690</ItemID>
     <ItemType>13</ItemType>
-    <Original>Une violence disproportionnée est la réponse !</Original>
+    <Original>Une violence disproportionnée est la solution !</Original>
     <Translation></Translation>
   </block>
   <block ID="3922">
@@ -23541,7 +23541,7 @@
   <block ID="3923">
     <ItemID>17692</ItemID>
     <ItemType>13</ItemType>
-    <Original>Un go&#251;ter est la réponse !</Original>
+    <Original>Un go&#251;ter est la solution !</Original>
     <Translation></Translation>
   </block>
   <block ID="3924">
@@ -23553,19 +23553,19 @@
   <block ID="3925">
     <ItemID>17694</ItemID>
     <ItemType>13</ItemType>
-    <Original>Bon. Je pourrais m'habiller comme une dame orc et le distraire avec mon regard "t'en veux mon cochon".</Original>
+    <Original>Bien s&#251;r ! Je pourrais m'habiller comme une dame orc et le distraire avec mon regard "t'en veux mon cochon".</Original>
     <Translation></Translation>
   </block>
   <block ID="3926">
     <ItemID>17695</ItemID>
     <ItemType>13</ItemType>
-    <Original>Qu'elle pensée terrifiante. Utilisez un déguisement simple, DeathSpank.</Original>
+    <Original>Qu'elle pensée terrifiante. Utilisez un simple déguisement, DeathSpank.</Original>
     <Translation></Translation>
   </block>
   <block ID="3927">
     <ItemID>17696</ItemID>
     <ItemType>13</ItemType>
-    <Original>Bon. Je vais me faire passer pour un soldat orc maniéré et précieux et passer inaperçu.</Original>
+    <Original>Bien. Je vais me faire passer pour un soldat orc maniéré et précieux et passer inaperçu.</Original>
     <Translation></Translation>
   </block>
   <block ID="3928">
@@ -23631,7 +23631,7 @@
   <block ID="3938">
     <ItemID>17707</ItemID>
     <ItemType>13</ItemType>
-    <Original>Non, je veux que vous les portiez !</Original>
+    <Original>Non, je veux que vous portiez leurs v&#234;tements !</Original>
     <Translation></Translation>
   </block>
   <block ID="3939">
@@ -23667,7 +23667,7 @@
   <block ID="3944">
     <ItemID>17713</ItemID>
     <ItemType>13</ItemType>
-    <Original>C'est pas un téléphone qu'on entend? Je devrais aller répondre.</Original>
+    <Original>C'est pas un téléphone qu'on entend ? Je devrais aller répondre.</Original>
     <Translation></Translation>
   </block>
   <block ID="3945">
@@ -23679,7 +23679,7 @@
   <block ID="3946">
     <ItemID>17715</ItemID>
     <ItemType>13</ItemType>
-    <Original>Zzzz..... Zzzz..... *snork*... Zzzz...</Original>
+    <Original>Zzzz..... Zzzz..... *sniff*... Zzzz...</Original>
     <Translation></Translation>
   </block>
   <block ID="3947">
@@ -23733,43 +23733,43 @@
   <block ID="3955">
     <ItemID>17724</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ah, DeathSpank, mon vieux. Timing impeccable.+</Original>
+    <Original>Ah, DeathSpank, mon vieux. Quel timing impeccable.+</Original>
     <Translation></Translation>
   </block>
   <block ID="3956">
     <ItemID>17725</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'imagine que vous avez été mis au courant de notre derni&#232;re tentative d'évasion ?</Original>
+    <Original>J'imagine que vous avez été mis au courant de notre prochaine tentative d'évasion ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3957">
     <ItemID>17726</ItemID>
     <ItemType>13</ItemType>
-    <Original>Celui o&#249; je baisse le pont-levis et obtient un cookie ?</Original>
+    <Original>Celle o&#249; je baisse le pont-levis et obtient un cookie ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3958">
     <ItemID>17727</ItemID>
     <ItemType>13</ItemType>
-    <Original>Celui o&#249; nous creusons une série complexe de tunnels avec nos dents ?</Original>
+    <Original>Celle o&#249; nous creusons une série complexe de tunnels avec nos dents ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3959">
     <ItemID>17728</ItemID>
     <ItemType>13</ItemType>
-    <Original>Celui o&#249; nous fabriquons des armes avec des savonnettes et de la cire &#224; chaussure ?</Original>
+    <Original>Celle o&#249; nous fabriquons des armes avec des savonnettes et de la cire &#224; chaussure ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3960">
     <ItemID>17729</ItemID>
     <ItemType>13</ItemType>
-    <Original>Celui o&#249; nous construisons une catapulte avec des cuill&#232;res en plastique et du ruban adhésif ?</Original>
+    <Original>Celle o&#249; nous construisons une catapulte avec des cuill&#232;res en plastique et du ruban adhésif ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3961">
     <ItemID>17730</ItemID>
     <ItemType>13</ItemType>
-    <Original>Celui o&#249; l'on maîtrise les gardes avec nos puissantes capacités psychiques ?</Original>
+    <Original>Celle o&#249; l'on maîtrise les gardes avec nos puissantes capacités psychiques ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3962">
@@ -23865,7 +23865,7 @@
   <block ID="3977">
     <ItemID>17747</ItemID>
     <ItemType>13</ItemType>
-    <Original>Egads, comment vont-ils savoir si leur céréale contiennent des riboflavine ?</Original>
+    <Original>Bon sang ! et comment font-ils pour savoir si leur céréale contiennent des riboflavine ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3978">
@@ -23889,37 +23889,37 @@
   <block ID="3981">
     <ItemID>17751</ItemID>
     <ItemType>13</ItemType>
-    <Original>Voil&#224; pourquoi vous allez créer vos papiers... pour éviter les probl&#232;mes de ce genre.</Original>
+    <Original>Voil&#224; pourquoi vous allez créer votre propre laisez-passer... pour éviter les probl&#232;mes de ce genre.</Original>
     <Translation></Translation>
   </block>
   <block ID="3982">
     <ItemID>17752</ItemID>
     <ItemType>13</ItemType>
-    <Original>DeathSpank, mon vieux, nous comptons sur vous.</Original>
+    <Original>DeathSpank, vieille branche, nous comptons sur vous.</Original>
     <Translation></Translation>
   </block>
   <block ID="3983">
     <ItemID>17753</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je suis encore en train de falsifier ces papiers d'identification.</Original>
+    <Original>Je suis encore en train de falsifier ce laissez-passer.</Original>
     <Translation></Translation>
   </block>
   <block ID="3984">
     <ItemID>17754</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous avez la moindre idée de la mani&#232;re dont je peux m'y prendre pour me faire une carte d'identité ?</Original>
+    <Original>Vous avez la moindre idée pour me faire une carte d'identité ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3985">
     <ItemID>17755</ItemID>
     <ItemType>13</ItemType>
-    <Original>Comment vous avez dit dit que je pourrais me créer une fausse identité ?+</Original>
+    <Original>Comment vous avez dit dit que je pourrais me créer un faux laissez-passer ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3986">
     <ItemID>17756</ItemID>
     <ItemType>13</ItemType>
-    <Original>Pourquoi vous continuez de m'appeler vieux ?</Original>
+    <Original>Pourquoi vous m'appelez tout le temps, mon vieux ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3987">
@@ -23943,7 +23943,7 @@
   <block ID="3990">
     <ItemID>17760</ItemID>
     <ItemType>13</ItemType>
-    <Original>Comment vous y prendriez-vous ?</Original>
+    <Original>Comment feriez-vous ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3991">
@@ -23961,19 +23961,19 @@
   <block ID="3993">
     <ItemID>17763</ItemID>
     <ItemType>13</ItemType>
-    <Original>Par Jupiter, je pense qu'il l'a eu !</Original>
+    <Original>Par Jupiter, je que vous &#234;tes sur la bonne voie !</Original>
     <Translation></Translation>
   </block>
   <block ID="3994">
     <ItemID>17764</ItemID>
     <ItemType>13</ItemType>
-    <Original>Et puis, je pourrai faire un groupe de dinosaures faire des tirs laser sur un hélicopt&#232;re.</Original>
+    <Original>Et puis, je pourrai dessiner un groupe de dinosaures faisant des tirs laser sur un hélicopt&#232;re.</Original>
     <Translation></Translation>
   </block>
   <block ID="3995">
     <ItemID>17765</ItemID>
     <ItemType>13</ItemType>
-    <Original>Peut-&#234;tre pas.</Original>
+    <Original>Faudrait p eut-&#234;tre pas.</Original>
     <Translation></Translation>
   </block>
   <block ID="3996">
@@ -23985,19 +23985,19 @@
   <block ID="3997">
     <ItemID>17767</ItemID>
     <ItemType>13</ItemType>
-    <Original>Elle n'a pas besoin d'&#234;tre parfaite, DeathSpank, mais évitez de dessiner des dinosaures en train de tirer des lasers.</Original>
+    <Original>Il n'a pas besoin d'&#234;tre parfait, DeathSpank, mais évitez de dessiner des dinosaures en train de tirer des lasers.</Original>
     <Translation></Translation>
   </block>
   <block ID="3998">
     <ItemID>17768</ItemID>
     <ItemType>13</ItemType>
-    <Original>Dois-je ?</Original>
+    <Original>J'ai fait ça ?</Original>
     <Translation></Translation>
   </block>
   <block ID="3999">
     <ItemID>17769</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vieux camarade. Mon vieux. vieux camarade.</Original>
+    <Original>Vieux camarade. Mon vieux. Vieille branche.</Original>
     <Translation></Translation>
   </block>
   <block ID="4000">
@@ -24015,13 +24015,13 @@
   <block ID="4002">
     <ItemID>17772</ItemID>
     <ItemType>13</ItemType>
-    <Original>Qu'est-ce qu'il en reste, de toute façon.</Original>
+    <Original>Pour ce qu'il en reste, du moins.</Original>
     <Translation></Translation>
   </block>
   <block ID="4003">
     <ItemID>17773</ItemID>
     <ItemType>13</ItemType>
-    <Original>Bonne chance, mon vieux.</Original>
+    <Original>Bonne chance, vieux camarade.</Original>
     <Translation></Translation>
   </block>
   <block ID="4004">
@@ -24135,7 +24135,7 @@
   <block ID="4022">
     <ItemID>17792</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mot de... passe ?</Original>
+    <Original>Le mot... de passe ?</Original>
     <Translation></Translation>
   </block>
   <block ID="4023">
@@ -24207,7 +24207,7 @@
   <block ID="4034">
     <ItemID>17804</ItemID>
     <ItemType>13</ItemType>
-    <Original>La seule chose révoltante ici, c'est votre figure.+</Original>
+    <Original>La seule chose révoltante ici, c'est votre trogne.+</Original>
     <Translation></Translation>
   </block>
   <block ID="4035">
@@ -24327,7 +24327,7 @@
   <block ID="4054">
     <ItemID>17824</ItemID>
     <ItemType>13</ItemType>
-    <Original>C'est invraisemblable.+</Original>
+    <Original>C'est peu vraisemblable.+</Original>
     <Translation></Translation>
   </block>
   <block ID="4055">
@@ -24393,13 +24393,13 @@
   <block ID="4065">
     <ItemID>17835</ItemID>
     <ItemType>13</ItemType>
-    <Original>J'ai besoin d'entraînement, DeathSpank. Vous venez de m'inviter au bal.</Original>
+    <Original>Vous avez besoin d'entraînement, DeathSpank. Vous venez de m'inviter au bal.</Original>
     <Translation></Translation>
   </block>
   <block ID="4066">
     <ItemID>17836</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mais je n'ai pas entendu de "non".</Original>
+    <Original>Peut-&#234;te mais je n'ai pas entendu de "non merci".</Original>
     <Translation></Translation>
   </block>
   <block ID="4067">
@@ -24417,7 +24417,7 @@
   <block ID="4069">
     <ItemID>17839</ItemID>
     <ItemType>13</ItemType>
-    <Original>Pas de PDG.</Original>
+    <Original>Arri&#232;re ! Prisonnier de Guerre.</Original>
     <Translation></Translation>
   </block>
   <block ID="4070">
@@ -24435,7 +24435,7 @@
   <block ID="4072">
     <ItemID>17842</ItemID>
     <ItemType>13</ItemType>
-    <Original>Dép&#234;chez-vous ! Votre femme vient se mettre au travail ! Allez-y !</Original>
+    <Original>Dép&#234;chez-vous ! Votre femme vient d'avoir un accident du travail ! Foncez !</Original>
     <Translation></Translation>
   </block>
   <block ID="4073">
@@ -24453,13 +24453,13 @@
   <block ID="4075">
     <ItemID>17845</ItemID>
     <ItemType>13</ItemType>
-    <Original>On dirait que vous avez deux yeux sur moi.</Original>
+    <Original>On dirait que vous avez bien deux yeux sur moi.</Original>
     <Translation></Translation>
   </block>
   <block ID="4076">
     <ItemID>17846</ItemID>
     <ItemType>13</ItemType>
-    <Original>Eh bien, c'était celui de secours. Vous pouvez jamais &#234;tre trop préparé.</Original>
+    <Original>Eh bien, c'était celui de secours. On est jamais trop prudent.</Original>
     <Translation></Translation>
   </block>
   <block ID="4077">
@@ -24507,7 +24507,7 @@
   <block ID="4084">
     <ItemID>17854</ItemID>
     <ItemType>13</ItemType>
-    <Original>Maintenant, reculez ou je vous cogne.</Original>
+    <Original>Maintenant, reculez ou je vais vous faire mal.</Original>
     <Translation></Translation>
   </block>
   <block ID="4085">
@@ -24543,13 +24543,13 @@
   <block ID="4090">
     <ItemID>17860</ItemID>
     <ItemType>13</ItemType>
-    <Original>Montrez-moi vos papiers d'identité.</Original>
+    <Original>Montrez-moi votre laissez-passer.</Original>
     <Translation></Translation>
   </block>
   <block ID="4091">
     <ItemID>17861</ItemID>
     <ItemType>13</ItemType>
-    <Original>Bien s&#251;r, mon bon monsieur. Je les ai ici.</Original>
+    <Original>Bien s&#251;r, mon bon monsieur. Il est ici.</Original>
     <Translation></Translation>
   </block>
   <block ID="4092">
@@ -24561,7 +24561,7 @@
   <block ID="4093">
     <ItemID>17863</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je crois que je les ai laissés dans mon autre pantalon.</Original>
+    <Original>Je crois que je l'ai laissé dans mon autre pantalon.</Original>
     <Translation></Translation>
   </block>
   <block ID="4094">
@@ -24609,7 +24609,7 @@
   <block ID="4101">
     <ItemID>17871</ItemID>
     <ItemType>13</ItemType>
-    <Original>Si vous avez un peu de mal pour la lire, je pourrais...</Original>
+    <Original>Si vous avez un peu de mal pour le lire, je pourrais...</Original>
     <Translation></Translation>
   </block>
   <block ID="4102">
@@ -24657,7 +24657,7 @@
   <block ID="4109">
     <ItemID>17879</ItemID>
     <ItemType>13</ItemType>
-    <Original>Nous pouvons peut-&#234;tre prendre cette place plus tard ?</Original>
+    <Original>Nous pouvons peut-&#234;tre prendre cet endroit plus tard ?</Original>
     <Translation></Translation>
   </block>
   <block ID="4110">
@@ -25095,7 +25095,7 @@
   <block ID="4182">
     <ItemID>17953</ItemID>
     <ItemType>13</ItemType>
-    <Original>Zing !</Original>
+    <Original>Et bim !</Original>
     <Translation></Translation>
   </block>
   <block ID="4183">
@@ -25497,7 +25497,7 @@
   <block ID="4249">
     <ItemID>18021</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je n'ai rien pour utiliser avec.</Original>
+    <Original>Je n'ai rien pour l'utiliser.</Original>
     <Translation></Translation>
   </block>
   <block ID="4250">
@@ -25515,7 +25515,7 @@
   <block ID="4252">
     <ItemID>18024</ItemID>
     <ItemType>13</ItemType>
-    <Original>Forgée dans les Feux Antique de Bacon, un maître artisan a créé six symboles de la vertu et les donna aux plus purs des &#234;tres humains.</Original>
+    <Original>Forgeant dans les Feux Antique de Bacon, un maître artisan a créé six symboles de la vertu et les donna aux plus purs des &#234;tres humains.</Original>
     <Translation></Translation>
   </block>
   <block ID="4253">
@@ -25533,7 +25533,7 @@
   <block ID="4255">
     <ItemID>18027</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le String de Compassion fut donné &#224; une nonne dévouée, afin que nous puissions tous en prendre soin.</Original>
+    <Original>Le String de Compassion fut donné &#224; une nonne dévouée, afin qu'elle puisse prendre soin de nous tous.</Original>
     <Translation></Translation>
   </block>
   <block ID="4256">
@@ -25551,7 +25551,7 @@
   <block ID="4258">
     <ItemID>18030</ItemID>
     <ItemType>13</ItemType>
-    <Original>Le String de Popote a été donné &#224; un cél&#232;bre Chef médiatique.</Original>
+    <Original>Le String de Cuisine a été donné &#224; un cél&#232;bre Chef médiatique.</Original>
     <Translation></Translation>
   </block>
   <block ID="4259">
