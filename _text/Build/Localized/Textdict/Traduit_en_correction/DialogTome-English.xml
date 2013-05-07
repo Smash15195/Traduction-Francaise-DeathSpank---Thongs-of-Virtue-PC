@@ -1089,7 +1089,7 @@
   <block ID="181">
     <ItemID>11891</ItemID>
     <ItemType>13</ItemType>
-    <Original>Base lunaire secr&#232;te groovy, Sandy.</Original>
+    <Original>C'est une base lunaire secr&#232;te groovy, Sandy.</Original>
     <Translation></Translation>
   </block>
   <block ID="182">
@@ -1125,7 +1125,7 @@
   <block ID="187">
     <ItemID>11897</ItemID>
     <ItemType>13</ItemType>
-    <Original>Alors, quoi neuf au programme ?</Original>
+    <Original>Alors, c'est quoi la suite du programme ?</Original>
     <Translation></Translation>
   </block>
   <block ID="188">
@@ -1203,7 +1203,7 @@
   <block ID="200">
     <ItemID>11911</ItemID>
     <ItemType>13</ItemType>
-    <Original>Ou du moins toute la partie ma vie que je me souviens.+</Original>
+    <Original>Ou du moins toute la partie ma vie dont je me souviens.+</Original>
     <Translation></Translation>
   </block>
   <block ID="201">
@@ -1227,7 +1227,7 @@
   <block ID="204">
     <ItemID>11915</ItemID>
     <ItemType>13</ItemType>
-    <Original>Un objet que j'ai utilisé pour vous manipuler en m'aider &#224; atteindre mon objectif. +</Original>
+    <Original>Un objet que j'ai utilisé pour vous manipuler et atteindre mon objectif. +</Original>
     <Translation></Translation>
   </block>
   <block ID="205">
@@ -1239,7 +1239,7 @@
   <block ID="206">
     <ItemID>11917</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je l'ai eu pour deux dollars &#224; un vide grenier.</Original>
+    <Original>Je les ai eus pour deux dollars &#224; un vide grenier.</Original>
     <Translation></Translation>
   </block>
   <block ID="207">
@@ -1251,13 +1251,13 @@
   <block ID="208">
     <ItemID>11919</ItemID>
     <ItemType>13</ItemType>
-    <Original>Il ne m'en reste plus qu'un String &#224; obtenir.</Original>
+    <Original>Il ne me reste plus qu'un String &#224; obtenir.</Original>
     <Translation></Translation>
   </block>
   <block ID="209">
     <ItemID>11920</ItemID>
     <ItemType>13</ItemType>
-    <Original>Tr&#232;s bien !</Original>
+    <Original>Ah tr&#232;s bien !</Original>
     <Translation></Translation>
   </block>
   <block ID="210">
@@ -1383,7 +1383,7 @@
   <block ID="230">
     <ItemID>11942</ItemID>
     <ItemType>13</ItemType>
-    <Original>En détournant les boucliers des déflecteurs arri&#232;re ?</Original>
+    <Original>En détournant les boucliers des déflecteurs arri&#232;res ?</Original>
     <Translation></Translation>
   </block>
   <block ID="231">
@@ -1443,7 +1443,7 @@
   <block ID="240">
     <ItemID>11952</ItemID>
     <ItemType>13</ItemType>
-    <Original>Mon String est parfait l&#224; o&#249; il est, merci bien.</Original>
+    <Original>Mon String est bien l&#224; o&#249; il est, merci bien.</Original>
     <Translation></Translation>
   </block>
   <block ID="241">
@@ -1485,7 +1485,7 @@
   <block ID="247">
     <ItemID>11959</ItemID>
     <ItemType>13</ItemType>
-    <Original>Bien. J'imagine que vous pouvez avoir le String.</Original>
+    <Original>Bon. J'imagine que vous pouvez avoir c e String.</Original>
     <Translation></Translation>
   </block>
   <block ID="248">
@@ -1515,25 +1515,25 @@
   <block ID="252">
     <ItemID>11964</ItemID>
     <ItemType>13</ItemType>
-    <Original>A cessé d'&#234;tre ?</Original>
+    <Original>Je dois trépasser ?</Original>
     <Translation></Translation>
   </block>
   <block ID="253">
     <ItemID>11965</ItemID>
     <ItemType>13</ItemType>
-    <Original>Privé de vie ?</Original>
+    <Original>&#202;tre privé de vie ?</Original>
     <Translation></Translation>
   </block>
   <block ID="254">
     <ItemID>11966</ItemID>
     <ItemType>13</ItemType>
-    <Original>La nostalgie des fjords ?</Original>
+    <Original>J'ai la nostalgie des fjords ?</Original>
     <Translation></Translation>
   </block>
   <block ID="255">
     <ItemID>11967</ItemID>
     <ItemType>13</ItemType>
-    <Original>Faire tomber le rideau et rejoindre le choeur invisible ?</Original>
+    <Original>Faire tomber le rideau et rejoindre l'autre invisible ?</Original>
     <Translation></Translation>
   </block>
   <block ID="256">
@@ -1587,7 +1587,7 @@
   <block ID="264">
     <ItemID>11978</ItemID>
     <ItemType>13</ItemType>
-    <Original>Vous verrez qu'il n'y a pas d'autre moyen.</Original>
+    <Original>Vous verrez qu'il n'y a pas d'autre solution.</Original>
     <Translation></Translation>
   </block>
   <block ID="265">
@@ -11487,7 +11487,7 @@
   <block ID="1914">
     <ItemID>14805</ItemID>
     <ItemType>13</ItemType>
-    <Original>Salutations, rondouillard rubicond des F&#234;tes .</Original>
+    <Original>Salutations, rondouillard rubicond des F&#234;tes.</Original>
     <Translation></Translation>
   </block>
   <block ID="1915">
@@ -11535,7 +11535,7 @@
   <block ID="1922">
     <ItemID>14813</ItemID>
     <ItemType>13</ItemType>
-    <Original>Alors, quelle est, dans ce donjon sans issue de toute façon ?</Original>
+    <Original>Alors qu'est-ce qu'on trouve dans ce donjon sans issue ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1923">
@@ -11637,7 +11637,7 @@
   <block ID="1939">
     <ItemID>14830</ItemID>
     <ItemType>13</ItemType>
-    <Original>Personne ne fait la liste des Gentils ! Personne !</Original>
+    <Original>Personne ne peut &#234;tre sur la liste des Gentils ! Personne !</Original>
     <Translation></Translation>
   </block>
   <block ID="1940">
@@ -11673,19 +11673,19 @@
   <block ID="1945">
     <ItemID>14836</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je n'arrive pas &#224; vous dire &#224; qeul point je suis déçu.</Original>
+    <Original>Je n'arrive pas &#224; vous dire &#224; quel point je suis déçu.</Original>
     <Translation></Translation>
   </block>
   <block ID="1946">
     <ItemID>14837</ItemID>
     <ItemType>13</ItemType>
-    <Original>...mais je ne peux les jeter dans Le Donjon Sans Issue !</Original>
+    <Original>...mais je ne peux le jeter dans Le Donjon Sans Issue !</Original>
     <Translation></Translation>
   </block>
   <block ID="1947">
     <ItemID>14838</ItemID>
     <ItemType>13</ItemType>
-    <Original>N'est ce pas évident ?</Original>
+    <Original>N'est-ce pas évident ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1948">
@@ -11721,7 +11721,7 @@
   <block ID="1953">
     <ItemID>14844</ItemID>
     <ItemType>13</ItemType>
-    <Original>Oui, ça je le comprends bien, mais y a t-il une sortie ?</Original>
+    <Original>Oui, ça je le comprends bien, mais o&#249; est la sortie ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1954">
@@ -11781,7 +11781,7 @@
   <block ID="1963">
     <ItemID>14856</ItemID>
     <ItemType>13</ItemType>
-    <Original>Qu'est-ce que vous racontez ?</Original>
+    <Original>De quoi vous parlez ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1964">
@@ -11793,7 +11793,7 @@
   <block ID="1965">
     <ItemID>14858</ItemID>
     <ItemType>13</ItemType>
-    <Original>You've really put on the pounds.</Original>
+    <Original>Vous avez pris une sacrée surcharge pondérale.</Original>
     <Translation></Translation>
   </block>
   <block ID="1966">
@@ -11841,7 +11841,7 @@
   <block ID="1973">
     <ItemID>14866</ItemID>
     <ItemType>13</ItemType>
-    <Original>Il n'est plus aimé autant que ce qu'il l''était.+</Original>
+    <Original>Il n'est plus aimé autant que ce qu'il était.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1974">
@@ -11853,7 +11853,7 @@
   <block ID="1975">
     <ItemID>14868</ItemID>
     <ItemType>13</ItemType>
-    <Original>Les enfants attendaient toute l'année pour lui.+</Original>
+    <Original>Les enfants l'attendaient toute l'année.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1976">
@@ -11895,7 +11895,7 @@
   <block ID="1982">
     <ItemID>14875</ItemID>
     <ItemType>13</ItemType>
-    <Original>La saint Steve ?</Original>
+    <Original>La Saint Steve ?</Original>
     <Translation></Translation>
   </block>
   <block ID="1983">
@@ -11937,7 +11937,7 @@
   <block ID="1989">
     <ItemID>14882</ItemID>
     <ItemType>13</ItemType>
-    <Original>C'est la guerre dehors ! Je vais montrer au monde le véritable esprit de Noël !</Original>
+    <Original>C'est la guerre &#224; l'extérieur ! Je vais montrer au monde le véritable esprit de Noël !</Original>
     <Translation></Translation>
   </block>
   <block ID="1990">
@@ -11979,7 +11979,7 @@
   <block ID="1996">
     <ItemID>14889</ItemID>
     <ItemType>13</ItemType>
-    <Original>Sa puissance m'aide va m'aider &#224; restaurer le véritable esprit Noël.+</Original>
+    <Original>Sa puissance va m'aider &#224; restaurer le véritable esprit Noël.+</Original>
     <Translation></Translation>
   </block>
   <block ID="1997">
@@ -12051,7 +12051,7 @@
   <block ID="2008">
     <ItemID>14901</ItemID>
     <ItemType>13</ItemType>
-    <Original>Je connais la position de tout String... sauf un.</Original>
+    <Original>Je connais la position de tout les Strings... sauf un.</Original>
     <Translation></Translation>
   </block>
   <block ID="2009">
