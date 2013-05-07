@@ -5985,7 +5985,7 @@
   <block ID="997">
     <ItemID>31611</ItemID>
     <ItemType>13</ItemType>
-    <Original>Une boîte d'explosifs. Pour l'utiliser, placez-l&#224; délicatement sur &#8203;&#8203;le sol, et tirez-lui dessus.</Original>
+    <Original>Une boîte d'explosifs. Pour l'utiliser, placez-l&#224; délicatement sur le sol, et tirez-lui dessus.</Original>
     <Translation></Translation>
   </block>
   <block ID="998">
@@ -6201,7 +6201,7 @@
   <block ID="1033">
     <ItemID>31647</ItemID>
     <ItemType>13</ItemType>
-    <Original>Une clé pour le Coffre au Trésor sur l'île Squelette.</Original>
+    <Original>Clé pour le Coffre au Trésor sur l'île Squelette. Le titre est pas assez clair ?!?</Original>
     <Translation></Translation>
   </block>
   <block ID="1034">
@@ -15099,13 +15099,13 @@
   <block ID="2516">
     <ItemID>34918</ItemID>
     <ItemType>13</ItemType>
-    <Original>Qu&#234;tes principale accomplies:$2$1</Original>
+    <Original>Qu&#234;tes principale terminées:$2$1</Original>
     <Translation></Translation>
   </block>
   <block ID="2517">
     <ItemID>34919</ItemID>
     <ItemType>13</ItemType>
-    <Original>Qu&#234;tes secondaires terminées:$2$1</Original>
+    <Original>Qu&#234;tes inutiles terminées:$2$1</Original>
     <Translation></Translation>
   </block>
   <block ID="2518">
@@ -26019,13 +26019,13 @@
   <block ID="4336">
     <ItemID>37861</ItemID>
     <ItemType>13</ItemType>
-    <Original>Michael Anderson, Nels Anderson, Genieve Bertram</Original>
+    <Original>.</Original>
     <Translation></Translation>
   </block>
   <block ID="4337">
     <ItemID>37862</ItemID>
     <ItemType>13</ItemType>
-    <Original>Phil Bonnici</Original>
+    <Original>Michael Anderson&lt;BRR&gt;Nels Anderson&lt;BRR&gt;Genieve Bertram&lt;BRR&gt;Phil Bonnici</Original>
     <Translation></Translation>
   </block>
   <block ID="4338">
